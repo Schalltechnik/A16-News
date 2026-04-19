@@ -4,6 +4,7 @@ on:
   schedule:
     # Daily at 03:00 UTC = ~05:00 Graz
     - cron: "0 4 * * *"
+    - cron: "0 14 * * *"
   workflow_dispatch:
 
 jobs:
