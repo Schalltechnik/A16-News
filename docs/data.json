@@ -1,10 +1,164 @@
 {
-  "generated": "Noch nicht aktualisiert – bitte GitHub Action manuell starten",
+  "generated": "19. April 2026, 13:30 UTC",
   "categories": {
-    "strassenbau": { "label": "Straßenbau & Sanierung", "icon": "🛣️", "color": "#1a5c38", "summary": "Wird nach dem ersten Lauf angezeigt.", "items": [] },
-    "laermschutz": { "label": "Lärmschutz", "icon": "🔇", "color": "#c8102e", "summary": "Wird nach dem ersten Lauf angezeigt.", "items": [] },
-    "verkehrsplanung": { "label": "Verkehrsplanung & Mobilität", "icon": "🚦", "color": "#003399", "summary": "Wird nach dem ersten Lauf angezeigt.", "items": [] },
-    "landeshochbau": { "label": "Landeshochbau & Projekte", "icon": "🏛️", "color": "#5a5a5a", "summary": "Wird nach dem ersten Lauf angezeigt.", "items": [] },
-    "uvp_recht": { "label": "UVP & Rechtliches", "icon": "⚖️", "color": "#7b4f12", "summary": "Wird nach dem ersten Lauf angezeigt.", "items": [] }
+    "strassenbau": {
+      "label": "Straßenbau & Sanierung",
+      "icon": "🛣️",
+      "color": "#1a5c38",
+      "summary": "Die Steiermark verzeichnet bedeutende Fortschritte im Tunnelbau, mit dem erfolgreichen Durchstich in der Hilmteichstraße und dem Semmering-Basistunnel, der als Jahrhundertprojekt die Zielgerade erreicht. Gleichzeitig wird die bestehende Infrastruktur durch umfassende Sanierungen instandgehalten, wie die spektakuläre Reparatur einer Mur-Brücke beweist. Diese Projekte unterstreichen die kontinuierlichen Investitionen in moderne und sichere Straßenbau- und Brückeninfrastruktur in der Region.",
+      "items": [
+        {
+          "title": "„Durchstich“ in der Hilmteichstraße, die Bohrarbeiten sind beendet - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZG9LT193N0xYaWtEaVZwZjVqMkp2YmdFbm1BZHR2djZlYXBsNXBHTElXaE1YVTIwTHJ3Zlh6WDhSR0lvdEZOWVo3WWJTVmJobHZ3TzRfUEpzdkZYbERKSWRnd2tOVmlDdzJsRnVzaWpPeUpyUzBBazVTeVNfVjdmSV94dnZuWVZSWjh4NklhNktZb2VOSkJMdW5BVkg5TkktNkRzTWlCWXU5cjkwWUNmYlBaaTVzb0RtTFE?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "18. Apr 2026"
+        },
+        {
+          "title": "Semmering-Basis: Tunnelblick am Semmering: Nächstes Jahrhundertprojekt geht in die Zielgerade - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU0ZqMC02czlOYXBScXdCLXVDbXM2SnhJSjFNZGVxMzc2c0F4ZTVrVHJBcFRRU2txQW92aEl6Qi1LUHlHWUdCVW0yNGw4WjBwXzdia0tNekx3d1pDd283Nk9TLS16RExUa2NMUkF2YTJEclRfTXZyOFdLcWJCNkFMY3R1UTdjMDBBV0pnUlMxZ2FJbHdIQnhBWE1UTC1RLUw0amFXZ0l5cDBFWnBScFQwZ2xreE4?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "13. Apr 2026"
+        },
+        {
+          "title": "Spektakulär: Mur-Brücke wurde auf „Reparatur-Reise“ geschickt - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPckZUN20xUjl2RmlJd3YzdTIwcGxOTkVUemIwZHJ1N3lDSXdPMUs0QVJ4dmk1ak52WHRwa2JQLWhoa0IzUWxfWXYxUDZSbUNvbzRvemxhU2lmZVJNb3BQMzg3TmwyZE1KUkNQYWFRZGtNbURLOENBeHJzNXVWVElMR2hrdkViR21VRy1OaGZvM1JvdkFYdmxfNFVob21oSTZpdzV1Mll6b1ZXU2Rpa1BNb0toRURYaGVualJKOU84aw?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "13. Apr 2026"
+        },
+        {
+          "title": "Rekordzahl: Unglaubliche 23.198 Mal blitzte ein Radar 2025 in Liezen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYWZIZXhscnlXRF8tZXhZa0xKZjZpa01idUtkcUxLaFZSUlZOYTFYa3VvRVpmc0ZpQS12cnFSVmFnNmV5bzhIUzBVMGktdzl6YUdZcjh2RzlkcGk4NjVETmxsNlJkR2VEd0tuX2xyMF9fY1dORnJkcHBTUWxwX0syT0pMWFkwTV9MM3lVbzF6YnBtdzhhTDhHWVYwMjR5YlpXd2poQUZuQ0hBeUc4a1IxOFFB?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "14. Apr 2026"
+        }
+      ]
+    },
+    "laermschutz": {
+      "label": "Lärmschutz",
+      "icon": "🔇",
+      "color": "#c8102e",
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
+    },
+    "verkehrsplanung": {
+      "label": "Verkehrsplanung & Mobilität",
+      "icon": "🚦",
+      "color": "#003399",
+      "summary": "Die Steiermark positioniert sich als Vorreiter in der Mobilität der Zukunft, indem sie ab 2027 als Testregion für fahrerlose Busse etabliert wird. Gleichzeitig werden mit neuen Öffi-Tourenführern die Nutzung des öffentlichen Verkehrs für Freizeitaktivitäten gefördert und die Qualität der Infrastruktur, wie etwa in Premstätten, anerkannt. Trotz dieser Fortschritte bleiben Herausforderungen wie die hohe Motorisierung in der Südoststeiermark und ungelöste Verkehrsprobleme auf der A9 bestehen.",
+      "items": [
+        {
+          "title": "Autonome Busse ab 2027: Steiermark wird Vorreiter in Österreich - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLUl6aWdXOFRWT1lZMFpHVm5QQ2M4TEZUdFRreEtXUkI3X3l1cHBKNF81aDBWMXVRazJqM2xZQmFmOUVHY2JteWczRGdoV2JoT2tWOWZrbXFLbzZDUUUtLTJvWFAtcXhyZGRDRkJRX1JJU0hGMUhTbTg5T3lNaWlhSTljMTRVeWZpMnBiMkJOa1kxTERMWGJyMEI4eGo1YXVVLXFKVGR3dDhpVVRPdGc?oc=5",
+          "source": "5 Minuten",
+          "date": "16. Apr 2026"
+        },
+        {
+          "title": "Fahrerlose Busse ab 2027 in der Steiermark - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCR1lzZW15azgwS3lyRlFaMTYyMnhEXzdDdUFBZHQyekVsUThpYjJWVGcyWHlVdGQwSGUyTHFYbmRlQUZya05Gc0Z5OGl6OFVBMm1SSw?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "16. Apr 2026"
+        },
+        {
+          "title": "POW und Bahn zum Berg präsentieren neuen Öffi-Tourenführer für die Steiermark - OTS.at",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbVBZN3V0RFFsM09RM3ZyUTlWNXRPOUdzWU03cXRrLUxnOGljSnJxM0FNV3c2MV9QZGRBbzBobVlReEhoSURIdEFpZXFId2szNmJBc01YOEVRZXlrdWdQd01QRU1zRVJDT3RRWFYzaUxxeFcxZFJoaTUtRlZRcHNkMHdHYkJaS1lEOGo1WnhqU1c4WnBpYlFfQ0IzWlB3Sk5oU0F6NWVBUDZIaUxER3pTR2RhRmRnTlVJY0ZMTURqcGJ4WWJwYl9UVGFrUjI4eEhBUmVQMA?oc=5",
+          "source": "OTS.at",
+          "date": "16. Apr 2026"
+        },
+        {
+          "title": "Steiermark und Kärnten werden Testregionen für fahrerlose Busse - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ1hfV2RRLWZ2MUpMcTFGSWhTTnRybjJxZ2p6ZlRNcU5US0NwdTQtcGJTdng0eWtzdVhUR2ZJQldXbFMtTUUwYmR5RjhRc09UcXoyMk1yOUhVV2MyOWNwRXIyT0xhUTU4ekdlZ3lRTlFkbTVkQ2pxaUdfOWNxSWtHUWg1dTJOLWJtSl9IZXkxMkpMZFdQMVZ3YWlpTGd6dFM2OXVXd3B5aGc2aGlMb2RYMG1vNF9jNEEwVmdOZVlJNXBtdw?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "15. Apr 2026"
+        },
+        {
+          "title": "Sechste Ausgabe der Öffi-Tourenführer-Reihe für die Steiermark erschienen - Aviation.Direct",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR2hwOUMwcE1Zb3JTRFNMaGk4R2V5N3lNNks3MDNvaVhLYmhyUXNCekVnYWRkYmV5ajZRYWpBeGpkTmpZYnRacVBpT2x1WHNieW1FQWl2V014VW9BcHVEcGpGQnp0SU5Gc1Q5bzR4dVBzWDhfWnVTRFNvSUstZER3ZEFnU2M4YVl3QXhDaHF0YlBYbC1fRnRBQ3ZUbGFTQnZVTnc?oc=5",
+          "source": "Aviation.Direct",
+          "date": "16. Apr 2026"
+        },
+        {
+          "title": "Warum die Südoststeirer am liebsten motorisiert unterwegs sind - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYXMyNU1wRDJTbHlneFkwdi13cEVmaEpkMnBzRE1SLTljcl9TUjVocVA3MUQ3M2haMktjelJqOUVWeGVMdGN4UlFkM2llT0xiR2FJZThJU1V0SldPQS1fSDRVeGZDeFhVMVh5VWhOUmY0SXFIcnJZVmxNSmtmalZvMUJ2WGJLMC0xN1ZXN1FBcDJmLVg1bk1FQnhIblF3c1hvZ1BQTFRuaGdrVndiTVFfTHJqOHQwMkE4b2otSzl5TzZVUQ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "16. Apr 2026"
+        },
+        {
+          "title": "Beste Bushaltestelle Österreichs? Premstätten im Rennen - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbHplcVMzQzZER3RiWUFkZDVXUWZXX1pwNl9KZUtrYlpvQUl1MGZtQjJIa1JnMzVNbHVUTDhuSmstVmowNDloem5qbl8tbGJOMGNHSTBkSEhEbzFrdkVlWmhqeVV1Z2V0cUtCZ2dSc2ZvRnZWNWZpcVFNU3dPcUMtSUdfOEtROFdQWTRSWUdoekJkd0NnSnVVRmhudGtPV2hpUEdaMQ?oc=5",
+          "source": "5 Minuten",
+          "date": "16. Apr 2026"
+        },
+        {
+          "title": "Klimaökonom sieht A9-Problem nicht gelöst - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CZGVuR2ZENlNHenB2VVAyelVUNGdRZk13WmE1ZFhpQTB0SU94aV9QZU11S294UzFaTjRQMUtTZzkxWkxtUlBjYzQ0Xy04c004NS1MZA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "14. Apr 2026"
+        }
+      ]
+    },
+    "landeshochbau": {
+      "label": "Landeshochbau & Projekte",
+      "icon": "🏛️",
+      "color": "#5a5a5a",
+      "summary": "Die Steiermark ist aktuell von einer angespannten Haushaltslage geprägt, die zu Investitionsverschiebungen in Graz und Sparmaßnahmen des Landes führt, was sich unter anderem in Protesten gegen verschobene Schulbauprojekte und dem endgültigen Aus für das Leitspital in Stainach manifestiert. Trotz dieser Herausforderungen werden bedeutende Hochbauprojekte wie die Sanierung von Don Bosco und die Modernisierung der Chemielabore an der Landesberufsschule Graz 2 vorangetrieben. Ergänzend dazu erfolgen gezielte Infrastrukturinvestitionen, wie die Modernisierung der Gnaser Straße (L 211), um die regionale Anbindung zu verbessern.",
+      "items": [
+        {
+          "title": "Protest gegen verschobene Schulbau-Projekte - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMUZDbTd4Y3RFUEcweTRmQVd6ampPZ0NtenU0aXBKbmt2aG9BQm0zWEs1ME91dVk4bFlqeW1GN1U4dWxqanVTN0hwM2NXYXR1NWxwNjlIcElydWNieDVrRV9pVHRTS3VQVUhJREkyWTUxcmt2SVd3NVUtX3NKTzlWM2NVMmpwNVA5OGxzY0dn?oc=5",
+          "source": "ORF ON",
+          "date": "17. Apr 2026"
+        },
+        {
+          "title": "Ende der Hoffnungen: Leitspital-Grundstück in Stainach wird verkauft - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdUhrbjRHbkdSLTdmcm5UZm9wQVhxWHl5ODJhdWZrOUdBcTBGZFVoRS15NW1Xd3QxcXl0OXh0UzJQblBmTG5URGVuY2dOZ3pyeXlLamUxQk0tbkNncHVjdlZIbWs5M2RBSFdmQ3ZpWDBsaEt3Ti1lS0RBb2ZlTmRMMmEzTmRmVmRVcmJXWkFYeVVfZ0R2XzdVVG15YWNaMm11aE9wVm5vcDY?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "15. Apr 2026"
+        },
+        {
+          "title": "Sanierung von Don Bosco: Auf die Diözese Graz-Seckau kommt ein Großprojekt zu - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeEpZZVpqTXdFUHlGWWxBWFBwRnM5aTEwVGFCUXlxRTdmb19sbzZGS1Y1LUROZnZta2IzZWZxRnFnTGt6ZTZoWTlyS0o1NVAzZHROQUw1aGFDZzdNeWEyUXlDRUZRR0xvcjZxczF5SXFzZE5KTjlrZllXT3RONGx2cmxxTkMwOTY4cTdLTk1zSFp2YjM2T2tmUDVWNjBOU1ZIMGZ6bkxQUU9QWFZJUXNzMFduaE43SW5Jejdr?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "17. Apr 2026"
+        },
+        {
+          "title": "Graz verschiebt Investitionen, Land spart weiter - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MaW0tSEl4OUlrQUprV1Q2ZmpNT3VRUDVYaUpQRnN4UFpFdVBBMTl4VmNDODQyUkxpNjZhaUNlclQzZGU4aUlWTWdQbzlYRVR5bmc2UQ?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "15. Apr 2026"
+        },
+        {
+          "title": "Investition in die Zukunft: Land Steiermark modernisiert Chemielabore an der Landesberufsschule Graz 2 - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xV2N2dzM2dnFaczRLYllOQWdUeDVlMm1mUWJlYVFHLW9CWjJmdnF2UU03V3hialU3V2RTSnFxNFBDY3dpS2EwaFF0ZTh4ZERzWmNvR0piMTNZRHVLUDJ0M2JaWW9Uck0zN0pVNmh6dHJhR0JTbnYtZw?oc=5",
+          "source": "Kommunikation - Land Steiermark",
+          "date": "15. Apr 2026"
+        },
+        {
+          "title": "Zukunft L 211: So wird die Gnaser Straße für 1,5 Millionen Euro modernisiert - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZzhVU3VnTUw2enNxd3JfYWNNTWJWRnNMX09DWjk2d20yTEpQWkVMeTRpS1dvVng4Mm9tZ3E0Z3ppajhBRDhOOEtZS2ZUZWhQRlFidF93ZzFKaExOXzlfaGgwaUZZS3VCY3pNSGVHUmwwMHR4ejJ2amdqb2YzSkdGNGdHT0FwUl9YYjgxNVdHSUwzLWNHeDFDZVBkcHhpYVhMLVFZTWs1ZDgzNkZMelVJVTg4MVVvWnYySHNLUVd4TGFNNHM?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "19. Apr 2026"
+        }
+      ]
+    },
+    "uvp_recht": {
+      "label": "UVP & Rechtliches",
+      "icon": "⚖️",
+      "color": "#7b4f12",
+      "summary": "Die ASFINAG hat die Beauftragung für den Ausbau der A9 in der Steiermark erhalten, was den Startpunkt für ein umfangreiches Straßenprojekt markiert. Solche Großvorhaben durchlaufen üblicherweise komplexe UVP-Verfahren und erfordern zahlreiche Genehmigungen, die oft mit Einsprüchen und verwaltungsrechtlichen Prüfungen verbunden sind. Trotz potenzieller anfänglicher Widerstände wird seitens der Projektbefürworter eine letztendliche breite Akzeptanz prognostiziert, was auf eine erfolgreiche Bewältigung dieser Hürden hindeutet.",
+      "items": [
+        {
+          "title": "ASFINAG erhält Auftrag zu A9-Ausbau - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1weUNObmpBV2lUUGxyTEZ4VUp2TF9wQV95dmNuM3hlMTYxOEhuSXNHNUNuSkRRMlo2dWRxUjNWMk4wN2ZzZWtyWmFjaEhNN0s2NUpqOA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "13. Apr 2026"
+        },
+        {
+          "title": "„Am Ende werden alle sagen, dieses Straßenprojekt ist wunderbar“ - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVTZSejhqTEFzcnFjby1MaGdjVzIxTEQwZUJtQ01Ec08yVUZJczlINTVUbWsxR0hFeFA0NE9xYjVfTFpiN0FJbXNHeGNnM1FQSU9hb0lRbF9WNlRnM0VBRGhPVE44Mk9xZUhYTlYxTUhfdmNLTzVhNExmQnk3THJ3NmNUNXQwYmlhbXhtSURucXBhQnN3RmszdVlWZnhidWlfSV92VTM2cFhzaDVQb1FSSEE3M3VxdW1vc3c?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "19. Apr 2026"
+        }
+      ]
+    }
   }
 }
