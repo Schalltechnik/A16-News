@@ -1,76 +1,73 @@
-# 🏛️ A16 News – Abteilung 16 Verkehr und Landeshochbau
+# 🛣️ A16 News – Verkehr und Landeshochbau
 
-Täglicher Newscrawler für die Abteilung 16 des Amts der Steiermärkischen Landesregierung.
-Kategorien: Straßenbau, Lärmschutz, Verkehrsplanung, Landeshochbau, UVP & Recht.
+Automatischer Newscrawler für die **Abteilung 16 Verkehr und Landeshochbau** des Amts der Steiermärkischen Landesregierung.
+
+🌐 **Website:** https://schalltechnik.github.io/A16-Verkehr-News
 
 ---
 
-## Dateien im Paket
+## Kategorien
+
+| | Kategorie | Themen |
+|---|---|---|
+| 🛣️ | Straßenbau & Sanierung | Neubau, Sanierung, Tunnel, Brücken, Umfahrungen |
+| 🚦 | Verkehrsplanung & Mobilität | Radwege, ÖV, Verkehrssicherheit, Mobilität |
+| 🏛️ | Landeshochbau & Projekte | Öffentliche Gebäude, Schulbau, Investitionen |
+| ⚖️ | UVP & Rechtliches | Genehmigungen, Einsprüche, Verwaltungsverfahren |
+
+---
+
+## Technischer Aufbau
 
 ```
-a16-news/
-├── fetch_news.py                    ← Python-Script (Root)
+A16-Verkehr-News/
+├── fetch_news.py                 ← News-Crawler + Gemini KI-Zusammenfassung
 ├── README.md
 ├── .github/
 │   └── workflows/
-│       └── daily-update.yml        ← GitHub Actions Workflow
+│       └── daily-update.yml     ← Automatischer täglicher Run
 └── docs/
-    ├── index.html                  ← Website
-    └── data.json                   ← Platzhalterdaten
+    ├── index.html               ← Website (GitHub Pages)
+    └── data.json                ← Aktuelle Newsdaten
 ```
 
----
+**Läuft automatisch:** täglich um **06:00 Uhr** (Graz) via GitHub Actions
 
-## Schritt-für-Schritt Upload
+**KI-Zusammenfassungen:** Google Gemini API (`gemini-2.5-flash`)
 
-### 1. Neues GitHub Repository erstellen
-1. Gehe zu **github.com** → oben rechts **„+"** → **„New repository"**
-2. Name: `A16-Verkehr-News`
-3. Wähle **„Public"**
-4. Klicke **„Create repository"**
-
-### 2. Dateien hochladen
-1. Im neuen Repository: **„uploading an existing file"** klicken
-2. **Alle Dateien und Ordner** aus diesem ZIP hochladen:
-   - `fetch_news.py` → in den Root
-   - `.github/workflows/daily-update.yml` → in den `.github/workflows/` Ordner
-   - `docs/index.html` → in den `docs/` Ordner
-   - `docs/data.json` → in den `docs/` Ordner
-3. **„Commit changes"** klicken
-
-> **Wichtig:** Der `.github` Ordner ist versteckt — auf Mac mit **Cmd+Shift+Punkt** sichtbar machen.
-
-### 3. Gemini API Key hinterlegen
-1. Repository → **Settings** → **Secrets and variables** → **Actions**
-2. **„New repository secret"**
-3. Name: `GEMINI_API_KEY`
-4. Value: deinen neuen Google Gemini API Key
-5. **„Add secret"**
-
-### 4. GitHub Pages aktivieren
-1. Repository → **Settings** → **Pages**
-2. Source: **„Deploy from a branch"**
-3. Branch: **`main`**, Folder: **`/docs`**
-4. **„Save"**
-
-Nach 1–2 Minuten ist die Website live unter:
-`https://DEIN-USERNAME.github.io/A16-Verkehr-News`
-
-### 5. Ersten Lauf starten
-1. Repository → **Actions** → **„A16 News Update"**
-2. **„Run workflow"** → **„Run workflow"**
-3. Nach ~10 Minuten erscheinen die ersten News
+**Datenquellen:** Google News RSS Feeds
 
 ---
 
-## Zeitplan
-Der Job läuft täglich um **05:00 Uhr Graz** automatisch.
+## Einrichtung
 
-## Kategorien
-| Kategorie | Themen |
+### 1. Repository klonen / Dateien hochladen
+Alle Dateien in ein neues GitHub Repository hochladen.
+
+### 2. GitHub Secret setzen
+Repository → **Settings → Secrets and variables → Actions → New repository secret**
+
+| Name | Wert |
 |---|---|
-| 🛣️ Straßenbau & Sanierung | Neubau, Sanierung, Tunnel, Brücken |
-| 🔇 Lärmschutz | Lärmschutzwände, -fenster, UVP |
-| 🚦 Verkehrsplanung | Mobilität, Radwege, ÖV |
-| 🏛️ Landeshochbau | Öffentliche Gebäude, Investitionen |
-| ⚖️ UVP & Rechtliches | Genehmigungen, Einsprüche |
+| `GEMINI_API_KEY` | Google Gemini API Key |
+
+### 3. GitHub Pages aktivieren
+Settings → **Pages** → Branch: `main`, Folder: `/docs` → Save
+
+### 4. Ersten Lauf starten
+Actions → **„A16 News Update"** → **„Run workflow"**
+
+---
+
+## Zeitplan (alle Abteilungs-Crawler)
+
+| Projekt | Uhrzeit Graz |
+|---|---|
+| Lärmschutz News | 05:00 |
+| A15 Energie | 05:30 |
+| **A16 Verkehr** | **06:00** |
+| A12 Wirtschaft | 06:30 |
+
+---
+
+*Powered by Google Gemini AI & GitHub Actions · © Florian Lackner*
