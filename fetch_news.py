@@ -23,8 +23,8 @@ GEMINI_URL = (
 
 MAX_ITEMS_FROM_FEED    = 100
 MAX_AGE_DAYS           = 7
-MAX_ITEMS_PER_CATEGORY = 15
-MAX_TITLES_FOR_SUMMARY = 15
+MAX_ITEMS_PER_CATEGORY = 6
+MAX_TITLES_FOR_SUMMARY = 6
 GEMINI_PAUSE_SECONDS   = 120
 GEMINI_RETRY_ATTEMPTS  = 10
 GEMINI_RETRY_WAIT      = 120
@@ -56,7 +56,7 @@ CATEGORIES = {
         "summary_prompt": (
             "Du bist Experte für Straßenbau und Verkehrsinfrastruktur in der Steiermark. "
             "Fasse die folgenden Nachrichtentitel zu Straßenbau, Sanierungen, Tunneln und "
-            "Brücken in der Steiermark in 3 prägnanten deutschen Sätzen zusammen. "
+            "Brücken in der Steiermark in 2 prägnanten deutschen Sätzen zusammen. "
             "Antworte NUR mit Fließtext, keine Aufzählungen."
         ),
     },
@@ -78,7 +78,7 @@ CATEGORIES = {
             "Du bist Experte für Lärmschutz an steirischen Landesstraßen. "
             "Fasse die folgenden Nachrichtentitel zu Lärmschutzmaßnahmen, "
             "Lärmschutzwänden und -fenstern sowie UVP-Verfahren in der Steiermark "
-            "in 3 prägnanten deutschen Sätzen zusammen. "
+            "in 2 prägnanten deutschen Sätzen zusammen. "
             "Antworte NUR mit Fließtext, keine Aufzählungen."
         ),
     },
@@ -99,7 +99,7 @@ CATEGORIES = {
         "summary_prompt": (
             "Du bist Experte für Verkehrsplanung und Mobilität in der Steiermark. "
             "Fasse die folgenden Nachrichtentitel zu Verkehrsplanung, Radwegen, "
-            "öffentlichem Verkehr und Mobilitätsstrategien in 3 prägnanten deutschen "
+            "öffentlichem Verkehr und Mobilitätsstrategien in 2 prägnanten deutschen "
             "Sätzen zusammen. Antworte NUR mit Fließtext, keine Aufzählungen."
         ),
     },
@@ -120,7 +120,7 @@ CATEGORIES = {
         "summary_prompt": (
             "Du bist Experte für Landeshochbau und öffentliche Bauprojekte in der Steiermark. "
             "Fasse die folgenden Nachrichtentitel zu Hochbauprojekten, Schulbauten, "
-            "öffentlichen Gebäuden und Infrastrukturinvestitionen in 3 prägnanten deutschen "
+            "öffentlichen Gebäuden und Infrastrukturinvestitionen in 2 prägnanten deutschen "
             "Sätzen zusammen. Antworte NUR mit Fließtext, keine Aufzählungen."
         ),
     },
@@ -141,7 +141,7 @@ CATEGORIES = {
         "summary_prompt": (
             "Du bist Experte für Behördenverfahren und Rechtsfragen im steirischen Verkehrsbereich. "
             "Fasse die folgenden Nachrichtentitel zu UVP-Verfahren, Genehmigungen, "
-            "Einsprüchen und verwaltungsrechtlichen Themen in 3 prägnanten deutschen "
+            "Einsprüchen und verwaltungsrechtlichen Themen in 2 prägnanten deutschen "
             "Sätzen zusammen. Antworte NUR mit Fließtext, keine Aufzählungen."
         ),
     },
