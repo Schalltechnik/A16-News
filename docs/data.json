@@ -1,11 +1,11 @@
 {
-  "generated": "22. April 2026, 08:11 UTC",
+  "generated": "23. April 2026, 06:01 UTC",
   "categories": {
     "strassenbau": {
       "label": "Straßenbau & Sanierung",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "In der Hilmteichstraße in der Steiermark wurden die Bohrarbeiten für den unterirdischen Abschnitt erfolgreich abgeschlossen. Damit ist der entscheidende Durchstich erfolgt, was einen wichtigen Meilenstein für die lokale Straßeninfrastruktur darstellt.",
+      "summary": "Zusammenfassung konnte nicht erstellt werden.",
       "items": [
         {
           "title": "„Durchstich“ in der Hilmteichstraße, die Bohrarbeiten sind beendet - Kleine Zeitung",
@@ -19,7 +19,7 @@
       "label": "Lärmschutz",
       "icon": "🔇",
       "color": "#c8102e",
-      "summary": "Die vorliegenden Nachrichtentitel bieten keine Informationen zu Lärmschutzmaßnahmen, -wänden, -fenstern oder UVP-Verfahren an steirischen Landesstraßen. Eine Zusammenfassung der genannten Themen ist daher auf Basis der bereitgestellten Titel nicht möglich.",
+      "summary": "Zusammenfassung konnte nicht erstellt werden.",
       "items": [
         {
           "title": "Holz-Riegler: Vor 70 Jahren begann die Erfolgsgeschichte - Kleine Zeitung",
@@ -48,16 +48,16 @@
           "date": "16. Apr 2026"
         },
         {
+          "title": "POW und Bahn zum Berg präsentieren neuen Öffi-Tourenführer für die Steiermark - OTS.at",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbVBZN3V0RFFsM09RM3ZyUTlWNXRPOUdzWU03cXRrLUxnOGljSnJxM0FNV3c2MV9QZGRBbzBobVlReEhoSURIdEFpZXFId2szNmJBc01YOEVRZXlrdWdQd01QRU1zRVJDT3RRWFYzaUxxeFcxZFJoaTUtRlZRcHNkMHdHYkJaS1lEOGo1WnhqU1c4WnBpYlFfQ0IzWlB3Sk5oU0F6NWVBUDZIaUxER3pTR2RhRmRnTlVJY0ZMTURqcGJ4WWJwYl9UVGFrUjI4eEhBUmVQMA?oc=5",
+          "source": "OTS.at",
+          "date": "16. Apr 2026"
+        },
+        {
           "title": "Grüne Ideen: Nach Regiomobil-Aus plädieren Grüne für weitere Stärkung des Mikro-ÖV - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRG4wQzFubTNFSjJfQThBTU9rUGxUbkZYcEZvYURFLVJ1eVFxMFZUOUV2RjV6UkZFRE1XWnhNMjRfMmtfSkQtUzZVbEhyRFhzeGtaMWNRNFYzU0MwLWVBUkxqSEEyMFZOMURPQnBRMWxUMU42aEFiamlORk5rSlRhODdMYXp1ZWF0MV95Q1Q3YmFISHhkbVVfcGJfYWxxbEVrNlZfcUpEMXJZUDROdlNkeGhGT3hKR0E3ZzZ2OGVKVGdRMlZzR0tV?oc=5",
           "source": "MeinBezirk.at",
           "date": "21. Apr 2026"
-        },
-        {
-          "title": "Steiermark und Kärnten werden Testregionen für fahrerlose Busse - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ1hfV2RRLWZ2MUpMcTFGSWhTTnRybjJxZ2p6ZlRNcU5US0NwdTQtcGJTdng0eWtzdVhUR2ZJQldXbFMtTUUwYmR5RjhRc09UcXoyMk1yOUhVV2MyOWNwRXIyT0xhUTU4ekdlZ3lRTlFkbTVkQ2pxaUdfOWNxSWtHUWg1dTJOLWJtSl9IZXkxMkpMZFdQMVZ3YWlpTGd6dFM2OXVXd3B5aGc2aGlMb2RYMG1vNF9jNEEwVmdOZVlJNXBtdw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "15. Apr 2026"
         }
       ]
     },
@@ -65,7 +65,7 @@
       "label": "Landeshochbau & Projekte",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Zusammenfassung konnte nicht erstellt werden.",
+      "summary": "Die steirische Hochbaulandschaft ist geprägt von Diskussionen um verschobene Schulbauprojekte, während das Land gleichzeitig in die Modernisierung von Chemielaboren an der Landesberufsschule Graz 2 investiert. Parallel dazu steht der Diözese Graz-Seckau ein Großprojekt zur Sanierung des Don Bosco Areals bevor.",
       "items": [
         {
           "title": "Protest gegen verschobene Schulbau-Projekte - ORF ON",
@@ -74,22 +74,22 @@
           "date": "17. Apr 2026"
         },
         {
-          "title": "Ende der Hoffnungen: Leitspital-Grundstück in Stainach wird verkauft - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdUhrbjRHbkdSLTdmcm5UZm9wQVhxWHl5ODJhdWZrOUdBcTBGZFVoRS15NW1Xd3QxcXl0OXh0UzJQblBmTG5URGVuY2dOZ3pyeXlLamUxQk0tbkNncHVjdlZIbWs5M2RBSFdmQ3ZpWDBsaEt3Ti1lS0RBb2ZlTmRMMmEzTmRmVmRVcmJXWkFYeVVfZ0R2XzdVVG15YWNaMm11aE9wVm5vcDY?oc=5",
+          "title": "Kaum weitere Patienten aus der Steiermark in Bad Ischl - ooe.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50MnN6UTMzQVAyRTNwOEo4RHhkY0ZvaktFa1NHcFFodUhkRGNyY2huam1UVmltTlVpbEl1Wml6MGhnNjFHMjN2SlIxcw?oc=5",
+          "source": "ooe.ORF.at",
+          "date": "20. Apr 2026"
+        },
+        {
+          "title": "Sanierung von Don Bosco: Auf die Diözese Graz-Seckau kommt ein Großprojekt zu - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeEpZZVpqTXdFUHlGWWxBWFBwRnM5aTEwVGFCUXlxRTdmb19sbzZGS1Y1LUROZnZta2IzZWZxRnFnTGt6ZTZoWTlyS0o1NVAzZHROQUw1aGFDZzdNeWEyUXlDRUZRR0xvcjZxczF5SXFzZE5KTjlrZllXT3RONGx2cmxxTkMwOTY4cTdLTk1zSFp2YjM2T2tmUDVWNjBOU1ZIMGZ6bkxQUU9QWFZJUXNzMFduaE43SW5Jejdr?oc=5",
           "source": "Kleine Zeitung",
-          "date": "15. Apr 2026"
+          "date": "17. Apr 2026"
         },
         {
           "title": "Investition in die Zukunft: Land Steiermark modernisiert Chemielabore an der Landesberufsschule Graz 2 - Kommunikation - Land Steiermark",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xV2N2dzM2dnFaczRLYllOQWdUeDVlMm1mUWJlYVFHLW9CWjJmdnF2UU03V3hialU3V2RTSnFxNFBDY3dpS2EwaFF0ZTh4ZERzWmNvR0piMTNZRHVLUDJ0M2JaWW9Uck0zN0pVNmh6dHJhR0JTbnYtZw?oc=5",
           "source": "Kommunikation - Land Steiermark",
           "date": "21. Apr 2026"
-        },
-        {
-          "title": "Graz verschiebt Investitionen, Land spart weiter - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MaW0tSEl4OUlrQUprV1Q2ZmpNT3VRUDVYaUpQRnN4UFpFdVBBMTl4VmNDODQyUkxpNjZhaUNlclQzZGU4aUlWTWdQbzlYRVR5bmc2UQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "15. Apr 2026"
         }
       ]
     },
@@ -97,7 +97,7 @@
       "label": "UVP & Rechtliches",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Zusammenfassung konnte nicht erstellt werden.",
+      "summary": "Steirische Straßenprojekte durchlaufen umfassende UVP- und Genehmigungsverfahren, die oft mit Einsprüchen und verwaltungsrechtlichen Herausforderungen verbunden sind. Dennoch wird erwartet, dass diese Projekte nach erfolgreicher Abwicklung letztlich breite Akzeptanz finden und als vorteilhaft wahrgenommen werden.",
       "items": [
         {
           "title": "„Am Ende werden alle sagen, dieses Straßenprojekt ist wunderbar“ - Kleine Zeitung",
