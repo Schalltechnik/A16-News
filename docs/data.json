@@ -1,11 +1,11 @@
 {
-  "generated": "30. April 2026, 06:06 UTC",
+  "generated": "01. May 2026, 06:17 UTC",
   "categories": {
     "strassenbau": {
       "label": "Straßenbau & Sanierung",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Zusammenfassung konnte nicht erstellt werden.",
+      "summary": "Die Steiermark steht vor umfangreichen Infrastrukturmaßnahmen, darunter die Generalsanierung der Tunnelkette Pack auf der A2. Parallel dazu beginnt in Mariazell eine mehrmonatige Straßensanierung der L 112, welche mit Totalsperren einhergeht.",
       "items": [
         {
           "title": "A2: Generalsanierung der Tunnelkette Pack - ÖAMTC",
@@ -14,15 +14,15 @@
           "date": "28. Apr 2026"
         },
         {
-          "title": "L 112: In Mariazell startet fünfmonatige Sanierung - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lVzBLOThIczBmR3k4VV9qalVxV3BmeXlGUmNpbmdJRS0xR1FyWTFMSFo5aVJOUlZYY3RIelBHbkRJZFJ0VzBpc01vLXRFWXZhREFPcmEtcFpYZVpUbHI0WnphU0t6dUtieWdzMHcyOA?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "29. Apr 2026"
-        },
-        {
           "title": "Mit Totalsperren: Monatelange Straßensanierung in Mariazell startet - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdkZ4Y0cwbVBmQkk0Yk45ZVd5MlR0ZkFGUm5XazZXRjNGLWg2bV9yZ0xwdDg4NWYyNUdHYkt3YUZNb1dMRTJPM2kzTFhHeEhxRXdJUTVMRGI4VmI4dnJQQ0NOMXB4bnY5VWUwejdULXh3Z2sxRVhubEIxZUwyc1ZEMHdHWW9rbmtSRUVGZlFDR05XZndFUmNLUGg3MnFWVjBFMUxMeDhSNzZvYXhJUlVnOTFyWQ?oc=5",
           "source": "Kleine Zeitung",
+          "date": "29. Apr 2026"
+        },
+        {
+          "title": "L 112: In Mariazell startet fünfmonatige Sanierung - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nQzl1X1pRQVJYTmx5OTRzUjVMQWxsUDBKWFhaZ1Axal9wRmRNSTAwb2ViMDJpZXNCQVhPSy1mT25mNWRobDZxSF9EeVlKaUdsSzhzbXFmcTBVYzVGelZ4bUttMmNiV2lkMzh3Q1dhTHdMR0JzNzZBcw?oc=5",
+          "source": "Kommunikation - Land Steiermark",
           "date": "29. Apr 2026"
         }
       ]
@@ -38,7 +38,7 @@
       "label": "Verkehrsplanung & Mobilität",
       "icon": "🚦",
       "color": "#003399",
-      "summary": "Die Steiermark treibt ihre Mobilitätskonzepte voran, fördert aktiv den Radverkehr, wie am Raabtal-Radweg ersichtlich, und erweitert den öffentlichen Verkehr durch die Integration der Westbahn in den Verbund. Gleichzeitig stehen Herausforderungen im Fokus, insbesondere die Kostenstruktur von Mikro-ÖV-Angeboten und die langfristige Sicherung regionaler Bahnverbindungen wie der Gleichenberger Bahn.",
+      "summary": "Die Steiermark entwickelt ihre Mobilitätsstrategien weiter, erkennbar an einem neuen Mobilitätskonzept der ÖVP sowie der aktiven Förderung des Radverkehrs, etwa durch Veranstaltungen am Raabtal-Radweg. Gleichzeitig wird der öffentliche Verkehr durch die Integration der Westbahn in den steirischen Verbund ab 2026 gestärkt, während die Herausforderung bleibt, Mikro-ÖV-Angebote wie Sammeltaxis trotz hoher Nachfrage kostengünstiger zu gestalten.",
       "items": [
         {
           "title": "ÖVP präsentiert Mobilitätskonzept - ORF ON",
@@ -69,12 +69,6 @@
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9PbHBEUmVKY2hra2FBRzNVRVE2TmxEM0VFSGw0a0ExZlBVSkRhc1E2NkNuUnZqbkE5WlVxNXdRMWZvUQ?oc=5",
           "source": "Kronen Zeitung",
           "date": "30. Apr 2026"
-        },
-        {
-          "title": "Grüne fordern, dass Gleichenberger Bahn langfristig abgesichert wird - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcTl2YWZMM2VzaXFaVjFISEI4SmZra0czNnNfQ05lS0VKMTEzdGhJTGdVSjM3VVRQZXM1ODFKUGdWdi0wNHFRQUlpSmpwTnRlaUc5WVN5MzB2WHZielFVWFdBZ09QeXpqM3JudUp1ZVV2SG9GdHVEVU1HaC1jajA5dGx3c0c5Y3hWdVFCVTFfUDhIRTNvRTNZbUFCbVBKVFFnU3Fwekc0OVBRYkpIQ1Bha0NPWFdoYmdVNTktREE2UHdiUW1EdkNoSw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "24. Apr 2026"
         }
       ]
     },
@@ -82,13 +76,19 @@
       "label": "Landeshochbau & Projekte",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark verzeichnet 2025 einen neuen Rekord bei Investitionen von über 350 Millionen Euro, die maßgeblich in die Stärkung der Infrastruktur und öffentlicher Einrichtungen fließen. Dazu zählen Rekordinvestitionen der Energie Steiermark, die Förderung der Biomasseforschung an der Montanuniversität sowie Millionen für die Neugestaltung der Parktherme Bad Radkersburg.",
+      "summary": "Das Jahr 2025 steht in der Steiermark im Zeichen rekordhoher Investitionen von über 350 Millionen Euro zur umfassenden Stärkung des Landes. Diese umfassen nicht nur umfangreiche Infrastrukturmaßnahmen wie die fünfmonatige Sanierung der L 112 in Mariazell, sondern auch Rekordinvestitionen der Energie Steiermark, die ab Juni zu Tarifsenkungen führen.",
       "items": [
         {
-          "title": "Tierschutzbildung: Steirische Schüler werden mit neuem Unterrichtsheft zu „Wildtierprofis“ - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa05kX0ZNeURlekdoT3Rwdlh0eU04X0lHaURZelFISm1ZMjBwWlRYNnZWRW9YY081RURoeExlbXRzV2RwMENtaGNLYm5nUHpHSUhrcVNzU0U2bThZOXlSUm5WdnZZWGhjQUtVSXA0MDQyVFJqU2xBNkkzMTkzaVQwN2tZaTVuNVJycmtiRjVFVS1pS25NUVM3MmI1ekZzdUhXUGNnb1M4cWxyZWV5elNIOHhYUEtZVTd3ZE5SZWU1UjcxUDFV?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "23. Apr 2026"
+          "title": "L 112: In Mariazell startet fünfmonatige Sanierung - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nQzl1X1pRQVJYTmx5OTRzUjVMQWxsUDBKWFhaZ1Axal9wRmRNSTAwb2ViMDJpZXNCQVhPSy1mT25mNWRobDZxSF9EeVlKaUdsSzhzbXFmcTBVYzVGelZ4bUttMmNiV2lkMzh3Q1dhTHdMR0JzNzZBcw?oc=5",
+          "source": "Kommunikation - Land Steiermark",
+          "date": "29. Apr 2026"
+        },
+        {
+          "title": "Naturparke Steiermark: Starke Unterstützung für gelebten Naturschutz - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vNFdyektnY0xSTmlQSEhTOTBoUnRtTlNYTmpoSmtaLU5Jc0M1b1Rkek9KSHl4OURNWTl6cWhoZnkwSWN3dlR4QlNCdEV4YjNZbHdQTlktbTVBcWtXN242aVVJaDN0MkVfUl83eXZCNjd4SWlLM1lV?oc=5",
+          "source": "Kommunikation - Land Steiermark",
+          "date": "30. Apr 2026"
         },
         {
           "title": "Tarifsenkung ab Juni kommt: Energie Steiermark verzeichnete 2025 Rekord-Investition - MeinBezirk.at",
@@ -97,22 +97,10 @@
           "date": "27. Apr 2026"
         },
         {
-          "title": "Investition in Biomasseforschung: Montanuni geht voran - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FM3lLaUkwa19JS1lIN2RhS3FTRWw3cklvNlB6dkFUaVRGM2lHMmZ0ZGZraXJDaHVuYkhvOGFDYTFvWTRueEFlQUlpTWVoOHpNR0ZXbg?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "27. Apr 2026"
-        },
-        {
           "title": "2025 bringt neuen Rekord bei Investitionen: Über 350 Mio. EUR für Stärkung der Steiermark - OTS.at",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeVNmVkdkZ0VfLXRLZjdodU5lb0pQeUV3SzY3aVhPVkNValpoWWhSVzdSVFpQaXBsaDFodExnUlFSaE1xSmVfT3dxLXZHQXl4a2dFYkVZc2hZdFh6bmVDNkhVMnBKOUlCOVpKUWRXQzhQRFJBVXNCV1o1WnhmUnJLRnFTRkI0dkh5LTJTYjRNQUxnelFFSkNfSDNrN0Fqa2l2b3BsYzJ3ZmQ0dEdlbnc5V0ZTcWM2QVFBMV9ZYkF2TFpSQnItQjBGZnNWNm9iNGNZY3JrMVVEdS1LbHUxOVVOLQ?oc=5",
           "source": "OTS.at",
           "date": "27. Apr 2026"
-        },
-        {
-          "title": "Millionen-Investition: Parktherme Bad Radkersburg erfindet 2026 ihre Gastronomie neu - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDA2OHV5c2ZaSHZBa3dqWV9zczU4S2dxbFN2NVlxMzkxd3BQWjBaZTg2SWpFTmNPT0prcjcwTmRsZEpjeTNYbm1XVmdQQTN2MDViVkE3dmUxVTIxODBDLV85dldIaHBselVGdV9zVWpmN25waE9GejlTTHg2UWZidDlNaVhTdFYyQmQ2V2RXYUFWRXNMQWxDV2c3MzdEMmhIbEVzcWo4NDdtSHdBR3prS1dLbVZpZ2JXNHNzSmNNM2owekVYeFE?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "29. Apr 2026"
         }
       ]
     },
@@ -120,19 +108,13 @@
       "label": "UVP & Rechtliches",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Im steirischen Verkehrsbereich schreitet der Ausbau der B 72 in Birkfeld im Genehmigungsverfahren voran und die nächsten Schritte sind bereits definiert. Gleichzeitig werden bei anderen Sanierungsvorhaben, trotz grundsätzlicher Befürwortung, Bedenken gegen die konkrete Planung geäußert, die zu Einsprüchen oder Anpassungen im verwaltungsrechtlichen Verfahren führen können.",
+      "summary": "Die ÖVP äußert sich kritisch zur Planung eines steirischen Straßenprojekts, indem sie zwar die Notwendigkeit der Sanierung befürwortet, jedoch die aktuelle Ausführung als fehlerhaft ablehnt. Diese politische Haltung deutet auf potenzielle Herausforderungen im Genehmigungsverfahren hin, insbesondere im Hinblick auf die Qualität der Projektunterlagen und mögliche Einsprüche.",
       "items": [
         {
-          "title": "„Wir stehen hinter Sanierung, aber nicht hinter falscher Planung“ - Kleine Zeitung",
+          "title": "ÖVP zu Straßenprojekt: „Wir stehen hinter Sanierung, aber nicht hinter falscher Planung“ - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOak1GMFNNcUxsTlktOFhNM1k0TGJNczFRcXp0T1hxVXJYLUxrRUQydUhEdURIMkpCdW5SNnlHSDZGbUZWeUFqYVJGa29ZZnNkRmZtOUNQSjlfamhjdDJ3bV9NUEZDNmR2WWxBaDhNVzFXNGthM0RZQkFrWFBwR28xWjdOYzMzRzRhTUtTYkxKQ3djdWRoZGtBdm95TVpxOTViUFljTVhMM0dfX0ltOHNtNjV4YmR5LVdsUlE?oc=5",
           "source": "Kleine Zeitung",
           "date": "24. Apr 2026"
-        },
-        {
-          "title": "Straßenprojekt Birkfeld: B 72-Ausbau in Rosegg kommt voran, das sind die nächsten Schritte - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMXY0OHVzc19qMEI0UWxteEF0bDFLRGFsV3BuN1N3YlNKenpHamtQN0dpLXk0eXRCdmlFSF9ka1o5X0pqYkJpYjBtbDB3X21yUmN0SjllZ0w5aUE2QzV0eVkya04xTFUwV3NNMGtNQTFCc1NFa0c1S0lmLVRYZjFfLVNSd2liSkRUREEySjlIN0tWcXMtLWxsTWtMNGlSUmxMLUNZU3RWS2s0YjhOMEFCN2JkM3FSdw?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "23. Apr 2026"
         }
       ]
     }
