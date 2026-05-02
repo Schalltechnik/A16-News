@@ -1,11 +1,12 @@
 {
-  "generated": "02. May 2026, 05:37 UTC",
+  "generated": "02. May 2026, 18:40 UTC",
+  "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strassenbau": {
       "label": "Straßenbau & Sanierung",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Umfassende Sanierungsarbeiten prägen derzeit die Verkehrsinfrastruktur der Steiermark. So wird die A2-Tunnelkette Pack generalsaniert, während in Mariazell eine monatelange Straßensanierung auf der L 112 mit Totalsperren startet.",
+      "summary": "In der Steiermark stehen mehrere bedeutende Infrastrukturprojekte an, darunter die Generalsanierung der Tunnelkette Pack an der A2 sowie eine umfangreiche fünfmonatige Sanierung der L 112 in Mariazell, die mit Totalsperren verbunden ist.",
       "items": [
         {
           "title": "A2: Generalsanierung der Tunnelkette Pack - ÖAMTC",
@@ -38,7 +39,7 @@
       "label": "Verkehrsplanung & Mobilität",
       "icon": "🚦",
       "color": "#003399",
-      "summary": "In der Steiermark wird die Förderung des Radverkehrs, insbesondere am Raabtal-Radweg, aktiv vorangetrieben, während gleichzeitig das öffentliche Verkehrsangebot durch die Integration der Westbahn als Verbundpartner ab 2026 signifikant erweitert wird. Herausforderungen bestehen jedoch im Mikro-ÖV, wo Sammeltaxis trotz hoher Nachfrage oft zu teuer sind, und in Graz werden strategische Maßnahmen wie Fahrverbote für Durchzugsverkehr auf Nebenstraßen zur Entlastung diskutiert.",
+      "summary": "Die Steiermark investiert verstärkt in die Radverkehrsinfrastruktur, wie die zunehmenden Aktivitäten rund um den Raabtal-Radweg zeigen, während gleichzeitig der öffentliche Verkehr durch die Integration der Westbahn in den Verbund ab 2026 ausgebaut wird. Allerdings bleiben Herausforderungen wie die Erschwinglichkeit von Mikro-ÖV-Angeboten und die Verkehrslenkung in städtischen Bereichen, etwa durch geplante Fahrverbote in Graz, zentrale Themen der steirischen Mobilitätsstrategie.",
       "items": [
         {
           "title": "Frühlingserwachen auf zwei Rädern: Anradeln am Raabtal-Radweg - MeinBezirk.at",
@@ -76,24 +77,18 @@
       "label": "Landeshochbau & Projekte",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark verzeichnet für 2025 einen neuen Rekord bei Investitionen von über 350 Mio. EUR zur umfassenden Stärkung des Landes. Ein Großteil dieser Mittel fließt in die Energieinfrastruktur, darunter Rekordinvestitionen der Energie Steiermark und die Förderung von Biomasseforschung an der Montanuni, sowie in die Unterstützung der Naturparke.",
+      "summary": "Das Land Steiermark investiert 2025 mit über 350 Millionen Euro in Rekordmaße in die Infrastruktur, wobei Energie Steiermark, Naturparke und Forschungseinrichtungen wie die Montanuni von erheblichen Mitteln profitieren. Parallel dazu werden auch touristische und wirtschaftliche Projekte wie die Parktherme Bad Radkersburg modernisiert, um die Wettbewerbsfähigkeit und Lebensqualität in der Region nachhaltig zu stärken.",
       "items": [
         {
-          "title": "Naturparke Steiermark: Starke Unterstützung für gelebten Naturschutz - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vNFdyektnY0xSTmlQSEhTOTBoUnRtTlNYTmpoSmtaLU5Jc0M1b1Rkek9KSHl4OURNWTl6cWhoZnkwSWN3dlR4QlNCdEV4YjNZbHdQTlktbTVBcWtXN242aVVJaDN0MkVfUl83eXZCNjd4SWlLM1lV?oc=5",
-          "source": "Kommunikation - Land Steiermark",
-          "date": "30. Apr 2026"
+          "title": "Land stärkt steirische Naturparke mit 375.000 Euro - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSkZZSE40THN4TmRLdW1CNHRzSUIySVBxeXc1T1l2dXZNYzVmbVR2T3RLUE5SVE1Ja3NLZmxIaG1iZjliQzNOUkRwN3lybDR3T1FlWVh4Nzk4cGh4QU12M29BSzNBeUh3Yk9rOHNHMzJiNEo1NGJkYmRERTgzRDdCX3U3SENWWHg2MUM4STZ3d3JVWl8yYkc1d3c2MUd3Zw?oc=5",
+          "source": "5 Minuten",
+          "date": "1. May 2026"
         },
         {
           "title": "Tarifsenkung ab Juni kommt: Energie Steiermark verzeichnete 2025 Rekord-Investition - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT1ZjekktWGZwNUFWQmlfaVBiam5mN3U5Z2Qtd3QtenB5VkZOT09vSF9BQ1Z3dmsyeG9HZnVYQWo2RS1kLVFveE14dXlKU3d5VGg3WGhMTnhnUnFGbU94RENVZzAzM29tNGJ5aEoybnlaQWJfNnIxRjVpUmNyQTg2aFlCNVpxQThuNzhwNDUySzhvZ3lkdHkyYXRfX2JVd0pjOUR3SkpDTWpwdWxLQmphVXRkQkQ?oc=5",
           "source": "MeinBezirk.at",
-          "date": "27. Apr 2026"
-        },
-        {
-          "title": "Investition in Biomasseforschung: Montanuni geht voran - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FM3lLaUkwa19JS1lIN2RhS3FTRWw3cklvNlB6dkFUaVRGM2lHMmZ0ZGZraXJDaHVuYkhvOGFDYTFvWTRueEFlQUlpTWVoOHpNR0ZXbg?oc=5",
-          "source": "steiermark.ORF.at",
           "date": "27. Apr 2026"
         },
         {
@@ -103,10 +98,22 @@
           "date": "1. May 2026"
         },
         {
+          "title": "Investition in Biomasseforschung: Montanuni geht voran - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FM3lLaUkwa19JS1lIN2RhS3FTRWw3cklvNlB6dkFUaVRGM2lHMmZ0ZGZraXJDaHVuYkhvOGFDYTFvWTRueEFlQUlpTWVoOHpNR0ZXbg?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "27. Apr 2026"
+        },
+        {
           "title": "2025 bringt neuen Rekord bei Investitionen: Über 350 Mio. EUR für Stärkung der Steiermark - OTS.at",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeVNmVkdkZ0VfLXRLZjdodU5lb0pQeUV3SzY3aVhPVkNValpoWWhSVzdSVFpQaXBsaDFodExnUlFSaE1xSmVfT3dxLXZHQXl4a2dFYkVZc2hZdFh6bmVDNkhVMnBKOUlCOVpKUWRXQzhQRFJBVXNCV1o1WnhmUnJLRnFTRkI0dkh5LTJTYjRNQUxnelFFSkNfSDNrN0Fqa2l2b3BsYzJ3ZmQ0dEdlbnc5V0ZTcWM2QVFBMV9ZYkF2TFpSQnItQjBGZnNWNm9iNGNZY3JrMVVEdS1LbHUxOVVOLQ?oc=5",
           "source": "OTS.at",
           "date": "27. Apr 2026"
+        },
+        {
+          "title": "Millionen-Investition: Parktherme Bad Radkersburg erfindet 2026 ihre Gastronomie neu - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDA2OHV5c2ZaSHZBa3dqWV9zczU4S2dxbFN2NVlxMzkxd3BQWjBaZTg2SWpFTmNPT0prcjcwTmRsZEpjeTNYbm1XVmdQQTN2MDViVkE3dmUxVTIxODBDLV85dldIaHBselVGdV9zVWpmN25waE9GejlTTHg2UWZidDlNaVhTdFYyQmQ2V2RXYUFWRXNMQWxDV2c3MzdEMmhIbEVzcWo4NDdtSHdBR3prS1dLbVZpZ2JXNHNzSmNNM2owekVYeFE?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "29. Apr 2026"
         }
       ]
     },
