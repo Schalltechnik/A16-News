@@ -1,11 +1,11 @@
 {
-  "generated": "01. May 2026, 06:17 UTC",
+  "generated": "02. May 2026, 05:37 UTC",
   "categories": {
     "strassenbau": {
       "label": "Straßenbau & Sanierung",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die Steiermark steht vor umfangreichen Infrastrukturmaßnahmen, darunter die Generalsanierung der Tunnelkette Pack auf der A2. Parallel dazu beginnt in Mariazell eine mehrmonatige Straßensanierung der L 112, welche mit Totalsperren einhergeht.",
+      "summary": "Umfassende Sanierungsarbeiten prägen derzeit die Verkehrsinfrastruktur der Steiermark. So wird die A2-Tunnelkette Pack generalsaniert, während in Mariazell eine monatelange Straßensanierung auf der L 112 mit Totalsperren startet.",
       "items": [
         {
           "title": "A2: Generalsanierung der Tunnelkette Pack - ÖAMTC",
@@ -14,15 +14,15 @@
           "date": "28. Apr 2026"
         },
         {
-          "title": "Mit Totalsperren: Monatelange Straßensanierung in Mariazell startet - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdkZ4Y0cwbVBmQkk0Yk45ZVd5MlR0ZkFGUm5XazZXRjNGLWg2bV9yZ0xwdDg4NWYyNUdHYkt3YUZNb1dMRTJPM2kzTFhHeEhxRXdJUTVMRGI4VmI4dnJQQ0NOMXB4bnY5VWUwejdULXh3Z2sxRVhubEIxZUwyc1ZEMHdHWW9rbmtSRUVGZlFDR05XZndFUmNLUGg3MnFWVjBFMUxMeDhSNzZvYXhJUlVnOTFyWQ?oc=5",
-          "source": "Kleine Zeitung",
+          "title": "L 112: In Mariazell startet fünfmonatige Sanierung - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lVzBLOThIczBmR3k4VV9qalVxV3BmeXlGUmNpbmdJRS0xR1FyWTFMSFo5aVJOUlZYY3RIelBHbkRJZFJ0VzBpc01vLXRFWXZhREFPcmEtcFpYZVpUbHI0WnphU0t6dUtieWdzMHcyOA?oc=5",
+          "source": "Land Steiermark News Portal",
           "date": "29. Apr 2026"
         },
         {
-          "title": "L 112: In Mariazell startet fünfmonatige Sanierung - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nQzl1X1pRQVJYTmx5OTRzUjVMQWxsUDBKWFhaZ1Axal9wRmRNSTAwb2ViMDJpZXNCQVhPSy1mT25mNWRobDZxSF9EeVlKaUdsSzhzbXFmcTBVYzVGelZ4bUttMmNiV2lkMzh3Q1dhTHdMR0JzNzZBcw?oc=5",
-          "source": "Kommunikation - Land Steiermark",
+          "title": "Mit Totalsperren: Monatelange Straßensanierung in Mariazell startet - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdkZ4Y0cwbVBmQkk0Yk45ZVd5MlR0ZkFGUm5XazZXRjNGLWg2bV9yZ0xwdDg4NWYyNUdHYkt3YUZNb1dMRTJPM2kzTFhHeEhxRXdJUTVMRGI4VmI4dnJQQ0NOMXB4bnY5VWUwejdULXh3Z2sxRVhubEIxZUwyc1ZEMHdHWW9rbmtSRUVGZlFDR05XZndFUmNLUGg3MnFWVjBFMUxMeDhSNzZvYXhJUlVnOTFyWQ?oc=5",
+          "source": "Kleine Zeitung",
           "date": "29. Apr 2026"
         }
       ]
@@ -38,13 +38,13 @@
       "label": "Verkehrsplanung & Mobilität",
       "icon": "🚦",
       "color": "#003399",
-      "summary": "Die Steiermark entwickelt ihre Mobilitätsstrategien weiter, erkennbar an einem neuen Mobilitätskonzept der ÖVP sowie der aktiven Förderung des Radverkehrs, etwa durch Veranstaltungen am Raabtal-Radweg. Gleichzeitig wird der öffentliche Verkehr durch die Integration der Westbahn in den steirischen Verbund ab 2026 gestärkt, während die Herausforderung bleibt, Mikro-ÖV-Angebote wie Sammeltaxis trotz hoher Nachfrage kostengünstiger zu gestalten.",
+      "summary": "In der Steiermark wird die Förderung des Radverkehrs, insbesondere am Raabtal-Radweg, aktiv vorangetrieben, während gleichzeitig das öffentliche Verkehrsangebot durch die Integration der Westbahn als Verbundpartner ab 2026 signifikant erweitert wird. Herausforderungen bestehen jedoch im Mikro-ÖV, wo Sammeltaxis trotz hoher Nachfrage oft zu teuer sind, und in Graz werden strategische Maßnahmen wie Fahrverbote für Durchzugsverkehr auf Nebenstraßen zur Entlastung diskutiert.",
       "items": [
         {
-          "title": "ÖVP präsentiert Mobilitätskonzept - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX0xsWU1oTlpyX0poSUR1U3N2SGpWdTF0VFg3cXROcHM1NkZkRExUckdVQU9zOGRQcC1NamhyWlowelRZM0F6TWpwVHBFeXRNNTF2dVZOQ0ZUc2lwZV9aYkwydUFxR1NxZXM3SW9uWmI3WS1QdHZ2Z1V4eWk5aHpCNGRQNGw?oc=5",
-          "source": "ORF ON",
-          "date": "24. Apr 2026"
+          "title": "Frühlingserwachen auf zwei Rädern: Anradeln am Raabtal-Radweg - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQblFsdFNZVmtNZTh2bGhrTjdZN25JUnh2TXJkOXpZRGtCcng5djM0SzRtUjd2bVdZbUZuemxnRGhYNXk5djZHVlNQblItT0lhSW1nYkkxY0QxNlFJaldVWkViNjlkaWlLSWxuanBJZ1FKVXVOY0h4dUtEOG8xTDFzZW05V0c2aVFGd21EcERTYTV4RGM?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "28. Apr 2026"
         },
         {
           "title": "Mit Radio Steiermark durchs Raabtal radeln - steiermark.ORF.at",
@@ -53,14 +53,8 @@
           "date": "27. Apr 2026"
         },
         {
-          "title": "Frühlingserwachen auf zwei Rädern: Anradeln am Raabtal-Radweg - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQblFsdFNZVmtNZTh2bGhrTjdZN25JUnh2TXJkOXpZRGtCcng5djM0SzRtUjd2bVdZbUZuemxnRGhYNXk5djZHVlNQblItT0lhSW1nYkkxY0QxNlFJaldVWkViNjlkaWlLSWxuanBJZ1FKVXVOY0h4dUtEOG8xTDFzZW05V0c2aVFGd21EcERTYTV4RGM?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "28. Apr 2026"
-        },
-        {
           "title": "Ab 1. Mai 2026: Die Westbahn wird steirischer Verbundpartner - Verbund Linie",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZjRvRUxiOF9xanBUVU4td0hfMGtvU0NETTJ2S0lvLWZKZWpqNFdnT1BwNVBrajFMWDlaOGpqNXVhZGJHa0pWd2t0V0dtTzIyeVRRSWtNVHdGeE53Uk82UGxpTExKZW1OZE00VWl0Vm5UUUxWTk5meUgydmZtbWN5Z1RzODlfNm1QTEhHdW90SUVWXzdyT0VHb1Exa09hMzQ2ckduLXg5bnF6T0NPd3ZzQnV0TmQyMFVuNDhPeGFOY1hnOGZndUpF?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTVhjRFEwWTVDTXQ1Yk91ZVlkYXBCSUxad29uOTlkYWpGdm9mRzRZZGJHX0ZJdnlvaFBXektJc18yR1lQcUkzamktNFJqb0oxZGhmMDZ4YTZGUXhZeUNfWHVZMTBub2dkRFVadUw0UXIyaFgwemQ5LXZ0Sy1ZQ3hKZVlGZzRHcF82aG8wYVV5aTB3TklEb3g1cFFEUmlkamN6YkRsQjdwWWpnNG1KQkVYdUFwMG4yTnZOMUxKenRJOTIyQQ?oc=5",
           "source": "Verbund Linie",
           "date": "29. Apr 2026"
         },
@@ -69,6 +63,12 @@
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9PbHBEUmVKY2hra2FBRzNVRVE2TmxEM0VFSGw0a0ExZlBVSkRhc1E2NkNuUnZqbkE5WlVxNXdRMWZvUQ?oc=5",
           "source": "Kronen Zeitung",
           "date": "30. Apr 2026"
+        },
+        {
+          "title": "Graz-Wahl: Neos wollen „Fahrverbot für Durchzugsverkehr“ auf Nebenstraßen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTG8xMGI5ek03Qy1TZDJaUFVCY1hMLW5kd0ZnWnJKcHVMSUxjaG91S1BBREtwcDIwU1AzdlNPb2drMHpKbGM3YWZuMGdyM3Z5cXl4bVpqUGJ2RzZLSWRTN3JISTNFUlllLWJoRTFQWjh0VHVZcDFzUTVOdW5xTHNxYU5kc1RGbktpcVBHYmZ5TXAya2Zwd3NSTlc3Mnh1QkFfbmJpelZCSGc2UERR?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "26. Apr 2026"
         }
       ]
     },
@@ -76,14 +76,8 @@
       "label": "Landeshochbau & Projekte",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Das Jahr 2025 steht in der Steiermark im Zeichen rekordhoher Investitionen von über 350 Millionen Euro zur umfassenden Stärkung des Landes. Diese umfassen nicht nur umfangreiche Infrastrukturmaßnahmen wie die fünfmonatige Sanierung der L 112 in Mariazell, sondern auch Rekordinvestitionen der Energie Steiermark, die ab Juni zu Tarifsenkungen führen.",
+      "summary": "Die Steiermark verzeichnet für 2025 einen neuen Rekord bei Investitionen von über 350 Mio. EUR zur umfassenden Stärkung des Landes. Ein Großteil dieser Mittel fließt in die Energieinfrastruktur, darunter Rekordinvestitionen der Energie Steiermark und die Förderung von Biomasseforschung an der Montanuni, sowie in die Unterstützung der Naturparke.",
       "items": [
-        {
-          "title": "L 112: In Mariazell startet fünfmonatige Sanierung - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nQzl1X1pRQVJYTmx5OTRzUjVMQWxsUDBKWFhaZ1Axal9wRmRNSTAwb2ViMDJpZXNCQVhPSy1mT25mNWRobDZxSF9EeVlKaUdsSzhzbXFmcTBVYzVGelZ4bUttMmNiV2lkMzh3Q1dhTHdMR0JzNzZBcw?oc=5",
-          "source": "Kommunikation - Land Steiermark",
-          "date": "29. Apr 2026"
-        },
         {
           "title": "Naturparke Steiermark: Starke Unterstützung für gelebten Naturschutz - Kommunikation - Land Steiermark",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vNFdyektnY0xSTmlQSEhTOTBoUnRtTlNYTmpoSmtaLU5Jc0M1b1Rkek9KSHl4OURNWTl6cWhoZnkwSWN3dlR4QlNCdEV4YjNZbHdQTlktbTVBcWtXN242aVVJaDN0MkVfUl83eXZCNjd4SWlLM1lV?oc=5",
@@ -97,6 +91,18 @@
           "date": "27. Apr 2026"
         },
         {
+          "title": "Investition in Biomasseforschung: Montanuni geht voran - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FM3lLaUkwa19JS1lIN2RhS3FTRWw3cklvNlB6dkFUaVRGM2lHMmZ0ZGZraXJDaHVuYkhvOGFDYTFvWTRueEFlQUlpTWVoOHpNR0ZXbg?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "27. Apr 2026"
+        },
+        {
+          "title": "Investment stärkt „Lagebild.one“ in der Steiermark - Militär Aktuell",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sVGhraWRCNXlFV242MDlSX0RUa3RRcGluMmlaempnS2I4aDNtY09PWW5mNkJYX2RZVG5EN3ZHZ2JQbF9vNnVyN2s1MVJyQ2JkS2RXcWNMa1VHV1cwSVhEVG1JdG43RFZrQ1BaNERhNmNIWG91OWVwRVhpbG5TZw?oc=5",
+          "source": "Militär Aktuell",
+          "date": "1. May 2026"
+        },
+        {
           "title": "2025 bringt neuen Rekord bei Investitionen: Über 350 Mio. EUR für Stärkung der Steiermark - OTS.at",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeVNmVkdkZ0VfLXRLZjdodU5lb0pQeUV3SzY3aVhPVkNValpoWWhSVzdSVFpQaXBsaDFodExnUlFSaE1xSmVfT3dxLXZHQXl4a2dFYkVZc2hZdFh6bmVDNkhVMnBKOUlCOVpKUWRXQzhQRFJBVXNCV1o1WnhmUnJLRnFTRkI0dkh5LTJTYjRNQUxnelFFSkNfSDNrN0Fqa2l2b3BsYzJ3ZmQ0dEdlbnc5V0ZTcWM2QVFBMV9ZYkF2TFpSQnItQjBGZnNWNm9iNGNZY3JrMVVEdS1LbHUxOVVOLQ?oc=5",
           "source": "OTS.at",
@@ -108,15 +114,8 @@
       "label": "UVP & Rechtliches",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Die ÖVP äußert sich kritisch zur Planung eines steirischen Straßenprojekts, indem sie zwar die Notwendigkeit der Sanierung befürwortet, jedoch die aktuelle Ausführung als fehlerhaft ablehnt. Diese politische Haltung deutet auf potenzielle Herausforderungen im Genehmigungsverfahren hin, insbesondere im Hinblick auf die Qualität der Projektunterlagen und mögliche Einsprüche.",
-      "items": [
-        {
-          "title": "ÖVP zu Straßenprojekt: „Wir stehen hinter Sanierung, aber nicht hinter falscher Planung“ - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOak1GMFNNcUxsTlktOFhNM1k0TGJNczFRcXp0T1hxVXJYLUxrRUQydUhEdURIMkpCdW5SNnlHSDZGbUZWeUFqYVJGa29ZZnNkRmZtOUNQSjlfamhjdDJ3bV9NUEZDNmR2WWxBaDhNVzFXNGthM0RZQkFrWFBwR28xWjdOYzMzRzRhTUtTYkxKQ3djdWRoZGtBdm95TVpxOTViUFljTVhMM0dfX0ltOHNtNjV4YmR5LVdsUlE?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "24. Apr 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     }
   }
 }
