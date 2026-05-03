@@ -1,12 +1,12 @@
 {
-  "generated": "03. May 2026, 06:14 UTC",
+  "generated": "03. May 2026, 06:22 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die Steiermark führt umfangreiche Sanierungsmaßnahmen an kritischen Infrastrukturen durch, darunter die Generalsanierung der Tunnelkette Pack an der A2 sowie eine fünfmonatige Sanierung der L 112 in Mariazell. Diese Arbeiten erfordern teilweise Totalsperrungen und werden mehrere Monate in Anspruch nehmen.",
+      "summary": "In der Steiermark stehen mehrere umfangreiche Sanierungsprojekte an, darunter die Generalsanierung der Tunnelkette Pack an der A2 sowie eine fünfmonatige Sanierung der L 112 in Mariazell, die mit Totalsperren verbunden ist. Diese Infrastrukturmaßnahmen erfordern längerfristige Verkehrsbeeinträchtigungen in den betroffenen Regionen.",
       "items": [
         {
           "title": "A2: Generalsanierung der Tunnelkette Pack - ÖAMTC",
@@ -32,7 +32,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Westbahn wird ab Mai 2026 als neuer Partner in den Verkehrsverbund Steiermark integriert und ermöglicht damit die Nutzung von Verbundtickets wie dem Klimaticket auf ihren Strecken. Parallel dazu arbeitet die Steiermark an ihrer ÖV-Strategie, wobei der Masterplan 2040 für Graz eine 30-prozentige Steigerung der Fahrgastzahlen anstrebt, während Sammeltaxis und die Thermenbahn weiterhin Diskussionspunkte bleiben.",
+      "summary": "Ab Mai 2026 wird die Westbahn als neuer Partner in den Verkehrsverbund Steiermark integriert, wodurch Fahrgäste mit dem Klimaticket auch auf Teilstrecken fahren können. Gleichzeitig sollen die Grazer Öffis durch den Masterplan ÖV 2040 ihre Fahrgastzahlen um 30 Prozent steigern, während Sammeltaxis in der Steiermark trotz hoher Nachfrage oft zu teuer bleiben und das Klimaticket künftig teurer wird.",
       "items": [
         {
           "title": "Ab 1. Mai 2026: Die Westbahn wird steirischer Verbundpartner - Verbund Linie",
@@ -88,7 +88,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "In der Steiermark werden Radwege wie das Raabtal-Radweg-Netzwerk als attraktive Mobilitätsalternative ausgebaut und durch Veranstaltungen wie Anradel-Aktionen gefördert. Gleichzeitig setzen Städte durch die Schaffung von Fußgängerbereichen und den Schutz von Bahnverbindungen auf eine nachhaltige Verkehrsplanung, die den Fuß- und Schienenverkehr priorisiert und problematische Verkehrsmittel wie E-Scooter reguliert.",
+      "summary": "Die Steiermark setzt verstärkt auf nachhaltige Mobilität, wie die Aktivierungskampagnen zum Radfahren am Raabtal-Radweg und die Schritte-Challenge mit Klimaticket-Gewinnen zeigen. Gleichzeitig werden Fußgängerzonen ausgebaut und der öffentliche Nahverkehr durch die Thermenbahn gestärkt, um den motorisierten Individualverkehr und problematische Mobilitätsformen wie E-Scooter zurückzudrängen.",
       "items": [
         {
           "title": "Frühlingserwachen auf zwei Rädern: Anradeln am Raabtal-Radweg - MeinBezirk.at",
@@ -109,6 +109,12 @@
           "date": "28. Apr 2026"
         },
         {
+          "title": "Schritte-Challenge: Klimaticket Steiermark als Preis für nachhaltige Bewegung zu gewinnen - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONV9DMzBiS0pGSEc4RXp1YUNPUzhNUl9rV012R0dLWVhPLXNxc3lBWjZiQUYwNmkwdHEzRXFZMjNPVGx4enlPcS1CWVJfMmpaX3NpbDFkTzlFUG9xQVBnRjhqZDN0Ynp2U19CR1lmTENaMVFEdmhlVTVDazFFcVU5NUxRUWh4M0dZRVFWYWpPMndCajdfdFFybDNFMXhZVUhaVjVFejM2cFNGWHBiRnFxLWVodUlYdDlfQVZ3Ny04RHc0Vnpy?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "28. Apr 2026"
+        },
+        {
           "title": "Droht Thermenbahn das Aus? Sorge um wichtige Bahnverbindung - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ1N4ZWQxTnNqd1M1RVVjQ211RmtUVmJiMUF3ZjROUVJLTExvMjd6ZEU2NHVISU15YTl1WjVaeUZFNmlqZXpnZWFJYWdRQVM4cXc4dE51ckt6cHliMnBRSkFPQ1VlaExrMjRmeHZubjNtNFdscUJTUmJOOHZzNlFBM1RKVzZkZW1ZNm5MbTdhY19iZWhmdFFwTFFhSzBDWlhwY0p1RGxWTQ?oc=5",
           "source": "5 Minuten",
@@ -120,8 +126,14 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Parktherme Bad Radkersburg investiert Millionen in die Modernisierung ihrer gastronomischen Einrichtungen und plant eine umfassende Neuausrichtung für 2026. Dieses Projekt unterstreicht die anhaltende Bedeutung von Thermalbädern als wichtige Infrastruktur und Wirtschaftsfaktoren in der steirischen Tourismuslandschaft.",
+      "summary": "Die Gemeinde Gamlitz wird als Vorreiter in der steirischen Baukultur ausgezeichnet und gehört zu den sieben besten Gemeinden Österreichs in diesem Bereich. Die Parktherme Bad Radkersburg investiert Millionen in die Neugestaltung ihrer Gastronomie, die 2026 eröffnet werden soll.",
       "items": [
+        {
+          "title": "Steirischer Vorreiter: Gamlitz unter den besten sieben Gemeinden Österreichs für Baukultur - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN2ZVb1hJaVJVZklZXzNWb0l1X2ZLOW9IaXFod0Y0RF9yYzlYSTAyeDY5N2tsRWJGV2ExM0NaWVR6eUllVFB4YzFhRDU0ejRsM0tDc3B5ZW0tdi1WTE5qLXVSYTktNnNIMGZJQjhDQm1BNnZMRHFkSzNfQS02WEIyV0ZpZ3VPOFNSSHY2T25IQ1dad3ZvR2h3ZjllbUZOU3NOOGp4Y1hCWHFxNlNNbU1ySWhCbk96RHBDM2dQbW9kY3E?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "29. Apr 2026"
+        },
         {
           "title": "Millionen-Investition: Parktherme Bad Radkersburg erfindet 2026 ihre Gastronomie neu - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDA2OHV5c2ZaSHZBa3dqWV9zczU4S2dxbFN2NVlxMzkxd3BQWjBaZTg2SWpFTmNPT0prcjcwTmRsZEpjeTNYbm1XVmdQQTN2MDViVkE3dmUxVTIxODBDLV85dldIaHBselVGdV9zVWpmN25waE9GejlTTHg2UWZidDlNaVhTdFYyQmQ2V2RXYUFWRXNMQWxDV2c3MzdEMmhIbEVzcWo4NDdtSHdBR3prS1dLbVZpZ2JXNHNzSmNNM2owekVYeFE?oc=5",
