@@ -1,12 +1,12 @@
 {
-  "generated": "02. May 2026, 18:40 UTC",
+  "generated": "03. May 2026, 06:05 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strassenbau": {
       "label": "Straßenbau & Sanierung",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "In der Steiermark stehen mehrere bedeutende Infrastrukturprojekte an, darunter die Generalsanierung der Tunnelkette Pack an der A2 sowie eine umfangreiche fünfmonatige Sanierung der L 112 in Mariazell, die mit Totalsperren verbunden ist.",
+      "summary": "Die Steiermark führt derzeit umfangreiche Infrastrukturmaßnahmen durch, darunter eine Generalsanierung der Tunnelkette Pack an der A2 sowie eine fünfmonatige Sanierung der L 112 in Mariazell mit Totalsperren. Diese Großprojekte erfordern erhebliche Verkehrsbeeinträchtigungen und sind Teil der notwendigen Instandhaltung des steirischen Straßennetzes.",
       "items": [
         {
           "title": "A2: Generalsanierung der Tunnelkette Pack - ÖAMTC",
@@ -15,15 +15,15 @@
           "date": "28. Apr 2026"
         },
         {
-          "title": "L 112: In Mariazell startet fünfmonatige Sanierung - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lVzBLOThIczBmR3k4VV9qalVxV3BmeXlGUmNpbmdJRS0xR1FyWTFMSFo5aVJOUlZYY3RIelBHbkRJZFJ0VzBpc01vLXRFWXZhREFPcmEtcFpYZVpUbHI0WnphU0t6dUtieWdzMHcyOA?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "29. Apr 2026"
-        },
-        {
           "title": "Mit Totalsperren: Monatelange Straßensanierung in Mariazell startet - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdkZ4Y0cwbVBmQkk0Yk45ZVd5MlR0ZkFGUm5XazZXRjNGLWg2bV9yZ0xwdDg4NWYyNUdHYkt3YUZNb1dMRTJPM2kzTFhHeEhxRXdJUTVMRGI4VmI4dnJQQ0NOMXB4bnY5VWUwejdULXh3Z2sxRVhubEIxZUwyc1ZEMHdHWW9rbmtSRUVGZlFDR05XZndFUmNLUGg3MnFWVjBFMUxMeDhSNzZvYXhJUlVnOTFyWQ?oc=5",
           "source": "Kleine Zeitung",
+          "date": "29. Apr 2026"
+        },
+        {
+          "title": "L 112: In Mariazell startet fünfmonatige Sanierung - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lVzBLOThIczBmR3k4VV9qalVxV3BmeXlGUmNpbmdJRS0xR1FyWTFMSFo5aVJOUlZYY3RIelBHbkRJZFJ0VzBpc01vLXRFWXZhREFPcmEtcFpYZVpUbHI0WnphU0t6dUtieWdzMHcyOA?oc=5",
+          "source": "Land Steiermark News Portal",
           "date": "29. Apr 2026"
         }
       ]
@@ -39,7 +39,7 @@
       "label": "Verkehrsplanung & Mobilität",
       "icon": "🚦",
       "color": "#003399",
-      "summary": "Die Steiermark investiert verstärkt in die Radverkehrsinfrastruktur, wie die zunehmenden Aktivitäten rund um den Raabtal-Radweg zeigen, während gleichzeitig der öffentliche Verkehr durch die Integration der Westbahn in den Verbund ab 2026 ausgebaut wird. Allerdings bleiben Herausforderungen wie die Erschwinglichkeit von Mikro-ÖV-Angeboten und die Verkehrslenkung in städtischen Bereichen, etwa durch geplante Fahrverbote in Graz, zentrale Themen der steirischen Mobilitätsstrategie.",
+      "summary": "Die Steiermark investiert verstärkt in Radverkehrsinfrastruktur wie den Raabtal-Radweg und erweitert ihr öffentliches Verkehrsnetz durch die Integration der Westbahn als neuer Verbundpartner ab Mai 2026. Gleichzeitig zeigen sich Herausforderungen bei der Finanzierbarkeit von Mikro-ÖV-Lösungen und bei der Verkehrsberuhigung in städtischen Bereichen, wie Diskussionen um Durchfahrtsbeschränkungen in Graz verdeutlichen.",
       "items": [
         {
           "title": "Frühlingserwachen auf zwei Rädern: Anradeln am Raabtal-Radweg - MeinBezirk.at",
@@ -77,13 +77,13 @@
       "label": "Landeshochbau & Projekte",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Das Land Steiermark investiert 2025 mit über 350 Millionen Euro in Rekordmaße in die Infrastruktur, wobei Energie Steiermark, Naturparke und Forschungseinrichtungen wie die Montanuni von erheblichen Mitteln profitieren. Parallel dazu werden auch touristische und wirtschaftliche Projekte wie die Parktherme Bad Radkersburg modernisiert, um die Wettbewerbsfähigkeit und Lebensqualität in der Region nachhaltig zu stärken.",
+      "summary": "Die Steiermark investiert 2025 mit über 350 Millionen Euro in Rekordmaße in ihre Infrastruktur, wobei Energie Steiermark mit massiven Investitionen vorangeht und ab Juni Tarifsenkungen ermöglicht. Parallel werden Forschungseinrichtungen wie die Montanuniversität in Zukunftstechnologien wie Biomasseforschung gefördert und Naturschutzprojekte sowie strategische Sicherheitsinfrastrukturen gestärkt.",
       "items": [
         {
-          "title": "Land stärkt steirische Naturparke mit 375.000 Euro - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSkZZSE40THN4TmRLdW1CNHRzSUIySVBxeXc1T1l2dXZNYzVmbVR2T3RLUE5SVE1Ja3NLZmxIaG1iZjliQzNOUkRwN3lybDR3T1FlWVh4Nzk4cGh4QU12M29BSzNBeUh3Yk9rOHNHMzJiNEo1NGJkYmRERTgzRDdCX3U3SENWWHg2MUM4STZ3d3JVWl8yYkc1d3c2MUd3Zw?oc=5",
-          "source": "5 Minuten",
-          "date": "1. May 2026"
+          "title": "Naturparke Steiermark: Starke Unterstützung für gelebten Naturschutz - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oNzZ2c0gwMDNfclhkb1JXdHNlS0VSNUVMSkJpLThyc0J4bmsyN0FyTXVwRTFsZUxYWGJ1NTRvUXNrZDVtcTk3R3VvOC1OVzZYX3FVQ1JJaXF1MHJtemtkVkl1V3NSOWtXVS1UcXlB?oc=5",
+          "source": "Land Steiermark News Portal",
+          "date": "30. Apr 2026"
         },
         {
           "title": "Tarifsenkung ab Juni kommt: Energie Steiermark verzeichnete 2025 Rekord-Investition - MeinBezirk.at",
@@ -108,12 +108,6 @@
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeVNmVkdkZ0VfLXRLZjdodU5lb0pQeUV3SzY3aVhPVkNValpoWWhSVzdSVFpQaXBsaDFodExnUlFSaE1xSmVfT3dxLXZHQXl4a2dFYkVZc2hZdFh6bmVDNkhVMnBKOUlCOVpKUWRXQzhQRFJBVXNCV1o1WnhmUnJLRnFTRkI0dkh5LTJTYjRNQUxnelFFSkNfSDNrN0Fqa2l2b3BsYzJ3ZmQ0dEdlbnc5V0ZTcWM2QVFBMV9ZYkF2TFpSQnItQjBGZnNWNm9iNGNZY3JrMVVEdS1LbHUxOVVOLQ?oc=5",
           "source": "OTS.at",
           "date": "27. Apr 2026"
-        },
-        {
-          "title": "Millionen-Investition: Parktherme Bad Radkersburg erfindet 2026 ihre Gastronomie neu - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDA2OHV5c2ZaSHZBa3dqWV9zczU4S2dxbFN2NVlxMzkxd3BQWjBaZTg2SWpFTmNPT0prcjcwTmRsZEpjeTNYbm1XVmdQQTN2MDViVkE3dmUxVTIxODBDLV85dldIaHBselVGdV9zVWpmN25waE9GejlTTHg2UWZidDlNaVhTdFYyQmQ2V2RXYUFWRXNMQWxDV2c3MzdEMmhIbEVzcWo4NDdtSHdBR3prS1dLbVZpZ2JXNHNzSmNNM2owekVYeFE?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "29. Apr 2026"
         }
       ]
     },
