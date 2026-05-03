@@ -2,6 +2,14 @@
 A16 News Fetcher – Abteilung 16 Verkehr und Landeshochbau
 Amt der Steiermärkischen Landesregierung
 Fetches RSS feeds, summarizes with Claude Haiku or Gemini, saves to docs/data.json
+
+Tab structure aligned with the official A16 referate
+(https://www.verwaltung.steiermark.at/cms/ziel/74967336/DE/):
+  - Straßeninfrastruktur (Neubau + Bestand/Sanierung)
+  - Öffentlicher Verkehr
+  - Mobilität & Verkehrssicherheit
+  - Landeshochbau & Baukultur
+  - Verkehrsbehörde & UVP
 """
 
 import json
@@ -47,8 +55,8 @@ if AI_PROVIDER not in ("claude", "gemini"):
 
 MAX_ITEMS_FROM_FEED    = 100
 MAX_AGE_DAYS           = 7
-MAX_ITEMS_PER_CATEGORY = 8     # Was 6 — number of headlines shown per category
-MAX_TITLES_FOR_SUMMARY = 8     # Was 6 — number of headlines sent to AI for summary
+MAX_ITEMS_PER_CATEGORY = 8
+MAX_TITLES_FOR_SUMMARY = 8
 
 # Pauses between AI calls. Claude Haiku has generous rate limits, so a short
 # pause is sufficient. Gemini free tier is tighter, so longer pause + retries.
@@ -71,13 +79,15 @@ def gnews(query: str, lang: str = "de", country: str = "AT") -> str:
 
 
 CATEGORIES = {
-    "strassenbau": {
-        "label": "Straßenbau & Sanierung",
+    "strasseninfrastruktur": {
+        "label": "Straßeninfrastruktur",
         "icon": "🛣️",
         "color": "#1a5c38",
         "feeds": [
-            gnews("Landesstraße Steiermark Bau Sanierung"),
+            gnews("Landesstraße Steiermark Bau"),
+            gnews("Landesstraße Steiermark Sanierung"),
             gnews("Straßenbau Steiermark"),
+            gnews("Straßenerhaltung Steiermark"),
             gnews("Umfahrung Steiermark"),
             gnews("Tunnel Steiermark"),
             gnews("Brücke Steiermark Sanierung"),
@@ -86,57 +96,60 @@ CATEGORIES = {
             gnews("Abteilung 16 Steiermark Straße"),
         ],
         "summary_prompt": (
-            "Du bist Experte für Straßenbau und Verkehrsinfrastruktur in der Steiermark. "
-            "Fasse die folgenden Nachrichtentitel zu Straßenbau, Sanierungen, Tunneln und "
-            "Brücken in der Steiermark in 2 prägnanten deutschen Sätzen zusammen. "
-            "Antworte NUR mit Fließtext, keine Aufzählungen."
+            "Du bist Experte für Straßeninfrastruktur in der Steiermark. "
+            "Fasse die folgenden Nachrichtentitel zu Straßenbau, Straßenerhaltung, "
+            "Sanierungen, Tunneln, Brücken und Umfahrungen in 2 prägnanten deutschen "
+            "Sätzen zusammen. Antworte NUR mit Fließtext, keine Aufzählungen."
         ),
     },
-    "laermschutz": {
-        "label": "Lärmschutz",
-        "icon": "🔇",
+    "oeffentlicher_verkehr": {
+        "label": "Öffentlicher Verkehr",
+        "icon": "🚌",
         "color": "#c8102e",
         "feeds": [
-            gnews("Lärmschutz Steiermark Landesstraße"),
-            gnews("Lärmschutzwand Steiermark"),
-            gnews("Lärmschutzfenster Steiermark"),
-            gnews("Verkehrslärm Steiermark Landesstraße"),
-            gnews("Umgebungslärm Steiermark A16"),
-            gnews("Lärmschutz Förderung Steiermark"),
-            gnews("Abteilung 16 Lärmschutz Steiermark"),
-            gnews("UVP Verfahren Steiermark Lärm"),
+            gnews("Öffentlicher Verkehr Steiermark"),
+            gnews("ÖV Steiermark"),
+            gnews("Bus Steiermark Verkehrsverbund"),
+            gnews("S-Bahn Steiermark"),
+            gnews("Verkehrsverbund Steiermark"),
+            gnews("Bahnausbau Steiermark"),
+            gnews("Steirische Verkehrsverbund Linie GmbH"),
+            gnews("Pendler Bahn Steiermark"),
+            gnews("Klimaticket Steiermark"),
+            gnews("Mikro-ÖV Steiermark"),
         ],
         "summary_prompt": (
-            "Du bist Experte für Lärmschutz an steirischen Landesstraßen. "
-            "Fasse die folgenden Nachrichtentitel zu Lärmschutzmaßnahmen, "
-            "Lärmschutzwänden und -fenstern sowie UVP-Verfahren in der Steiermark "
-            "in 2 prägnanten deutschen Sätzen zusammen. "
+            "Du bist Experte für den öffentlichen Verkehr in der Steiermark. "
+            "Fasse die folgenden Nachrichtentitel zu öffentlichem Verkehr, Verkehrsverbund, "
+            "S-Bahn, Bus und Bahnausbau in 2 prägnanten deutschen Sätzen zusammen. "
             "Antworte NUR mit Fließtext, keine Aufzählungen."
         ),
     },
-    "verkehrsplanung": {
-        "label": "Verkehrsplanung & Mobilität",
-        "icon": "🚦",
+    "mobilitaet": {
+        "label": "Mobilität & Verkehrssicherheit",
+        "icon": "🚲",
         "color": "#003399",
         "feeds": [
             gnews("Verkehrsplanung Steiermark"),
             gnews("Mobilitätsstrategie Steiermark"),
+            gnews("Gesamtverkehrsprogramm Steiermark"),
             gnews("Radweg Steiermark"),
-            gnews("Öffentlicher Verkehr Steiermark"),
+            gnews("Radoffensive Steiermark"),
+            gnews("Fußverkehr Steiermark"),
             gnews("Verkehrssicherheit Steiermark"),
-            gnews("Pendler Steiermark Verkehr"),
-            gnews("Stau Steiermark Landesstraße"),
-            gnews("Verkehr Graz Umgebung Steiermark"),
+            gnews("Unfallhäufungsstellen Steiermark"),
+            gnews("Verkehrserziehung Steiermark"),
+            gnews("nachhaltige Mobilität Steiermark"),
         ],
         "summary_prompt": (
-            "Du bist Experte für Verkehrsplanung und Mobilität in der Steiermark. "
-            "Fasse die folgenden Nachrichtentitel zu Verkehrsplanung, Radwegen, "
-            "öffentlichem Verkehr und Mobilitätsstrategien in 2 prägnanten deutschen "
-            "Sätzen zusammen. Antworte NUR mit Fließtext, keine Aufzählungen."
+            "Du bist Experte für Mobilität und Verkehrssicherheit in der Steiermark. "
+            "Fasse die folgenden Nachrichtentitel zu Verkehrsplanung, Radwegen, Fußverkehr, "
+            "nachhaltiger Mobilität und Verkehrssicherheit in 2 prägnanten deutschen Sätzen "
+            "zusammen. Antworte NUR mit Fließtext, keine Aufzählungen."
         ),
     },
     "landeshochbau": {
-        "label": "Landeshochbau & Projekte",
+        "label": "Landeshochbau & Baukultur",
         "icon": "🏛️",
         "color": "#5a5a5a",
         "feeds": [
@@ -146,35 +159,39 @@ CATEGORIES = {
             gnews("Schulbau Steiermark Land"),
             gnews("Krankenhaus Steiermark Bau"),
             gnews("öffentliches Gebäude Steiermark Sanierung"),
-            gnews("Förderung Steiermark Infrastruktur"),
-            gnews("Investition Steiermark Bau"),
+            gnews("Baukultur Steiermark Land"),
+            gnews("Architekturpreis Steiermark öffentlich"),
+            gnews("Liegenschaft Land Steiermark"),
+            gnews("Investition Steiermark öffentlicher Bau"),
         ],
         "summary_prompt": (
-            "Du bist Experte für Landeshochbau und öffentliche Bauprojekte in der Steiermark. "
+            "Du bist Experte für Landeshochbau und Baukultur in der Steiermark. "
             "Fasse die folgenden Nachrichtentitel zu Hochbauprojekten, Schulbauten, "
-            "öffentlichen Gebäuden und Infrastrukturinvestitionen in 2 prägnanten deutschen "
+            "öffentlichen Gebäuden, Liegenschaften und Baukultur in 2 prägnanten deutschen "
             "Sätzen zusammen. Antworte NUR mit Fließtext, keine Aufzählungen."
         ),
     },
-    "uvp_recht": {
-        "label": "UVP & Rechtliches",
+    "behoerde_uvp": {
+        "label": "Verkehrsbehörde & UVP",
         "icon": "⚖️",
         "color": "#7b4f12",
         "feeds": [
             gnews("UVP Verfahren Steiermark Verkehr"),
-            gnews("Umweltverträglichkeitsprüfung Steiermark"),
+            gnews("Umweltverträglichkeitsprüfung Steiermark Straße"),
             gnews("Genehmigung Straßenprojekt Steiermark"),
+            gnews("Verkehrsbehörde Steiermark"),
             gnews("Behördenverfahren Steiermark Verkehr"),
             gnews("Enteignung Steiermark Straße"),
             gnews("Einspruch Straßenbau Steiermark"),
             gnews("Verwaltungsgericht Steiermark Verkehr"),
-            gnews("Raumordnung Steiermark Straße Verkehr"),
+            gnews("Verkehrsverordnung Steiermark"),
         ],
         "summary_prompt": (
-            "Du bist Experte für Behördenverfahren und Rechtsfragen im steirischen Verkehrsbereich. "
-            "Fasse die folgenden Nachrichtentitel zu UVP-Verfahren, Genehmigungen, "
-            "Einsprüchen und verwaltungsrechtlichen Themen in 2 prägnanten deutschen "
-            "Sätzen zusammen. Antworte NUR mit Fließtext, keine Aufzählungen."
+            "Du bist Experte für die Verkehrsbehörde und Behördenverfahren im steirischen "
+            "Verkehrsbereich. Fasse die folgenden Nachrichtentitel zu UVP-Verfahren, "
+            "Genehmigungen, Verkehrsverordnungen, Einsprüchen und verwaltungsrechtlichen "
+            "Themen in 2 prägnanten deutschen Sätzen zusammen. "
+            "Antworte NUR mit Fließtext, keine Aufzählungen."
         ),
     },
 }
