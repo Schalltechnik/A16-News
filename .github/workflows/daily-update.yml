@@ -3,7 +3,7 @@ name: A16 News Update
 on:
   schedule:
     # 03:00 UTC = 05:00 Graz
-    - cron: "0 3 * * *"
+    - cron: "53 3 * * *"
   workflow_dispatch:
 
 jobs:
