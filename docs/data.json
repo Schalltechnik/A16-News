@@ -1,12 +1,12 @@
 {
-  "generated": "05. May 2026, 05:31 UTC",
+  "generated": "06. May 2026, 05:45 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "In der Steiermark laufen mehrere bedeutende Infrastrukturprojekte: Die Sanierung der 200 Meter langen Brücke am Präbichl an der B 115 sowie eine fünfmonatige Totalsperrung und Sanierung der L 112 in Mariazell sind im Gange. Zusätzlich wird die Tunnelkette Pack an der A2 einer Generalsanierung unterzogen, während touristische Angebote wie Bustourenzum Semmering-Basistunnel und Viadukt die infrastrukturelle Bedeutung dieser Bauwerke unterstreichen.",
+      "summary": "In der Steiermark laufen derzeit mehrere bedeutende Straßensanierungsprojekte, darunter die Sanierung einer 200 Meter langen Brücke am Präbichl an der B 115 und eine fünfmonatige Totalsperrung der L 112 in Mariazell. Trotz dieser Infrastrukturmaßnahmen bleiben Ablenkung und Unachtsamkeit die Hauptursachen für Verkehrsunfälle im Land.",
       "items": [
         {
           "title": "B 115: Am Präbichl wird 200 Meter lange Brücke saniert - Land Steiermark News Portal",
@@ -15,22 +15,10 @@
           "date": "4. May 2026"
         },
         {
-          "title": "Über Semmering: Bustour zwischen Basistunnel, Viadukt und Napoleon - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbEhzendoTmRMU2tuWTJsd2VHOUtrdEdpSGFjN3lTLUhWdWVzczJUYlpZN2lXSFk2ZldFZVlOS0VoWnd0WDBER1hPNXVTMWoxenphTGxtSHg1QTIzSEJDTHRNQmVhVUVWSlhnVTF6Y1RqdHlNUC14NDdDYlNXUEF1S21fUU0zUjRsSE93YUFqWDJYSXhEdEVqV0xsV09mbGU1clE?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "4. May 2026"
-        },
-        {
-          "title": "A2: Generalsanierung der Tunnelkette Pack - ÖAMTC",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMy1tOTZqdVA0eV9kS05NdzNseWgzSjgyQnZHUmJfSFB1VGdBMzlzdHhRU3paZnl0VFlkSGNHZTIwSldZTE1LR1Z6ZlhRdXppaXNKRHhHTTR5TjY5OHRoSS1MNEtQOEs1REw1T0diMTdKNGR2bF9kbEdkdFRrdVphZjlrODJsMUM2M0JTNzlEUFc?oc=5",
-          "source": "ÖAMTC",
-          "date": "28. Apr 2026"
-        },
-        {
-          "title": "Maiaufmärsche in Graz - ÖAMTC",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96MHlqak01dGxXUmNucUw2bzduUVl1QkJjRjRoTmZFRVhuLVlUSlYtd3VWVUljajNtTktwRUZTLVJpZ29wcUdOaEhFdUd2cGVRNi1tdFpfSE11QjMyUWI0bHF0cUYtS1dnT1g0TTNfeE1YRk41bzZLLQ?oc=5",
-          "source": "ÖAMTC",
-          "date": "28. Apr 2026"
+          "title": "L 112: In Mariazell startet fünfmonatige Sanierung - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lVzBLOThIczBmR3k4VV9qalVxV3BmeXlGUmNpbmdJRS0xR1FyWTFMSFo5aVJOUlZYY3RIelBHbkRJZFJ0VzBpc01vLXRFWXZhREFPcmEtcFpYZVpUbHI0WnphU0t6dUtieWdzMHcyOA?oc=5",
+          "source": "Land Steiermark News Portal",
+          "date": "29. Apr 2026"
         },
         {
           "title": "Mit Totalsperren: Monatelange Straßensanierung in Mariazell startet - Kleine Zeitung",
@@ -39,10 +27,10 @@
           "date": "29. Apr 2026"
         },
         {
-          "title": "L 112: In Mariazell startet fünfmonatige Sanierung - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lVzBLOThIczBmR3k4VV9qalVxV3BmeXlGUmNpbmdJRS0xR1FyWTFMSFo5aVJOUlZYY3RIelBHbkRJZFJ0VzBpc01vLXRFWXZhREFPcmEtcFpYZVpUbHI0WnphU0t6dUtieWdzMHcyOA?oc=5",
+          "title": "Ablenkung und Unachtsamkeit sind nach wie vor Unfallursache Nummer 1 - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0ydmEtUF9ONlUwcFlSbVpWMDE3UVNub3ZfckVUSWtvM3ljTldCX01DN1F5UTQweVdWNWRHSXpnSG1sX3I3dE90Z21LTmpoV1VBVGhrcWNBX1J6Y1BaZkV6cDlZNlpjbFNtS3l4YkNWNA?oc=5",
           "source": "Land Steiermark News Portal",
-          "date": "29. Apr 2026"
+          "date": "5. May 2026"
         }
       ]
     },
@@ -50,7 +38,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Westbahn wird ab Mai 2026 als neuer Partner in den Verkehrsverbund Steiermark integriert, wodurch das Klimaticket auch auf Teilstrecken dieser Bahn gültig wird. Während Graz mit seinem Masterplan ÖV 2040 die Fahrgastzahlen um 30 Prozent steigern möchte, bleiben Herausforderungen wie zu teure Sammeltaxis im Mikro-ÖV und Zugausfälle auf GKB-Strecken bestehen.",
+      "summary": "Ab Mai 2026 wird die Westbahn als neuer Partner in den Verkehrsverbund Steiermark integriert, wodurch Fahrgäste vermehrt mit einheitlichen Tickets wie dem Klimaticket reisen können. Gleichzeitig zeigen sich Herausforderungen im steirischen Öffentlichen Verkehr, da Sammeltaxis trotz hoher Nachfrage oft zu teuer sind und Zugausfälle auf einzelnen Strecken wie der GKB-Linie Fahrgäste verärgern.",
       "items": [
         {
           "title": "Ab 1. Mai 2026: Die Westbahn wird steirischer Verbundpartner - Verbund Linie",
@@ -63,12 +51,6 @@
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9PbHBEUmVKY2hra2FBRzNVRVE2TmxEM0VFSGw0a0ExZlBVSkRhc1E2NkNuUnZqbkE5WlVxNXdRMWZvUQ?oc=5",
           "source": "Kronen Zeitung",
           "date": "30. Apr 2026"
-        },
-        {
-          "title": "Masterplan ÖV 2040: Grazer Öffis sollen 30 Prozent mehr Gäste schaffen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYUxPV0NWZGZRQ0dtTnBLanhwbDEteEd2bWFNYl80T1V1NjlhSTVYLUR1SkdOSDFvT0N5eFQzLXZEOXpZY3k3LXMxNnJOaEpnYmJzVFdpOVRhekNHU083RFZCTmdMQTZGendfbFV6TjlmbGdtUDFkVFR6RzFwM0JBRE9FQnFZWkRqT1BQVnVLTGRhTjFVZVAxbzBWNktPVDlYMkhkNlgtUGR5RW9u?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "28. Apr 2026"
         },
         {
           "title": "Tickets gültig: Westbahn ist neuer Partner im Verkehrsverbund Steiermark - MeinBezirk.at",
@@ -89,12 +71,6 @@
           "date": "29. Apr 2026"
         },
         {
-          "title": "Diskussion über Zukunft der Thermenbahn - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81dG1EZEpHc1FNUXZSbk50VThlNTJyRmt2WG9DTzhQUlVGMFlCNFd0aHFRR2thVDVaanRBZHoxTkE1b1doajdhOHdMSHVYeXNvYXNQTg?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "28. Apr 2026"
-        },
-        {
           "title": "Zugausfälle und Chaos: Probleme auf GKB-Strecke verärgern Fahrgäste - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1RPb1ZzSzVzWW90QWtKYVJwQVozVENkN09zSFpfS0gtdVFuT0Q0RnpfVElHTnRFNVFTb1ZhaW5GUmhLS2tHbmZBSTBHZUozMUIxRFlwaDY5UTJxNl9pVUNLLUl1RWU0YWh1czFHaVBicHl2ZFQtLWYtV09fdVBhaUpzOFRQNFhUcnh6bXZuSWdOc3NoX1hIanhRbHV0MzNLRFFQSUtmZkE1QUNiNU4tM25RU09vUQ?oc=5",
           "source": "5 Minuten",
@@ -106,8 +82,14 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark investiert aktiv in nachhaltige Mobilität, wie die erfolgreiche Sternfahrt am Raabtal-Radweg R11 und eine Schritte-Challenge mit Klimaticket-Gewinn zeigen. Gleichzeitig werden Fußgängerzonen durch Verbote von E-Scootern sicherer gestaltet, während die Zukunft wichtiger Bahnverbindungen wie der Thermenbahn gefährdet ist.",
+      "summary": "Die Steiermark intensiviert ihre Bemühungen um nachhaltige Mobilität durch Radoffensiven und Schulungsprogramme für neue Verkehrsmittel wie E-Scooter, wobei jedoch Koordinationsprobleme zwischen Graz und dem Land entstehen. Gleichzeitig bleiben Ablenkung und mangelnde Aufmerksamkeit die Hauptursachen für steigende Unfallzahlen, insbesondere bei Elektro-Zweirädern, weshalb verstärkte Verkehrssicherheitsmaßnahmen notwendig sind.",
       "items": [
+        {
+          "title": "Graz und Steiermark kommen sich bei Radoffensive zunehmend in die Quere - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS25qMGtMY0J1R0xqaDJKa0NwR0ZnMlozVW8wWU9RU2theUFZN2dsNnlISm9IZm1WQWQ5c0tpeTFEMnd6Q0F2XzdDYl96XzhhNmlIYWxiLXVKcjlxaG83U3cxZmZTVlVSVUZMd1BpVHdxX0hZbmIxY3VHck1NOGNHNVNJdU5felJkNzZKdVdPd2YwZF9hdmhzYXJJYzYzZVcybWxRUWcwd2hhc0dvckctTHZR?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "6. May 2026"
+        },
         {
           "title": "Sternfahrt nach Feldbach: Erich Fuchs sorgt für Top-Stimmung am Raabtal-Radweg R11 - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSHNlYkNhWTBQeWRuVFRhM3FUX3F6a3BvM242aWdjQ3VaTGY4Ykgta0hOcFY0bEVUYVNOeTYwamhpbGRQb3JhRVU4RzlJeFFxcEY3b0RnNlN0b2hwRlltSTI4TnNHS3hEU2RDeXF0V1REQ3Z3YXhpYXNHdVpoNzh3Rk5pWC1DekViM2VpSHJ3MlkzMGgzamd6STV0b19KX0xVakFQOU92cDE1d3hjcFhRLUdMT3Q5OXgzMVE?oc=5",
@@ -115,22 +97,28 @@
           "date": "4. May 2026"
         },
         {
-          "title": "Steirische Stadt schafft Fußgängerbereich, um E-Scooter zu verbannen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTlFrN2p5OE5SOU9RVFc5T3BzR09yc2VhNkpfdHNHcVJQZlpqam96NmhIckUzWmZScXU0NWZPMERkQnpHWWFReWp0dGxwWm10SHk4WTZRaUNWaGlIV2p6QU9ScDVZTUExY3BOeHRhVm5QUGtRRWJHYTBKSjRxRm9NNF8tcWNjUjVONUlsVDYtbUNmS3lNck9SYmJ4UjhVQkFhSmNpOXV6Wks5YUgtVG1RT2diNHVXZw?oc=5",
+          "title": "Neues Programm für Verkehrssicherheit - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU1VEU0J5MUdDTl9zcEVjNUFZSldZUHdmLWFqcGxaN2t0UW9iaE5qcjE3ellHcVY3bXgyYWJlT2twbEkxV1lrRHBNTkhzNFJDSzlfVzR0dUJIS0kzVlJWeGdtUGZHaDZjbU95TThtdWN6bmVsa01CbENtQTVoY0NndVBsWUVfZlk?oc=5",
+          "source": "ORF ON",
+          "date": "5. May 2026"
+        },
+        {
+          "title": "Verkehrssicherheit - Unfälle mit Elektro-Zweirädern nehmen stark zu - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB2bVVZcWxFaE1iOXg4cjMtdmhJYlRpcE9iUlFkbWptRmFOQ3AycjJ1bV9CcEtGSi05Xy1wVzRyV2dxQQ?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "5. May 2026"
+        },
+        {
+          "title": "Kostenlose Kurse für E-Scooter-Lenker in der Steiermark - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeldReWk2MDZzaWs1RGkyQWxRSC1Gbm9UVUxDZ3ZjTC1HQ09PWFpxTG9YY21RRFhwT3JfSG1fNXUxaWIzcUFRUUpqZmlnQ2lyMVNtd1NuTWNQVHVCWXhiOUtscEhKVkw4OXlQcU5UTG1nSEt6THc5N0YwdGtwNnNDU3h6RlFhTFJPS3FpMmt6d1NPTlBJUjNxX0ZNT1M5ZTM2blE?oc=5",
           "source": "Kleine Zeitung",
-          "date": "28. Apr 2026"
+          "date": "5. May 2026"
         },
         {
-          "title": "Schritte-Challenge: Klimaticket Steiermark als Preis für nachhaltige Bewegung zu gewinnen - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONV9DMzBiS0pGSEc4RXp1YUNPUzhNUl9rV012R0dLWVhPLXNxc3lBWjZiQUYwNmkwdHEzRXFZMjNPVGx4enlPcS1CWVJfMmpaX3NpbDFkTzlFUG9xQVBnRjhqZDN0Ynp2U19CR1lmTENaMVFEdmhlVTVDazFFcVU5NUxRUWh4M0dZRVFWYWpPMndCajdfdFFybDNFMXhZVUhaVjVFejM2cFNGWHBiRnFxLWVodUlYdDlfQVZ3Ny04RHc0Vnpy?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "28. Apr 2026"
-        },
-        {
-          "title": "Droht Thermenbahn das Aus? Sorge um wichtige Bahnverbindung - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ1N4ZWQxTnNqd1M1RVVjQ211RmtUVmJiMUF3ZjROUVJLTExvMjd6ZEU2NHVISU15YTl1WjVaeUZFNmlqZXpnZWFJYWdRQVM4cXc4dE51ckt6cHliMnBRSkFPQ1VlaExrMjRmeHZubjNtNFdscUJTUmJOOHZzNlFBM1RKVzZkZW1ZNm5MbTdhY19iZWhmdFFwTFFhSzBDWlhwY0p1RGxWTQ?oc=5",
-          "source": "5 Minuten",
-          "date": "28. Apr 2026"
+          "title": "Ablenkung und Unachtsamkeit sind nach wie vor Unfallursache Nummer 1 - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0ydmEtUF9ONlUwcFlSbVpWMDE3UVNub3ZfckVUSWtvM3ljTldCX01DN1F5UTQweVdWNWRHSXpnSG1sX3I3dE90Z21LTmpoV1VBVGhrcWNBX1J6Y1BaZkV6cDlZNlpjbFNtS3l4YkNWNA?oc=5",
+          "source": "Land Steiermark News Portal",
+          "date": "5. May 2026"
         }
       ]
     },
@@ -138,17 +126,11 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Gemeinde Gamlitz wird als steirischer Vorreiter für vorbildliche Baukultur ausgezeichnet und gehört zu den sieben besten Gemeinden Österreichs in diesem Bereich. Die Parktherme Bad Radkersburg investiert Millionen in die Modernisierung ihrer Gastronomie, die 2026 neu eröffnet werden soll.",
+      "summary": "Die Gemeinde Gamlitz wird als steirischer Vorreiter für vorbildliche Baukultur anerkannt und zählt zu den besten sieben Gemeinden Österreichs in diesem Bereich. Die Auszeichnung unterstreicht das Engagement der südsteirischen Gemeinde für qualitätsvolle Architektur und nachhaltige Siedlungsentwicklung.",
       "items": [
         {
           "title": "Steirischer Vorreiter: Gamlitz unter den besten sieben Gemeinden Österreichs für Baukultur - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN2ZVb1hJaVJVZklZXzNWb0l1X2ZLOW9IaXFod0Y0RF9yYzlYSTAyeDY5N2tsRWJGV2ExM0NaWVR6eUllVFB4YzFhRDU0ejRsM0tDc3B5ZW0tdi1WTE5qLXVSYTktNnNIMGZJQjhDQm1BNnZMRHFkSzNfQS02WEIyV0ZpZ3VPOFNSSHY2T25IQ1dad3ZvR2h3ZjllbUZOU3NOOGp4Y1hCWHFxNlNNbU1ySWhCbk96RHBDM2dQbW9kY3E?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "29. Apr 2026"
-        },
-        {
-          "title": "Millionen-Investition: Parktherme Bad Radkersburg erfindet 2026 ihre Gastronomie neu - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDA2OHV5c2ZaSHZBa3dqWV9zczU4S2dxbFN2NVlxMzkxd3BQWjBaZTg2SWpFTmNPT0prcjcwTmRsZEpjeTNYbm1XVmdQQTN2MDViVkE3dmUxVTIxODBDLV85dldIaHBselVGdV9zVWpmN25waE9GejlTTHg2UWZidDlNaVhTdFYyQmQ2V2RXYUFWRXNMQWxDV2c3MzdEMmhIbEVzcWo4NDdtSHdBR3prS1dLbVZpZ2JXNHNzSmNNM2owekVYeFE?oc=5",
           "source": "MeinBezirk.at",
           "date": "29. Apr 2026"
         }
