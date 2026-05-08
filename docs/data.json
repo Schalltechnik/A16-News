@@ -1,12 +1,12 @@
 {
-  "generated": "07. May 2026, 05:49 UTC",
+  "generated": "08. May 2026, 05:18 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "An der B 115 am Präbichl wird eine 200 Meter lange Brücke saniert, während im Semmering-Tunnel zwei Arbeiter bei einem Unfall verletzt wurden und ein Hubschrauber zum Einsatz kam. Die Unfallstatistiken zeigen, dass Ablenkung und Unachtsamkeit weiterhin die Hauptursachen für Verkehrsunfälle darstellen.",
+      "summary": "Die Straßeninfrastruktur in der Steiermark ist derzeit durch mehrere Baustellen geprägt, insbesondere die Sanierung einer 200 Meter langen Brücke auf der B 115 am Präbichl und laufende Arbeiten am Semmering-Basistunnel, bei denen es zu Unfällen mit Verletzten gekommen ist. Verkehrssicherheit bleibt ein zentrales Anliegen, da Ablenkung und Unachtsamkeit weiterhin die Hauptunfallursachen darstellen und regelmäßig zu Straßensperrungen führen.",
       "items": [
         {
           "title": "B 115: Am Präbichl wird 200 Meter lange Brücke saniert - Land Steiermark News Portal",
@@ -15,9 +15,9 @@
           "date": "4. May 2026"
         },
         {
-          "title": "Arbeiter mit Beinen in Förderlift eingeklemmt - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jNDUwUVVaZ0FKWi1QVy1WX3FEMUZTQjlackI2WGdqTjY4VlJyYWVBcTJNdEtRSFZxa0lvaEl4akI4emtLMmg4R2VvY2xPeVF2Mmk5cg?oc=5",
-          "source": "steiermark.ORF.at",
+          "title": "Unfall bei Semmering-Basistunnel: Zwei Personen von Lift eingeklemmt - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN3hFZmlUMGRad1diUnFsT1NZSUh3OVppb0V1cjEweDdxdllOU0lWakk4TVhpeUtDeGJMVVFRU2FXVEh2VHZteFlQZVFCZkxGaVcwRWR0cnFRdmRkbndfVlV6NEl4UE16MnY3YVVfRmd2WThsd2hTRXFkX1dGRzE0d2wxeWlsOUlUOWV4em1oNE5XVXMwZDdxZUxlSW5ja3RiVXNjYmlpR1JQQUtQejRabnB6UQ?oc=5",
+          "source": "Kleine Zeitung",
           "date": "6. May 2026"
         },
         {
@@ -25,6 +25,18 @@
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc3B6ZlNDWW5SOHRycFNLM2d4NTZIRE9ReUEzdXhWdkt1WEdvVFVBdkhMLW9Ud2xKQWJ4RDhHZzBEWTdPV1p4UmYxWUFETDEzT081ZEE3eFJiZENzUnlJdU1OLTlzcXpVSEZscURCTXRQdVRudWRmNkFySkpSRG1aZnAtblBtT29FT0Z2WnJwd21RYWVmWXBCYjU2SDNlMmJzWXNxRTB2ak9CM29NektlYXFR?oc=5",
           "source": "5 Minuten",
           "date": "6. May 2026"
+        },
+        {
+          "title": "Business-Run mit Rekord und Straßensperren - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55aEQ4NjMwby1MR2I0TjkyVl9wSGR6UTRTZkpBcFdGLTY2QW9CNThXZjh3UG9jbE85WTRUY25VYUVjaHZVS0xwbU55R29idjZNTTZkag?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "7. May 2026"
+        },
+        {
+          "title": "Businesslauf in Graz - ÖAMTC",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40NEVWZFZoZV9iUDA0N0twc3Zjd2Y2TG1fRXdtRVF2emhtc0NlM0xFaVQ2ZjhpX003dmhEc2JmRVZtWWRpWVJtWGwwcnl5SlRManFESnVTdVJ5Mm1GaGNEMHdvZ3AteHBFLTZhMGM0MW9EWFV0VUE?oc=5",
+          "source": "ÖAMTC",
+          "date": "4. May 2026"
         },
         {
           "title": "Ablenkung und Unachtsamkeit sind nach wie vor Unfallursache Nummer 1 - Land Steiermark News Portal",
@@ -38,12 +50,18 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Der Verkehrsverbund Steiermark erweitert sein Angebot durch neue Partner wie die Westbahn und bietet attraktive Tickets wie das Kultur-Ticket für kostenlose Fahrten an. Allerdings treten auf einzelnen Strecken wie der GKB-Linie Zugausfälle und Betriebsprobleme auf, die Fahrgäste verärgern.",
+      "summary": "Der öffentliche Verkehr in der Steiermark wird durch innovative Angebote wie das Kultur-Ticket und Pionierprojekte wie den Aichfeldbus geprägt, während die Integration von Westbahn in die Verbund Linie Steiermark den Ausbau vorantreibt. Allerdings belasten Zugausfälle auf GKB-Strecken die Fahrgäste und die Ablehnung der Klimaticket-Preisbremse im Landtag stellt eine finanzielle Belastung dar.",
       "items": [
         {
           "title": "Verkehrsverbund-Service: Mit deinem Kultur-Ticket gratis durch die Steiermark fahren - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNmlGRlZwd2F4Z3lCNTNidWEyUXRqQjAxUllCZ25wMEo3aFFwcXUyaXlMUEs4X0YzX0xaeGJpX2RjNnJkS0NOckdkVXYwSE9hQUo1cFA3QUoyanRFaFZmWHNiTDVhcHZ3ODF3OGR5RF9nNFRBZVVqMnRBWGxZWTJZVmFkeFlsOHhCSEtFRzZjdjVteWhIRVlCUFl6QkZXemM4bFRVYkwxNlFIZmlkeEY1ZG5iQQ?oc=5",
           "source": "MeinBezirk.at",
+          "date": "6. May 2026"
+        },
+        {
+          "title": "Pionierprojekt: Aichfeldbus veränderte den öffentlichen Verkehr einer ganzen Region - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdTZmbWRIRUJVc3lQN0NGZVYtYVhkNGY2ZmdMVm1JR0o2bHYwZnhYQ1c2dFpLYzRsaDdsTW9BWmc4Q2lPaHUyQVFPcms0bXV2R2ZPRXhtMlU1MHgtT1RZeEVwcUV4YXV6LXh6SEU0X0VDaTZuZXkwWmliaXBRVWFXOUZ4cTFzazBMZ3hlUGljaWlZOHQyWTBuU1RiN0RXSnRsYlBlTDd0V3hybXBUSmwwYTMwUUF3UQ?oc=5",
+          "source": "Kleine Zeitung",
           "date": "6. May 2026"
         },
         {
@@ -59,10 +77,10 @@
           "date": "4. May 2026"
         },
         {
-          "title": "Tickets gültig: Westbahn ist neuer Partner im Verkehrsverbund Steiermark - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTlhISWNPTTdUVUpHRWVxQmxMRXFrOWtLQWFmOXdxN1RMaUtOdHhFREJyaUs4SFpQS2IxRjllMWt3YlY5QlczNG9JM2xJamxvSV92VVFVV3Fzel9BTWp1Z01YOVFRc0ZiVGhjZjY4WXZhQ0NYSk9iRjhGWlZJeHJGVFp1cnNtU0JGV1BmSWhvb3NtUGRjTWNaNUdPRXVfYnhjU0lHWXlLZFN1d2F6NDdNNmd3?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "1. May 2026"
+          "title": "Klimaticket wird teurer: Preisbremse im Landtag abgelehnt - MSN",
+          "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNelNaaTladERoSEkxQXZXdUtpc2JQc0FIalU1aWZ1QkJ0T052Q1k2M1JyZURyM0VuaS1LM2tHY0VnM3lUeTZRZEhJTnpRWDYzWlVHRlRNY21LWnd3VkQyM2hTTmtEREdQX2NkOExkTlFCZTRzZWJVVW85ZkM5bk1uY21YSFhESHdWc21xS0hTX0lWeE5aVGtSa3ZpTFllYnRrX0o5eHFJbGVrM1E1YmZmRzRnS2NkOUo2VVNnV282ZFgtUUxQM3NNTVdRb2kyaURfNjFucmh1b3RzSWRZNWpBQkNoVlZpcHE1eVEwT01PMDVzQzZBd2g0aGo5dmY0SndmcXBHVjRCemIyMkFkZU9ab3FFVGJXWjJrNS1DMnJnUTZtMk45UUF2d0toOEFXOUZabDBsdWJ5OHg2NWJyeF94WF9XS0pCM2RJZVhFMHRSMnpUN0N2eEM3cklRb2IyVFVPd1NVNVBjSUxDQTZ2Mmwyb01wdDUwSUc2RUdJZU9PUmlWb2tPZzF3RHJ3?oc=5",
+          "source": "MSN",
+          "date": "4. May 2026"
         }
       ]
     },
@@ -70,7 +88,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark intensiviert ihre Bemühungen um nachhaltige Mobilität durch koordinierte Radoffensiven und Verkehrssicherheitsprogramme, wobei besonders Radwege wie der Raabtal-Radweg R11 als beliebte Infrastruktur ausgebaut werden. Gleichzeitig steigt die Unfallrate bei Elektro-Zweirädern deutlich an, weshalb kostenlose Schulungen und verstärkte Aufklärung gegen Ablenkung und Unachtsamkeit im Straßenverkehr notwendig sind.",
+      "summary": "Die Steiermark intensiviert ihre Bemühungen um nachhaltige Mobilität durch Radoffensiven und kostenlose Schulungsprogramme für moderne Verkehrsmittel wie E-Scooter, wobei jedoch Koordinationsprobleme zwischen Graz und dem Land entstehen. Gleichzeitig zeigt sich ein wachsendes Sicherheitsrisiko durch steigende Unfallzahlen bei Elektro-Zweirädern, deren Hauptursachen in Ablenkung und Unachtsamkeit liegen, weshalb verstärkte Verkehrssicherheitsmaßnahmen notwendig sind.",
       "items": [
         {
           "title": "Graz und Steiermark kommen sich bei Radoffensive zunehmend in die Quere - Kleine Zeitung",
