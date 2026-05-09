@@ -1,12 +1,12 @@
 {
-  "generated": "08. May 2026, 05:18 UTC",
+  "generated": "09. May 2026, 05:37 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die Straßeninfrastruktur in der Steiermark ist derzeit durch mehrere Baustellen geprägt, insbesondere die Sanierung einer 200 Meter langen Brücke auf der B 115 am Präbichl und laufende Arbeiten am Semmering-Basistunnel, bei denen es zu Unfällen mit Verletzten gekommen ist. Verkehrssicherheit bleibt ein zentrales Anliegen, da Ablenkung und Unachtsamkeit weiterhin die Hauptunfallursachen darstellen und regelmäßig zu Straßensperrungen führen.",
+      "summary": "An der B 115 am Präbichl wird eine 200 Meter lange Brücke mit einem Investitionsvolumen von 1,3 Millionen Euro saniert, während die historische Schloßbergbahnbrücke in Graz nach abgeschlossener Sanierung wieder für den Publikumsverkehr freigegeben wurde. Beim Bau des Semmering-Basistunnels ereigneten sich mehrere Unfälle, bei denen Arbeiter verletzt wurden und zwei Personen in einem Lift eingeklemmt wurden.",
       "items": [
         {
           "title": "B 115: Am Präbichl wird 200 Meter lange Brücke saniert - Land Steiermark News Portal",
@@ -27,6 +27,24 @@
           "date": "6. May 2026"
         },
         {
+          "title": "Sanierung: Historische Schloßbergbahnbrücke ist wieder begehbar - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMVg4VzdhektZYVpvczUxcU14blA3LV9OMHR5WVZ3cEFEbkpRcTdlcjVKTVRUeXZwT0VkM2ZqTnQya0pKd2hMQlE2VGhlb0d4R0VjN1dZM1c3UDlzR0FORkx1OVdkek8wYjZ4M3JXSF8xQlNiRnlaRVcwd2VGM3JiNlVlTmhHSVhpT1k4eWlzNkNxVFdUNlN4TDNwWGpqeENkMkE?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "8. May 2026"
+        },
+        {
+          "title": "Schloßberg-Brücke in Graz wieder offen: Sanierung abgeschlossen - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUEdkNmJvdkZGUDhRSGl2R25WQy1kTEVKTlpRbFBwZC1ucDFZbEY2MENRa0ozSHNSalhVa3NGU2dIejd6ekZRR1pwR24tOVU0czJDYUVXUzVnVUtKVWZ4dEhjdTFCN1VVRmlsdDd6RnNKelEyZjUtWm42Z3Vrem5VSHVUbFRQQkZ2QXBFWnpSWnk3WS1DUXFZX2FWcFBRRWNCc0JiV0dWZw?oc=5",
+          "source": "5 Minuten",
+          "date": "8. May 2026"
+        },
+        {
+          "title": "1,3 Millionen Euro für Brückenerneuerung am Präbichl - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR0VRRDNVUGtRcXU0MGtqRXU4X2VyVHhoVlp5VElVWk50ZUVlYWdfNU44bW81bFc5QnNjd2lnejE5dUJQb0kwc3N4Q1pGUE9qS1pOQWFUcEtkZG5yQTdGU0llQVNZZDgyR0dMZWRFRUE3VzMxUFl6c3dLeExiT0FYSUo1U1pfSmZLcDc2LXREb01TSUgzNFd2c0hidjJVbzJZcnc?oc=5",
+          "source": "5 Minuten",
+          "date": "4. May 2026"
+        },
+        {
           "title": "Business-Run mit Rekord und Straßensperren - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55aEQ4NjMwby1MR2I0TjkyVl9wSGR6UTRTZkpBcFdGLTY2QW9CNThXZjh3UG9jbE85WTRUY25VYUVjaHZVS0xwbU55R29idjZNTTZkag?oc=5",
           "source": "steiermark.ORF.at",
@@ -37,12 +55,6 @@
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40NEVWZFZoZV9iUDA0N0twc3Zjd2Y2TG1fRXdtRVF2emhtc0NlM0xFaVQ2ZjhpX003dmhEc2JmRVZtWWRpWVJtWGwwcnl5SlRManFESnVTdVJ5Mm1GaGNEMHdvZ3AteHBFLTZhMGM0MW9EWFV0VUE?oc=5",
           "source": "ÖAMTC",
           "date": "4. May 2026"
-        },
-        {
-          "title": "Ablenkung und Unachtsamkeit sind nach wie vor Unfallursache Nummer 1 - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0ydmEtUF9ONlUwcFlSbVpWMDE3UVNub3ZfckVUSWtvM3ljTldCX01DN1F5UTQweVdWNWRHSXpnSG1sX3I3dE90Z21LTmpoV1VBVGhrcWNBX1J6Y1BaZkV6cDlZNlpjbFNtS3l4YkNWNA?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "5. May 2026"
         }
       ]
     },
@@ -50,7 +62,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Der öffentliche Verkehr in der Steiermark wird durch innovative Angebote wie das Kultur-Ticket und Pionierprojekte wie den Aichfeldbus geprägt, während die Integration von Westbahn in die Verbund Linie Steiermark den Ausbau vorantreibt. Allerdings belasten Zugausfälle auf GKB-Strecken die Fahrgäste und die Ablehnung der Klimaticket-Preisbremse im Landtag stellt eine finanzielle Belastung dar.",
+      "summary": "Der Verkehrsverbund Steiermark bietet mit innovativen Angeboten wie dem Kultur-Ticket kostenlose Fahrten an und hat mit Projekten wie dem Aichfeldbus den öffentlichen Verkehr in der Region nachhaltig verbessert. Allerdings zeigen sich auf einzelnen Strecken wie der GKB-Linie erhebliche Probleme durch Zugausfälle, die zu Fahrgastunzufriedenheit führen.",
       "items": [
         {
           "title": "Verkehrsverbund-Service: Mit deinem Kultur-Ticket gratis durch die Steiermark fahren - MeinBezirk.at",
@@ -65,21 +77,9 @@
           "date": "6. May 2026"
         },
         {
-          "title": "Westbahn ist Teil der Verbund Linie Steiermark - inside-graz.at",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa0p3TElsOWRESlRxS2FzV0Zpb3pQa05sdjVmaXZfcE8tR0V2ZWxwbmxyRDZlZlQzZGFnLUp1N1lyT2NicHhGNWtaU0N2cmkzeHFoa3JNZ3M5eERNUWJwWHdwcmVDeFpmY2lXMFE0NHFROE5ZNXJZbkRFeXJySEhETkdnMXNCSEVCT1BWd0NB?oc=5",
-          "source": "inside-graz.at",
-          "date": "1. May 2026"
-        },
-        {
           "title": "Zugausfälle und Chaos: Probleme auf GKB-Strecke verärgern Fahrgäste - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1RPb1ZzSzVzWW90QWtKYVJwQVozVENkN09zSFpfS0gtdVFuT0Q0RnpfVElHTnRFNVFTb1ZhaW5GUmhLS2tHbmZBSTBHZUozMUIxRFlwaDY5UTJxNl9pVUNLLUl1RWU0YWh1czFHaVBicHl2ZFQtLWYtV09fdVBhaUpzOFRQNFhUcnh6bXZuSWdOc3NoX1hIanhRbHV0MzNLRFFQSUtmZkE1QUNiNU4tM25RU09vUQ?oc=5",
           "source": "5 Minuten",
-          "date": "4. May 2026"
-        },
-        {
-          "title": "Klimaticket wird teurer: Preisbremse im Landtag abgelehnt - MSN",
-          "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNelNaaTladERoSEkxQXZXdUtpc2JQc0FIalU1aWZ1QkJ0T052Q1k2M1JyZURyM0VuaS1LM2tHY0VnM3lUeTZRZEhJTnpRWDYzWlVHRlRNY21LWnd3VkQyM2hTTmtEREdQX2NkOExkTlFCZTRzZWJVVW85ZkM5bk1uY21YSFhESHdWc21xS0hTX0lWeE5aVGtSa3ZpTFllYnRrX0o5eHFJbGVrM1E1YmZmRzRnS2NkOUo2VVNnV282ZFgtUUxQM3NNTVdRb2kyaURfNjFucmh1b3RzSWRZNWpBQkNoVlZpcHE1eVEwT01PMDVzQzZBd2g0aGo5dmY0SndmcXBHVjRCemIyMkFkZU9ab3FFVGJXWjJrNS1DMnJnUTZtMk45UUF2d0toOEFXOUZabDBsdWJ5OHg2NWJyeF94WF9XS0pCM2RJZVhFMHRSMnpUN0N2eEM3cklRb2IyVFVPd1NVNVBjSUxDQTZ2Mmwyb01wdDUwSUc2RUdJZU9PUmlWb2tPZzF3RHJ3?oc=5",
-          "source": "MSN",
           "date": "4. May 2026"
         }
       ]
@@ -88,7 +88,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark intensiviert ihre Bemühungen um nachhaltige Mobilität durch Radoffensiven und kostenlose Schulungsprogramme für moderne Verkehrsmittel wie E-Scooter, wobei jedoch Koordinationsprobleme zwischen Graz und dem Land entstehen. Gleichzeitig zeigt sich ein wachsendes Sicherheitsrisiko durch steigende Unfallzahlen bei Elektro-Zweirädern, deren Hauptursachen in Ablenkung und Unachtsamkeit liegen, weshalb verstärkte Verkehrssicherheitsmaßnahmen notwendig sind.",
+      "summary": "Die Steiermark intensiviert ihre Bemühungen um nachhaltige Mobilität durch Radoffensiven und kostenlose Schulungsprogramme für moderne Verkehrsmittel wie E-Scooter, während gleichzeitig Unfallzahlen mit Elektro-Zweirädern steigen und Ablenkung im Straßenverkehr weiterhin die Hauptunfallursache bleibt. Koordinierte Verkehrssicherheitsmaßnahmen und verstärkte Aufklärung sind notwendig, um die wachsenden Risiken dieser neuen Mobilitätsformen zu bewältigen und die Sicherheit aller Verkehrsteilnehmer zu gewährleisten.",
       "items": [
         {
           "title": "Graz und Steiermark kommen sich bei Radoffensive zunehmend in die Quere - Kleine Zeitung",
@@ -132,8 +132,15 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Die Sulmbrücke Aflenz in Wagna wurde feierlich eröffnet und stellt ein wichtiges Infrastrukturprojekt des Landes Steiermark dar. Das Bauwerk trägt zur Verbesserung der regionalen Verkehrsanbindung und Mobilität bei.",
+      "items": [
+        {
+          "title": "„Sulmbrücke Aflenz“ in Wagna feierlich eröffnet - Land Steiermark - Politik",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02c3g3Snh4eGs2UjJNYktZb1o0VnJVM3hrZUdFdlBpOTdCOFZaanBYRTZzTDVGNHZhejNTZzNmajVSNDRQRExkTFljUVR0MGFDclF2MUR5Mm9UdkpOakdfMl9MSjg3ZG9ndDJwTW5BdkZLRTQ?oc=5",
+          "source": "Land Steiermark - Politik",
+          "date": "8. May 2026"
+        }
+      ]
     },
     "behoerde_uvp": {
       "label": "Verkehrsbehörde & UVP",
