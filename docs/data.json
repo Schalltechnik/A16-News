@@ -1,12 +1,12 @@
 {
-  "generated": "09. May 2026, 05:37 UTC",
+  "generated": "10. May 2026, 05:53 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "An der B 115 am Präbichl wird eine 200 Meter lange Brücke mit einem Investitionsvolumen von 1,3 Millionen Euro saniert, während die historische Schloßbergbahnbrücke in Graz nach abgeschlossener Sanierung wieder für den Publikumsverkehr freigegeben wurde. Beim Bau des Semmering-Basistunnels ereigneten sich mehrere Unfälle, bei denen Arbeiter verletzt wurden und zwei Personen in einem Lift eingeklemmt wurden.",
+      "summary": "Die Steiermark investiert derzeit erhebliche Mittel in die Sanierung ihrer Infrastruktur, insbesondere in die Erneuerung der 200 Meter langen Brücke am Präbichl mit einem Budget von 1,3 Millionen Euro sowie die Wiederherstellung der historischen Schloßbergbahnbrücke in Graz, die bereits wieder für den Verkehr freigegeben wurde. Parallel dazu kam es beim Semmering-Basistunnel zu mehreren Unfällen mit Verletzten, die einen Hubschraubereinsatz erforderlich machten.",
       "items": [
         {
           "title": "B 115: Am Präbichl wird 200 Meter lange Brücke saniert - Land Steiermark News Portal",
@@ -62,14 +62,8 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Der Verkehrsverbund Steiermark bietet mit innovativen Angeboten wie dem Kultur-Ticket kostenlose Fahrten an und hat mit Projekten wie dem Aichfeldbus den öffentlichen Verkehr in der Region nachhaltig verbessert. Allerdings zeigen sich auf einzelnen Strecken wie der GKB-Linie erhebliche Probleme durch Zugausfälle, die zu Fahrgastunzufriedenheit führen.",
+      "summary": "Der Aichfeldbus gilt als Pionierprojekt, das den öffentlichen Verkehr in seiner Region grundlegend verändert hat, während die GKB-Strecke derzeit mit Zugausfällen und Chaos kämpft, was Fahrgäste zunehmend verärgert.",
       "items": [
-        {
-          "title": "Verkehrsverbund-Service: Mit deinem Kultur-Ticket gratis durch die Steiermark fahren - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNmlGRlZwd2F4Z3lCNTNidWEyUXRqQjAxUllCZ25wMEo3aFFwcXUyaXlMUEs4X0YzX0xaeGJpX2RjNnJkS0NOckdkVXYwSE9hQUo1cFA3QUoyanRFaFZmWHNiTDVhcHZ3ODF3OGR5RF9nNFRBZVVqMnRBWGxZWTJZVmFkeFlsOHhCSEtFRzZjdjVteWhIRVlCUFl6QkZXemM4bFRVYkwxNlFIZmlkeEY1ZG5iQQ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "6. May 2026"
-        },
         {
           "title": "Pionierprojekt: Aichfeldbus veränderte den öffentlichen Verkehr einer ganzen Region - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdTZmbWRIRUJVc3lQN0NGZVYtYVhkNGY2ZmdMVm1JR0o2bHYwZnhYQ1c2dFpLYzRsaDdsTW9BWmc4Q2lPaHUyQVFPcms0bXV2R2ZPRXhtMlU1MHgtT1RZeEVwcUV4YXV6LXh6SEU0X0VDaTZuZXkwWmliaXBRVWFXOUZ4cTFzazBMZ3hlUGljaWlZOHQyWTBuU1RiN0RXSnRsYlBlTDd0V3hybXBUSmwwYTMwUUF3UQ?oc=5",
@@ -88,7 +82,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark intensiviert ihre Bemühungen um nachhaltige Mobilität durch Radoffensiven und kostenlose Schulungsprogramme für moderne Verkehrsmittel wie E-Scooter, während gleichzeitig Unfallzahlen mit Elektro-Zweirädern steigen und Ablenkung im Straßenverkehr weiterhin die Hauptunfallursache bleibt. Koordinierte Verkehrssicherheitsmaßnahmen und verstärkte Aufklärung sind notwendig, um die wachsenden Risiken dieser neuen Mobilitätsformen zu bewältigen und die Sicherheit aller Verkehrsteilnehmer zu gewährleisten.",
+      "summary": "Die Steiermark intensiviert ihre Bemühungen um nachhaltige Mobilität durch Radoffensiven und kostenlose Schulungsprogramme für moderne Verkehrsmittel wie E-Scooter, während gleichzeitig Koordinationsprobleme zwischen regionalen Planungsträgern entstehen. Allerdings zeigen sich erhebliche Verkehrssicherheitsrisiken durch die zunehmende Nutzung von Elektro-Zweirädern und persistierende Ablenkung im Straßenverkehr, weshalb verstärkte Präventionsmaßnahmen erforderlich sind.",
       "items": [
         {
           "title": "Graz und Steiermark kommen sich bei Radoffensive zunehmend in die Quere - Kleine Zeitung",
@@ -132,12 +126,18 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Sulmbrücke Aflenz in Wagna wurde feierlich eröffnet und stellt ein wichtiges Infrastrukturprojekt des Landes Steiermark dar. Das Bauwerk trägt zur Verbesserung der regionalen Verkehrsanbindung und Mobilität bei.",
+      "summary": "Die Sulmbrücke Aflenz in Wagna wurde feierlich eröffnet und stellt eine wichtige Infrastrukturmaßnahme für die Region dar. Der zweite Titel bezieht sich auf einen Verkehrsunfall und ist nicht relevant für Hochbauprojekte oder Baukultur in der Steiermark.",
       "items": [
         {
-          "title": "„Sulmbrücke Aflenz“ in Wagna feierlich eröffnet - Land Steiermark - Politik",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02c3g3Snh4eGs2UjJNYktZb1o0VnJVM3hrZUdFdlBpOTdCOFZaanBYRTZzTDVGNHZhejNTZzNmajVSNDRQRExkTFljUVR0MGFDclF2MUR5Mm9UdkpOakdfMl9MSjg3ZG9ndDJwTW5BdkZLRTQ?oc=5",
-          "source": "Land Steiermark - Politik",
+          "title": "„Sulmbrücke Aflenz“ in Wagna feierlich eröffnet - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wVDE1Z0FHYmhpQTdWYkxoRE55ZUtfbGZuQldvTkRUTXF4bjhWUmFUdUx1UFQwU0tUd2FOS1hDUDlOZVhXelNpbHlfUS1MWlY4eDJScl9zWWVkdXJHNlhmUWwyQWxmbjlRY0FZMFhlNm42b1FkWnNrdw?oc=5",
+          "source": "Kommunikation - Land Steiermark",
+          "date": "8. May 2026"
+        },
+        {
+          "title": "Unerlaubte Fahrt endet im Krankenhaus - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QWU9aN0RfRHFxOGhXT2xUbDRQUm9XbmhFdTBlbXllUW05VmQyeGFkcWMxQTJ0ZzhMR29nOElsdXJkZk1yYjlLMWRxenNLWHRFelBVMg?oc=5",
+          "source": "steiermark.ORF.at",
           "date": "8. May 2026"
         }
       ]
