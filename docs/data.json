@@ -1,12 +1,12 @@
 {
-  "generated": "10. May 2026, 05:53 UTC",
+  "generated": "11. May 2026, 06:24 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die Steiermark investiert derzeit erhebliche Mittel in die Sanierung ihrer Infrastruktur, insbesondere in die Erneuerung der 200 Meter langen Brücke am Präbichl mit einem Budget von 1,3 Millionen Euro sowie die Wiederherstellung der historischen Schloßbergbahnbrücke in Graz, die bereits wieder für den Verkehr freigegeben wurde. Parallel dazu kam es beim Semmering-Basistunnel zu mehreren Unfällen mit Verletzten, die einen Hubschraubereinsatz erforderlich machten.",
+      "summary": "In der Steiermark werden mehrere bedeutende Infrastrukturprojekte vorangetrieben, darunter die Sanierung der 200 Meter langen Brücke am Präbichl an der B 115, die Wiederherstellung der historischen Schloßbergbahnbrücke in Graz und die Neueröffnung der Sulmbrücke Aflenz in Wagna. Parallel dazu ereigneten sich Zwischenfälle wie die Einklemmung von zwei Personen bei Arbeiten am Semmering-Basistunnel, während Verkehrssicherheit durch Unfallprävention weiterhin ein zentrales Anliegen bleibt.",
       "items": [
         {
           "title": "B 115: Am Präbichl wird 200 Meter lange Brücke saniert - Land Steiermark News Portal",
@@ -18,12 +18,6 @@
           "title": "Unfall bei Semmering-Basistunnel: Zwei Personen von Lift eingeklemmt - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN3hFZmlUMGRad1diUnFsT1NZSUh3OVppb0V1cjEweDdxdllOU0lWakk4TVhpeUtDeGJMVVFRU2FXVEh2VHZteFlQZVFCZkxGaVcwRWR0cnFRdmRkbndfVlV6NEl4UE16MnY3YVVfRmd2WThsd2hTRXFkX1dGRzE0d2wxeWlsOUlUOWV4em1oNE5XVXMwZDdxZUxlSW5ja3RiVXNjYmlpR1JQQUtQejRabnB6UQ?oc=5",
           "source": "Kleine Zeitung",
-          "date": "6. May 2026"
-        },
-        {
-          "title": "Zwei Arbeiter im Semmering-Tunnel verletzt: Hubschrauber im Einsatz - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc3B6ZlNDWW5SOHRycFNLM2d4NTZIRE9ReUEzdXhWdkt1WEdvVFVBdkhMLW9Ud2xKQWJ4RDhHZzBEWTdPV1p4UmYxWUFETDEzT081ZEE3eFJiZENzUnlJdU1OLTlzcXpVSEZscURCTXRQdVRudWRmNkFySkpSRG1aZnAtblBtT29FT0Z2WnJwd21RYWVmWXBCYjU2SDNlMmJzWXNxRTB2ak9CM29NektlYXFR?oc=5",
-          "source": "5 Minuten",
           "date": "6. May 2026"
         },
         {
@@ -39,22 +33,22 @@
           "date": "8. May 2026"
         },
         {
-          "title": "1,3 Millionen Euro für Brückenerneuerung am Präbichl - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR0VRRDNVUGtRcXU0MGtqRXU4X2VyVHhoVlp5VElVWk50ZUVlYWdfNU44bW81bFc5QnNjd2lnejE5dUJQb0kwc3N4Q1pGUE9qS1pOQWFUcEtkZG5yQTdGU0llQVNZZDgyR0dMZWRFRUE3VzMxUFl6c3dLeExiT0FYSUo1U1pfSmZLcDc2LXREb01TSUgzNFd2c0hidjJVbzJZcnc?oc=5",
-          "source": "5 Minuten",
-          "date": "4. May 2026"
-        },
-        {
           "title": "Business-Run mit Rekord und Straßensperren - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55aEQ4NjMwby1MR2I0TjkyVl9wSGR6UTRTZkpBcFdGLTY2QW9CNThXZjh3UG9jbE85WTRUY25VYUVjaHZVS0xwbU55R29idjZNTTZkag?oc=5",
           "source": "steiermark.ORF.at",
           "date": "7. May 2026"
         },
         {
-          "title": "Businesslauf in Graz - ÖAMTC",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40NEVWZFZoZV9iUDA0N0twc3Zjd2Y2TG1fRXdtRVF2emhtc0NlM0xFaVQ2ZjhpX003dmhEc2JmRVZtWWRpWVJtWGwwcnl5SlRManFESnVTdVJ5Mm1GaGNEMHdvZ3AteHBFLTZhMGM0MW9EWFV0VUE?oc=5",
-          "source": "ÖAMTC",
-          "date": "4. May 2026"
+          "title": "„Sulmbrücke Aflenz“ in Wagna feierlich eröffnet - Land Steiermark - Politik",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02c3g3Snh4eGs2UjJNYktZb1o0VnJVM3hrZUdFdlBpOTdCOFZaanBYRTZzTDVGNHZhejNTZzNmajVSNDRQRExkTFljUVR0MGFDclF2MUR5Mm9UdkpOakdfMl9MSjg3ZG9ndDJwTW5BdkZLRTQ?oc=5",
+          "source": "Land Steiermark - Politik",
+          "date": "8. May 2026"
+        },
+        {
+          "title": "Ablenkung und Unachtsamkeit sind nach wie vor Unfallursache Nummer 1 - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0ydmEtUF9ONlUwcFlSbVpWMDE3UVNub3ZfckVUSWtvM3ljTldCX01DN1F5UTQweVdWNWRHSXpnSG1sX3I3dE90Z21LTmpoV1VBVGhrcWNBX1J6Y1BaZkV6cDlZNlpjbFNtS3l4YkNWNA?oc=5",
+          "source": "Land Steiermark News Portal",
+          "date": "5. May 2026"
         }
       ]
     },
@@ -62,19 +56,13 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Der Aichfeldbus gilt als Pionierprojekt, das den öffentlichen Verkehr in seiner Region grundlegend verändert hat, während die GKB-Strecke derzeit mit Zugausfällen und Chaos kämpft, was Fahrgäste zunehmend verärgert.",
+      "summary": "Der Aichfeldbus revolutionierte als Pionierprojekt den öffentlichen Verkehr in seiner Region durch innovative Mobilitätslösungen. Das Projekt zeigt, wie gezielter Busausbau die Verkehrsinfrastruktur ganzer Regionen nachhaltig verändern und verbessern kann.",
       "items": [
         {
           "title": "Pionierprojekt: Aichfeldbus veränderte den öffentlichen Verkehr einer ganzen Region - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdTZmbWRIRUJVc3lQN0NGZVYtYVhkNGY2ZmdMVm1JR0o2bHYwZnhYQ1c2dFpLYzRsaDdsTW9BWmc4Q2lPaHUyQVFPcms0bXV2R2ZPRXhtMlU1MHgtT1RZeEVwcUV4YXV6LXh6SEU0X0VDaTZuZXkwWmliaXBRVWFXOUZ4cTFzazBMZ3hlUGljaWlZOHQyWTBuU1RiN0RXSnRsYlBlTDd0V3hybXBUSmwwYTMwUUF3UQ?oc=5",
           "source": "Kleine Zeitung",
           "date": "6. May 2026"
-        },
-        {
-          "title": "Zugausfälle und Chaos: Probleme auf GKB-Strecke verärgern Fahrgäste - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1RPb1ZzSzVzWW90QWtKYVJwQVozVENkN09zSFpfS0gtdVFuT0Q0RnpfVElHTnRFNVFTb1ZhaW5GUmhLS2tHbmZBSTBHZUozMUIxRFlwaDY5UTJxNl9pVUNLLUl1RWU0YWh1czFHaVBicHl2ZFQtLWYtV09fdVBhaUpzOFRQNFhUcnh6bXZuSWdOc3NoX1hIanhRbHV0MzNLRFFQSUtmZkE1QUNiNU4tM25RU09vUQ?oc=5",
-          "source": "5 Minuten",
-          "date": "4. May 2026"
         }
       ]
     },
@@ -82,19 +70,13 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark intensiviert ihre Bemühungen um nachhaltige Mobilität durch Radoffensiven und kostenlose Schulungsprogramme für moderne Verkehrsmittel wie E-Scooter, während gleichzeitig Koordinationsprobleme zwischen regionalen Planungsträgern entstehen. Allerdings zeigen sich erhebliche Verkehrssicherheitsrisiken durch die zunehmende Nutzung von Elektro-Zweirädern und persistierende Ablenkung im Straßenverkehr, weshalb verstärkte Präventionsmaßnahmen erforderlich sind.",
+      "summary": "Die Steiermark intensiviert ihre Bemühungen um nachhaltige Mobilität durch neue Radoffensiven und kostenlose Schulungsprogramme für moderne Verkehrsteilnehmer, während gleichzeitig Unfälle mit Elektro-Zweirädern zunehmen und verstärkte Verkehrssicherheitsmaßnahmen erforderlich werden. Koordinationsprobleme zwischen Graz und der Steiermark bei der Radwegeplanung erschweren jedoch die einheitliche Umsetzung dieser Mobilitätswende.",
       "items": [
         {
           "title": "Graz und Steiermark kommen sich bei Radoffensive zunehmend in die Quere - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS25qMGtMY0J1R0xqaDJKa0NwR0ZnMlozVW8wWU9RU2theUFZN2dsNnlISm9IZm1WQWQ5c0tpeTFEMnd6Q0F2XzdDYl96XzhhNmlIYWxiLXVKcjlxaG83U3cxZmZTVlVSVUZMd1BpVHdxX0hZbmIxY3VHck1NOGNHNVNJdU5felJkNzZKdVdPd2YwZF9hdmhzYXJJYzYzZVcybWxRUWcwd2hhc0dvckctTHZR?oc=5",
           "source": "Kleine Zeitung",
           "date": "6. May 2026"
-        },
-        {
-          "title": "Sternfahrt nach Feldbach: Erich Fuchs sorgt für Top-Stimmung am Raabtal-Radweg R11 - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSHNlYkNhWTBQeWRuVFRhM3FUX3F6a3BvM242aWdjQ3VaTGY4Ykgta0hOcFY0bEVUYVNOeTYwamhpbGRQb3JhRVU4RzlJeFFxcEY3b0RnNlN0b2hwRlltSTI4TnNHS3hEU2RDeXF0V1REQ3Z3YXhpYXNHdVpoNzh3Rk5pWC1DekViM2VpSHJ3MlkzMGgzamd6STV0b19KX0xVakFQOU92cDE1d3hjcFhRLUdMT3Q5OXgzMVE?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "4. May 2026"
         },
         {
           "title": "Neues Programm für Verkehrssicherheit - ORF ON",
@@ -113,12 +95,6 @@
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeldReWk2MDZzaWs1RGkyQWxRSC1Gbm9UVUxDZ3ZjTC1HQ09PWFpxTG9YY21RRFhwT3JfSG1fNXUxaWIzcUFRUUpqZmlnQ2lyMVNtd1NuTWNQVHVCWXhiOUtscEhKVkw4OXlQcU5UTG1nSEt6THc5N0YwdGtwNnNDU3h6RlFhTFJPS3FpMmt6d1NPTlBJUjNxX0ZNT1M5ZTM2blE?oc=5",
           "source": "Kleine Zeitung",
           "date": "5. May 2026"
-        },
-        {
-          "title": "Ablenkung und Unachtsamkeit sind nach wie vor Unfallursache Nummer 1 - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0ydmEtUF9ONlUwcFlSbVpWMDE3UVNub3ZfckVUSWtvM3ljTldCX01DN1F5UTQweVdWNWRHSXpnSG1sX3I3dE90Z21LTmpoV1VBVGhrcWNBX1J6Y1BaZkV6cDlZNlpjbFNtS3l4YkNWNA?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "5. May 2026"
         }
       ]
     },
@@ -126,12 +102,12 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Sulmbrücke Aflenz in Wagna wurde feierlich eröffnet und stellt eine wichtige Infrastrukturmaßnahme für die Region dar. Der zweite Titel bezieht sich auf einen Verkehrsunfall und ist nicht relevant für Hochbauprojekte oder Baukultur in der Steiermark.",
+      "summary": "Die Sulmbrücke Aflenz in Wagna wurde als wichtiges Infrastrukturprojekt des Landes Steiermark feierlich eröffnet und trägt zur Verbesserung der regionalen Verkehrsanbindung bei. Der zweite Titel bezieht sich auf einen Verkehrsunfall und ist nicht relevant für die Zusammenfassung von Hochbauprojekten und Baukultur.",
       "items": [
         {
-          "title": "„Sulmbrücke Aflenz“ in Wagna feierlich eröffnet - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wVDE1Z0FHYmhpQTdWYkxoRE55ZUtfbGZuQldvTkRUTXF4bjhWUmFUdUx1UFQwU0tUd2FOS1hDUDlOZVhXelNpbHlfUS1MWlY4eDJScl9zWWVkdXJHNlhmUWwyQWxmbjlRY0FZMFhlNm42b1FkWnNrdw?oc=5",
-          "source": "Kommunikation - Land Steiermark",
+          "title": "„Sulmbrücke Aflenz“ in Wagna feierlich eröffnet - Land Steiermark - Politik",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02c3g3Snh4eGs2UjJNYktZb1o0VnJVM3hrZUdFdlBpOTdCOFZaanBYRTZzTDVGNHZhejNTZzNmajVSNDRQRExkTFljUVR0MGFDclF2MUR5Mm9UdkpOakdfMl9MSjg3ZG9ndDJwTW5BdkZLRTQ?oc=5",
+          "source": "Land Steiermark - Politik",
           "date": "8. May 2026"
         },
         {
