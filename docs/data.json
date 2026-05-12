@@ -1,25 +1,13 @@
 {
-  "generated": "11. May 2026, 06:24 UTC",
+  "generated": "12. May 2026, 05:54 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "In der Steiermark werden mehrere bedeutende Infrastrukturprojekte vorangetrieben, darunter die Sanierung der 200 Meter langen Brücke am Präbichl an der B 115, die Wiederherstellung der historischen Schloßbergbahnbrücke in Graz und die Neueröffnung der Sulmbrücke Aflenz in Wagna. Parallel dazu ereigneten sich Zwischenfälle wie die Einklemmung von zwei Personen bei Arbeiten am Semmering-Basistunnel, während Verkehrssicherheit durch Unfallprävention weiterhin ein zentrales Anliegen bleibt.",
+      "summary": "Die historische Schloßbergbahnbrücke in Graz wurde nach erfolgter Sanierung wiedereröffnet und ist nun wieder für Fußgänger begehbar. Darüber hinaus wurde die neue Sulmbrücke Aflenz in Wagna feierlich eröffnet, was die Infrastrukturentwicklung in der Steiermark vorantreibt.",
       "items": [
-        {
-          "title": "B 115: Am Präbichl wird 200 Meter lange Brücke saniert - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41UVdYQ2pCZDdLSkpjbmZPQjNOTkdTMTIwbE4wWXllc0VCMTR1Nk9NTGpxTFo3RGp1UnM1Z0JKYkVDUzltemJVTUR4NXY5WUtUS3Y3TzV0TWFhX3ptdGNDU2x2S3p3dWxwcDJGYUJBSQ?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "4. May 2026"
-        },
-        {
-          "title": "Unfall bei Semmering-Basistunnel: Zwei Personen von Lift eingeklemmt - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN3hFZmlUMGRad1diUnFsT1NZSUh3OVppb0V1cjEweDdxdllOU0lWakk4TVhpeUtDeGJMVVFRU2FXVEh2VHZteFlQZVFCZkxGaVcwRWR0cnFRdmRkbndfVlV6NEl4UE16MnY3YVVfRmd2WThsd2hTRXFkX1dGRzE0d2wxeWlsOUlUOWV4em1oNE5XVXMwZDdxZUxlSW5ja3RiVXNjYmlpR1JQQUtQejRabnB6UQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "6. May 2026"
-        },
         {
           "title": "Sanierung: Historische Schloßbergbahnbrücke ist wieder begehbar - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMVg4VzdhektZYVpvczUxcU14blA3LV9OMHR5WVZ3cEFEbkpRcTdlcjVKTVRUeXZwT0VkM2ZqTnQya0pKd2hMQlE2VGhlb0d4R0VjN1dZM1c3UDlzR0FORkx1OVdkek8wYjZ4M3JXSF8xQlNiRnlaRVcwd2VGM3JiNlVlTmhHSVhpT1k4eWlzNkNxVFdUNlN4TDNwWGpqeENkMkE?oc=5",
@@ -39,9 +27,9 @@
           "date": "7. May 2026"
         },
         {
-          "title": "„Sulmbrücke Aflenz“ in Wagna feierlich eröffnet - Land Steiermark - Politik",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02c3g3Snh4eGs2UjJNYktZb1o0VnJVM3hrZUdFdlBpOTdCOFZaanBYRTZzTDVGNHZhejNTZzNmajVSNDRQRExkTFljUVR0MGFDclF2MUR5Mm9UdkpOakdfMl9MSjg3ZG9ndDJwTW5BdkZLRTQ?oc=5",
-          "source": "Land Steiermark - Politik",
+          "title": "„Sulmbrücke Aflenz“ in Wagna feierlich eröffnet - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wVDE1Z0FHYmhpQTdWYkxoRE55ZUtfbGZuQldvTkRUTXF4bjhWUmFUdUx1UFQwU0tUd2FOS1hDUDlOZVhXelNpbHlfUS1MWlY4eDJScl9zWWVkdXJHNlhmUWwyQWxmbjlRY0FZMFhlNm42b1FkWnNrdw?oc=5",
+          "source": "Kommunikation - Land Steiermark",
           "date": "8. May 2026"
         },
         {
@@ -56,7 +44,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Der Aichfeldbus revolutionierte als Pionierprojekt den öffentlichen Verkehr in seiner Region durch innovative Mobilitätslösungen. Das Projekt zeigt, wie gezielter Busausbau die Verkehrsinfrastruktur ganzer Regionen nachhaltig verändern und verbessern kann.",
+      "summary": "Der Aichfeldbus gilt als Pionierprojekt, das den öffentlichen Verkehr in seiner Region grundlegend verändert und modernisiert hat. Dieses innovative Buskonzept demonstriert, wie gezielt ausgestaltete Verkehrslösungen die Mobilität in der Steiermark nachhaltig verbessern können.",
       "items": [
         {
           "title": "Pionierprojekt: Aichfeldbus veränderte den öffentlichen Verkehr einer ganzen Region - Kleine Zeitung",
@@ -70,7 +58,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark intensiviert ihre Bemühungen um nachhaltige Mobilität durch neue Radoffensiven und kostenlose Schulungsprogramme für moderne Verkehrsteilnehmer, während gleichzeitig Unfälle mit Elektro-Zweirädern zunehmen und verstärkte Verkehrssicherheitsmaßnahmen erforderlich werden. Koordinationsprobleme zwischen Graz und der Steiermark bei der Radwegeplanung erschweren jedoch die einheitliche Umsetzung dieser Mobilitätswende.",
+      "summary": "Die Steiermark intensiviert ihre Bemühungen für nachhaltige Mobilität durch Radoffensiven und kostenlose Schulungsprogramme für E-Scooter-Nutzer, muss aber gleichzeitig gegen steigende Unfallzahlen bei Elektro-Zweirädern ankämpfen, die hauptsächlich durch Ablenkung und mangelnde Verkehrssicherheit verursacht werden. Koordinierte Verkehrssicherheitsmaßnahmen und bessere Abstimmung zwischen Graz und der Steiermark sind notwendig, um die Sicherheit im Zuge der wachsenden Nutzung alternativer Fortbewegungsmittel zu gewährleisten.",
       "items": [
         {
           "title": "Graz und Steiermark kommen sich bei Radoffensive zunehmend in die Quere - Kleine Zeitung",
@@ -95,6 +83,12 @@
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeldReWk2MDZzaWs1RGkyQWxRSC1Gbm9UVUxDZ3ZjTC1HQ09PWFpxTG9YY21RRFhwT3JfSG1fNXUxaWIzcUFRUUpqZmlnQ2lyMVNtd1NuTWNQVHVCWXhiOUtscEhKVkw4OXlQcU5UTG1nSEt6THc5N0YwdGtwNnNDU3h6RlFhTFJPS3FpMmt6d1NPTlBJUjNxX0ZNT1M5ZTM2blE?oc=5",
           "source": "Kleine Zeitung",
           "date": "5. May 2026"
+        },
+        {
+          "title": "Ablenkung und Unachtsamkeit sind nach wie vor Unfallursache Nummer 1 - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0ydmEtUF9ONlUwcFlSbVpWMDE3UVNub3ZfckVUSWtvM3ljTldCX01DN1F5UTQweVdWNWRHSXpnSG1sX3I3dE90Z21LTmpoV1VBVGhrcWNBX1J6Y1BaZkV6cDlZNlpjbFNtS3l4YkNWNA?oc=5",
+          "source": "Land Steiermark News Portal",
+          "date": "5. May 2026"
         }
       ]
     },
@@ -102,18 +96,12 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Sulmbrücke Aflenz in Wagna wurde als wichtiges Infrastrukturprojekt des Landes Steiermark feierlich eröffnet und trägt zur Verbesserung der regionalen Verkehrsanbindung bei. Der zweite Titel bezieht sich auf einen Verkehrsunfall und ist nicht relevant für die Zusammenfassung von Hochbauprojekten und Baukultur.",
+      "summary": "Die Sulmbrücke Aflenz in Wagna wurde feierlich eröffnet und stellt eine wichtige Verkehrsverbindung in der Region dar. Das Projekt unterstreicht das Engagement des Landes Steiermark für die Modernisierung und Verbesserung der Infrastruktur im Hochbau.",
       "items": [
         {
-          "title": "„Sulmbrücke Aflenz“ in Wagna feierlich eröffnet - Land Steiermark - Politik",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02c3g3Snh4eGs2UjJNYktZb1o0VnJVM3hrZUdFdlBpOTdCOFZaanBYRTZzTDVGNHZhejNTZzNmajVSNDRQRExkTFljUVR0MGFDclF2MUR5Mm9UdkpOakdfMl9MSjg3ZG9ndDJwTW5BdkZLRTQ?oc=5",
-          "source": "Land Steiermark - Politik",
-          "date": "8. May 2026"
-        },
-        {
-          "title": "Unerlaubte Fahrt endet im Krankenhaus - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QWU9aN0RfRHFxOGhXT2xUbDRQUm9XbmhFdTBlbXllUW05VmQyeGFkcWMxQTJ0ZzhMR29nOElsdXJkZk1yYjlLMWRxenNLWHRFelBVMg?oc=5",
-          "source": "steiermark.ORF.at",
+          "title": "„Sulmbrücke Aflenz“ in Wagna feierlich eröffnet - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wVDE1Z0FHYmhpQTdWYkxoRE55ZUtfbGZuQldvTkRUTXF4bjhWUmFUdUx1UFQwU0tUd2FOS1hDUDlOZVhXelNpbHlfUS1MWlY4eDJScl9zWWVkdXJHNlhmUWwyQWxmbjlRY0FZMFhlNm42b1FkWnNrdw?oc=5",
+          "source": "Kommunikation - Land Steiermark",
           "date": "8. May 2026"
         }
       ]
