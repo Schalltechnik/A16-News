@@ -1,13 +1,31 @@
 {
-  "generated": "12. May 2026, 05:54 UTC",
+  "generated": "13. May 2026, 06:13 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die historische Schloßbergbahnbrücke in Graz wurde nach erfolgter Sanierung wiedereröffnet und ist nun wieder für Fußgänger begehbar. Darüber hinaus wurde die neue Sulmbrücke Aflenz in Wagna feierlich eröffnet, was die Infrastrukturentwicklung in der Steiermark vorantreibt.",
+      "summary": "In der Steiermark ereigneten sich mehrere Zwischenfälle in Tunneln, darunter ein Fahrzeugbrand und ein Unfall beim Semmering-Basistunnel mit eingeklemmten Personen. Parallel dazu wurden wichtige Infrastrukturprojekte wie die sanierte Schloßbergbahnbrücke in Graz und die neu eröffnete Sulmbrücke in Wagna fertiggestellt.",
       "items": [
+        {
+          "title": "Auto ging in Tunnel in Flammen auf - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uNExfN3RJUGxXVzYza3c1NE9ZNUpucXlOeWdUeE9VZlZzQVFldTBVckxrZmlBWFV2SC1WeEthY2w4UE54bDgwWnVDYnlyQ3Vua3dBUg?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "12. May 2026"
+        },
+        {
+          "title": "Einsatz in Steiermark - Feuer im Tunnel: Pkw stand in Flammen - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBWWVRENmVBZEJWTnRTQ0dZR09yYl9LVTJQR0cwcEhhRGN5eUQ1RGpJMWNxSm9zRjA1OHFRQVVITVRBUQ?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "12. May 2026"
+        },
+        {
+          "title": "Unfall bei Semmering-Basistunnel: Zwei Personen von Lift eingeklemmt - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN3hFZmlUMGRad1diUnFsT1NZSUh3OVppb0V1cjEweDdxdllOU0lWakk4TVhpeUtDeGJMVVFRU2FXVEh2VHZteFlQZVFCZkxGaVcwRWR0cnFRdmRkbndfVlV6NEl4UE16MnY3YVVfRmd2WThsd2hTRXFkX1dGRzE0d2wxeWlsOUlUOWV4em1oNE5XVXMwZDdxZUxlSW5ja3RiVXNjYmlpR1JQQUtQejRabnB6UQ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "6. May 2026"
+        },
         {
           "title": "Sanierung: Historische Schloßbergbahnbrücke ist wieder begehbar - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMVg4VzdhektZYVpvczUxcU14blA3LV9OMHR5WVZ3cEFEbkpRcTdlcjVKTVRUeXZwT0VkM2ZqTnQya0pKd2hMQlE2VGhlb0d4R0VjN1dZM1c3UDlzR0FORkx1OVdkek8wYjZ4M3JXSF8xQlNiRnlaRVcwd2VGM3JiNlVlTmhHSVhpT1k4eWlzNkNxVFdUNlN4TDNwWGpqeENkMkE?oc=5",
@@ -31,12 +49,6 @@
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wVDE1Z0FHYmhpQTdWYkxoRE55ZUtfbGZuQldvTkRUTXF4bjhWUmFUdUx1UFQwU0tUd2FOS1hDUDlOZVhXelNpbHlfUS1MWlY4eDJScl9zWWVkdXJHNlhmUWwyQWxmbjlRY0FZMFhlNm42b1FkWnNrdw?oc=5",
           "source": "Kommunikation - Land Steiermark",
           "date": "8. May 2026"
-        },
-        {
-          "title": "Ablenkung und Unachtsamkeit sind nach wie vor Unfallursache Nummer 1 - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0ydmEtUF9ONlUwcFlSbVpWMDE3UVNub3ZfckVUSWtvM3ljTldCX01DN1F5UTQweVdWNWRHSXpnSG1sX3I3dE90Z21LTmpoV1VBVGhrcWNBX1J6Y1BaZkV6cDlZNlpjbFNtS3l4YkNWNA?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "5. May 2026"
         }
       ]
     },
@@ -44,13 +56,25 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Der Aichfeldbus gilt als Pionierprojekt, das den öffentlichen Verkehr in seiner Region grundlegend verändert und modernisiert hat. Dieses innovative Buskonzept demonstriert, wie gezielt ausgestaltete Verkehrslösungen die Mobilität in der Steiermark nachhaltig verbessern können.",
+      "summary": "Der Verkehrsverbund Steiermark erweitert sich strategisch durch die Westbahn als neuen Partner und trägt damit zur Verbesserung des regionalen Nahverkehrsangebots bei. Das Aichfeldbus-Pionierprojekt demonstriert, wie innovative Buskonzepte ganze Regionen im öffentlichen Verkehr transformieren können, während gleichzeitig Verkehrssicherheit durch entsprechende Kampagnen in den Fokus rückt.",
       "items": [
         {
           "title": "Pionierprojekt: Aichfeldbus veränderte den öffentlichen Verkehr einer ganzen Region - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdTZmbWRIRUJVc3lQN0NGZVYtYVhkNGY2ZmdMVm1JR0o2bHYwZnhYQ1c2dFpLYzRsaDdsTW9BWmc4Q2lPaHUyQVFPcms0bXV2R2ZPRXhtMlU1MHgtT1RZeEVwcUV4YXV6LXh6SEU0X0VDaTZuZXkwWmliaXBRVWFXOUZ4cTFzazBMZ3hlUGljaWlZOHQyWTBuU1RiN0RXSnRsYlBlTDd0V3hybXBUSmwwYTMwUUF3UQ?oc=5",
           "source": "Kleine Zeitung",
           "date": "6. May 2026"
+        },
+        {
+          "title": "Neue Verkehrssicherheitskampagne in Graz - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52RHctdVZ3dE5LT0tjQlBSODl2NUVjdktqYkFXOHd6aC1HWkZhczBMNFdaMENJVWZZM19ERzRBR1AxaTcyUnRjSVpqNmRGcjZsS0o4dA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "12. May 2026"
+        },
+        {
+          "title": "VERKEHRSVERBUND STEIERMARK WÄCHST: WESTBAHN WIRD NEUER PARTNER – LBN Online - Liezener Bezirksnachrichten",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdUNMVXB0a3lGZWNuRlNVOEpPS2Z0V2xxYjBRY2RndlhpUExaVnp3NTVxdzJaZTdwMDZlYmtiN1g4ZEVhU0w1dV9WWFhZRENMMERBcC1qT2JpYnRIemxWQXNaMDJSVlotU194b1ZTaE9XN0dYVkQtaTA0NDNGaFcyRS1Rdmt6THdjYlloN1g2OVpxVWxUMFNsY0RMWi1aTk5HOC1OZ2pxeUhndkdSeFJsVmNlMUg2TTJhZlQzQU9CTWd5UUl5MUhfQjdSd1g5czIxUkZLaWFhMA?oc=5",
+          "source": "Liezener Bezirksnachrichten",
+          "date": "13. May 2026"
         }
       ]
     },
@@ -58,37 +82,13 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark intensiviert ihre Bemühungen für nachhaltige Mobilität durch Radoffensiven und kostenlose Schulungsprogramme für E-Scooter-Nutzer, muss aber gleichzeitig gegen steigende Unfallzahlen bei Elektro-Zweirädern ankämpfen, die hauptsächlich durch Ablenkung und mangelnde Verkehrssicherheit verursacht werden. Koordinierte Verkehrssicherheitsmaßnahmen und bessere Abstimmung zwischen Graz und der Steiermark sind notwendig, um die Sicherheit im Zuge der wachsenden Nutzung alternativer Fortbewegungsmittel zu gewährleisten.",
+      "summary": "Die Steiermark verzeichnet eine steigende Nachfrage nach personalisierten Wunschkennzeichen, was auf eine weiterhin hohe Motorisierung hindeutet. Dies unterstreicht die Notwendigkeit, parallel zur Verkehrssicherheit auch verstärkt in nachhaltige Mobilitätsalternativen wie Rad- und Fußverkehr zu investieren, um die Verkehrsbelastung langfristig zu reduzieren.",
       "items": [
         {
-          "title": "Graz und Steiermark kommen sich bei Radoffensive zunehmend in die Quere - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS25qMGtMY0J1R0xqaDJKa0NwR0ZnMlozVW8wWU9RU2theUFZN2dsNnlISm9IZm1WQWQ5c0tpeTFEMnd6Q0F2XzdDYl96XzhhNmlIYWxiLXVKcjlxaG83U3cxZmZTVlVSVUZMd1BpVHdxX0hZbmIxY3VHck1NOGNHNVNJdU5felJkNzZKdVdPd2YwZF9hdmhzYXJJYzYzZVcybWxRUWcwd2hhc0dvckctTHZR?oc=5",
+          "title": "Um 20 Prozent mehr steirische Wunschkennzeichen in einem Jahr - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORkNlUE42aERPa2tncGVUWG92SnJLWHI2dmZDTHBKMndjSDJ6SEpkTVYxOWY3Wm1rbzZ4TlZkTTBGUnZRLWpvV2QyWmhEenRIbGlVTkhNR2RyOVFwc0pQbWp6N3U0cXUtVnAwN2tRV09ST1pFVjZ6ZmJIUVhRQkoyVU5YSm5HXzRlZ3AyVXg4TXIyV3MwQ3UwRC1NMTFaUElGWEhWdmk5QjZzbk0ybmd3?oc=5",
           "source": "Kleine Zeitung",
-          "date": "6. May 2026"
-        },
-        {
-          "title": "Neues Programm für Verkehrssicherheit - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU1VEU0J5MUdDTl9zcEVjNUFZSldZUHdmLWFqcGxaN2t0UW9iaE5qcjE3ellHcVY3bXgyYWJlT2twbEkxV1lrRHBNTkhzNFJDSzlfVzR0dUJIS0kzVlJWeGdtUGZHaDZjbU95TThtdWN6bmVsa01CbENtQTVoY0NndVBsWUVfZlk?oc=5",
-          "source": "ORF ON",
-          "date": "5. May 2026"
-        },
-        {
-          "title": "Verkehrssicherheit - Unfälle mit Elektro-Zweirädern nehmen stark zu - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB2bVVZcWxFaE1iOXg4cjMtdmhJYlRpcE9iUlFkbWptRmFOQ3AycjJ1bV9CcEtGSi05Xy1wVzRyV2dxQQ?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "5. May 2026"
-        },
-        {
-          "title": "Kostenlose Kurse für E-Scooter-Lenker in der Steiermark - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeldReWk2MDZzaWs1RGkyQWxRSC1Gbm9UVUxDZ3ZjTC1HQ09PWFpxTG9YY21RRFhwT3JfSG1fNXUxaWIzcUFRUUpqZmlnQ2lyMVNtd1NuTWNQVHVCWXhiOUtscEhKVkw4OXlQcU5UTG1nSEt6THc5N0YwdGtwNnNDU3h6RlFhTFJPS3FpMmt6d1NPTlBJUjNxX0ZNT1M5ZTM2blE?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "5. May 2026"
-        },
-        {
-          "title": "Ablenkung und Unachtsamkeit sind nach wie vor Unfallursache Nummer 1 - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0ydmEtUF9ONlUwcFlSbVpWMDE3UVNub3ZfckVUSWtvM3ljTldCX01DN1F5UTQweVdWNWRHSXpnSG1sX3I3dE90Z21LTmpoV1VBVGhrcWNBX1J6Y1BaZkV6cDlZNlpjbFNtS3l4YkNWNA?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "5. May 2026"
+          "date": "12. May 2026"
         }
       ]
     },
@@ -96,7 +96,7 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Sulmbrücke Aflenz in Wagna wurde feierlich eröffnet und stellt eine wichtige Verkehrsverbindung in der Region dar. Das Projekt unterstreicht das Engagement des Landes Steiermark für die Modernisierung und Verbesserung der Infrastruktur im Hochbau.",
+      "summary": "Die neue Sulmbrücke in Aflenz bei Wagna wurde feierlich eröffnet und stellt eine wichtige Infrastrukturverbesserung für die Region dar. Das Projekt unterstreicht das Engagement des Landes Steiermark für moderne und sichere Verkehrsverbindungen in der Steiermark.",
       "items": [
         {
           "title": "„Sulmbrücke Aflenz“ in Wagna feierlich eröffnet - Kommunikation - Land Steiermark",
