@@ -1,13 +1,19 @@
 {
-  "generated": "14. May 2026, 06:12 UTC",
+  "generated": "15. May 2026, 06:20 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "In der Steiermark ereignete sich ein Fahrzeugbrand in einem Tunnel, während gleichzeitig wichtige Infrastrukturprojekte wie die Sanierung der historischen Schloßbergbahnbrücke in Graz und die Eröffnung der neuen Sulmbrücke in Wagna erfolgreich abgeschlossen wurden. Diese Vorfälle und Maßnahmen unterstreichen sowohl die Herausforderungen im Tunnelbetrieb als auch die laufenden Investitionen in die Erneuerung und den Ausbau der steirischen Straßeninfrastruktur.",
+      "summary": "In der Steiermark ereigneten sich mehrere Verkehrsunfälle an der Infrastruktur, darunter ein Fahrzeugbrand in einem Tunnel und eine Kollision mit einem Brückengeländer in Neumarkt. Parallel dazu wurden wichtige Infrastrukturprojekte erfolgreich abgeschlossen, nämlich die Sanierung der historischen Schloßbergbahnbrücke in Graz und die Eröffnung der neuen Sulmbrücke in Wagna.",
       "items": [
+        {
+          "title": "Neumarkt in der Steiermark: Mit Auto in Brückengeländer gefahren - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUUd0bjBjQ2ZuV1Y2UW1ETmNLYk5CS2R0RmJuOHE3YXIxcWFzVnI3dWhMeTVWNUNfVUgyMDM2X3o4ZWZjYTFXdnJXeHZoZ0t2M0V6U2M0Zkp0NUsyaDNVVXRyLXYyXzFheXhZRG15emh6eHg5bmtZdEhDY3daZHlZSkJFZjJ3U1I0bTNPdWJObFEwMzB4T1BrQ3pRT1kwYlZWMFdjNHR0Q2d3MVRaTkE?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "10. May 2026"
+        },
         {
           "title": "Auto ging in Tunnel in Flammen auf - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uNExfN3RJUGxXVzYza3c1NE9ZNUpucXlOeWdUeE9VZlZzQVFldTBVckxrZmlBWFV2SC1WeEthY2w4UE54bDgwWnVDYnlyQ3Vua3dBUg?oc=5",
@@ -33,12 +39,6 @@
           "date": "8. May 2026"
         },
         {
-          "title": "Business-Run mit Rekord und Straßensperren - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55aEQ4NjMwby1MR2I0TjkyVl9wSGR6UTRTZkpBcFdGLTY2QW9CNThXZjh3UG9jbE85WTRUY25VYUVjaHZVS0xwbU55R29idjZNTTZkag?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "7. May 2026"
-        },
-        {
           "title": "„Sulmbrücke Aflenz“ in Wagna feierlich eröffnet - Kommunikation - Land Steiermark",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wVDE1Z0FHYmhpQTdWYkxoRE55ZUtfbGZuQldvTkRUTXF4bjhWUmFUdUx1UFQwU0tUd2FOS1hDUDlOZVhXelNpbHlfUS1MWlY4eDJScl9zWWVkdXJHNlhmUWwyQWxmbjlRY0FZMFhlNm42b1FkWnNrdw?oc=5",
           "source": "Kommunikation - Land Steiermark",
@@ -50,19 +50,13 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Der Verkehrsverbund Steiermark erweitert sein Netzwerk durch die Westbahn als neuen Partner und stärkt damit das öffentliche Verkehrsangebot in der Region. Parallel dazu setzt Graz mit einer neuen Verkehrssicherheitskampagne Schwerpunkte auf die Sicherheit im städtischen Verkehr.",
+      "summary": "Der Verkehrsverbund Steiermark erweitert sein Netzwerk durch die Westbahn als neuen Partner. Diese Erweiterung stärkt die Vernetzung und das Angebot des öffentlichen Verkehrs in der Region.",
       "items": [
         {
-          "title": "Neue Verkehrssicherheitskampagne in Graz - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52RHctdVZ3dE5LT0tjQlBSODl2NUVjdktqYkFXOHd6aC1HWkZhczBMNFdaMENJVWZZM19ERzRBR1AxaTcyUnRjSVpqNmRGcjZsS0o4dA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "12. May 2026"
-        },
-        {
           "title": "VERKEHRSVERBUND STEIERMARK WÄCHST: WESTBAHN WIRD NEUER PARTNER – LBN Online - Liezener Bezirksnachrichten",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdUNMVXB0a3lGZWNuRlNVOEpPS2Z0V2xxYjBRY2RndlhpUExaVnp3NTVxdzJaZTdwMDZlYmtiN1g4ZEVhU0w1dV9WWFhZRENMMERBcC1qT2JpYnRIemxWQXNaMDJSVlotU194b1ZTaE9XN0dYVkQtaTA0NDNGaFcyRS1Rdmt6THdjYlloN1g2OVpxVWxUMFNsY0RMWi1aTk5HOC1OZ2pxeUhndkdSeFJsVmNlMUg2TTJhZlQzQU9CTWd5UUl5MUhfQjdSd1g5czIxUkZLaWFhMA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb3pxYnNXOXNUbzBESFpZR1RESkxPN2V0dHVNUmJxWDhaV1ZoOFRsUXVqVWQxdVJXRGtpMUFKTnlRZkNjd3AweFJUbVgzbHNCbjlWUmcxa0diY09uZnRhTnVKY0RUaTI4OExGQVcwckE0VDA0cTIxTXk5SWNVTVNhWHZsR2RUeGRZRF85d19ITEVkWkdDSkJ1aHVYRVpCd1BMQ3N1cnlzOHZwYkpRUm5zV041OHhWM19LbEtpS2dPcFRQdw?oc=5",
           "source": "Liezener Bezirksnachrichten",
-          "date": "13. May 2026"
+          "date": "15. May 2026"
         }
       ]
     },
@@ -70,20 +64,39 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Die Steiermark hinkt beim Ausbau ihrer Radweginfrastruktur hinterher, obwohl Radfahren als nachhaltiges Verkehrsmittel an Bedeutung gewinnt. Strukturelle und finanzielle Hürden bremsen die Umsetzung von Radverkehrsprojekten, die für eine sichere und umweltfreundliche Mobilität dringend notwendig wären.",
+      "items": [
+        {
+          "title": "Radwege in der Steiermark: Warum beim Ausbau wenig weitergeht - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSmtpVkxxUTRIUzg3amhlUnBGWjJHb3JwWHlwdFJOOU9oRzlJUWpIUDc0ZzVLTlA0c1dkRWE4bEc2OGpSRmN6VmtqUjlSbk9hNlN5OUI4ZGg0SW9hNzNiWUdvWlNRWVNTUUtoT3RzRnlodjIzOG9ETlRQZGVndDZTbXQxRlkwUFluTUhETzl1M3NTdWRscGpGWTJGQ1pMaHo2c1RF?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "14. May 2026"
+        }
+      ]
     },
     "landeshochbau": {
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Sulmbrücke Aflenz in Wagna wurde feierlich eröffnet und stellt eine wichtige Infrastrukturmaßnahme für die Region dar. Das Projekt unterstreicht das Engagement des Landes Steiermark für die Verbesserung der Verkehrsanbindung und Baukultur in der Steiermark.",
+      "summary": "Die Sulmbrücke Aflenz in Wagna wurde feierlich eröffnet und stellt eine wichtige Infrastrukturmaßnahme dar. Die anderen beiden Meldungen behandeln Unfallgeschehnisse und sind nicht relevant für Hochbauprojekte oder Baukultur.",
       "items": [
         {
           "title": "„Sulmbrücke Aflenz“ in Wagna feierlich eröffnet - Kommunikation - Land Steiermark",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wVDE1Z0FHYmhpQTdWYkxoRE55ZUtfbGZuQldvTkRUTXF4bjhWUmFUdUx1UFQwU0tUd2FOS1hDUDlOZVhXelNpbHlfUS1MWlY4eDJScl9zWWVkdXJHNlhmUWwyQWxmbjlRY0FZMFhlNm42b1FkWnNrdw?oc=5",
           "source": "Kommunikation - Land Steiermark",
           "date": "8. May 2026"
+        },
+        {
+          "title": "Unerlaubte Fahrt endet im Krankenhaus - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QWU9aN0RfRHFxOGhXT2xUbDRQUm9XbmhFdTBlbXllUW05VmQyeGFkcWMxQTJ0ZzhMR29nOElsdXJkZk1yYjlLMWRxenNLWHRFelBVMg?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "8. May 2026"
+        },
+        {
+          "title": "Nach Gasexplosion: Arbeiter im Krankenhaus gestorben - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jc1V4dFpPZE9EUUl2cUxzRHdBQzZlT1NyaUlfOWpUUm5zbzJvbUo5TktSWkctTS1seGhXZm1NME9QcTk5RTh5OE1qZUY4S05Fby1IZQ?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "12. May 2026"
         }
       ]
     },
