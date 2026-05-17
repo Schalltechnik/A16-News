@@ -1,12 +1,12 @@
 {
-  "generated": "16. May 2026, 05:42 UTC",
+  "generated": "17. May 2026, 06:09 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Ein Pkw ist in einem steirischen Tunnel in Brand geraten und hat einen Feuerwehreinsatz erforderlich gemacht. Der Vorfall unterstreicht die Bedeutung von Sicherheitsmaßnahmen in Tunnelinfrastrukturen.",
+      "summary": "Ein Pkw ist in einem steirischen Tunnel in Brand geraten und hat einen Feuerwehreinsatz ausgelöst. Der Vorfall unterstreicht die Bedeutung von Sicherheitsmaßnahmen in Tunnelinfrastrukturen.",
       "items": [
         {
           "title": "Auto ging in Tunnel in Flammen auf - steiermark.ORF.at",
@@ -40,7 +40,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark hinkt beim Ausbau ihrer Radweginfrastruktur hinterher, obwohl Radfahren als nachhaltiges Verkehrsmittel zunehmend an Bedeutung gewinnt. Strukturelle und finanzielle Hürden bremsen die Umsetzung von Verkehrsplanungsprojekten, die für eine sichere und umweltfreundliche Mobilität notwendig wären.",
+      "summary": "Der Ausbau der Radweginfrastruktur in der Steiermark stagniert trotz bekannter Notwendigkeit für nachhaltige Mobilität aufgrund von Finanzierungs- und Planungshürden. Um die Verkehrssicherheit zu verbessern und den Fuß- und Radverkehr zu fördern, sind beschleunigte Investitionen und eine koordinierte Verkehrsplanung erforderlich.",
       "items": [
         {
           "title": "Radwege in der Steiermark: Warum beim Ausbau wenig weitergeht - Kleine Zeitung",
@@ -54,7 +54,7 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Ich kann diese Aufgabe nicht erfüllen, da der angegebene Nachrichtentitel sich auf einen tragischen Unfall mit Todesfolge bezieht und nicht auf ein Hochbauprojekt, Schulbau, öffentliches Gebäude oder Baukulturthema im eigentlichen Sinne. Eine sachliche Zusammenfassung zu Landeshochbau und Baukultur wäre in diesem Fall unangemessen.",
+      "summary": "Ich kann diese Aufgabe nicht wie gewünscht erfüllen, da der angegebene Nachrichtentitel sich auf einen tragischen Arbeitsunfall mit Todesfolge bezieht und nicht auf ein Hochbauprojekt, Schulbau, öffentliches Gebäude, Liegenschaft oder Baukulturthema im eigentlichen Sinne. Der Titel enthält keine Informationen zu Landeshochbau oder Baukultur in der Steiermark, die ich zusammenfassen könnte.",
       "items": [
         {
           "title": "Nach Gasexplosion: Arbeiter im Krankenhaus gestorben - steiermark.ORF.at",
