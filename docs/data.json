@@ -1,30 +1,24 @@
 {
-  "generated": "19. May 2026, 06:36 UTC",
+  "generated": "20. May 2026, 06:35 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Der Semmering-Basistunnel tritt in seine finale Bauphase ein, während im steirischen Straßennetz ein Pkw-Brand in einem Tunnel zu einem Einsatz der Rettungskräfte führte. Das Apfellandtriathlon-Event wird künftig mit reduzierten Straßensperrungen durchgeführt.",
+      "summary": "Der Semmering-Basistunnel befindet sich in seiner finalen Bauphase und macht damit bedeutende Fortschritte beim wichtigsten Infrastrukturprojekt der Region. Gleichzeitig wird bei der Planung von Großveranstaltungen wie dem Apfellandtriathlon verstärkt auf eine Minimierung von Straßensperrungen geachtet, um die Verkehrsbeeinträchtigung für die Bevölkerung zu reduzieren.",
       "items": [
         {
-          "title": "Semmering-Basistunnel: Start für finale Bauphase - steiermark.ORF.at",
+          "title": "Semmering-Basistunnel: Start für letzte Bauphase - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CaE9EM21BQ1pEMVdmRHpramMwOGRXVVBWYkVRZHN6NzBsLV9uVFBVdUJ4cGhObzh1VFpIZTFqWWU5ZWdEVFozR1VWcHJycUUyNUROaQ?oc=5",
           "source": "steiermark.ORF.at",
           "date": "19. May 2026"
         },
         {
-          "title": "Einsatz in Steiermark - Feuer im Tunnel: Pkw stand in Flammen - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBWWVRENmVBZEJWTnRTQ0dZR09yYl9LVTJQR0cwcEhhRGN5eUQ1RGpJMWNxSm9zRjA1OHFRQVVITVRBUQ?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "12. May 2026"
-        },
-        {
-          "title": "Auto ging in Tunnel in Flammen auf - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uNExfN3RJUGxXVzYza3c1NE9ZNUpucXlOeWdUeE9VZlZzQVFldTBVckxrZmlBWFV2SC1WeEthY2w4UE54bDgwWnVDYnlyQ3Vua3dBUg?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "12. May 2026"
+          "title": "Semmering-Basistunnel: Exklusive Durchfahrt – so geht es im Tunnel jetzt voran - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNazFyTFBpNzNNSnNqSnNHbjgyNTlZX0p3WDNDYUg5b0NiS1l0R1JmdklveTZPcWpIR3dPcGFYd2RLZ29FN0RPRGszMXUtQ3l5YVpOYTFpcGdUeHFiRE9KdmxLVmUtejViaUhob09CTl9sV3dQZUgxeG9Ic0hXTVNva2EzeF9rY2o3cENabk5nUnFwbkNwbXpQNzhnb21PdzdGNklCY0tkenRFeGM?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "19. May 2026"
         },
         {
           "title": "Apfellandtriathlon setzt auf weniger Straßensperren als bisher - Kleine Zeitung",
@@ -38,19 +32,13 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Der Verkehrsverbund Steiermark erweitert sich durch die Westbahn als neuen Partner und stärkt damit das regionale Verkehrsnetz. Mit dem neuen Öffi-Tourenbuch wird das Angebot für Fahrgäste um attraktive Informationen zu Ausflügen mit öffentlichen Verkehrsmitteln ergänzt.",
+      "summary": "Der Verkehrsverbund Steiermark erweitert sein Netzwerk durch die Westbahn als neuen Partner. Diese Erweiterung stärkt die Vernetzung und das Angebot des öffentlichen Verkehrs in der Region.",
       "items": [
         {
           "title": "VERKEHRSVERBUND STEIERMARK WÄCHST: WESTBAHN WIRD NEUER PARTNER – LBN Online - Liezener Bezirksnachrichten",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb3pxYnNXOXNUbzBESFpZR1RESkxPN2V0dHVNUmJxWDhaV1ZoOFRsUXVqVWQxdVJXRGtpMUFKTnlRZkNjd3AweFJUbVgzbHNCbjlWUmcxa0diY09uZnRhTnVKY0RUaTI4OExGQVcwckE0VDA0cTIxTXk5SWNVTVNhWHZsR2RUeGRZRF85d19ITEVkWkdDSkJ1aHVYRVpCd1BMQ3N1cnlzOHZwYkpRUm5zV041OHhWM19LbEtpS2dPcFRQdw?oc=5",
           "source": "Liezener Bezirksnachrichten",
           "date": "15. May 2026"
-        },
-        {
-          "title": "Neues Öffi-Tourenbuch - gkb.at",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUHJDTlh2d0hFZXlfc0RzNGN6R2o3dmtsX21URUpfa3FVNy00ek1XTlpZeG5DalZQeG1VUEpDNVBqZG9XWFdJYlgxVGYwTnZmTlNxVVpFQzZ4aVlQRE1Pc0RYLUJDQWhpYm4ySVZmbjU3OFZzSnNnTjV5TjJGZDJOTm1NT1lGeWdUUmxHc0ZsWQ?oc=5",
-          "source": "gkb.at",
-          "date": "18. May 2026"
         }
       ]
     },
@@ -58,7 +46,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Der Radwegeausbau in der Steiermark stagniert trotz erkannter Notwendigkeit, während einzelne Schulen und Projekte durch innovative Ansätze zur Verkehrssicherheit und kinderfreundlichen Straßengestaltung Vorbildfunktion übernehmen. Die Mobilitätswende wird somit eher durch lokale Initiativen vorangetrieben als durch übergeordnete Verkehrsplanung.",
+      "summary": "Der Radwegeausbau in der Steiermark stagniert trotz erkannter Notwendigkeit, während einzelne Schulen wie die MS Pischelsdorf mit innovativen Projekten zu bunten, sicheren Straßen und verbesserter Verkehrssicherheit vorangehen. Die Mobilitätswende wird somit eher durch lokale Initiativen vorangetrieben, während strukturelle Infrastrukturprojekte auf regionaler Ebene nur schleppend vorankommen.",
       "items": [
         {
           "title": "Radwege in der Steiermark: Warum beim Ausbau wenig weitergeht - Kleine Zeitung",
@@ -84,15 +72,8 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Ein Arbeiter ist nach einer Gasexplosion auf einer Baustelle in der Steiermark verstorben und zuvor ins Krankenhaus eingeliefert worden. Der Vorfall unterstreicht die kritische Bedeutung von Sicherheitsstandards auf Hochbauprojekten in der Region.",
-      "items": [
-        {
-          "title": "Nach Gasexplosion: Arbeiter im Krankenhaus gestorben - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jc1V4dFpPZE9EUUl2cUxzRHdBQzZlT1NyaUlfOWpUUm5zbzJvbUo5TktSWkctTS1seGhXZm1NME9QcTk5RTh5OE1qZUY4S05Fby1IZQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "12. May 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "behoerde_uvp": {
       "label": "Verkehrsbehörde & UVP",
