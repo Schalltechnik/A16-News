@@ -1,12 +1,12 @@
 {
-  "generated": "22. May 2026, 06:35 UTC",
+  "generated": "23. May 2026, 05:55 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Zusammenfassung konnte nicht erstellt werden (Server Error).",
+      "summary": "Der Semmering-Basistunnel befindet sich in seiner finalen Bauphase und macht damit Fortschritte bei diesem bedeutenden Infrastrukturprojekt der Steiermark. Parallel dazu laufen verschiedene Sanierungsarbeiten wie die Rathausbrücke in Stainz und Hochwasserschutzmaßnahmen am Traibach, um die Infrastruktur und Bevölkerung in der Region zu sichern.",
       "items": [
         {
           "title": "Hochwasserschutz Traibach: 1.500 Bewohner von Langenwang und Krieglach vor Hochwasser geschützt - MeinBezirk.at",
@@ -25,6 +25,12 @@
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNazFyTFBpNzNNSnNqSnNHbjgyNTlZX0p3WDNDYUg5b0NiS1l0R1JmdklveTZPcWpIR3dPcGFYd2RLZ29FN0RPRGszMXUtQ3l5YVpOYTFpcGdUeHFiRE9KdmxLVmUtejViaUhob09CTl9sV3dQZUgxeG9Ic0hXTVNva2EzeF9rY2o3cENabk5nUnFwbkNwbXpQNzhnb21PdzdGNklCY0tkenRFeGM?oc=5",
           "source": "MeinBezirk.at",
           "date": "19. May 2026"
+        },
+        {
+          "title": "Teilweise Sperre der Grazer Straße: 8. Juni bis 30. September: Sanierung der Rathausbrücke in Stainz - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM3pJaFhIaHlpSDh6SWNaTFJVQ0pfV2VCUS1iMXgzbG9Rd3ZRTVBwOHc4R01CMG5tTm9OQVRPMnpOZXhjVjlQNnROMjRWX213VENPZk9SazlsNzJRUVBuMFBWMmkzOEdjN0l2V3NvaHg4RUs2Q0hRQUVOdFUxaHU1OEF3QXR6NlBiZGE4TWtGbFJpMmRlaExCRGhUWHJPMFJNNzlZQXhrNjhBMVBzWnp0ODU0U29qQXhnYTM3UjhYeTFNdw?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "22. May 2026"
         }
       ]
     },
@@ -32,7 +38,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Pendlerinitiative Steiermark kritisiert den Masterplan Öffentlicher Verkehr – Graz 2040 scharf dafür, dass Pendler und das Umland in dem Konzept nicht ausreichend berücksichtigt werden. Der Plan wird damit vorgeworfen, die Bedürfnisse von Außengebieten und Berufspendlern zu ignorieren.",
+      "summary": "Die Pendlerinitiative Steiermark kritisiert den Masterplan Öffentlicher Verkehr – Graz 2040 scharf dafür, dass Pendler und das Umland in dem Konzept nicht ausreichend berücksichtigt werden. Die Initiative bemängelt damit eine unzureichende Planung für die Mobilitätsbedürfnisse von Arbeitnehmern außerhalb des Zentrums.",
       "items": [
         {
           "title": "Pendlerinitiative Steiermark kritisiert Masterplan Öffentlicher Verkehr – Graz 2040: „Pendler und Umland kommen im Konzept nicht vor“ - OTS.at",
@@ -46,8 +52,14 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Zusammenfassung konnte nicht erstellt werden (Server Error).",
+      "summary": "Die MS Pischelsdorf wurde für ihr Engagement bei der Gestaltung einer bunten, verkehrssicheren Straße und ihre Verkehrssicherheitsarbeit ausgezeichnet. Helmut List tritt von seiner Position als AVL-Geschäftsführer zurück.",
       "items": [
+        {
+          "title": "Hauptpreis für MS Pischelsdorf: Sieger-Schule für bunte Straße und Verkehrssicherheit - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWXNFZklsY0YtTi1MSUNVenV0Um5jOXRyTVJ4ZE93UTNpQ1ViY1dyY0hrYVhob1I3dW9qc2s0cmJoNU5xQ3o1YXJNbXlKN3JoN0V0M0hZSG10TTBSVHhpMl9HZmVwY2pqU0xkUDBjWk5RSzVxTUp4RndDd0dmcy14alYzNzM4d2x1WlBwbUdDYTBLNHlvc1hQeDVJTG9tRnJRNzNLWngtUmw?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "18. May 2026"
+        },
         {
           "title": "Helmut List gibt AVL-Geschäftsführung ab - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yRlBCcVMtcGxES1VqMG9yR0cyNzZhRVJESGY1bGZUUzVKZDVlOGk2TFVsX0JOTzdxZXNuMXpuQTZOOXVRZ2lsZXZlRzBWUFoxX3Ftdw?oc=5",
