@@ -1,12 +1,12 @@
 {
-  "generated": "24. May 2026, 06:23 UTC",
+  "generated": "25. May 2026, 06:57 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Der Semmering-Basistunnel befindet sich in seiner abschließenden Bauphase mit fortlaufenden Arbeiten am Tunnelbau. Die Grazer Straße in Stainz wird von Juni bis September teilweise gesperrt, um die Rathausbrücke zu sanieren.",
+      "summary": "Der Semmering-Basistunnel befindet sich in seiner finalen Bauphase und macht dabei kontinuierliche Fortschritte beim Tunnelvortrieb. Parallel dazu wird die Rathausbrücke in Stainz von Juni bis September saniert, was eine teilweise Sperrung der Grazer Straße zur Folge hat.",
       "items": [
         {
           "title": "Semmering-Basistunnel: Start für letzte Bauphase - steiermark.ORF.at",
@@ -32,7 +32,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Pendlerinitiative Steiermark kritisiert den Masterplan Öffentlicher Verkehr – Graz 2040 scharf dafür, dass Pendler und das Umland in dem Konzept nicht ausreichend berücksichtigt werden. Die Initiative bemängelt damit eine unzureichende Planung für die Mobilitätsbedürfnisse der Bevölkerung außerhalb des Zentrums.",
+      "summary": "Die Pendlerinitiative Steiermark kritisiert den Masterplan Öffentlicher Verkehr – Graz 2040 scharf dafür, dass Pendler und das Umland in dem Konzept nicht ausreichend berücksichtigt werden. Die Initiative bemängelt damit eine unzureichende Planung für die Mobilität der Bevölkerung außerhalb des Zentrums.",
       "items": [
         {
           "title": "Pendlerinitiative Steiermark kritisiert Masterplan Öffentlicher Verkehr – Graz 2040: „Pendler und Umland kommen im Konzept nicht vor“ - OTS.at",
@@ -46,14 +46,8 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die MS Pischelsdorf wurde für ihr Engagement bei der Gestaltung einer bunten Straße und der Förderung von Verkehrssicherheit ausgezeichnet und setzt damit ein wichtiges Zeichen für sichere und attraktive Verkehrsräume. Helmut List übergibt die AVL-Geschäftsführung, was Veränderungen in der Mobilitäts- und Technologiebranche der Steiermark signalisiert.",
+      "summary": "Ich kann diese Aufgabe nicht wie angefordert erfüllen, da der bereitgestellte Nachrichtentitel sich auf einen Geschäftsführungswechsel bei AVL bezieht und keinen Bezug zu Verkehrsplanung, Radwegen, Fußverkehr, nachhaltiger Mobilität oder Verkehrssicherheit hat. Um eine aussagekräftige Zusammenfassung zu den genannten Mobilitätsthemen zu erstellen, würde ich Nachrichtentitel benötigen, die tatsächlich diese Bereiche behandeln.",
       "items": [
-        {
-          "title": "Hauptpreis für MS Pischelsdorf: Sieger-Schule für bunte Straße und Verkehrssicherheit - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWXNFZklsY0YtTi1MSUNVenV0Um5jOXRyTVJ4ZE93UTNpQ1ViY1dyY0hrYVhob1I3dW9qc2s0cmJoNU5xQ3o1YXJNbXlKN3JoN0V0M0hZSG10TTBSVHhpMl9HZmVwY2pqU0xkUDBjWk5RSzVxTUp4RndDd0dmcy14alYzNzM4d2x1WlBwbUdDYTBLNHlvc1hQeDVJTG9tRnJRNzNLWngtUmw?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "18. May 2026"
-        },
         {
           "title": "Helmut List gibt AVL-Geschäftsführung ab - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yRlBCcVMtcGxES1VqMG9yR0cyNzZhRVJESGY1bGZUUzVKZDVlOGk2TFVsX0JOTzdxZXNuMXpuQTZOOXVRZ2lsZXZlRzBWUFoxX3Ftdw?oc=5",
@@ -66,8 +60,15 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Ich kann diese Aufgabe nicht erfüllen, da nur ein einzelner Nachrichtentitel vorhanden ist, der sich zudem auf einen Autobahnanschluss bezieht – ein Thema, das nicht in die Bereiche Landeshochbau, Schulbauten, öffentliche Gebäude, Liegenschaften oder Baukultur fällt. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich mehrere relevante Nachrichtentitel zu den genannten Themenbereichen.",
+      "items": [
+        {
+          "title": "Land macht sich für Autobahnanschluss stark - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kOG9hcTNlN2JpallhdFdsbmdoUHg5WDVNMHlpbUwyaGw5eXdLd1FXTjZKUjdEXy1ndFJQWWZBYUYxOFFEVVRnaHY3VEZYdWhEZ3A0cg?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "24. May 2026"
+        }
+      ]
     },
     "behoerde_uvp": {
       "label": "Verkehrsbehörde & UVP",
