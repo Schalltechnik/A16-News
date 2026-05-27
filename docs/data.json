@@ -1,24 +1,18 @@
 {
-  "generated": "26. May 2026, 06:33 UTC",
+  "generated": "27. May 2026, 06:48 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Der Semmering-Basistunnel befindet sich in seiner abschließenden Bauphase und macht damit bedeutende Fortschritte beim wichtigsten Infrastrukturprojekt der Region. Parallel dazu läuft die Sanierung der Rathausbrücke in Stainz, die von Juni bis September eine teilweise Sperrung der Grazer Straße erforderlich macht.",
+      "summary": "Der geplante S-Bahn-Tunnel in der Steiermark befindet sich weiterhin in der Planungsphase mit offenen Fragen zu seiner Umsetzung. Die Rathausbrücke in Stainz wird von Juni bis September saniert, was eine teilweise Sperrung der Grazer Straße zur Folge hat.",
       "items": [
         {
-          "title": "Semmering-Basistunnel: Start für letzte Bauphase - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CaE9EM21BQ1pEMVdmRHpramMwOGRXVVBWYkVRZHN6NzBsLV9uVFBVdUJ4cGhObzh1VFpIZTFqWWU5ZWdEVFozR1VWcHJycUUyNUROaQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "20. May 2026"
-        },
-        {
-          "title": "Semmering-Basistunnel: Exklusive Durchfahrt – so geht es im Tunnel jetzt voran - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNazFyTFBpNzNNSnNqSnNHbjgyNTlZX0p3WDNDYUg5b0NiS1l0R1JmdklveTZPcWpIR3dPcGFYd2RLZ29FN0RPRGszMXUtQ3l5YVpOYTFpcGdUeHFiRE9KdmxLVmUtejViaUhob09CTl9sV3dQZUgxeG9Ic0hXTVNva2EzeF9rY2o3cENabk5nUnFwbkNwbXpQNzhnb21PdzdGNklCY0tkenRFeGM?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "19. May 2026"
+          "title": "Zehn Fragen: Was wurde eigentlich aus dem S-Bahn-Tunnel? - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR1g1WFdUenMwQ29EbWpGUTd5ODh0cnVrVDdiYlBqUE9DdGZSdkV6aDlLSkZDM1FMNWdENkxvOGVoYlJzLWcySmxvWnUwMWZoTTlZYzRYa1kzSGd2U29seV9ZcTJtb3J2Szl3UGtrS282cWN5bXB1Q2V4YkxrSDJxWlN3REJUUDhYdkNGRzg5dFl1dw?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "26. May 2026"
         },
         {
           "title": "Teilweise Sperre der Grazer Straße: 8. Juni bis 30. September: Sanierung der Rathausbrücke in Stainz - MeinBezirk.at",
@@ -32,8 +26,14 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Pendlerinitiative Steiermark kritisiert den Masterplan Öffentlicher Verkehr – Graz 2040 scharf dafür, dass Pendler und das Umland in dem Konzept nicht ausreichend berücksichtigt werden. Der Plan wird als unzureichend für die Bedürfnisse der regionalen Mobilität bewertet und vernachlässigt wichtige Verkehrsströme außerhalb der Stadtgrenzen.",
+      "summary": "Die Grazer Straßenbahn wird mit modernen Ladestationen und komfortablen Ledersitzen ausgestattet, während die Pendlerinitiative Steiermark den Masterplan Öffentlicher Verkehr 2040 kritisiert, da dieser die Bedürfnisse von Pendlern und Umlandgemeinden vernachlässigt.",
       "items": [
+        {
+          "title": "Neue „Bim“ bringt Ladestationen und Ledersitze - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1abXBTVlZxRE1mT0VoNmJWN3RBQ0x6dldSTnd3cGt6eVBjSXZma0hNMzFlTTZPYlVIZ190NHBDcE5Ca2dEZUVOTlBGUG5zVEhxNkFGcg?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "26. May 2026"
+        },
         {
           "title": "Pendlerinitiative Steiermark kritisiert Masterplan Öffentlicher Verkehr – Graz 2040: „Pendler und Umland kommen im Konzept nicht vor“ - OTS.at",
           "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOblo0eTd4NEp0Zkd0Ql9WOUxYMzRkODEwTUdwWlVDd0NKdTNidmlWZjd6RDBSc3V6S0tTRTFHNjNxZ1AxSnJJdmxyNUc1Rk0tTU41eDVxNlR6TXRxLWdMcExNMnRNUEVQN0RHQ2NSYXNSU2dVWFlvRml0WHJESHV4T1U2QVNWRlRDYXg1QUx6LVBLMkJDTkI2WHZJYVJ4aDVQUXlLczNZSGZNdjh0elE0UHZvWFU3Z0NYYTVmM2hhYXN4ZWthMFZacWMtREVSd2thandxX2M3bUE2NjlxZ1ExYzBpTGFmT09RZFZyU0RYSnlpLXp4QVVwXzdta0NUX3Y0RTUyU1NEd3k3MmFneGtSeDJ3cjA?oc=5",
@@ -46,19 +46,13 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark sieht sich mit einer wachsenden Unfallproblematik bei E-Scootern konfrontiert, da immer mehr Kinder im Straßenverkehr verunglücken und damit ein dringender Handlungsbedarf besteht. Zur Bekämpfung dieser Entwicklung werden Verkehrssicherheitsmaßnahmen wie die Helmkampagne \"Helmi\" an Schulen intensiviert, um bereits bei Kindern ein sicherheitsbewusstes Verhalten im Straßenverkehr zu fördern.",
+      "summary": "E-Scooter werden in der Steiermark zunehmend zur Gefahr für Kinder im Straßenverkehr, weshalb dringend Maßnahmen zur Verkehrssicherheit erforderlich sind. Die steigende Zahl von Unfällen mit diesen Fahrzeugen zeigt, dass eine bessere Regulierung und Aufklärung notwendig ist, um besonders junge Verkehrsteilnehmer zu schützen.",
       "items": [
         {
           "title": "Handlungsbedarf bei E-Scootern: Immer mehr Kinder verunglücken im steirischen Straßenverkehr - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSmVxNnZGLXRaY2hjczZRZW1nZDhMTlVrdW9NX0U1OWhIdmZzdG1BZFJ4ckVQS1ZjUlA4SUVCRHZTUXJJWkJGRDhUMVI4ZHRTUXptLUlVR2YtSnBWcHM3UFNLOGlXMExzUUJzWGp2QzJwcGRkd3BkQ0dGUkNOT2ZLWlJmN2Qzcm0zVmVGVTFtQ3ZVZHk2V1pON055YUEzMHJETUd1djBLVkxwV0VDZ3N4WURSZlh1MndKUGdqZmgwQm5hTjBYdDVJWA?oc=5",
           "source": "MeinBezirk.at",
           "date": "26. May 2026"
-        },
-        {
-          "title": "Verkehrssicherheit: Helmi besucht die Volksschule Thörl - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa1Z0OVEza2c4UlBybms2alZkZDE1Tl9OdDR5MGVuM1ZFT2hHWGpDdTVkVVNZWjdWZTVJMHlZSEIyX0wxZWlocGRINjREeUEzbEZwY0NmTkhlS0lveW1GcGwwRkpVRkpzN1BFUFEwQ1lxVGx0amVDdC14d2c5UGZNME9BNVJEM1pvQlcwX3dQQ2ZoaWRMSzNnUU4zbDk?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "21. May 2026"
         }
       ]
     },
@@ -66,13 +60,19 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Ich kann diese Aufgabe nicht erfüllen, da nur ein einzelner Nachrichtentitel vorhanden ist, der sich zudem auf einen Autobahnanschluss bezieht und nicht auf die Themengebiete Hochbau, Schulbauten, öffentliche Gebäude, Liegenschaften oder Baukultur fällt. Um zwei prägnante Sätze zu formulieren, benötige ich mehrere relevante Nachrichtentitel zu den genannten Themenbereichen.",
+      "summary": "Das Land Steiermark setzt sich aktiv für verbesserte Infrastrukturanbindungen ein und unterstützt regionale Entwicklungsprojekte. Die Südweststeiermark orientiert sich dabei zukunftsorientiert an nachhaltigen Baukonzepten und Planungsstrategien.",
       "items": [
         {
           "title": "Land macht sich für Autobahnanschluss stark - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kOG9hcTNlN2JpallhdFdsbmdoUHg5WDVNMHlpbUwyaGw5eXdLd1FXTjZKUjdEXy1ndFJQWWZBYUYxOFFEVVRnaHY3VEZYdWhEZ3A0cg?oc=5",
           "source": "steiermark.ORF.at",
           "date": "24. May 2026"
+        },
+        {
+          "title": "Südweststeiermark: So plant die Region für die Zukunft – Blick auf nachhaltiges Bauen - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZDJFQkd5QVN5TWxTbjVZcEpWb0REMExxTmZoeWFQZUQ5am1VdEhzWGRyNjRGMnB6cmxxYU5JcGd6UzY4dDFFM1I1UmJFTTBMS2FwMThoNW5jMlVacm52Zy1WelpjTTRnZ01XX1pWdjZ3UmxzTzNhOTJ2NVdvaVVTNFljSUJabll2WWVZUHpXV2VYMVUzVTV6Z1FuXzRYZzhNSml6bmVSbWlNdE1xbjBWMTExN2ZzYm1xU3k0eGNid2NwNHRxbXE5RTN6WVlPUQ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "26. May 2026"
         }
       ]
     },
@@ -80,8 +80,15 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "In der Steiermark werden Fahrzeuge von Rasern nach festgelegten Kriterien einer behördlichen Abnahme unterzogen, wobei die Verkehrsbehörde sechs wesentliche Fakten zu diesem Verwaltungsverfahren dokumentiert hat. Dieses Verfahren dient der Sicherstellung der Verkehrstauglichkeit und der Durchsetzung von Geschwindigkeitsverstößen im steirischen Straßenverkehr.",
+      "items": [
+        {
+          "title": "In der Steiermark - 6 Fakten zur Abnahme von Raser-Fahrzeugen - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE42dUxqRzBXeWJUZ29hb1M1bUZBaHpVd2p4RXp5N2sxNnZSZVptM3JjOXJfejhvbjdGUjRFU3VxS2VqZw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "26. May 2026"
+        }
+      ]
     }
   }
 }
