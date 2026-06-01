@@ -1,12 +1,12 @@
 {
-  "generated": "31. May 2026, 06:43 UTC",
+  "generated": "01. June 2026, 07:32 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die A9 wird durch Nachtsperren im Gleinalmtunnel beeinträchtigt, während der geplante S-Bahn-Tunnel weiterhin auf seine Realisierung wartet. Ein historischer Rückblick zeigt, wie Straßeninfrastruktur vor 90 Jahren die Verbindung zwischen der Steiermark und Kärnten verbesserte.",
+      "summary": "Der Gleinalmtunnel auf der A9 ist derzeit nachts gesperrt, wie der ÖAMTC mitteilt. Ein historischer Rückblick würdigt eine vor 90 Jahren errichtete Straße, die Steirer und Kärntner näher zusammenbrachte, während aktuelle Unwetter in der Region zu Schäden führen.",
       "items": [
         {
           "title": "A9: Nachtsperren im Gleinalmtunnel - ÖAMTC",
@@ -15,14 +15,14 @@
           "date": "29. May 2026"
         },
         {
-          "title": "Zehn Fragen: Was wurde eigentlich aus dem S-Bahn-Tunnel? - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR1g1WFdUenMwQ29EbWpGUTd5ODh0cnVrVDdiYlBqUE9DdGZSdkV6aDlLSkZDM1FMNWdENkxvOGVoYlJzLWcySmxvWnUwMWZoTTlZYzRYa1kzSGd2U29seV9ZcTJtb3J2Szl3UGtrS282cWN5bXB1Q2V4YkxrSDJxWlN3REJUUDhYdkNGRzg5dFl1dw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "26. May 2026"
-        },
-        {
           "title": "Vor 90 Jahren: Wie eine Straße Steirer und Kärntner näher brachte - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYmMxSVJaT1NaSXZiVHZiRU82OVN5ZnhKajBwN2swUFRSeHhVbmNUYk1aMkxQeEdGY3ZuR3VqalY2ZHVVLTgzY21KWEJEWHJOVWlySlFNcDR2d0pTcjRleDJybXZrWlNXU2hhY2pBTWl1UE9LRFBDSktLb1BqeEJ6NTNPNVJ5Rkh6NDdjYURjbTZoRDN4XzRITnV6N1lBUU9jaVZmeGdvQ0NmWmR2Y3Bpc3czdw?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "31. May 2026"
+        },
+        {
+          "title": "Sturm deckte Dächer ab: Nächste Gewitter ziehen übers Land - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOamdDOEI5WENUNVI3QzBONUZPZ0oyRWNRNF9UenVXeDhncmxzQnF4TUY1S0lRVWFXbWNlNDJRZ2hfQzlYNFdaeHBYb01fTkVtWnJqM3Z2QllVTEJ4Q2JYRjRxbDlvQS1MRlA3ZHNaQTQxeDFvU1ZYMzk1WE1BaFlfMVc1NTdDdzljdmZuUXpVSUJUOFJ1b3MtT3hVMGI4RjdnTkI4?oc=5",
           "source": "Kleine Zeitung",
           "date": "31. May 2026"
         }
@@ -32,7 +32,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Steiermark modernisiert ihren öffentlichen Nahverkehr mit neuen Flexity-Straßenbahnen in Graz und einer erweiterten Busflotte der Steiermarkbahn im Vulkanland. Parallel dazu plant das Land die Attraktivierung der Murtalbahn durch einen Grundsatzbeschluss.",
+      "summary": "Die Steiermark modernisiert ihren öffentlichen Verkehr durch die Inbetriebnahme neuer Flexity-Straßenbahnen in Graz und die Erweiterung der Busflotte der Steiermarkbahn im Vulkanland mit 23 neuen Fahrzeugen. Parallel dazu werden Infrastrukturprojekte wie die Attraktivierung der Murtalbahn und die Fertigstellung des neuen Nahverkehrsknotens Raaba vorangetrieben.",
       "items": [
         {
           "title": "Premierenfahrt für erste Grazer Flexity-Straßenbahn - steiermark.ORF.at",
@@ -57,6 +57,12 @@
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDFpWndKZmMzbDc5SEgtY0syOGpHMm1aeXJZemtaV3p0UDhsLUhRQXlITzRaQlpUZ2laSWxsckZBc1hYa1N2NEI4RWxkWk5kYzBkaVhRR3hXNGJzZmFjd1BZMWJ6bDZVblZUeHNMWVY2cnFwV2pnVmxHZVFaVUx0bWtVeFVvazVyZERoS3F3UzUyUVNqUFh4cklLZUEwb2tHWGlDTXM2T1Y?oc=5",
           "source": "5 Minuten",
           "date": "28. May 2026"
+        },
+        {
+          "title": "ÖBB: Neuer Nahverkehrsknoten Raaba fertiggestellt - Land Steiermark - Politik",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lb3BudzBnaFA3bktNcm5GQ1VvcDJjcW54dXBtM3gwMnBQdnlIZjJQWl90ekM5Rk40SUh4QmE0ME1DWDYyV2o3WVM2dHlhMk1RQVpEMkJLaURXTlZkWllPQ3AwRWpTaWt1UVdWa2hUSmVKSWM?oc=5",
+          "source": "Land Steiermark - Politik",
+          "date": "28. May 2026"
         }
       ]
     },
@@ -64,13 +70,19 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark arbeitet konstruktiv mit dem Bundesministerium an zentralen Verkehrsprojekten und sichert gleichzeitig ihr Wildtierschutz- und Verkehrssicherheitsprojekt bis 2031 ab. Parallel dazu besteht dringender Handlungsbedarf bei der Regulierung von E-Scootern, da vermehrt Kinder im steirischen Straßenverkehr verunglücken.",
+      "summary": "Die Steiermark arbeitet mit dem Bund an zentralen Verkehrsprojekten und führt eine neue Mobilitätsplattform für die Oststeiermark ein, während gleichzeitig Maßnahmen zur Verkehrssicherheit wie das Wildtierschutz-Projekt bis 2031 ausgebaut werden. Besondere Aufmerksamkeit gilt der Sicherheit von Kindern im Straßenverkehr, insbesondere im Umgang mit E-Scootern, um Unfälle zu reduzieren.",
       "items": [
         {
           "title": "Konstruktiver Infrastrukturaustausch bei Bundesminister Hanke zu zentralen steirischen Verkehrsprojekten - Bundesministerium für Innovation, Mobilität und Infrastruktur",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xNmlBdkdTZFV1VjRmbk16N2c3YVdiTDNEWWQzWVBnSmJmZXE2d0dMUzBrWk9XOVZCekxZeVpyLW1UWHBBUGhuTVR5MjZPdDhxOWxtNU5ScmJ2OFpUeE9yVjhFU29Db0VkcmlnaXdYN3l5a0lsYm5yWFRn?oc=5",
           "source": "Bundesministerium für Innovation, Mobilität und Infrastruktur",
           "date": "28. May 2026"
+        },
+        {
+          "title": "Start im Herbst 2027: Eine neue Mobilitätsplattform für die Oststeiermark - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWUktenFxQmtFTEdXUEZ0TW5scTctQTg2NDhDVmVLVjdvUVpRWk8yT0FsaWNsTDBBNlJNbmt1MDl2cTNXaFByd0xEdGR6a3puUm9ZVEZ4eWltTHkxbVFXdzBsUV9NYWJxazNERllsYkd3aFg1U1ZXTW9MSGFLTlpyeXBBaXowb0RNS2JPaG1ydVhVWWVLTVVWaklDblBsTUM2?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "26. May 2026"
         },
         {
           "title": "Handlungsbedarf bei E-Scootern: Immer mehr Kinder verunglücken im steirischen Straßenverkehr - MeinBezirk.at",
@@ -108,14 +120,8 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark intensiviert ihre Bemühungen zur energetischen Sanierung von Gebäuden durch neue Förderprogramme wie den Sanierungspass und erweiterte Förderungen für thermische Sanierungen, um den Gebäudebestand klimafit zu machen. Gleichzeitig setzt die Region auf nachhaltiges Bauen und eine bewusste Baukultur, die bestehende Strukturen nutzt und sich mit Fragen von Wirtschaftlichkeit und demografischem Wandel auseinandersetzt.",
+      "summary": "Die Steiermark intensiviert ihre Sanierungsoffensive durch neue Förderinstrumente wie den ab Juni verfügbaren „Sanierungspass\" und erweiterte Fördertöpfe für thermische Sanierungen, um den Gebäudebestand energieeffizienter zu gestalten. Parallel dazu rückt nachhaltiges Bauen und die Nutzung vorhandener Ressourcen in den Fokus der regionalen Entwicklung, wie die Baukulturreise 2026 und die zukunftsorientierte Planung der Südweststeiermark demonstrieren.",
       "items": [
-        {
-          "title": "Land macht sich für Autobahnanschluss stark - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kOG9hcTNlN2JpallhdFdsbmdoUHg5WDVNMHlpbUwyaGw5eXdLd1FXTjZKUjdEXy1ndFJQWWZBYUYxOFFEVVRnaHY3VEZYdWhEZ3A0cg?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "24. May 2026"
-        },
         {
           "title": "Grünes Licht für „Sanierungspass“ ab Juni - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxRy0tSkZ4QWNhbklBMGRxSjh4LU0yd0M1TDFGOEQ5dU5hSlp4b1hkSFdTNGN0OGNpdHZfRWJwY1lqbnFlemxPV3VseTZaSThJZk90VA?oc=5",
@@ -129,16 +135,16 @@
           "date": "28. May 2026"
         },
         {
-          "title": "Südweststeiermark: So plant die Region für die Zukunft – Blick auf nachhaltiges Bauen - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbXBlZlU2NGU0SnE5VjJCOUNYOTRSRmNvclFEYUp3MXJFWG1HRjVWcElnVElLVXFtUExodncxV3F4X2NxbFNVc1lKLU1wS0Zkdko1NE1TZF9ycEV4RVpYRkdydW1rXy1sZ0cxRnNScUdrQ0h3WUtJQjl2aTBLZE9RRUhsS3ViRUVRQWkzbHdSWEg4ZFJRWWxnbDNYSnBqUXF1cXdlZTI2YUVGTTU4UjVON00yQzJXX0RFejB4MDlzOA?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "26. May 2026"
-        },
-        {
           "title": "Wirtschaft, Altern & „Nutzen, was da ist!“ – Baukulturreise 2026 - Leibnitz Aktuell",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOWNveHo2b0pzWGgyeUo4RGIwdDI0MEJpUnJzQWJaVTU0N0xUVlBwZWQ4VldKVDZ5Z0gzNEVjcjRSTEtzZjh6S0J3SjVCNllkblIxNVFia2FUTEJqVFZrRVBsa3hGaWRKSks3VHdvbXpWdHJ0NzJTZkRScEROTDhienhGZFZKWFA5eUdrbjN5ZVJDMHRNU0E?oc=5",
           "source": "Leibnitz Aktuell",
           "date": "27. May 2026"
+        },
+        {
+          "title": "Südweststeiermark: So plant die Region für die Zukunft – Blick auf nachhaltiges Bauen - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbXBlZlU2NGU0SnE5VjJCOUNYOTRSRmNvclFEYUp3MXJFWG1HRjVWcElnVElLVXFtUExodncxV3F4X2NxbFNVc1lKLU1wS0Zkdko1NE1TZF9ycEV4RVpYRkdydW1rXy1sZ0cxRnNScUdrQ0h3WUtJQjl2aTBLZE9RRUhsS3ViRUVRQWkzbHdSWEg4ZFJRWWxnbDNYSnBqUXF1cXdlZTI2YUVGTTU4UjVON00yQzJXX0RFejB4MDlzOA?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "26. May 2026"
         }
       ]
     },
@@ -146,7 +152,7 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "In der Steiermark werden Fahrzeuge von Rasern nach einem standardisierten Verfahren durch die Behörden abgenommen, wobei sechs wesentliche Fakten diesen Prozess regeln. Die Abnahme-Regelungen dienen der Verkehrssicherheit und sind Teil der steirischen Verkehrsdurchsetzungsmaßnahmen gegen Geschwindigkeitsüberschreitungen.",
+      "summary": "In der Steiermark werden Fahrzeuge von Rasern nach einem standardisierten Verfahren der Behörde sichergestellt und einer technischen Abnahme unterzogen, wobei sechs wesentliche Faktoren diesen Prozess regeln. Die Abnahme dient der Überprüfung, ob die Fahrzeuge verkehrstauglich sind und die Rückgabe an den Halter unter bestimmten Bedingungen erfolgen kann.",
       "items": [
         {
           "title": "In der Steiermark - 6 Fakten zur Abnahme von Raser-Fahrzeugen - Kronen Zeitung",
