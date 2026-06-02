@@ -1,13 +1,19 @@
 {
-  "generated": "01. June 2026, 07:32 UTC",
+  "generated": "02. June 2026, 07:11 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Der Gleinalmtunnel auf der A9 ist derzeit nachts gesperrt, wie der ÖAMTC mitteilt. Ein historischer Rückblick würdigt eine vor 90 Jahren errichtete Straße, die Steirer und Kärntner näher zusammenbrachte, während aktuelle Unwetter in der Region zu Schäden führen.",
+      "summary": "In der Steiermark finden derzeit umfangreiche Wartungs- und Instandhaltungsarbeiten an wichtigen Tunnelinfrastrukturen statt, darunter Wartungsarbeiten im Tanzenbergtunnel der S6 und Nachtsperren im Gleinalmtunnel der A9. Historisch betrachtet prägen solche Straßeninfrastrukturen seit Jahrzehnten die Verbindung zwischen der Steiermark und benachbarten Bundesländern wie Kärnten.",
       "items": [
+        {
+          "title": "S6: Wartungsarbeiten im Tanzenbergtunnel - ÖAMTC",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYmRGdk1WdVVoeGpxUWNDOTlleVpabkowVng1dHhiNUF0Y1l0QzdBRENWUFh0STdvZWx1bVZQelBNNzRIRUluNDVyamNpSGlEYlozUTliM0djZDFqMl9mX3N1ZjJrN0FCdU15OW50eHNZN0lqVWpSRlhWY0lCV3VibEl4UzFORG45dkhTWDVn?oc=5",
+          "source": "ÖAMTC",
+          "date": "1. Jun 2026"
+        },
         {
           "title": "A9: Nachtsperren im Gleinalmtunnel - ÖAMTC",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdEhVTlc5bVlyLTlPd2tqdkdLNW1INmxuSTNDREt2a29JMXBoMG0teUJ2RXZ6dndKend5d3ctd0xna0JNSnFNb2VRVnNST2lEYWxtUkd1M24wR1NEelNiSXQwVUFVUnJ5eFRtMF9rRjdjTkY5RzhOMkxnel9fN082cGJZOTRjaGM?oc=5",
@@ -59,6 +65,12 @@
           "date": "28. May 2026"
         },
         {
+          "title": "Auf Zug geklettert: Mann schwer verletzt - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HODdpekQtclhTUG5EZ1huTlhvU19obDdZR21OUlhxeVpURHR0TWpLdUtCS1VEYlk2azI2eGxGeVhTTzkxWGRzSGpvdU50QjJfZi1xUQ?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "2. Jun 2026"
+        },
+        {
           "title": "ÖBB: Neuer Nahverkehrsknoten Raaba fertiggestellt - Land Steiermark - Politik",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lb3BudzBnaFA3bktNcm5GQ1VvcDJjcW54dXBtM3gwMnBQdnlIZjJQWl90ekM5Rk40SUh4QmE0ME1DWDYyV2o3WVM2dHlhMk1RQVpEMkJLaURXTlZkWllPQ3AwRWpTaWt1UVdWa2hUSmVKSWM?oc=5",
           "source": "Land Steiermark - Politik",
@@ -70,7 +82,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark arbeitet mit dem Bund an zentralen Verkehrsprojekten und führt eine neue Mobilitätsplattform für die Oststeiermark ein, während gleichzeitig Maßnahmen zur Verkehrssicherheit wie das Wildtierschutz-Projekt bis 2031 ausgebaut werden. Besondere Aufmerksamkeit gilt der Sicherheit von Kindern im Straßenverkehr, insbesondere im Umgang mit E-Scootern, um Unfälle zu reduzieren.",
+      "summary": "Die Steiermark sichert sich durch konstruktive Gespräche mit dem Bundesministerium Unterstützung für zentrale Verkehrsprojekte und verlängert gleichzeitig ihr erfolgreiches Projekt zur Vermeidung von Wildunfällen bis 2031. Damit werden sowohl die überregionale Verkehrsinfrastruktur als auch die Verkehrssicherheit durch Wildtierschutzmaßnahmen langfristig gestärkt.",
       "items": [
         {
           "title": "Konstruktiver Infrastrukturaustausch bei Bundesminister Hanke zu zentralen steirischen Verkehrsprojekten - Bundesministerium für Innovation, Mobilität und Infrastruktur",
@@ -79,27 +91,9 @@
           "date": "28. May 2026"
         },
         {
-          "title": "Start im Herbst 2027: Eine neue Mobilitätsplattform für die Oststeiermark - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWUktenFxQmtFTEdXUEZ0TW5scTctQTg2NDhDVmVLVjdvUVpRWk8yT0FsaWNsTDBBNlJNbmt1MDl2cTNXaFByd0xEdGR6a3puUm9ZVEZ4eWltTHkxbVFXdzBsUV9NYWJxazNERllsYkd3aFg1U1ZXTW9MSGFLTlpyeXBBaXowb0RNS2JPaG1ydVhVWWVLTVVWaklDblBsTUM2?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "26. May 2026"
-        },
-        {
-          "title": "Handlungsbedarf bei E-Scootern: Immer mehr Kinder verunglücken im steirischen Straßenverkehr - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQblNMQzdWWjg2NldBcndKMnZsQXAxRnlXTzRvRG5pT3dGY1RUVXIxTGpodVpmUHJJelo3NVNDTmNDNDdCUVk5X05oTmYxZXlYUHQ5aHpmajJiOWV0NUZjSUNEa09TbHlCLVJwSkxDS2lVMV9FOWl6UkU5a3dYbk83RVpsWXRfYVdabldGUllPVl9MNjNQRmMtS1EtU3lFS1ktZzJ0RlQxZC1jWlQxTG51bm96ZGRLQWRpdEE?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "26. May 2026"
-        },
-        {
           "title": "Land Steiermark: Projekt „Wildtierschutz & Verkehrssicherheit“ bis 2031 abgesichert - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQnVJSzZkS1VGbTJaUXR4SFFqZnlEZkpmOHBweTNZdi1TTGs4MkxYMWNaTEU1c0J2bXlVdi1JeTZ4SG1BVzkyV2MtanFfcGV0YjRFUjE4WDkwVVZoNmNSUU80WTU5VFVCNVhya291NXJJb0MzLVhTN1dpVkVPNWlNNGdXVmNzSmpnaVRVMzJ1ZjVGazZNSGhla2licW9FaU14?oc=5",
           "source": "MeinBezirk.at",
-          "date": "29. May 2026"
-        },
-        {
-          "title": "Mehr Sicherheit auf steirischen Straßen für Mensch und Tier - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5yeVFUajJoVlE2allWSm4zRTBCMHBjZDNNZEhuZjAxTjl2NUYydE0zV1J4S1dOekFXMG5DaWhkaW43eTNCcVNPbXVmdGwwWkdvVDZ6cHcxQ1Q5YnE0OTdoZnJYVmNFS1dnUXFLNko3TEdjYlFSX1Fn?oc=5",
-          "source": "Kommunikation - Land Steiermark",
           "date": "29. May 2026"
         },
         {
@@ -107,12 +101,6 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV2dULXNzdVVkVG5OclJfbGFvZHNjNzRWNFV6dkFlUDZhMUxNZnMtQ0tYR3VSV2pfd20xTXBkN2I5UkM5aXpHUmVrX2U2bENrR1VLZHJTeGJobGl3VDJMcEpQZldmdjA2RWpnT0FpR3hZdGtqQU1NbEwyVTRTMXFXQ0pfUkVDOW41VUZHMzhZVWJzdUFzU1VTTzVtTndWX0otdEg2bDNpbw?oc=5",
           "source": "5 Minuten",
           "date": "29. May 2026"
-        },
-        {
-          "title": "Steiermark: Mehr Sicherheit auf steirischen Straßen für Mensch und Tier - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVXBGenF6NWJVdTlaWVF6QTREbmVWTVE1TU52ZVZCal9NWnpRdXVNXzd2NmJOak5ZdTd6bTFRbk5JcHRiY256ekNEcFMta0JuWHNsbXdKNTVwNThIZ0x6RDJKSTcwMTE1dy1XNnNqYV9mOGEyd1NXMU5nUXhiVVVrZWRsZ3ZfTG9BY0h1UXBxeExoUFY5dHZaOTVVV0VKUkFFMHZxTTRpa3dtYk3SAasBQVVfeXFMUFVwRnpxejViVXU5WllRekE0RG5lVk1RNU1OdmVWQmpfTVp6UXV1TV83djZiTmpOWXU3em0xUW5OSXB0YmNuenpDRHBTLWtCblhzbG13SjU1cDU4SGdMekQySkk3MDExNXctVzZzamFfZjhhMndTVzFOZ1F4YlVVa2VkbGd2X0xvQWNIdVFwcXhMaFBWOXR2Wjk1VVdFSlJBRTB2cU00aWt3bWJN?oc=5",
-          "source": "Regionews.at",
-          "date": "30. May 2026"
         }
       ]
     },
@@ -120,14 +108,8 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark intensiviert ihre Sanierungsoffensive durch neue Förderinstrumente wie den ab Juni verfügbaren „Sanierungspass\" und erweiterte Fördertöpfe für thermische Sanierungen, um den Gebäudebestand energieeffizienter zu gestalten. Parallel dazu rückt nachhaltiges Bauen und die Nutzung vorhandener Ressourcen in den Fokus der regionalen Entwicklung, wie die Baukulturreise 2026 und die zukunftsorientierte Planung der Südweststeiermark demonstrieren.",
+      "summary": "Die Steiermark intensiviert ihre Anstrengungen zur energetischen Gebäudesanierung durch neue Förderprogramme und setzt dabei auf nachhaltige Bauweisen sowie die intelligente Nachnutzung bestehender Strukturen. Die Baukulturreise 2026 und regionale Planungsinitiativen in der Südweststeiermark unterstreichen das Bekenntnis zu zukunftsorientierten und wirtschaftlich sinnvollen Baukonzepten.",
       "items": [
-        {
-          "title": "Grünes Licht für „Sanierungspass“ ab Juni - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxRy0tSkZ4QWNhbklBMGRxSjh4LU0yd0M1TDFGOEQ5dU5hSlp4b1hkSFdTNGN0OGNpdHZfRWJwY1lqbnFlemxPV3VseTZaSThJZk90VA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "28. May 2026"
-        },
         {
           "title": "Neue Förderung: Steiermark öffnet Fördertopf für thermisches Sanieren - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYWNVcC1KcGZRTGxwblFDU0pWRlRXMkN4YjlwMzVZazBHNVZQalhMRlZRY0xFWUk1NTNaTzhXeTFoMjYteUU4VU9qQjZGN1lPSkphaXZQbzRUOWNzNDBncVhXNVFBVEtGMk9kODVsN3cxQTZlZ1hnLTFsRGM2V2xQRFVrWjN6a2NmeG1aaXNJWlJEWXRqSUJySndCbV9SQUNZT2c1VA?oc=5",
@@ -152,7 +134,7 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "In der Steiermark werden Fahrzeuge von Rasern nach einem standardisierten Verfahren der Behörde sichergestellt und einer technischen Abnahme unterzogen, wobei sechs wesentliche Faktoren diesen Prozess regeln. Die Abnahme dient der Überprüfung, ob die Fahrzeuge verkehrstauglich sind und die Rückgabe an den Halter unter bestimmten Bedingungen erfolgen kann.",
+      "summary": "In der Steiermark werden Fahrzeuge von Rasern nach einem standardisierten Verfahren durch die Behörden abgenommen, wobei sechs zentrale Fakten diesen Prozess regeln. Das Abnahmeverfahren ist ein wichtiges Instrument der Verkehrsbehörde zur Durchsetzung von Geschwindigkeitsverstößen und zur Erhöhung der Verkehrssicherheit.",
       "items": [
         {
           "title": "In der Steiermark - 6 Fakten zur Abnahme von Raser-Fahrzeugen - Kronen Zeitung",
