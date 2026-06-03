@@ -1,16 +1,16 @@
 {
-  "generated": "02. June 2026, 07:11 UTC",
+  "generated": "03. June 2026, 07:27 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "In der Steiermark finden derzeit umfangreiche Wartungs- und Instandhaltungsarbeiten an wichtigen Tunnelinfrastrukturen statt, darunter Wartungsarbeiten im Tanzenbergtunnel der S6 und Nachtsperren im Gleinalmtunnel der A9. Historisch betrachtet prägen solche Straßeninfrastrukturen seit Jahrzehnten die Verbindung zwischen der Steiermark und benachbarten Bundesländern wie Kärnten.",
+      "summary": "In der Steiermark finden derzeit umfangreiche Wartungs- und Instandhaltungsarbeiten an wichtigen Tunnelinfrastrukturen statt, insbesondere im Tanzenbergtunnel der S6 und im Gleinalmtunnel der A9 mit nächtlichen Sperrungen. Die historische Bedeutung von Straßenverbindungen zeigt sich in der Erinnerung an eine vor 90 Jahren errichtete Straße, die Steirer und Kärntner näher zusammenbrachte.",
       "items": [
         {
           "title": "S6: Wartungsarbeiten im Tanzenbergtunnel - ÖAMTC",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYmRGdk1WdVVoeGpxUWNDOTlleVpabkowVng1dHhiNUF0Y1l0QzdBRENWUFh0STdvZWx1bVZQelBNNzRIRUluNDVyamNpSGlEYlozUTliM0djZDFqMl9mX3N1ZjJrN0FCdU15OW50eHNZN0lqVWpSRlhWY0lCV3VibEl4UzFORG45dkhTWDVn?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS1VNeVFfNFNOYzUtRVhyM043WHJJclZlczk5dE1oLWxpanlURi1hZEZqZjZfYzRrR0s5aFZnRHR3YnBGZnQ2cmk3dXZZMlN1MkF2bEpGX1pSTWJIeHBJVWRMVmF1WTVrVHp3WEZEMlpmWGdRbWVwTl9XYXI2U1FPNTM3dkFLWS1MRlhEVDNpVQ?oc=5",
           "source": "ÖAMTC",
           "date": "1. Jun 2026"
         },
@@ -82,7 +82,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark sichert sich durch konstruktive Gespräche mit dem Bundesministerium Unterstützung für zentrale Verkehrsprojekte und verlängert gleichzeitig ihr erfolgreiches Projekt zur Vermeidung von Wildunfällen bis 2031. Damit werden sowohl die überregionale Verkehrsinfrastruktur als auch die Verkehrssicherheit durch Wildtierschutzmaßnahmen langfristig gestärkt.",
+      "summary": "Die Steiermark sichert sich Bundesunterstützung für zentrale Verkehrsprojekte und verlängert gleichzeitig ihr erfolgreiches Wildtierschutz- und Verkehrssicherheitsprojekt bis 2031. Damit werden sowohl die Infrastrukturplanung als auch die Prävention von Wildunfällen als wichtige Säulen der steirischen Mobilitätsstrategie langfristig verankert.",
       "items": [
         {
           "title": "Konstruktiver Infrastrukturaustausch bei Bundesminister Hanke zu zentralen steirischen Verkehrsprojekten - Bundesministerium für Innovation, Mobilität und Infrastruktur",
@@ -108,25 +108,13 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark intensiviert ihre Anstrengungen zur energetischen Gebäudesanierung durch neue Förderprogramme und setzt dabei auf nachhaltige Bauweisen sowie die intelligente Nachnutzung bestehender Strukturen. Die Baukulturreise 2026 und regionale Planungsinitiativen in der Südweststeiermark unterstreichen das Bekenntnis zu zukunftsorientierten und wirtschaftlich sinnvollen Baukonzepten.",
+      "summary": "Die Baukulturreise 2026 in Leibnitz beschäftigt sich mit den Themen Wirtschaft, demografischer Wandel und nachhaltiger Ressourcennutzung im Kontext von Hochbauprojekten und öffentlichen Gebäuden. Das Projekt setzt dabei auf die Aktivierung und Umnutzung bestehender Bausubstanz als Leitprinzip für zukunftsorientierte Baukultur in der Steiermark.",
       "items": [
-        {
-          "title": "Neue Förderung: Steiermark öffnet Fördertopf für thermisches Sanieren - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYWNVcC1KcGZRTGxwblFDU0pWRlRXMkN4YjlwMzVZazBHNVZQalhMRlZRY0xFWUk1NTNaTzhXeTFoMjYteUU4VU9qQjZGN1lPSkphaXZQbzRUOWNzNDBncVhXNVFBVEtGMk9kODVsN3cxQTZlZ1hnLTFsRGM2V2xQRFVrWjN6a2NmeG1aaXNJWlJEWXRqSUJySndCbV9SQUNZT2c1VA?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "28. May 2026"
-        },
         {
           "title": "Wirtschaft, Altern & „Nutzen, was da ist!“ – Baukulturreise 2026 - Leibnitz Aktuell",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOWNveHo2b0pzWGgyeUo4RGIwdDI0MEJpUnJzQWJaVTU0N0xUVlBwZWQ4VldKVDZ5Z0gzNEVjcjRSTEtzZjh6S0J3SjVCNllkblIxNVFia2FUTEJqVFZrRVBsa3hGaWRKSks3VHdvbXpWdHJ0NzJTZkRScEROTDhienhGZFZKWFA5eUdrbjN5ZVJDMHRNU0E?oc=5",
           "source": "Leibnitz Aktuell",
           "date": "27. May 2026"
-        },
-        {
-          "title": "Südweststeiermark: So plant die Region für die Zukunft – Blick auf nachhaltiges Bauen - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbXBlZlU2NGU0SnE5VjJCOUNYOTRSRmNvclFEYUp3MXJFWG1HRjVWcElnVElLVXFtUExodncxV3F4X2NxbFNVc1lKLU1wS0Zkdko1NE1TZF9ycEV4RVpYRkdydW1rXy1sZ0cxRnNScUdrQ0h3WUtJQjl2aTBLZE9RRUhsS3ViRUVRQWkzbHdSWEg4ZFJRWWxnbDNYSnBqUXF1cXdlZTI2YUVGTTU4UjVON00yQzJXX0RFejB4MDlzOA?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "26. May 2026"
         }
       ]
     },
@@ -134,13 +122,13 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "In der Steiermark werden Fahrzeuge von Rasern nach einem standardisierten Verfahren durch die Behörden abgenommen, wobei sechs zentrale Fakten diesen Prozess regeln. Das Abnahmeverfahren ist ein wichtiges Instrument der Verkehrsbehörde zur Durchsetzung von Geschwindigkeitsverstößen und zur Erhöhung der Verkehrssicherheit.",
+      "summary": "Das Energiewerk Graz hat einen positiven Umweltverträglichkeitsprüfungs-Bescheid erhalten, was die behördliche Genehmigung für das Projekt bedeutet. Damit können die geplanten Maßnahmen der Holding Graz unter Berücksichtigung der umweltrechtlichen Anforderungen umgesetzt werden.",
       "items": [
         {
-          "title": "In der Steiermark - 6 Fakten zur Abnahme von Raser-Fahrzeugen - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE42dUxqRzBXeWJUZ29hb1M1bUZBaHpVd2p4RXp5N2sxNnZSZVptM3JjOXJfejhvbjdGUjRFU3VxS2VqZw?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "26. May 2026"
+          "title": "Energiewerk Graz: Positiver UVP-Bescheid da! - Holding Graz",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pamNPdUVydHphWlFLTTJYdE1NVnJWN2N0WkNna29fNEpvQVJIdGp0cW5OOTAzd2R4WTJNa1Y2TWx0bVZkNUt0V2lFNTU3VE9YMFdkbmRXNmhjdEpHWkxrU0QxWkFCcWtJNW5HUDNkakFZMGxNRzZoSFlrVkgwX00?oc=5",
+          "source": "Holding Graz",
+          "date": "2. Jun 2026"
         }
       ]
     }
