@@ -1,13 +1,31 @@
 {
-  "generated": "04. June 2026, 07:10 UTC",
+  "generated": "05. June 2026, 06:54 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "In der Steiermark finden derzeit Wartungsarbeiten im Tanzenbergtunnel der S6 und Nachtsperren im Gleinalmtunnel der A9 statt. Historisch betrachtet prägt eine vor 90 Jahren errichtete Straße bis heute die Verbindung zwischen der Steiermark und Kärnten.",
+      "summary": "Der Gleinalmtunnel war aufgrund eines Lkw-Brandes gesperrt und erforderte Umleitungen über die S35, während gleichzeitig Wartungsarbeiten im Tanzenbergtunnel und Nachtsperren im Gleinalmtunnel durchgeführt wurden. Zusätzlich zu diesen Infrastrukturmaßnahmen waren mobile Blitzer in der Region im Einsatz.",
       "items": [
+        {
+          "title": "Mobile Blitzer in Neumarkt in der Steiermark aktuell am Donnerstag: Hier stehen am 04.06.2026 mobile Blitzer - News.de",
+          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOckJNd0c0aGlEZW5zbWd0Szhuc0RLdkZLM3QxbUxDVUlKMGhwZVhSQVMtZkhBWlRiTGJrWGRjbmZfN2I4S3Y2ajk4RVI1R0dPUG5zTUREUHBJRG1FajVyVHREaEh6WFg0cE5rS1BqSzBmRTBqSnlFakZRdmNNX2lQTnI4Rk43NDAwSDN3RVc0YWxWa1g1UkxXLVBjM3VXVFlYb3BIc0NsNy1nMnRyVlNsTVJVVHRWemg5MWVnZWxpSmczZ0tyc3UxeW5WcTVlWVhQdVl0eEVpNWVXLXpjdWRIbEx0QUotMFRsUkpWQ1U5VjNzZFRnRU1aNGR5ZEpUSjIyQ0FGQnJYZUJOOXNaZy1zaHlCcXdCX3BqaV9BUWJwVkh4cGtX0gGqAkFVX3lxTFBwWWpwWl9BMlhXbUdQWExacm1qcFpWcWVuVFU4aHZzZUxlQjhnVUp0TVVpMUxyNFowYXM2T3BsZVBaU2ZYOWxFN0FRVUs1dy1CV1NWVEU4bGNyWkpiS09MZ054S05MTUh1MzlEa25OTEFMQ3d2RzJXZUNkNy10UWwwR3FEMkZBRDdpTFRqc2lLOGZCMjlubjJ6TG11aGZVVU02TkFfNzFLQUtnYXdScTdhTXRubThqSmdma3lTUG9NcmhRSG9uTGM0NFp0ZGJkY2hRX1JEM2kzTG5vcWoxZ2NyQ0FxWGs2MlpLWHpnOEFYY1gwbGI5eExHM0tGajItTWNDTmZWMGYyRGRzNkdpMU1nX3ZNdTIwaHlZMXZIRDZBZjVNNkdTanhiaWc?oc=5",
+          "source": "News.de",
+          "date": "4. Jun 2026"
+        },
+        {
+          "title": "Lkw-Brand im Gleinalmtunnel - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4aXMtTXJIbkt0Q200WDJHYVR5eWwwV1l0aG1xRTlEMXlYZmxkSmoxQjMxRWdxcHU5WlJlYl91MWRzdjFMMkE5QUxScVdYbGdscmRRWQ?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "5. Jun 2026"
+        },
+        {
+          "title": "Umleitung über S35: Gleinalmtunnel nach Lkw-Brand in beide Richtungen gesperrt - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc3RSQl9YRXlwakdCNDZ0WFEtUXNRaGx6TlNQX1kyLUhhWGl1VFBZZzZ3Um1QNU5mXzQ4Y1JNckFoSWtyd1FMa3VNQ0ZPZ0FpenE1NGYxcVR5WEFNbnVVQThTQ3Q4VkVDUFZPZ040VmVfNThrY2xUemNkQmVlekFfcEI2TGJHQjQ1MC1sVHk3NFJjM3ljRlY0c0tnZU5zQ09hYmF2M2M0VG5YM1pBUVZDUGVNM2o?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "5. Jun 2026"
+        },
         {
           "title": "S6: Wartungsarbeiten im Tanzenbergtunnel - ÖAMTC",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS1VNeVFfNFNOYzUtRVhyM043WHJJclZlczk5dE1oLWxpanlURi1hZEZqZjZfYzRrR0s5aFZnRHR3YnBGZnQ2cmk3dXZZMlN1MkF2bEpGX1pSTWJIeHBJVWRMVmF1WTVrVHp3WEZEMlpmWGdRbWVwTl9XYXI2U1FPNTM3dkFLWS1MRlhEVDNpVQ?oc=5",
@@ -38,8 +56,14 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Steiermarkbahn erweitert ihr Busangebot im Vulkanland mit 23 neuen Fahrzeugen und trägt damit zur Verbesserung des öffentlichen Verkehrs in der Region bei. Die ÖBB haben zudem den neuen Nahverkehrsknoten Raaba fertiggestellt, was die Infrastruktur des Verkehrsverbundes stärkt.",
+      "summary": "Die Steiermarkbahn investiert massiv in ihre Busflotte und setzt im Vulkanland 23 neue Busse ein, um das öffentliche Verkehrsangebot auszubauen. Ein separater Vorfall zeigt jedoch auch die Gefahren im Bahnverkehr, als ein Mann beim Klettern auf einen Zug schwer verletzt wurde.",
       "items": [
+        {
+          "title": "Investition in Bus-Flotte: Steiermarkbahn fährt mit 23 brandneuen Bussen im Vulkanland - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc2VZWTBzZVlhQWJLSXB3bXJBUTNQWVY5ZmJyT2IwV0J5UWdJaXdOWkI5Y1ZEU3h2YWdxeGxTQ1NLVnZCRmJiSElmdURrczdwSWExUUdjTU10b21RZkQ4WnBsb0xIVXVkOWNDaTBLT01xY1VEZTRVclR4cnI4MGFxUFBkOFdGc01IRWFxNUE0dDdLV19oMmhVZ1FVWm9sb3EwdWltVHN1OERiaHp0TU01NzkzejJfZ2RYeHlZWldwM2k?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "5. Jun 2026"
+        },
         {
           "title": "Steiermarkbahn erweitert Busflotte im Vulkanland - Land Steiermark - Politik",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CMVQySXA1X3ZURV9iTEh3WWF5UmdiWW4tWXZMM3Q1TUhsWXVtc3lld0RldVd6d1F1dzI3MGxYdEszUVhjakFDbFJWSzZ6VWJjLUl1eDc1V1RGMDJUMjZ6UnBQMnQzdFdLakJMOFRIY2VVUGM?oc=5",
@@ -47,22 +71,10 @@
           "date": "29. May 2026"
         },
         {
-          "title": "23 neue Busse: Steiermarkbahn baut Angebot im Vulkanland aus - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDFpWndKZmMzbDc5SEgtY0syOGpHMm1aeXJZemtaV3p0UDhsLUhRQXlITzRaQlpUZ2laSWxsckZBc1hYa1N2NEI4RWxkWk5kYzBkaVhRR3hXNGJzZmFjd1BZMWJ6bDZVblZUeHNMWVY2cnFwV2pnVmxHZVFaVUx0bWtVeFVvazVyZERoS3F3UzUyUVNqUFh4cklLZUEwb2tHWGlDTXM2T1Y?oc=5",
-          "source": "5 Minuten",
-          "date": "28. May 2026"
-        },
-        {
           "title": "Auf Zug geklettert: Mann schwer verletzt - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HODdpekQtclhTUG5EZ1huTlhvU19obDdZR21OUlhxeVpURHR0TWpLdUtCS1VEYlk2azI2eGxGeVhTTzkxWGRzSGpvdU50QjJfZi1xUQ?oc=5",
           "source": "steiermark.ORF.at",
           "date": "2. Jun 2026"
-        },
-        {
-          "title": "ÖBB: Neuer Nahverkehrsknoten Raaba fertiggestellt - Land Steiermark - Politik",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lb3BudzBnaFA3bktNcm5GQ1VvcDJjcW54dXBtM3gwMnBQdnlIZjJQWl90ekM5Rk40SUh4QmE0ME1DWDYyV2o3WVM2dHlhMk1RQVpEMkJLaURXTlZkWllPQ3AwRWpTaWt1UVdWa2hUSmVKSWM?oc=5",
-          "source": "Land Steiermark - Politik",
-          "date": "28. May 2026"
         }
       ]
     },
@@ -70,14 +82,8 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark investiert massiv in ihre Verkehrsinfrastruktur, wie die 73-Millionen-Euro-Investition in den neuen Verkehrsknoten Raaba und konstruktive Gespräche mit dem Bundesminister zu zentralen Verkehrsprojekten zeigen. Parallel wird das Projekt „Wildtierschutz & Verkehrssicherheit\" bis 2031 verlängert, um Wildunfälle zu reduzieren und die Verkehrssicherheit nachhaltig zu verbessern.",
+      "summary": "Die Steiermark investiert massiv in moderne Verkehrsinfrastruktur, wie die Eröffnung des neuen Verkehrsknotens in Raaba mit 73 Millionen Euro zeigt, und sichert gleichzeitig langfristig Maßnahmen zur Reduktion von Wildunfällen bis 2031 ab. Damit verbindet das Land Verkehrsplanung mit Verkehrssicherheit und Wildtierschutz als integrierte Mobilitätsstrategie.",
       "items": [
-        {
-          "title": "Konstruktiver Infrastrukturaustausch bei Bundesminister Hanke zu zentralen steirischen Verkehrsprojekten - Bundesministerium für Innovation, Mobilität und Infrastruktur",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xNmlBdkdTZFV1VjRmbk16N2c3YVdiTDNEWWQzWVBnSmJmZXE2d0dMUzBrWk9XOVZCekxZeVpyLW1UWHBBUGhuTVR5MjZPdDhxOWxtNU5ScmJ2OFpUeE9yVjhFU29Db0VkcmlnaXdYN3l5a0lsYm5yWFRn?oc=5",
-          "source": "Bundesministerium für Innovation, Mobilität und Infrastruktur",
-          "date": "28. May 2026"
-        },
         {
           "title": "73 Millionen Euro investiert: Neuer Verkehrsknoten in Raaba eröffnet - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdjdVa1ZwYjZmTXFhbUhIamEtNFIzeWdWcXpqV21UVUpSc1FYWTYxcmJQaUN4OVg2UWpQcmtiVmc2bU5EcTlkMHlNdVRIU0ZRQ2pkRnA0akc3Q1JiUGZ6MHV4LUxxQnE4V1JSQXlXODhTNzgwRXBLV3M3RC1OZE9XLVJLYjRrclhjSERVT040QzdpcnZlODJkS3VWSFR1LUZoQzhUQmVjVUJOZHBPNy1TSVNTTmI?oc=5",
@@ -102,13 +108,13 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark kritisiert die kostspieligen EU-Richtlinien zur Energieeffizienz, die umfangreiche Sanierungen von Gebäuden erforderlich machen. Um diese Herausforderung zu bewältigen, hat das Land neue Fördermaßnahmen für thermische Sanierungen aktiviert.",
+      "summary": "Die Steiermark investiert verstärkt in Gebäudesanierungen und nutzt dabei neue Förderungsprogramme, wird aber durch EU-Energieeffizienzrichtlinien zu kostspieligen Maßnahmen verpflichtet, die auf politische Kritik stoßen. Parallel dazu modernisiert die Steiermarkbahn ihre Infrastruktur mit einer neuen Bus-Flotte im Vulkanland.",
       "items": [
         {
-          "title": "Gebäude werden saniert - Teures Gesetz: Scharfe steirische Kritik an der EU - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BNkV2S2dGR25QdmVCVzViYVhlVW5iX1JydW1sMDh6R2drbjVYVC04NmdRZWYzWHFKX25GUEctZzdCUQ?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "3. Jun 2026"
+          "title": "Neue Sanierungsförderung sehr gefragt - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UQ1FFUTB4N3YtRVllcE5mZDhZd0J3MFRNTWNjUWVqTGxqY1ByeHVRSlN5RDdfZ2FXMVZJU1hNQ2hsTVBFQjhYVEFYYWVTT3ZCajVEcg?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "4. Jun 2026"
         },
         {
           "title": "EU-Richtlinien zwingen die Steiermark zu kostspieligem Gesetz im Bereich der Energieeffizienz - FPÖ Steiermark",
@@ -117,10 +123,16 @@
           "date": "3. Jun 2026"
         },
         {
-          "title": "Neue Förderung: Steiermark öffnet Fördertopf für thermisches Sanieren - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYWNVcC1KcGZRTGxwblFDU0pWRlRXMkN4YjlwMzVZazBHNVZQalhMRlZRY0xFWUk1NTNaTzhXeTFoMjYteUU4VU9qQjZGN1lPSkphaXZQbzRUOWNzNDBncVhXNVFBVEtGMk9kODVsN3cxQTZlZ1hnLTFsRGM2V2xQRFVrWjN6a2NmeG1aaXNJWlJEWXRqSUJySndCbV9SQUNZT2c1VA?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "28. May 2026"
+          "title": "Gebäude werden saniert - Teures Gesetz: Scharfe steirische Kritik an der EU - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BNkV2S2dGR25QdmVCVzViYVhlVW5iX1JydW1sMDh6R2drbjVYVC04NmdRZWYzWHFKX25GUEctZzdCUQ?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "3. Jun 2026"
+        },
+        {
+          "title": "Investition in Bus-Flotte: Steiermarkbahn fährt mit 23 brandneuen Bussen im Vulkanland - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc2VZWTBzZVlhQWJLSXB3bXJBUTNQWVY5ZmJyT2IwV0J5UWdJaXdOWkI5Y1ZEU3h2YWdxeGxTQ1NLVnZCRmJiSElmdURrczdwSWExUUdjTU10b21RZkQ4WnBsb0xIVXVkOWNDaTBLT01xY1VEZTRVclR4cnI4MGFxUFBkOFdGc01IRWFxNUE0dDdLV19oMmhVZ1FVWm9sb3EwdWltVHN1OERiaHp0TU01NzkzejJfZ2RYeHlZWldwM2k?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "5. Jun 2026"
         }
       ]
     },
@@ -128,7 +140,7 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Das Energiewerk Graz hat einen positiven Umweltverträglichkeitsprüfungs-Bescheid erhalten, was die behördliche Genehmigung für das Projekt bedeutet. Damit können die geplanten Maßnahmen des Energiewerks unter Berücksichtigung der Umweltauswirkungen umgesetzt werden.",
+      "summary": "Das Energiewerk Graz hat einen positiven Umweltverträglichkeitsprüfungsbescheid erhalten, was die behördliche Genehmigung für das Projekt bedeutet. Damit können die geplanten Maßnahmen des Energiewerks unter Berücksichtigung der umweltrechtlichen Anforderungen umgesetzt werden.",
       "items": [
         {
           "title": "Energiewerk Graz: Positiver UVP-Bescheid da! - Holding Graz",
