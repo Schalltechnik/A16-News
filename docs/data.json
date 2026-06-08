@@ -1,23 +1,29 @@
 {
-  "generated": "07. June 2026, 06:52 UTC",
+  "generated": "08. June 2026, 07:17 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die Straßeninfrastruktur der Steiermark ist derzeit durch mehrere Baustellen und Wartungsmaßnahmen geprägt, darunter Arbeiten auf der B 20 an der Passhöhe Seeberg sowie Wartungsarbeiten im Tanzenbergtunnel der S6. Zusätzlich kam es zu einem Lkw-Brand im Gleinalmtunnel auf der A9, der zu ganztägigen Sperrungen in Richtung Süden und umfangreichen Reparaturarbeiten führte.",
+      "summary": "Die Straßeninfrastruktur in der Steiermark wird durch mehrere Instandhaltungs- und Sanierungsprojekte geprägt, darunter Bauarbeiten an der B 20 auf der Passhöhe Seeberg im Umfang von 1,3 Millionen Euro sowie Wartungsarbeiten im Tanzenbergtunnel der S6. Ein Lkw-Brand im Gleinalmtunnel der A9 führte zwar zu einer Sperrung, konnte aber glimpflich bewältigt werden.",
       "items": [
+        {
+          "title": "Spaziergänger von vier Hunden angegriffen - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JNzYxMjFMdTBXUDNKdnYycUdLUXB1Z0JMbThPTkdwaEMwXzVvZ2syekp1TV9TalZXazlIbV9rYkVBS2plLTFzOGQ5LXgwbGpRTDZGRA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "5. Jun 2026"
+        },
+        {
+          "title": "Spaziergänger in der Steiermark von vier Hunden attackiert - Der Standard",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOXJBS1p0UnN2UEhJbkFmQ0wwVEtHLWVzeWZPUl9DdDVuWW42YUxpQmx5X01rbFB2aEY2NldGc2dtQmpPQjlnS2hjeGdTT282WjE3cWI4cXJZM3pzWENUeUpOS256bklhTU9RSkZMaUY0eVpoeDZtbEc2RGNIUVNQdzRmQ1o1a3NCWC1WRVVSMGRfTHhfT3haTFNOeEJnNHRQNExnZVZSVHNYWG1ibU5qM2JnQmdHd3c?oc=5",
+          "source": "Der Standard",
+          "date": "5. Jun 2026"
+        },
         {
           "title": "B 20: Auf der Passhöhe Seeberg starten die Arbeiten - Land Steiermark News Portal",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01R2V6RktNMUx0YlRnOHJ4OTVDVFB5Q0pfOXNwcWNHYVVFalJxLVlfSnVWX0F5enZNYS1tV1BXVTN0MW9rSTNJRWw1eHk3cVlpMHdUcEg5TG9BMmlnTUZFLXRKUEVYWkNHNXZTU3hWdw?oc=5",
           "source": "Land Steiermark News Portal",
-          "date": "5. Jun 2026"
-        },
-        {
-          "title": "Loipersdorf: Spaziergänger in der Steiermark von vier Hunden attackiert - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOHhhZ3FjeG4yY3Z3SUxZUmx1SWNqMFpwT25RSHVxV3RDMDNnOXl4UFh0ekpselAzS3Bia0xMbFBnaEVMMVN6WnZ4Z09pc18zWU9obEM5RGhHUTV3ZlNvcUZRR21zNXJrN3ppUFJpRExHekloWkJZdTYteUVnQ0VLNjlJNEJFQW1WakFVSElGLUNqMnp5V2hKYU5DVy1COVAxZVRpYjVucW8?oc=5",
-          "source": "Kleine Zeitung",
           "date": "5. Jun 2026"
         },
         {
@@ -27,15 +33,15 @@
           "date": "5. Jun 2026"
         },
         {
-          "title": "Mobile Blitzer in Neumarkt in der Steiermark aktuell am Donnerstag: Hier stehen am 04.06.2026 mobile Blitzer - News.de",
-          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOckJNd0c0aGlEZW5zbWd0Szhuc0RLdkZLM3QxbUxDVUlKMGhwZVhSQVMtZkhBWlRiTGJrWGRjbmZfN2I4S3Y2ajk4RVI1R0dPUG5zTUREUHBJRG1FajVyVHREaEh6WFg0cE5rS1BqSzBmRTBqSnlFakZRdmNNX2lQTnI4Rk43NDAwSDN3RVc0YWxWa1g1UkxXLVBjM3VXVFlYb3BIc0NsNy1nMnRyVlNsTVJVVHRWemg5MWVnZWxpSmczZ0tyc3UxeW5WcTVlWVhQdVl0eEVpNWVXLXpjdWRIbEx0QUotMFRsUkpWQ1U5VjNzZFRnRU1aNGR5ZEpUSjIyQ0FGQnJYZUJOOXNaZy1zaHlCcXdCX3BqaV9BUWJwVkh4cGtX0gGqAkFVX3lxTFBwWWpwWl9BMlhXbUdQWExacm1qcFpWcWVuVFU4aHZzZUxlQjhnVUp0TVVpMUxyNFowYXM2T3BsZVBaU2ZYOWxFN0FRVUs1dy1CV1NWVEU4bGNyWkpiS09MZ054S05MTUh1MzlEa25OTEFMQ3d2RzJXZUNkNy10UWwwR3FEMkZBRDdpTFRqc2lLOGZCMjlubjJ6TG11aGZVVU02TkFfNzFLQUtnYXdScTdhTXRubThqSmdma3lTUG9NcmhRSG9uTGM0NFp0ZGJkY2hRX1JEM2kzTG5vcWoxZ2NyQ0FxWGs2MlpLWHpnOEFYY1gwbGI5eExHM0tGajItTWNDTmZWMGYyRGRzNkdpMU1nX3ZNdTIwaHlZMXZIRDZBZjVNNkdTanhiaWc?oc=5",
-          "source": "News.de",
-          "date": "4. Jun 2026"
-        },
-        {
           "title": "Lkw-Brand im Gleinalmtunnel verlief glimpflich - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4aXMtTXJIbkt0Q200WDJHYVR5eWwwV1l0aG1xRTlEMXlYZmxkSmoxQjMxRWdxcHU5WlJlYl91MWRzdjFMMkE5QUxScVdYbGdscmRRWQ?oc=5",
           "source": "steiermark.ORF.at",
+          "date": "5. Jun 2026"
+        },
+        {
+          "title": "Lkw fing Feuer: Gleinalmtunnel auf der A9 gesperrt - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYjFuYm4xQW1IeldFZVljOC1id0ZqNEFSUkN0Zy13Sk1YS1NuelJYQS14dUtBU0ZpbWtuRmtPM0g5Z3o4bTEyRDQtbGZsaDdUSmMwLVFPbGszemtVOEl4WWxoZDZmd2N0VzZPYnUzWTJrM1o4ZVRKSFFJNDFnam5RMkZLZWtJckRKbFpPM0plMkxKbDlZWmp1ei04MA?oc=5",
+          "source": "5 Minuten",
           "date": "5. Jun 2026"
         },
         {
@@ -45,15 +51,9 @@
           "date": "1. Jun 2026"
         },
         {
-          "title": "Lkw fing Feuer: Gleinalmtunnel auf der A9 gesperrt - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYjFuYm4xQW1IeldFZVljOC1id0ZqNEFSUkN0Zy13Sk1YS1NuelJYQS14dUtBU0ZpbWtuRmtPM0g5Z3o4bTEyRDQtbGZsaDdUSmMwLVFPbGszemtVOEl4WWxoZDZmd2N0VzZPYnUzWTJrM1o4ZVRKSFFJNDFnam5RMkZLZWtJckRKbFpPM0plMkxKbDlZWmp1ei04MA?oc=5",
+          "title": "1,3 Millionen Euro für den Seeberg: Bauarbeiten starten am Montag - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUmF3TkJRY1BLbWp1aU1IYnZ3Z2xvTzJ5V1ptRGh4YURXZlZmYkpmRkNUdllrd1RXdXRyWHNfYWdXblZrVF9CSTBPX2pBdE9GNHJlNEktRzJDQ0xpb2QxYmw0ZWhQLTdDSWY2NjhQYVR1SEZEel9EQ3pveTZ2b2pPQjYtRkZSQ0lYQS1QNWt1a1BrWjV1bjcwSVRGbHZZV0N0SUJHaWt6WU9oQ0s3bHhJ?oc=5",
           "source": "5 Minuten",
-          "date": "5. Jun 2026"
-        },
-        {
-          "title": "Reparaturen laufen: Gleinalmtunnel nach Lkw-Brand in Richtung Süden ganztägig gesperrt - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTjlQanN5dnhRZ3lhR0RKejk2NFF4UHotZGxTQzY0bndvejV0dnE4WGdhNlJ1Q1JUdVE2ZFVKcGpyTGl0aGM5YTg2OUNHQzNFMS05Y0Y3M1B4ZkJ6RnY1VHpGbGRERTdBdWhoTWxXRnJIWVR4R0FTM1pxNi1XSWt1ellnSFJTT2tFa0hvNWJOb0NTVTN2Q2tTRFFOTUU1RmF3RnJBc1RhVkVjVW0xYlBhbnlMWGozSElWbnZHd1BXTVp6Zw?oc=5",
-          "source": "MeinBezirk.at",
           "date": "5. Jun 2026"
         }
       ]
@@ -62,7 +62,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Steiermarkbahn modernisiert ihre Bus-Flotte mit 23 neuen Fahrzeugen im Vulkanland und trägt damit zur Verbesserung des öffentlichen Verkehrsangebots bei. Ein schwerer Unfall zeigt jedoch auch die Gefahren im Zusammenhang mit Eisenbahnanlagen auf.",
+      "summary": "Die Steiermarkbahn modernisiert ihre Bus-Flotte im Vulkanland mit 23 neuen Fahrzeugen, um das Angebot im öffentlichen Verkehr zu verbessern. Ein schwerer Unfall zeigt gleichzeitig die Gefahren im Bahnverkehr, wenn sich Personen unbefugt auf Zügen aufhalten.",
       "items": [
         {
           "title": "Investition in Bus-Flotte: Steiermarkbahn fährt mit 23 brandneuen Bussen im Vulkanland - MeinBezirk.at",
@@ -89,7 +89,7 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark setzt Infrastrukturmaßnahmen wie die Straßensanierung am Seeberg und die Modernisierung der Busflotte der Steiermarkbahn um, während gleichzeitig EU-Gebäuderichtlinien zur Energieeffizienz erhebliche finanzielle Belastungen für Gebäudesanierungen mit sich bringen, gegen die insbesondere ÖVP-geführte Bundesländer Widerstand leisten. Die steirische Landesregierung kritisiert die kostspieligen EU-Vorgaben zur Gebäudeeffizienz scharf, da diese zu einem teuren Sanierungsgesetz führen, das erhebliche Investitionen in den öffentlichen und privaten Hochbaubestand erfordert.",
+      "summary": "Die Steiermark setzt Infrastrukturmaßnahmen wie die Straßensanierung am Seeberg und die Modernisierung der Busflotte der Steiermarkbahn um, während gleichzeitig EU-Gebäuderichtlinien zur Energieeffizienz erhebliche finanzielle Belastungen für Gebäudesanierungen mit sich bringen, gegen die vor allem ÖVP-geführte Bundesländer Widerstand leisten. Die steirische Landesregierung kritisiert die kostspieligen EU-Vorgaben zur Gebäudeeffizienz scharf als unverhältnismäßige Belastung für die öffentliche Hand und private Eigentümer.",
       "items": [
         {
           "title": "Mit Ampelregelung: Straßensanierung am Seeberg startet - Kleine Zeitung",
@@ -127,7 +127,7 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Das Energiewerk Graz hat einen positiven Umweltverträglichkeitsprüfungs-Bescheid erhalten, was die behördliche Genehmigung für das Projekt markiert. Damit können die geplanten Maßnahmen des Energiewerks unter Einhaltung der festgelegten Auflagen umgesetzt werden.",
+      "summary": "Das Energiewerk Graz hat einen positiven Umweltverträglichkeitsprüfungsbescheid erhalten, was die behördliche Genehmigung für das Projekt bedeutet. Damit können die geplanten Maßnahmen des Energiewerks unter Berücksichtigung der Umweltauswirkungen umgesetzt werden.",
       "items": [
         {
           "title": "Energiewerk Graz: Positiver UVP-Bescheid da! - Holding Graz",
