@@ -1,23 +1,17 @@
 {
-  "generated": "08. June 2026, 07:17 UTC",
+  "generated": "09. June 2026, 06:36 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die Straßeninfrastruktur in der Steiermark wird durch mehrere Instandhaltungs- und Sanierungsprojekte geprägt, darunter Bauarbeiten an der B 20 auf der Passhöhe Seeberg im Umfang von 1,3 Millionen Euro sowie Wartungsarbeiten im Tanzenbergtunnel der S6. Ein Lkw-Brand im Gleinalmtunnel der A9 führte zwar zu einer Sperrung, konnte aber glimpflich bewältigt werden.",
+      "summary": "Die Straßeninfrastruktur in der Steiermark ist derzeit durch mehrere Baustellen und Sperrungen geprägt, insbesondere auf der A9 mit Nachtsperrungen im Plabutschtunnel und ganztägigen Sperrungen im Gleinalmtunnel aufgrund von Reparaturen nach einem Lkw-Brand. Auf der B 20 beginnen zudem Arbeiten auf der Passhöhe Seeberg.",
       "items": [
         {
           "title": "Spaziergänger von vier Hunden angegriffen - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JNzYxMjFMdTBXUDNKdnYycUdLUXB1Z0JMbThPTkdwaEMwXzVvZ2syekp1TV9TalZXazlIbV9rYkVBS2plLTFzOGQ5LXgwbGpRTDZGRA?oc=5",
           "source": "steiermark.ORF.at",
-          "date": "5. Jun 2026"
-        },
-        {
-          "title": "Spaziergänger in der Steiermark von vier Hunden attackiert - Der Standard",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOXJBS1p0UnN2UEhJbkFmQ0wwVEtHLWVzeWZPUl9DdDVuWW42YUxpQmx5X01rbFB2aEY2NldGc2dtQmpPQjlnS2hjeGdTT282WjE3cWI4cXJZM3pzWENUeUpOS256bklhTU9RSkZMaUY0eVpoeDZtbEc2RGNIUVNQdzRmQ1o1a3NCWC1WRVVSMGRfTHhfT3haTFNOeEJnNHRQNExnZVZSVHNYWG1ibU5qM2JnQmdHd3c?oc=5",
-          "source": "Der Standard",
           "date": "5. Jun 2026"
         },
         {
@@ -27,10 +21,22 @@
           "date": "5. Jun 2026"
         },
         {
+          "title": "Spaziergänger in der Steiermark von vier Hunden attackiert - Der Standard",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOXJBS1p0UnN2UEhJbkFmQ0wwVEtHLWVzeWZPUl9DdDVuWW42YUxpQmx5X01rbFB2aEY2NldGc2dtQmpPQjlnS2hjeGdTT282WjE3cWI4cXJZM3pzWENUeUpOS256bklhTU9RSkZMaUY0eVpoeDZtbEc2RGNIUVNQdzRmQ1o1a3NCWC1WRVVSMGRfTHhfT3haTFNOeEJnNHRQNExnZVZSVHNYWG1ibU5qM2JnQmdHd3c?oc=5",
+          "source": "Der Standard",
+          "date": "5. Jun 2026"
+        },
+        {
           "title": "Pärchen in der Steiermark von vier Hunden angefallen: Verletzt - salzburg24",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSGRzNEI2cjY5enphWjNFZ1J1TVJxWXFYdVpVUzFfdm5yMlVTUy1XU3hFUXJ1MVZqQXhRckJKUkNZUU9CMmVSYkNzYUw3YW0wYXNfWWVEWUNpS0lnS2NJSWlURjFhamNrUGExS1J5WGV4R3psd0JPekZXOUw3UzdWLTlRVzlFaF91bGNFa09Day1JZ1dIRnZIcnQwY1pmYjNLSlVMSXlIWjhGY2lWX2p5M2RZblhMZDQ?oc=5",
           "source": "salzburg24",
           "date": "5. Jun 2026"
+        },
+        {
+          "title": "A9: Nachtsperren im Plabutschtunnel - ÖAMTC",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORHhjN1NPRXhlQ2o5SFFGRjk2VUdLS0dyOV83WnVOT0l2eHBxZUhPRWY3U1hwdFczYlJMOF9FNm5IVzNkcEdUTEp1bDVTMGVpMG1XVEVCNk9RSjVET2Ixc0hfd3pENmtNU1dJdTEtQy1XNUZ5WVB2UHNyYklFZk0xbXZLZlNoNHRT?oc=5",
+          "source": "ÖAMTC",
+          "date": "8. Jun 2026"
         },
         {
           "title": "Lkw-Brand im Gleinalmtunnel verlief glimpflich - steiermark.ORF.at",
@@ -45,15 +51,9 @@
           "date": "5. Jun 2026"
         },
         {
-          "title": "S6: Wartungsarbeiten im Tanzenbergtunnel - ÖAMTC",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS1VNeVFfNFNOYzUtRVhyM043WHJJclZlczk5dE1oLWxpanlURi1hZEZqZjZfYzRrR0s5aFZnRHR3YnBGZnQ2cmk3dXZZMlN1MkF2bEpGX1pSTWJIeHBJVWRMVmF1WTVrVHp3WEZEMlpmWGdRbWVwTl9XYXI2U1FPNTM3dkFLWS1MRlhEVDNpVQ?oc=5",
-          "source": "ÖAMTC",
-          "date": "1. Jun 2026"
-        },
-        {
-          "title": "1,3 Millionen Euro für den Seeberg: Bauarbeiten starten am Montag - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUmF3TkJRY1BLbWp1aU1IYnZ3Z2xvTzJ5V1ptRGh4YURXZlZmYkpmRkNUdllrd1RXdXRyWHNfYWdXblZrVF9CSTBPX2pBdE9GNHJlNEktRzJDQ0xpb2QxYmw0ZWhQLTdDSWY2NjhQYVR1SEZEel9EQ3pveTZ2b2pPQjYtRkZSQ0lYQS1QNWt1a1BrWjV1bjcwSVRGbHZZV0N0SUJHaWt6WU9oQ0s3bHhJ?oc=5",
-          "source": "5 Minuten",
+          "title": "Reparaturen laufen: Gleinalmtunnel nach Lkw-Brand in Richtung Süden ganztägig gesperrt - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTjlQanN5dnhRZ3lhR0RKejk2NFF4UHotZGxTQzY0bndvejV0dnE4WGdhNlJ1Q1JUdVE2ZFVKcGpyTGl0aGM5YTg2OUNHQzNFMS05Y0Y3M1B4ZkJ6RnY1VHpGbGRERTdBdWhoTWxXRnJIWVR4R0FTM1pxNi1XSWt1ellnSFJTT2tFa0hvNWJOb0NTVTN2Q2tTRFFOTUU1RmF3RnJBc1RhVkVjVW0xYlBhbnlMWGozSElWbnZHd1BXTVp6Zw?oc=5",
+          "source": "MeinBezirk.at",
           "date": "5. Jun 2026"
         }
       ]
@@ -62,19 +62,13 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Steiermarkbahn modernisiert ihre Bus-Flotte im Vulkanland mit 23 neuen Fahrzeugen, um das Angebot im öffentlichen Verkehr zu verbessern. Ein schwerer Unfall zeigt gleichzeitig die Gefahren im Bahnverkehr, wenn sich Personen unbefugt auf Zügen aufhalten.",
+      "summary": "Die Steiermarkbahn investiert in ihre Bus-Flotte und setzt 23 neue Busse im Vulkanland ein, um das Angebot im öffentlichen Verkehr zu verbessern. Diese Maßnahme trägt zur Modernisierung und Kapazitätserweiterung des regionalen Nahverkehrs in der Steiermark bei.",
       "items": [
         {
           "title": "Investition in Bus-Flotte: Steiermarkbahn fährt mit 23 brandneuen Bussen im Vulkanland - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc2VZWTBzZVlhQWJLSXB3bXJBUTNQWVY5ZmJyT2IwV0J5UWdJaXdOWkI5Y1ZEU3h2YWdxeGxTQ1NLVnZCRmJiSElmdURrczdwSWExUUdjTU10b21RZkQ4WnBsb0xIVXVkOWNDaTBLT01xY1VEZTRVclR4cnI4MGFxUFBkOFdGc01IRWFxNUE0dDdLV19oMmhVZ1FVWm9sb3EwdWltVHN1OERiaHp0TU01NzkzejJfZ2RYeHlZWldwM2k?oc=5",
           "source": "MeinBezirk.at",
           "date": "5. Jun 2026"
-        },
-        {
-          "title": "Auf Zug geklettert: Mann schwer verletzt - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HODdpekQtclhTUG5EZ1huTlhvU19obDdZR21OUlhxeVpURHR0TWpLdUtCS1VEYlk2azI2eGxGeVhTTzkxWGRzSGpvdU50QjJfZi1xUQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "2. Jun 2026"
         }
       ]
     },
@@ -89,7 +83,7 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark setzt Infrastrukturmaßnahmen wie die Straßensanierung am Seeberg und die Modernisierung der Busflotte der Steiermarkbahn um, während gleichzeitig EU-Gebäuderichtlinien zur Energieeffizienz erhebliche finanzielle Belastungen für Gebäudesanierungen mit sich bringen, gegen die vor allem ÖVP-geführte Bundesländer Widerstand leisten. Die steirische Landesregierung kritisiert die kostspieligen EU-Vorgaben zur Gebäudeeffizienz scharf als unverhältnismäßige Belastung für die öffentliche Hand und private Eigentümer.",
+      "summary": "Die Steiermark setzt Infrastrukturprojekte wie die Straßensanierung am Seeberg und die Modernisierung der Busflotte der Steiermarkbahn um, während gleichzeitig EU-Gebäuderichtlinien zur Energieeffizienz erhebliche finanzielle Belastungen für Gebäudesanierungen mit sich bringen, gegen die insbesondere ÖVP-geführte Bundesländer Widerstand leisten. Die steirische Landesregierung kritisiert die kostspieligen EU-Vorgaben zur Gebäudeeffizienz scharf, da diese zu teuren Sanierungsmaßnahmen im Hochbaubereich führen.",
       "items": [
         {
           "title": "Mit Ampelregelung: Straßensanierung am Seeberg startet - Kleine Zeitung",
@@ -127,7 +121,7 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Das Energiewerk Graz hat einen positiven Umweltverträglichkeitsprüfungsbescheid erhalten, was die behördliche Genehmigung für das Projekt bedeutet. Damit können die geplanten Maßnahmen des Energiewerks unter Berücksichtigung der Umweltauswirkungen umgesetzt werden.",
+      "summary": "Das Energiewerk Graz hat einen positiven Umweltverträglichkeitsprüfungs-Bescheid erhalten, was den Weg für das Projekt freimacht. Die Holding Graz kann damit ihre Energieinfrastruktur-Pläne vorantreiben.",
       "items": [
         {
           "title": "Energiewerk Graz: Positiver UVP-Bescheid da! - Holding Graz",
