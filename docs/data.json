@@ -1,12 +1,12 @@
 {
-  "generated": "09. June 2026, 06:36 UTC",
+  "generated": "10. June 2026, 06:53 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die Straßeninfrastruktur in der Steiermark ist derzeit durch mehrere Baustellen und Sperrungen geprägt, insbesondere auf der A9 mit Nachtsperrungen im Plabutschtunnel und ganztägigen Sperrungen im Gleinalmtunnel aufgrund von Reparaturen nach einem Lkw-Brand. Auf der B 20 beginnen zudem Arbeiten auf der Passhöhe Seeberg.",
+      "summary": "In der Steiermark laufen derzeit wichtige Infrastrukturarbeiten an der B 20 auf der Passhöhe Seeberg sowie Sanierungsmaßnahmen im Gleinalmtunnel der A9, wo nach einem Lkw-Brand Reparaturen durchgeführt werden und Nachtsperren in Kraft sind. Verkehrsteilnehmer müssen mit Beeinträchtigungen und teilweisen Sperrungen in diesen Bereichen rechnen.",
       "items": [
         {
           "title": "Spaziergänger von vier Hunden angegriffen - steiermark.ORF.at",
@@ -15,15 +15,15 @@
           "date": "5. Jun 2026"
         },
         {
-          "title": "B 20: Auf der Passhöhe Seeberg starten die Arbeiten - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01R2V6RktNMUx0YlRnOHJ4OTVDVFB5Q0pfOXNwcWNHYVVFalJxLVlfSnVWX0F5enZNYS1tV1BXVTN0MW9rSTNJRWw1eHk3cVlpMHdUcEg5TG9BMmlnTUZFLXRKUEVYWkNHNXZTU3hWdw?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "5. Jun 2026"
-        },
-        {
           "title": "Spaziergänger in der Steiermark von vier Hunden attackiert - Der Standard",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOXJBS1p0UnN2UEhJbkFmQ0wwVEtHLWVzeWZPUl9DdDVuWW42YUxpQmx5X01rbFB2aEY2NldGc2dtQmpPQjlnS2hjeGdTT282WjE3cWI4cXJZM3pzWENUeUpOS256bklhTU9RSkZMaUY0eVpoeDZtbEc2RGNIUVNQdzRmQ1o1a3NCWC1WRVVSMGRfTHhfT3haTFNOeEJnNHRQNExnZVZSVHNYWG1ibU5qM2JnQmdHd3c?oc=5",
           "source": "Der Standard",
+          "date": "5. Jun 2026"
+        },
+        {
+          "title": "B 20: Auf der Passhöhe Seeberg starten die Arbeiten - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01R2V6RktNMUx0YlRnOHJ4OTVDVFB5Q0pfOXNwcWNHYVVFalJxLVlfSnVWX0F5enZNYS1tV1BXVTN0MW9rSTNJRWw1eHk3cVlpMHdUcEg5TG9BMmlnTUZFLXRKUEVYWkNHNXZTU3hWdw?oc=5",
+          "source": "Land Steiermark News Portal",
           "date": "5. Jun 2026"
         },
         {
@@ -62,13 +62,19 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Steiermarkbahn investiert in ihre Bus-Flotte und setzt 23 neue Busse im Vulkanland ein, um das Angebot im öffentlichen Verkehr zu verbessern. Diese Maßnahme trägt zur Modernisierung und Kapazitätserweiterung des regionalen Nahverkehrs in der Steiermark bei.",
+      "summary": "Die Steiermarkbahn modernisiert ihre Bus-Flotte im Vulkanland mit 23 neuen Iveco-Crossway-Bussen, um das Angebot im öffentlichen Verkehr zu verbessern. Diese Investition unterstreicht das Engagement für eine zeitgemäße und umweltfreundlichere Mobilität in der Region.",
       "items": [
         {
           "title": "Investition in Bus-Flotte: Steiermarkbahn fährt mit 23 brandneuen Bussen im Vulkanland - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc2VZWTBzZVlhQWJLSXB3bXJBUTNQWVY5ZmJyT2IwV0J5UWdJaXdOWkI5Y1ZEU3h2YWdxeGxTQ1NLVnZCRmJiSElmdURrczdwSWExUUdjTU10b21RZkQ4WnBsb0xIVXVkOWNDaTBLT01xY1VEZTRVclR4cnI4MGFxUFBkOFdGc01IRWFxNUE0dDdLV19oMmhVZ1FVWm9sb3EwdWltVHN1OERiaHp0TU01NzkzejJfZ2RYeHlZWldwM2k?oc=5",
           "source": "MeinBezirk.at",
           "date": "5. Jun 2026"
+        },
+        {
+          "title": "Iveco Bus liefert 23 Crossway an die Steiermarkbahn - busplaner",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTU9xT0N6YWx3cWRWTnNkaGdLbFVHWk12SW80ZDIzTXNJOE1BMXRqY3NUV1NncHBzbW85bHMxSm1qZl95MkM0VHZ0bEljVFVheF9ERGM2SUhaR3h6TWxMX2tQRzgzSkRvbmJSYlc5eVhLSFg4UDZiOFNLLUg1V29JSWdzaVZOMzlzOFp2c0ViQThib1Yyc2Zocw?oc=5",
+          "source": "busplaner",
+          "date": "9. Jun 2026"
         }
       ]
     },
@@ -83,7 +89,7 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark setzt Infrastrukturprojekte wie die Straßensanierung am Seeberg und die Modernisierung der Busflotte der Steiermarkbahn um, während gleichzeitig EU-Gebäuderichtlinien zur Energieeffizienz erhebliche finanzielle Belastungen für Gebäudesanierungen mit sich bringen, gegen die insbesondere ÖVP-geführte Bundesländer Widerstand leisten. Die steirische Landesregierung kritisiert die kostspieligen EU-Vorgaben zur Gebäudeeffizienz scharf, da diese zu teuren Sanierungsmaßnahmen im Hochbaubereich führen.",
+      "summary": "Die Steiermark setzt Infrastrukturprojekte wie die Straßensanierung am Seeberg und die Modernisierung der Busflotte der Steiermarkbahn um, während gleichzeitig EU-Gebäuderichtlinien zur Energieeffizienz erhebliche finanzielle Belastungen für Gebäudesanierungen mit sich bringen, gegen die Bundesländer Widerstand leisten. Die steirische Baukultur und Infrastrukturentwicklung wird somit durch europäische Vorgaben geprägt, die kostspielige Sanierungsmaßnahmen an öffentlichen Gebäuden erforderlich machen.",
       "items": [
         {
           "title": "Mit Ampelregelung: Straßensanierung am Seeberg startet - Kleine Zeitung",
@@ -121,15 +127,8 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Das Energiewerk Graz hat einen positiven Umweltverträglichkeitsprüfungs-Bescheid erhalten, was den Weg für das Projekt freimacht. Die Holding Graz kann damit ihre Energieinfrastruktur-Pläne vorantreiben.",
-      "items": [
-        {
-          "title": "Energiewerk Graz: Positiver UVP-Bescheid da! - Holding Graz",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pamNPdUVydHphWlFLTTJYdE1NVnJWN2N0WkNna29fNEpvQVJIdGp0cW5OOTAzd2R4WTJNa1Y2TWx0bVZkNUt0V2lFNTU3VE9YMFdkbmRXNmhjdEpHWkxrU0QxWkFCcWtJNW5HUDNkakFZMGxNRzZoSFlrVkgwX00?oc=5",
-          "source": "Holding Graz",
-          "date": "2. Jun 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     }
   }
 }
