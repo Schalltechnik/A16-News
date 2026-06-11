@@ -1,23 +1,17 @@
 {
-  "generated": "10. June 2026, 06:53 UTC",
+  "generated": "11. June 2026, 07:18 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "In der Steiermark laufen derzeit wichtige Infrastrukturarbeiten an der B 20 auf der Passhöhe Seeberg sowie Sanierungsmaßnahmen im Gleinalmtunnel der A9, wo nach einem Lkw-Brand Reparaturen durchgeführt werden und Nachtsperren in Kraft sind. Verkehrsteilnehmer müssen mit Beeinträchtigungen und teilweisen Sperrungen in diesen Bereichen rechnen.",
+      "summary": "Auf der Bundesstraße 20 an der Passhöhe Seeberg beginnen Bauarbeiten im Umfang von 1,3 Millionen Euro, während auf der Autobahn A9 Nachtsperrungen im Plabutschtunnel durchgeführt werden und ein Lkw-Brand im Gleinalmtunnel zu Verkehrsbeeinträchtigungen führte. Die steirische Straßeninfrastruktur wird damit sowohl durch planmäßige Sanierungsmaßnahmen als auch durch Verkehrsvorfälle in Anspruch genommen.",
       "items": [
         {
           "title": "Spaziergänger von vier Hunden angegriffen - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JNzYxMjFMdTBXUDNKdnYycUdLUXB1Z0JMbThPTkdwaEMwXzVvZ2syekp1TV9TalZXazlIbV9rYkVBS2plLTFzOGQ5LXgwbGpRTDZGRA?oc=5",
           "source": "steiermark.ORF.at",
-          "date": "5. Jun 2026"
-        },
-        {
-          "title": "Spaziergänger in der Steiermark von vier Hunden attackiert - Der Standard",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOXJBS1p0UnN2UEhJbkFmQ0wwVEtHLWVzeWZPUl9DdDVuWW42YUxpQmx5X01rbFB2aEY2NldGc2dtQmpPQjlnS2hjeGdTT282WjE3cWI4cXJZM3pzWENUeUpOS256bklhTU9RSkZMaUY0eVpoeDZtbEc2RGNIUVNQdzRmQ1o1a3NCWC1WRVVSMGRfTHhfT3haTFNOeEJnNHRQNExnZVZSVHNYWG1ibU5qM2JnQmdHd3c?oc=5",
-          "source": "Der Standard",
           "date": "5. Jun 2026"
         },
         {
@@ -27,9 +21,9 @@
           "date": "5. Jun 2026"
         },
         {
-          "title": "Pärchen in der Steiermark von vier Hunden angefallen: Verletzt - salzburg24",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSGRzNEI2cjY5enphWjNFZ1J1TVJxWXFYdVpVUzFfdm5yMlVTUy1XU3hFUXJ1MVZqQXhRckJKUkNZUU9CMmVSYkNzYUw3YW0wYXNfWWVEWUNpS0lnS2NJSWlURjFhamNrUGExS1J5WGV4R3psd0JPekZXOUw3UzdWLTlRVzlFaF91bGNFa09Day1JZ1dIRnZIcnQwY1pmYjNLSlVMSXlIWjhGY2lWX2p5M2RZblhMZDQ?oc=5",
-          "source": "salzburg24",
+          "title": "Loipersdorf: Spaziergänger in der Steiermark von vier Hunden attackiert - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOHhhZ3FjeG4yY3Z3SUxZUmx1SWNqMFpwT25RSHVxV3RDMDNnOXl4UFh0ekpselAzS3Bia0xMbFBnaEVMMVN6WnZ4Z09pc18zWU9obEM5RGhHUTV3ZlNvcUZRR21zNXJrN3ppUFJpRExHekloWkJZdTYteUVnQ0VLNjlJNEJFQW1WakFVSElGLUNqMnp5V2hKYU5DVy1COVAxZVRpYjVucW8?oc=5",
+          "source": "Kleine Zeitung",
           "date": "5. Jun 2026"
         },
         {
@@ -51,10 +45,16 @@
           "date": "5. Jun 2026"
         },
         {
-          "title": "Reparaturen laufen: Gleinalmtunnel nach Lkw-Brand in Richtung Süden ganztägig gesperrt - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTjlQanN5dnhRZ3lhR0RKejk2NFF4UHotZGxTQzY0bndvejV0dnE4WGdhNlJ1Q1JUdVE2ZFVKcGpyTGl0aGM5YTg2OUNHQzNFMS05Y0Y3M1B4ZkJ6RnY1VHpGbGRERTdBdWhoTWxXRnJIWVR4R0FTM1pxNi1XSWt1ellnSFJTT2tFa0hvNWJOb0NTVTN2Q2tTRFFOTUU1RmF3RnJBc1RhVkVjVW0xYlBhbnlMWGozSElWbnZHd1BXTVp6Zw?oc=5",
-          "source": "MeinBezirk.at",
+          "title": "1,3 Millionen Euro für den Seeberg: Bauarbeiten starten am Montag - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUmF3TkJRY1BLbWp1aU1IYnZ3Z2xvTzJ5V1ptRGh4YURXZlZmYkpmRkNUdllrd1RXdXRyWHNfYWdXblZrVF9CSTBPX2pBdE9GNHJlNEktRzJDQ0xpb2QxYmw0ZWhQLTdDSWY2NjhQYVR1SEZEel9EQ3pveTZ2b2pPQjYtRkZSQ0lYQS1QNWt1a1BrWjV1bjcwSVRGbHZZV0N0SUJHaWt6WU9oQ0s3bHhJ?oc=5",
+          "source": "5 Minuten",
           "date": "5. Jun 2026"
+        },
+        {
+          "title": "Hubschraubereinsatz - Schwerer Unfall im Ennstal fordert fünf Verletzte - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE16Z0xxdU1ZMzBndXZFNW9BT0NvY3NiX0RsZ2dHTEpYZFY0NnhlSVpSNmRwSnVzMkhwZWVCNnNmR2NQZw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "4. Jun 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Steiermarkbahn modernisiert ihre Bus-Flotte im Vulkanland mit 23 neuen Iveco-Crossway-Bussen, um das Angebot im öffentlichen Verkehr zu verbessern. Diese Investition unterstreicht das Engagement für eine zeitgemäße und umweltfreundlichere Mobilität in der Region.",
+      "summary": "Die Steiermarkbahn modernisiert ihre Busflotte im Vulkanland mit 23 neuen Iveco-Crossway-Bussen, um das Angebot im öffentlichen Verkehr zu verbessern. Diese Investition unterstreicht das Engagement für eine zeitgemäße und umweltfreundlichere Mobilität in der Steiermark.",
       "items": [
         {
           "title": "Investition in Bus-Flotte: Steiermarkbahn fährt mit 23 brandneuen Bussen im Vulkanland - MeinBezirk.at",
@@ -89,7 +89,7 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark setzt Infrastrukturprojekte wie die Straßensanierung am Seeberg und die Modernisierung der Busflotte der Steiermarkbahn um, während gleichzeitig EU-Gebäuderichtlinien zur Energieeffizienz erhebliche finanzielle Belastungen für Gebäudesanierungen mit sich bringen, gegen die Bundesländer Widerstand leisten. Die steirische Baukultur und Infrastrukturentwicklung wird somit durch europäische Vorgaben geprägt, die kostspielige Sanierungsmaßnahmen an öffentlichen Gebäuden erforderlich machen.",
+      "summary": "Die Steiermark investiert in ihre Infrastruktur mit einer Straßensanierung am Seeberg und einer modernen Bus-Flotte der Steiermarkbahn, während gleichzeitig politische Widerstände gegen strengere EU-Gebäuderichtlinien aus konservativen Bundesländern entstehen. Diese Entwicklungen zeigen die Spannung zwischen notwendigen Modernisierungsmaßnahmen und regulatorischen Herausforderungen im steirischen Hochbau und Verkehrssektor.",
       "items": [
         {
           "title": "Mit Ampelregelung: Straßensanierung am Seeberg startet - Kleine Zeitung",
@@ -102,18 +102,6 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY1pMeWgwdWt2RC13MDZzQ0hVYjVKTG0wUTV1dG1seG9naksySWxXcm9ESEM3WU5WdEwtXzFvbVYyY3ZVYWkyWlZ3Wlo3a0F3dDEtYk1ReUhFTTUtVDVVM29YUVRLdjdqZFJva1Z2RzhvQkRDczF1UWttOFJ1Smd2cTVSSUw2ODQwaXJmTGlRLVpNeGgxXzZhaWlQZWFQcHl1dkFWRjZMVjdjZHRXdlg1aEhaeE5TMGF6?oc=5",
           "source": "Kleine Zeitung",
           "date": "5. Jun 2026"
-        },
-        {
-          "title": "EU-Richtlinien zwingen die Steiermark zu kostspieligem Gesetz im Bereich der Energieeffizienz - FPÖ Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa0hGdG9qcGdKbUVVMDF0dE5zZkU0aTVNY2tESXh6RHdnSDVXQnNXYWlRdGhoM3Y0QVhoTjV2M05IcjAxNE92a3lfWS1RTHB6bW8xSlozcXFFY2tIWW05WmV0V2N5OF9YZV9Pa1JqZHhZdVNndFBLUGlzdDBtcDQ3ZDFRU05rQk9zeElTamJZX25IR1BPRldUZ0xDb21XN0lMNTl2YXp6Q2xYLTE1YTd4cU1KTkRhSWdJYWpPUWw5aV9RUEJsWkx3R3Zn?oc=5",
-          "source": "FPÖ Steiermark",
-          "date": "3. Jun 2026"
-        },
-        {
-          "title": "Gebäude werden saniert - Teures Gesetz: Scharfe steirische Kritik an der EU - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BNkV2S2dGR25QdmVCVzViYVhlVW5iX1JydW1sMDh6R2drbjVYVC04NmdRZWYzWHFKX25GUEctZzdCUQ?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "3. Jun 2026"
         },
         {
           "title": "Investition in Bus-Flotte: Steiermarkbahn fährt mit 23 brandneuen Bussen im Vulkanland - MeinBezirk.at",
