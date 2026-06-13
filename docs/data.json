@@ -1,30 +1,18 @@
 {
-  "generated": "12. June 2026, 07:08 UTC",
+  "generated": "13. June 2026, 06:42 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Auf der B 20 an der Passhöhe Seeberg beginnen Bauarbeiten im Wert von 1,3 Millionen Euro, während auf der A9 Nachtsperren im Plabutschtunnel durchgeführt werden. Die NEOS fordern zudem einen Milliarden-Tunnel von Köflach zum Jakominiplatz als Lösung für die Verkehrsinfrastruktur in der Steiermark.",
+      "summary": "Die Steiermark plant infrastrukturelle Großprojekte wie einen Milliarden-Tunnel von Köflach zum Jakominiplatz, während gleichzeitig bestehende Verkehrsadern wie der Plabutschtunnel der A9 mit Nachtsperren zur Instandhaltung beansprucht werden. Regionale Entwicklungsperspektiven und Verkehrsmanagement prägen dabei die aktuelle Diskussion um die Zukunft der steirischen Straßeninfrastruktur.",
       "items": [
         {
-          "title": "Spaziergänger von vier Hunden angegriffen - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JNzYxMjFMdTBXUDNKdnYycUdLUXB1Z0JMbThPTkdwaEMwXzVvZ2syekp1TV9TalZXazlIbV9rYkVBS2plLTFzOGQ5LXgwbGpRTDZGRA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "5. Jun 2026"
-        },
-        {
-          "title": "Spaziergänger in der Steiermark von vier Hunden attackiert - VOL.AT",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZFQ0MU9uaGdXYU02cDhLTVBadmw2c1M0dHhmdUpHN2ZwaFp4cUVUeUtscGd3X0RaamNOX0o4RDFpdDZLY0JTeEJJelZxb3BRZzg2T2VOdUd2YmRudUd0bGpicHdNMjhsdy1VMU1Sdm5ieGw5dEUtWlk4WVJhMHN3OXBxOVVUcmhHaFB3emRYb3I?oc=5",
-          "source": "VOL.AT",
-          "date": "7. Jun 2026"
-        },
-        {
-          "title": "B 20: Auf der Passhöhe Seeberg starten die Arbeiten - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01R2V6RktNMUx0YlRnOHJ4OTVDVFB5Q0pfOXNwcWNHYVVFalJxLVlfSnVWX0F5enZNYS1tV1BXVTN0MW9rSTNJRWw1eHk3cVlpMHdUcEg5TG9BMmlnTUZFLXRKUEVYWkNHNXZTU3hWdw?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "5. Jun 2026"
+          "title": "Zukunftsland Steiermark: ÖVP-Bezirksforum in Deutschlandsberg erörtert regionale Entwicklungsperspektiven - weltstimme.com",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWF90WTI1ZEVLOEFfbzBSS2Y4VTNlRDJHZmZTaHh3WldDNWFrV0VIRXA1SU1HVXQ4V0t1a3lzbmJ4VXVjMWc1M0hkZnQxU0VURGRMSGhaT3lqVGVZR2NqbkZtUFExalFVbHBaaGhFQnRpVFFNQjVvZGVGSmYteWNyNWk4YjVLS2ZQQ0g0UTdqN1ZqejhPUjBsS3Exb0tzRy1RUWx6QmZVXzdlblJDSkRKaG9ibHVveDFEMEtnTzRtTzU4bUxCWldITDVEcnktem1IUnUwNXR0ZEU?oc=5",
+          "source": "weltstimme.com",
+          "date": "12. Jun 2026"
         },
         {
           "title": "A9: Nachtsperren im Plabutschtunnel - ÖAMTC",
@@ -39,16 +27,10 @@
           "date": "11. Jun 2026"
         },
         {
-          "title": "Lkw-Brand im Gleinalmtunnel verlief glimpflich - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4aXMtTXJIbkt0Q200WDJHYVR5eWwwV1l0aG1xRTlEMXlYZmxkSmoxQjMxRWdxcHU5WlJlYl91MWRzdjFMMkE5QUxScVdYbGdscmRRWQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "5. Jun 2026"
-        },
-        {
-          "title": "1,3 Millionen Euro für den Seeberg: Bauarbeiten starten am Montag - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUmF3TkJRY1BLbWp1aU1IYnZ3Z2xvTzJ5V1ptRGh4YURXZlZmYkpmRkNUdllrd1RXdXRyWHNfYWdXblZrVF9CSTBPX2pBdE9GNHJlNEktRzJDQ0xpb2QxYmw0ZWhQLTdDSWY2NjhQYVR1SEZEel9EQ3pveTZ2b2pPQjYtRkZSQ0lYQS1QNWt1a1BrWjV1bjcwSVRGbHZZV0N0SUJHaWt6WU9oQ0s3bHhJ?oc=5",
-          "source": "5 Minuten",
-          "date": "5. Jun 2026"
+          "title": "Murtal Rallye: Die Region verwandelt sich in Rennstrecke - inklusive Straßensperren - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbVpOd0R5MUt6Y2ZtMUpVUE9DX19ZVUhNdlZ1WjN6V0k1QnFUM3Uxak9UMXFPUWU5YzBuSjduZkZydDlPWmhLb2xiY2pVdGUxaHg2eEZpVUxCcVNXX0kzUzJwZXl2NUxQUnZCM25fam1Yci1MU2ptMDVjZ0dseEZLWWo5emQ2aVU5QThZV2Q5cXZGSXVCT0tGY243aVE0VVRYOHJ6ZFVsTURqVllOUkVhSFZ4dnI0aF81bEdz?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "12. Jun 2026"
         }
       ]
     },
@@ -56,14 +38,8 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Steiermarkbahn erhält 23 neue Iveco-Busse für ihr Angebot, während die NEOS für einen Milliarden-Tunnel von Köflach zum Jakominiplatz werben, um die Verkehrsanbindung zu verbessern. Das Land Steiermark würdigt gleichzeitig nachhaltige Verkehrsprojekte mit dem Energy Globe Styria Award 2026.",
+      "summary": "Die NEOS fordern einen Milliarden-Tunnel von Köflach zum Jakominiplatz, um die Fahrtzeit auf fünf Minuten zu reduzieren und damit den öffentlichen Verkehr in der Steiermark attraktiver zu gestalten. Das Land Steiermark zeichnet zudem nachhaltige Verkehrsprojekte mit dem Energy Globe STYRIA AWARD 2026 aus, um Umweltschutz und moderne Mobilität zu fördern.",
       "items": [
-        {
-          "title": "Iveco Bus liefert 23 Crossway an die Steiermarkbahn - busplaner",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTU9xT0N6YWx3cWRWTnNkaGdLbFVHWk12SW80ZDIzTXNJOE1BMXRqY3NUV1NncHBzbW85bHMxSm1qZl95MkM0VHZ0bEljVFVheF9ERGM2SUhaR3h6TWxMX2tQRzgzSkRvbmJSYlc5eVhLSFg4UDZiOFNLLUg1V29JSWdzaVZOMzlzOFp2c0ViQThib1Yyc2Zocw?oc=5",
-          "source": "busplaner",
-          "date": "9. Jun 2026"
-        },
         {
           "title": "Von Köflach direkt zum Jakominiplatz: NEOS werben für Milliarden-Tunnel - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOXFyRUhCUmZvTWVTbnJQTFFwZllFejFTNy1oSUJRR2hMTzFsSDd4WnNlRUMwS0ZaS1ZlblNWSUNPTXZmWUdhR3Vha2dOc0NmRFdRNmc2UjRKTWsxb3psU01rY1FMdEtwUk5mOW9uVDRIa1pucmwzTVVGY3otQVY5U3B3U1ZpRWZ0a1Bpak5UNzViQ01DUHdJZ3FCdmpCNXgxN3FOTU5QQm1lTU5ISUhRTl93?oc=5",
@@ -82,8 +58,20 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark zeichnet mit dem Energy Globe Styria Award 2026 innovative Projekte aus, die Klimaschutz, Energiewende und nachhaltige Mobilität voranbringen. Die Auszeichnung würdigt steirische Initiativen, die zu einer umweltfreundlicheren und zukunftssicheren Verkehrsgestaltung in der Region beitragen.",
+      "summary": "Das Gleisdorfer Mobilitätskonzept wurde mit dem Energy Globe Styria Award 2026 ausgezeichnet und setzt damit ein Zeichen für nachhaltige Verkehrsplanung in der Steiermark. Die Ehrung unterstreicht die Bedeutung innovativer Mobilitätslösungen für eine umweltfreundliche und sichere Verkehrsentwicklung in der Region.",
       "items": [
+        {
+          "title": "„Energy Globe Styria Award 2026\": Gleisdorfer Mobilitätskonzept erhielt eine Auszeichnung - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSVpNSzZvbzFNbnZOSXpNMzVqQkFxX3ZsYlh6dXBKOVNNUHFwSGF1MnNBc1UyVzJHVkRuUDJLTFpGaXp4dlFvR0FibngyRmdjZ0h4SmN5RzZXVk1tM0JfeUcxSkRzWU96cWY4OXMzRUZTcG56OGRzMElNSTJ4eDhjMmxKQXB5bjVNTVhHOV83Y21Ca0pRNGRyZEQtV054Qm1vVGhkcUF0aF81cVUtTXc?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "12. Jun 2026"
+        },
+        {
+          "title": "Gleisdorfer Mobilitätskonzept gewinnt Energy Globe Styria Award 2026 in Weiz - weltstimme.com",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTlpGb0tTaTc1T1pENjNKeEVmaXVlcXN3MjMwTWpGQjBMRXFpYkEzWVkyNDAtajVTUllnMmVET2lIWEpCMjhDTnJCVm1EdWZXUU9XZS02VHMwdVVkVzlxYWFDWG1XUmlhUG92ZE9MMEt0OUFES3A2bkdYcHJGZWtCc3lHdldKTGxiS2V5SFRxZW1QZHF0OG5QN3ZXUVFvVHBPWC1ZM0FaWUQ4M29jMDF3YUt3?oc=5",
+          "source": "weltstimme.com",
+          "date": "12. Jun 2026"
+        },
         {
           "title": "Landespreis Energy Globe STYRIA AWARD 2026 verliehen - Land Steiermark News Portal",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vYW4tRkVud0k3Y0puWURIa05OcUtXdW5hZ0NRV0g1SFFYNVlRQUR1MmNydExIcnF4RldqWnVyX1NhMFNBVHVndVJRbGE4R2VySk11YWxERlJwY0hOQnROcFdUYTZST0tVcDFoUlVsaw?oc=5",
@@ -95,12 +83,6 @@
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUUVBak50SmlLZWpDZ3NQY1UyS2g4TGVHMEs5RjVRUGxNVUg4UFhGNGFUVWZJbU1fa3dMMnpGMEJsN0hQVE5MZnZkcFR6MEU4Zk5pLWJyUEpWNDNwWTltYnFpd2JNRTdCYnpDbWtBNEpIVjFMbmhGNlJKeVFQeUdwQzhBOG5WUQ?oc=5",
           "source": "Der Grazer",
           "date": "11. Jun 2026"
-        },
-        {
-          "title": "Energy Globe Styria Award 2026: Steirische Projekte für Klima, Energie und Mobilität prämiert - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUGRjeEdFXzhYcjgwMFA1QWx0SDVydFJyTy1vWlVEQnY3TTkxS2xQc0RSdkZXM2tza05GVEQ4djRya0Z2QmFnZUxqckl0SDBrbzVGcHRHeFlfQm0xX2hDTURFZ1dRbXh1d2I3Vm9Ia1Q0cFBaMFg2MlQ1YU9KbzJrenowcVhCQVZkb3Bya1BMMGJYVWkwM3lud194Tng1WHlXVXRjMW1hY2V1blc0VGJXX2taMnN1U0ZaYWxsSlY5NA?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "11. Jun 2026"
         }
       ]
     },
@@ -108,25 +90,13 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die steirische Baubranche bereitet sich auf ein dynamisches Jahr 2026 vor, während gleichzeitig wichtige Infrastrukturprojekte wie die Straßensanierung am Seeberg mit entsprechenden Verkehrsregelungen in Angriff genommen werden. Politische Widerstände gegen die EU-Gebäuderichtlinie aus konservativen Bundesländern erschweren jedoch die Umsetzung von Modernisierungsanforderungen im Hochbausektor.",
+      "summary": "Die steirische Baubranche blickt 2026 auf ein dynamisches Jahr mit vielfältigen Hochbauprojekten, die Orientierung und Planungssicherheit für die Wirtschaft bieten. Die Vorschau dokumentiert die anhaltende Bedeutung von modernem Landeshochbau, Schulbauten und öffentlichen Infrastrukturprojekten als Treiber der steirischen Baukultur und wirtschaftlichen Entwicklung.",
       "items": [
         {
           "title": "Steirische Bauvorschau 2026: Orientierung für eine dynamische Branche - wko.at",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcmc0X2h3ZzBmVVVvRXNvanpVX09MQVlLSVVoOUR1OHBVUjBGMW5RWk1SQ2ZHU0VHOHpycWhMaWlGd05SQ2FyZjlCUk9RV0JsdnRzV1Rlc0F6YnBETWtvajByQmgyenZyUGJWYXNvb19iR0NxQ2t4b1NtcWxlLVhlWHEwZGpsb1FPVkVIb0xfbDFmaHRpODZ0dDFwZHVZQUpRTHUwNmpXYW40QQ?oc=5",
           "source": "wko.at",
           "date": "11. Jun 2026"
-        },
-        {
-          "title": "Mit Ampelregelung: Straßensanierung am Seeberg startet - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORVBIaHJtRnppemtnUjRfMFltRzFDU1A3TDFIODE5ZVprNC1tMHhyVFA0bWhPY3hVQVNjc3p5UG5NZVdnTHNRTXpaa1ZhajVSRjFMNDZMV3FLZm14bDBMR05XVHlwTG5kb243cjNrX043SDhVZmJnaEZnTXBhWWszYlNTb1VfUHlNc0VBS25ZS01NcnBYVGl3NHB3VURlQkhLbFE?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "5. Jun 2026"
-        },
-        {
-          "title": "Passiver Widerstand aus blauen Bundesländern gegen Gebäuderichtlinie - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY1pMeWgwdWt2RC13MDZzQ0hVYjVKTG0wUTV1dG1seG9naksySWxXcm9ESEM3WU5WdEwtXzFvbVYyY3ZVYWkyWlZ3Wlo3a0F3dDEtYk1ReUhFTTUtVDVVM29YUVRLdjdqZFJva1Z2RzhvQkRDczF1UWttOFJ1Smd2cTVSSUw2ODQwaXJmTGlRLVpNeGgxXzZhaWlQZWFQcHl1dkFWRjZMVjdjZHRXdlg1aEhaeE5TMGF6?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "5. Jun 2026"
         }
       ]
     },
