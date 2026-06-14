@@ -1,12 +1,12 @@
 {
-  "generated": "13. June 2026, 06:42 UTC",
+  "generated": "14. June 2026, 07:10 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die Steiermark plant infrastrukturelle Großprojekte wie einen Milliarden-Tunnel von Köflach zum Jakominiplatz, während gleichzeitig bestehende Verkehrsadern wie der Plabutschtunnel der A9 mit Nachtsperren zur Instandhaltung beansprucht werden. Regionale Entwicklungsperspektiven und Verkehrsmanagement prägen dabei die aktuelle Diskussion um die Zukunft der steirischen Straßeninfrastruktur.",
+      "summary": "Die NEOS fordern einen Milliarden-Tunnel von Köflach zum Jakominiplatz, während die A9 durch Nachtsperren im Plabutschtunnel beeinträchtigt ist. Neben diesen Infrastrukturprojekten führen regionale Veranstaltungen wie die Murtal Rallye zu temporären Straßensperrungen in der Steiermark.",
       "items": [
         {
           "title": "Zukunftsland Steiermark: ÖVP-Bezirksforum in Deutschlandsberg erörtert regionale Entwicklungsperspektiven - weltstimme.com",
@@ -15,22 +15,28 @@
           "date": "12. Jun 2026"
         },
         {
-          "title": "A9: Nachtsperren im Plabutschtunnel - ÖAMTC",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORHhjN1NPRXhlQ2o5SFFGRjk2VUdLS0dyOV83WnVOT0l2eHBxZUhPRWY3U1hwdFczYlJMOF9FNm5IVzNkcEdUTEp1bDVTMGVpMG1XVEVCNk9RSjVET2Ixc0hfd3pENmtNU1dJdTEtQy1XNUZ5WVB2UHNyYklFZk0xbXZLZlNoNHRT?oc=5",
-          "source": "ÖAMTC",
-          "date": "8. Jun 2026"
-        },
-        {
           "title": "Von Köflach direkt zum Jakominiplatz: NEOS werben für Milliarden-Tunnel - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOXFyRUhCUmZvTWVTbnJQTFFwZllFejFTNy1oSUJRR2hMTzFsSDd4WnNlRUMwS0ZaS1ZlblNWSUNPTXZmWUdhR3Vha2dOc0NmRFdRNmc2UjRKTWsxb3psU01rY1FMdEtwUk5mOW9uVDRIa1pucmwzTVVGY3otQVY5U3B3U1ZpRWZ0a1Bpak5UNzViQ01DUHdJZ3FCdmpCNXgxN3FOTU5QQm1lTU5ISUhRTl93?oc=5",
           "source": "5 Minuten",
           "date": "11. Jun 2026"
         },
         {
+          "title": "A9: Nachtsperren im Plabutschtunnel - ÖAMTC",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORHhjN1NPRXhlQ2o5SFFGRjk2VUdLS0dyOV83WnVOT0l2eHBxZUhPRWY3U1hwdFczYlJMOF9FNm5IVzNkcEdUTEp1bDVTMGVpMG1XVEVCNk9RSjVET2Ixc0hfd3pENmtNU1dJdTEtQy1XNUZ5WVB2UHNyYklFZk0xbXZLZlNoNHRT?oc=5",
+          "source": "ÖAMTC",
+          "date": "8. Jun 2026"
+        },
+        {
           "title": "Murtal Rallye: Die Region verwandelt sich in Rennstrecke - inklusive Straßensperren - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbVpOd0R5MUt6Y2ZtMUpVUE9DX19ZVUhNdlZ1WjN6V0k1QnFUM3Uxak9UMXFPUWU5YzBuSjduZkZydDlPWmhLb2xiY2pVdGUxaHg2eEZpVUxCcVNXX0kzUzJwZXl2NUxQUnZCM25fam1Yci1MU2ptMDVjZ0dseEZLWWo5emQ2aVU5QThZV2Q5cXZGSXVCT0tGY243aVE0VVRYOHJ6ZFVsTURqVllOUkVhSFZ4dnI0aF81bEdz?oc=5",
           "source": "MeinBezirk.at",
           "date": "12. Jun 2026"
+        },
+        {
+          "title": "Grazathlon belebt die Stadtwirtschaft - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TajZWdlUxTUNwMldXMmNzOHJ3NV9lbU8zbFZ5TUJFam9vSTBJUGxEWFJfaWU3MGl5TWtxM0t4ZlJwX0FVMjdxREZkeTJLc3dVQWRuSA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "13. Jun 2026"
         }
       ]
     },
@@ -38,8 +44,14 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die NEOS fordern einen Milliarden-Tunnel von Köflach zum Jakominiplatz, um die Fahrtzeit auf fünf Minuten zu reduzieren und damit den öffentlichen Verkehr in der Steiermark attraktiver zu gestalten. Das Land Steiermark zeichnet zudem nachhaltige Verkehrsprojekte mit dem Energy Globe STYRIA AWARD 2026 aus, um Umweltschutz und moderne Mobilität zu fördern.",
+      "summary": "Die NEOS fordern einen Milliarden-Tunnel, um eine direkte Bahnverbindung von Köflach zum Jakominiplatz in Graz zu schaffen und damit den öffentlichen Verkehr zu verbessern. Der Landespreis Energy Globe STYRIA AWARD 2026 würdigt nachhaltige Projekte, die auch im Bereich des umweltfreundlichen Verkehrs einen Beitrag leisten können.",
       "items": [
+        {
+          "title": "Grazathlon belebt die Stadtwirtschaft - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TajZWdlUxTUNwMldXMmNzOHJ3NV9lbU8zbFZ5TUJFam9vSTBJUGxEWFJfaWU3MGl5TWtxM0t4ZlJwX0FVMjdxREZkeTJLc3dVQWRuSA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "13. Jun 2026"
+        },
         {
           "title": "Von Köflach direkt zum Jakominiplatz: NEOS werben für Milliarden-Tunnel - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOXFyRUhCUmZvTWVTbnJQTFFwZllFejFTNy1oSUJRR2hMTzFsSDd4WnNlRUMwS0ZaS1ZlblNWSUNPTXZmWUdhR3Vha2dOc0NmRFdRNmc2UjRKTWsxb3psU01rY1FMdEtwUk5mOW9uVDRIa1pucmwzTVVGY3otQVY5U3B3U1ZpRWZ0a1Bpak5UNzViQ01DUHdJZ3FCdmpCNXgxN3FOTU5QQm1lTU5ISUhRTl93?oc=5",
@@ -58,7 +70,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Das Gleisdorfer Mobilitätskonzept wurde mit dem Energy Globe Styria Award 2026 ausgezeichnet und setzt damit ein Zeichen für nachhaltige Verkehrsplanung in der Steiermark. Die Ehrung unterstreicht die Bedeutung innovativer Mobilitätslösungen für eine umweltfreundliche und sichere Verkehrsentwicklung in der Region.",
+      "summary": "Das innovative Mobilitätskonzept der Stadt Gleisdorf wurde mit dem renommierten Energy Globe Styria Award 2026 ausgezeichnet und zählt damit zu Steiermarks besten Klima-Ideen. Die Auszeichnung würdigt das Engagement der Region für nachhaltige Mobilität und unterstreicht die Vorbildfunktion des Gleisdorfer Ansatzes für zukunftsorientierte Verkehrsplanung in der Steiermark.",
       "items": [
         {
           "title": "„Energy Globe Styria Award 2026\": Gleisdorfer Mobilitätskonzept erhielt eine Auszeichnung - MeinBezirk.at",
@@ -73,10 +85,10 @@
           "date": "12. Jun 2026"
         },
         {
-          "title": "Landespreis Energy Globe STYRIA AWARD 2026 verliehen - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vYW4tRkVud0k3Y0puWURIa05OcUtXdW5hZ0NRV0g1SFFYNVlRQUR1MmNydExIcnF4RldqWnVyX1NhMFNBVHVndVJRbGE4R2VySk11YWxERlJwY0hOQnROcFdUYTZST0tVcDFoUlVsaw?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "11. Jun 2026"
+          "title": "Energy Globe STYRIA AWARD: Steiermarks beste Klima-Ideen prämiert - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNDNfb0E5M0Z3YkY5dHJ1Rkt2MDBnZ21xdEhJR0hlbEJIZXZtUm9ydWxkUG9la0ZrRlZxNG9kUzM5Zmc5M1NDc3dwMFJ0Y1hRTFJNcGdsd0RuWXhvbkt6Y1ZyU0ZjNzJpSjVsYXRxY1NiLTg0TnpZbWtQQjlnVUl6UE9BaVNleHZTdDlDaEZyMkY1V2lubndzSDJDQzVZeFJDVEpCcExjUHc?oc=5",
+          "source": "5 Minuten",
+          "date": "13. Jun 2026"
         },
         {
           "title": "Landespreis Energy Globe Styria Award 2026 verliehen - Der Grazer",
@@ -90,7 +102,7 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die steirische Baubranche blickt 2026 auf ein dynamisches Jahr mit vielfältigen Hochbauprojekten, die Orientierung und Planungssicherheit für die Wirtschaft bieten. Die Vorschau dokumentiert die anhaltende Bedeutung von modernem Landeshochbau, Schulbauten und öffentlichen Infrastrukturprojekten als Treiber der steirischen Baukultur und wirtschaftlichen Entwicklung.",
+      "summary": "Die steirische Baubranche erhält mit der Bauvorschau 2026 eine wichtige Orientierungshilfe für ihre zukünftige Entwicklung und Projektplanung. Das Dokument bietet der dynamischen Baubranche des Landes Steiermark eine strategische Grundlage zur Einschätzung von Markttrends und Investitionsmöglichkeiten.",
       "items": [
         {
           "title": "Steirische Bauvorschau 2026: Orientierung für eine dynamische Branche - wko.at",
