@@ -1,12 +1,12 @@
 {
-  "generated": "14. June 2026, 07:10 UTC",
+  "generated": "15. June 2026, 08:42 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die NEOS fordern einen Milliarden-Tunnel von Köflach zum Jakominiplatz, während die A9 durch Nachtsperren im Plabutschtunnel beeinträchtigt ist. Neben diesen Infrastrukturprojekten führen regionale Veranstaltungen wie die Murtal Rallye zu temporären Straßensperrungen in der Steiermark.",
+      "summary": "Die Nachrichtentitel behandeln überwiegend Verkehrsereignisse und Veranstaltungen in der Steiermark, wobei nur zwei Meldungen direkten Bezug zu Straßeninfrastruktur haben: Nachtsperren im Plabutschtunnel der A9 und ein Verkehrsunfall im Tunnel mit erheblichen Sicherheitsrisiken. Die übrigen Titel beziehen sich auf regionale Entwicklung, Sportveranstaltungen und städtische Events, die mit Straßensperrungen verbunden sind.",
       "items": [
         {
           "title": "Zukunftsland Steiermark: ÖVP-Bezirksforum in Deutschlandsberg erörtert regionale Entwicklungsperspektiven - weltstimme.com",
@@ -15,10 +15,10 @@
           "date": "12. Jun 2026"
         },
         {
-          "title": "Von Köflach direkt zum Jakominiplatz: NEOS werben für Milliarden-Tunnel - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOXFyRUhCUmZvTWVTbnJQTFFwZllFejFTNy1oSUJRR2hMTzFsSDd4WnNlRUMwS0ZaS1ZlblNWSUNPTXZmWUdhR3Vha2dOc0NmRFdRNmc2UjRKTWsxb3psU01rY1FMdEtwUk5mOW9uVDRIa1pucmwzTVVGY3otQVY5U3B3U1ZpRWZ0a1Bpak5UNzViQ01DUHdJZ3FCdmpCNXgxN3FOTU5QQm1lTU5ISUhRTl93?oc=5",
+          "title": "Steirer mit 1,6 Promille im Tunnel: Frau hatte keine Chance auszuweichen - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUEFIckhybU5sY3BpODB1T1djODl4SjlGdEhNVmEtZU1XT0I4VExCTGtTdmlzUmx5ZVNYTnFVZUYxNDlHenFFN3FaRWdJc1c2cklyY1FhWXFnOV82dTUyVDNCR01KQ01SZkthNk9KOGRFRUtYZUFROEZUUk9ybERMd1A5QU1OMDB5bmhFbzg3Wk9nTlY3LXczWUVKS2VQR2NvMUU3THlXTks1eDY0bXVMd1JSbUkwZw?oc=5",
           "source": "5 Minuten",
-          "date": "11. Jun 2026"
+          "date": "15. Jun 2026"
         },
         {
           "title": "A9: Nachtsperren im Plabutschtunnel - ÖAMTC",
@@ -44,7 +44,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die NEOS fordern einen Milliarden-Tunnel, um eine direkte Bahnverbindung von Köflach zum Jakominiplatz in Graz zu schaffen und damit den öffentlichen Verkehr zu verbessern. Der Landespreis Energy Globe STYRIA AWARD 2026 würdigt nachhaltige Projekte, die auch im Bereich des umweltfreundlichen Verkehrs einen Beitrag leisten können.",
+      "summary": "Die Steiermarkbahn erweitert ihre Busflotte mit 23 neuen Iveco Crossway Fahrzeugen, um das öffentliche Verkehrsangebot zu verbessern. Das Land Steiermark setzt dabei auf nachhaltige Mobilität, wie die Verleihung des Energy Globe STYRIA AWARD unterstreicht.",
       "items": [
         {
           "title": "Grazathlon belebt die Stadtwirtschaft - steiermark.ORF.at",
@@ -53,16 +53,16 @@
           "date": "13. Jun 2026"
         },
         {
-          "title": "Von Köflach direkt zum Jakominiplatz: NEOS werben für Milliarden-Tunnel - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOXFyRUhCUmZvTWVTbnJQTFFwZllFejFTNy1oSUJRR2hMTzFsSDd4WnNlRUMwS0ZaS1ZlblNWSUNPTXZmWUdhR3Vha2dOc0NmRFdRNmc2UjRKTWsxb3psU01rY1FMdEtwUk5mOW9uVDRIa1pucmwzTVVGY3otQVY5U3B3U1ZpRWZ0a1Bpak5UNzViQ01DUHdJZ3FCdmpCNXgxN3FOTU5QQm1lTU5ISUhRTl93?oc=5",
-          "source": "5 Minuten",
-          "date": "11. Jun 2026"
+          "title": "Iveco Bus liefert 23 Crossway an die Steiermarkbahn - busplaner",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTU9xT0N6YWx3cWRWTnNkaGdLbFVHWk12SW80ZDIzTXNJOE1BMXRqY3NUV1NncHBzbW85bHMxSm1qZl95MkM0VHZ0bEljVFVheF9ERGM2SUhaR3h6TWxMX2tQRzgzSkRvbmJSYlc5eVhLSFg4UDZiOFNLLUg1V29JSWdzaVZOMzlzOFp2c0ViQThib1Yyc2Zocw?oc=5",
+          "source": "busplaner",
+          "date": "9. Jun 2026"
         },
         {
           "title": "Landespreis Energy Globe STYRIA AWARD 2026 verliehen - Land Steiermark News Portal",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vYW4tRkVud0k3Y0puWURIa05OcUtXdW5hZ0NRV0g1SFFYNVlRQUR1MmNydExIcnF4RldqWnVyX1NhMFNBVHVndVJRbGE4R2VySk11YWxERlJwY0hOQnROcFdUYTZST0tVcDFoUlVsaw?oc=5",
           "source": "Land Steiermark News Portal",
-          "date": "11. Jun 2026"
+          "date": "13. Jun 2026"
         }
       ]
     },
@@ -70,8 +70,14 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Das innovative Mobilitätskonzept der Stadt Gleisdorf wurde mit dem renommierten Energy Globe Styria Award 2026 ausgezeichnet und zählt damit zu Steiermarks besten Klima-Ideen. Die Auszeichnung würdigt das Engagement der Region für nachhaltige Mobilität und unterstreicht die Vorbildfunktion des Gleisdorfer Ansatzes für zukunftsorientierte Verkehrsplanung in der Steiermark.",
+      "summary": "Die Steiermark setzt verstärkt auf nachhaltige Mobilität, wie die Auszeichnung des innovativen Gleisdorfer Mobilitätskonzepts beim Energy Globe Styria Award 2026 und die Lieferung von 23 neuen Crossway-Bussen an die Steiermarkbahn zeigen. Diese Maßnahmen unterstreichen das Engagement der Region für Klimaschutz und die Förderung umweltfreundlicher Verkehrslösungen im öffentlichen Nahverkehr.",
       "items": [
+        {
+          "title": "Iveco Bus liefert 23 Crossway an die Steiermarkbahn - busplaner",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTU9xT0N6YWx3cWRWTnNkaGdLbFVHWk12SW80ZDIzTXNJOE1BMXRqY3NUV1NncHBzbW85bHMxSm1qZl95MkM0VHZ0bEljVFVheF9ERGM2SUhaR3h6TWxMX2tQRzgzSkRvbmJSYlc5eVhLSFg4UDZiOFNLLUg1V29JSWdzaVZOMzlzOFp2c0ViQThib1Yyc2Zocw?oc=5",
+          "source": "busplaner",
+          "date": "9. Jun 2026"
+        },
         {
           "title": "„Energy Globe Styria Award 2026\": Gleisdorfer Mobilitätskonzept erhielt eine Auszeichnung - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSVpNSzZvbzFNbnZOSXpNMzVqQkFxX3ZsYlh6dXBKOVNNUHFwSGF1MnNBc1UyVzJHVkRuUDJLTFpGaXp4dlFvR0FibngyRmdjZ0h4SmN5RzZXVk1tM0JfeUcxSkRzWU96cWY4OXMzRUZTcG56OGRzMElNSTJ4eDhjMmxKQXB5bjVNTVhHOV83Y21Ca0pRNGRyZEQtV054Qm1vVGhkcUF0aF81cVUtTXc?oc=5",
@@ -83,6 +89,12 @@
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTlpGb0tTaTc1T1pENjNKeEVmaXVlcXN3MjMwTWpGQjBMRXFpYkEzWVkyNDAtajVTUllnMmVET2lIWEpCMjhDTnJCVm1EdWZXUU9XZS02VHMwdVVkVzlxYWFDWG1XUmlhUG92ZE9MMEt0OUFES3A2bkdYcHJGZWtCc3lHdldKTGxiS2V5SFRxZW1QZHF0OG5QN3ZXUVFvVHBPWC1ZM0FaWUQ4M29jMDF3YUt3?oc=5",
           "source": "weltstimme.com",
           "date": "12. Jun 2026"
+        },
+        {
+          "title": "Klimaschutz-Erfolg: Leobener Innovationskraft holt zwei Siege beim Energy Globe Styria Award - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQajBMS2lDckpQaGdNUGdMbnl1bk9QeHRLU3EzeUYzUW5ZRlBySkRkWVpyZE81Y3VibTFlZzR5ci10VFZFbUs3UVJxcWhYWlg5al9KVmF3RUtrZ2hjTXpGVnhBdG1hX2d3WGJRb3A0WElic2ljbUYyVFFQaGlaaGt3MjdOMHFVdkN4dEt6MHJRYmtMNlZleTdTLVJjTG1PZ0JCak45RGxKT2FpVnpRUThiU2MxNUxUcjBMSkdIc2lJbDZyaG5SYVE?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "15. Jun 2026"
         },
         {
           "title": "Energy Globe STYRIA AWARD: Steiermarks beste Klima-Ideen prämiert - 5 Minuten",
@@ -102,7 +114,7 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die steirische Baubranche erhält mit der Bauvorschau 2026 eine wichtige Orientierungshilfe für ihre zukünftige Entwicklung und Projektplanung. Das Dokument bietet der dynamischen Baubranche des Landes Steiermark eine strategische Grundlage zur Einschätzung von Markttrends und Investitionsmöglichkeiten.",
+      "summary": "Die steirische Bauwirtschaft bereitet sich auf ein dynamisches Jahr 2026 vor, für das eine umfassende Bauvorschau Orientierung und Planungssicherheit bietet. Diese Übersicht unterstützt die Branche bei der Einschätzung von Hochbauprojekten, öffentlichen Bauvorhaben und Entwicklungen in der Baukultur des Landes.",
       "items": [
         {
           "title": "Steirische Bauvorschau 2026: Orientierung für eine dynamische Branche - wko.at",
