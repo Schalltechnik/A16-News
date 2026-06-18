@@ -1,12 +1,12 @@
 {
-  "generated": "17. June 2026, 08:16 UTC",
+  "generated": "18. June 2026, 07:20 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die Nachrichtentitel behandeln überwiegend regionale Veranstaltungen und Verkehrsvorfälle in der Steiermark, enthalten aber keine relevanten Informationen zu Straßeninfrastruktur, Straßenbau oder Sanierungen. Eine Zusammenfassung zu den angeforderten Themen Straßenerhaltung, Tunneln, Brücken und Umfahrungen ist daher nicht möglich.",
+      "summary": "Die Nachrichtentitel behandeln überwiegend politische und sportliche Ereignisse in der Steiermark und enthalten keine relevanten Informationen zu Straßeninfrastruktur, Straßenbau oder Sanierungen. Daher kann keine aussagekräftige Zusammenfassung zu den genannten Fachbereichen erstellt werden.",
       "items": [
         {
           "title": "Zukunftsland Steiermark: ÖVP-Bezirksforum in Deutschlandsberg erörtert regionale Entwicklungsperspektiven - weltstimme.com",
@@ -25,12 +25,6 @@
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbVpOd0R5MUt6Y2ZtMUpVUE9DX19ZVUhNdlZ1WjN6V0k1QnFUM3Uxak9UMXFPUWU5YzBuSjduZkZydDlPWmhLb2xiY2pVdGUxaHg2eEZpVUxCcVNXX0kzUzJwZXl2NUxQUnZCM25fam1Yci1MU2ptMDVjZ0dseEZLWWo5emQ2aVU5QThZV2Q5cXZGSXVCT0tGY243aVE0VVRYOHJ6ZFVsTURqVllOUkVhSFZ4dnI0aF81bEdz?oc=5",
           "source": "MeinBezirk.at",
           "date": "12. Jun 2026"
-        },
-        {
-          "title": "Grazathlon belebt die Stadtwirtschaft - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TajZWdlUxTUNwMldXMmNzOHJ3NV9lbU8zbFZ5TUJFam9vSTBJUGxEWFJfaWU3MGl5TWtxM0t4ZlJwX0FVMjdxREZkeTJLc3dVQWRuSA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "13. Jun 2026"
         }
       ]
     },
@@ -38,25 +32,25 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Ich kann diese Aufgabe nicht erfüllen, da die angegebenen Nachrichtentitel keinen Bezug zu öffentlichem Verkehr, Verkehrsverbund, S-Bahn, Bus oder Bahnausbau in der Steiermark haben. Die Titel behandeln stattdessen ein Laufveranstaltung (Grazathlon) und Energiepreise (Energy Globe Awards), weshalb eine Zusammenfassung zu Verkehrsthemen nicht möglich ist.",
+      "summary": "Die Stadtwerke Leoben und die Montanuni wurden für ihre Nachhaltigkeitsprojekte mit dem Energy Globe Styria Award ausgezeichnet, was die Bedeutung von umweltfreundlichen Lösungen im öffentlichen Verkehr unterstreicht. Gleichzeitig zeigen massive Staus auf der A2, dass alternative Mobilitätsangebote wie öffentliche Verkehrsmittel für Pendler dringend notwendig sind, um täglich verlorene Zeit zu sparen.",
       "items": [
-        {
-          "title": "Grazathlon belebt die Stadtwirtschaft - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TajZWdlUxTUNwMldXMmNzOHJ3NV9lbU8zbFZ5TUJFam9vSTBJUGxEWFJfaWU3MGl5TWtxM0t4ZlJwX0FVMjdxREZkeTJLc3dVQWRuSA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "13. Jun 2026"
-        },
         {
           "title": "Landespreis Energy Globe STYRIA AWARD 2026 verliehen - Land Steiermark News Portal",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vYW4tRkVud0k3Y0puWURIa05OcUtXdW5hZ0NRV0g1SFFYNVlRQUR1MmNydExIcnF4RldqWnVyX1NhMFNBVHVndVJRbGE4R2VySk11YWxERlJwY0hOQnROcFdUYTZST0tVcDFoUlVsaw?oc=5",
           "source": "Land Steiermark News Portal",
-          "date": "13. Jun 2026"
+          "date": "17. Jun 2026"
         },
         {
           "title": "Stadtwerke Leoben und Montanuni erhielten Energy Globe Styria Award - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPUm94cXNQbE9Ta2Y4bG9fOEpPeHFyekgwbDFOeHFycVdiRUktQjJBV2hqZkI2VXVzdkc1TUkzcjZiRUVRQWFGcVNQdTlLSjZHUUNBVUFDenkwalhYb0ZlaUtJRVVBVlhiR1dEWjdWTnZtNDNaekNmM240RGVEc1N0cm1UTFNBaDQ2UXNhUnhoSjh2b2piSngxQWgxUXgtQ1JpM3ROTWRTSlZiYVVCTF9yY1RoVzg1Y0tlUXFYUGMxeWJ2VDZyMmVndkpqWXh0eXhlRTFVM2ZJa1pBcEtJQkpxbXRLdU1YLXNPZ3IxMlM3YTYycUdYcWxlXzFtNUFvcElpTjM4RFNwX3lOeGhtX2J6emRn?oc=5",
           "source": "Kleine Zeitung",
           "date": "16. Jun 2026"
+        },
+        {
+          "title": "Stau-Frust auf der A2: Pendler verlieren täglich bis zu 30 Minuten - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORzQ0amRscEpuMjcwY1hZeVFuajNMUFB0UUw1cGdnTTBhTHRLMTNLUFh1aXRQRkp3elNrQVdOX09jSnFqRFBtT3NUQzJEeV9zSVJ3eW5kWXFLa2k4emIzc1NNSEp2UmRuV0t5bVVOVnZXdmZ0TjctZEprUlE5VVJOVS1uXzhUNkZOWXd1LW9KalRyalUyYW8td25mWkgzbGtsV004TEt2eU1VRTE3Z0hfNERn?oc=5",
+          "source": "5 Minuten",
+          "date": "17. Jun 2026"
         }
       ]
     },
@@ -64,7 +58,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Das Gleisdorfer Mobilitätskonzept wurde mit dem renommierten Energy Globe Styria Award 2026 ausgezeichnet und setzt damit ein Zeichen für nachhaltige Verkehrsplanung in der Steiermark. Die Auszeichnung würdigt innovative Ansätze zur Förderung umweltfreundlicher Mobilität und unterstreicht die Bedeutung integrierter Mobilitätslösungen für die Region Weiz.",
+      "summary": "Das innovative Mobilitätskonzept der Stadt Gleisdorf wurde mit dem Energy Globe Styria Award 2026 ausgezeichnet und setzt damit ein Zeichen für nachhaltige Verkehrslösung in der Steiermark. Die Prämierung unterstreicht die Bedeutung von integrierten Mobilitätsprojekten, die Klima- und Energieziele mit zukunftsweisender Verkehrsplanung verbinden.",
       "items": [
         {
           "title": "„Energy Globe Styria Award 2026\": Gleisdorfer Mobilitätskonzept erhielt eine Auszeichnung - MeinBezirk.at",
@@ -82,7 +76,13 @@
           "title": "Landespreis Energy Globe STYRIA AWARD 2026 verliehen - Land Steiermark News Portal",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vYW4tRkVud0k3Y0puWURIa05OcUtXdW5hZ0NRV0g1SFFYNVlRQUR1MmNydExIcnF4RldqWnVyX1NhMFNBVHVndVJRbGE4R2VySk11YWxERlJwY0hOQnROcFdUYTZST0tVcDFoUlVsaw?oc=5",
           "source": "Land Steiermark News Portal",
-          "date": "13. Jun 2026"
+          "date": "17. Jun 2026"
+        },
+        {
+          "title": "Energy Globe Styria Award 2026: Steirische Projekte für Klima, Energie und Mobilität prämiert - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUGRjeEdFXzhYcjgwMFA1QWx0SDVydFJyTy1vWlVEQnY3TTkxS2xQc0RSdkZXM2tza05GVEQ4djRya0Z2QmFnZUxqckl0SDBrbzVGcHRHeFlfQm0xX2hDTURFZ1dRbXh1d2I3Vm9Ia1Q0cFBaMFg2MlQ1YU9KbzJrenowcVhCQVZkb3Bya1BMMGJYVWkwM3lud194Tng1WHlXVXRjMW1hY2V1blc0VGJXX2taMnN1U0ZaYWxsSlY5NA?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "11. Jun 2026"
         },
         {
           "title": "Landespreis Energy Globe Styria Award 2026 verliehen - Der Grazer",
@@ -96,7 +96,7 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die steirische Bauwirtschaft bereitet sich auf ein dynamisches Jahr 2026 vor, für das eine umfassende Bauvorschau Orientierung für die Branche bietet. Das Bauzentrum Hannak erweitert seine Präsenz in der Region durch die Eröffnung eines neuen Standorts in Liezen, den es mit einem öffentlichen Open House der Bevölkerung präsentiert.",
+      "summary": "Die steirische Bauwirtschaft bereitet sich 2026 auf dynamische Veränderungen vor, wobei eine umfassende Bauvorschau Orientierung für die Branche bietet. Das Bauzentrum Hannak erweitert seine Präsenz durch die Eröffnung eines neuen Standorts in Liezen, der mit einem Open House der Öffentlichkeit vorgestellt wird.",
       "items": [
         {
           "title": "Steirische Bauvorschau 2026: Orientierung für eine dynamische Branche - wko.at",
