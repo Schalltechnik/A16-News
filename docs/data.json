@@ -1,18 +1,24 @@
 {
-  "generated": "20. June 2026, 06:49 UTC",
+  "generated": "21. June 2026, 07:20 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "In der Steiermark stehen umfangreiche Infrastrukturmaßnahmen an, darunter die Sanierung von fünf Brücken und einer Stützmauer in der Klausen an der B66, die ab Montag mit Wartezeiten verbunden sein wird, sowie ein problematischer ÖBB-Tunnel, der zum Sorgenkind wird. Neben diesen geplanten Bauarbeiten ereignen sich auf Steiermärks Straßen auch Verkehrsunfälle wie ein Schweinetransporter auf der A9 und ein gefährlicher Unfall in einem Tunnel mit einem alkoholisierten Fahrer.",
+      "summary": "In der Steiermark stehen mehrere bedeutende Infrastrukturprojekte an, darunter die Sanierung von fünf Brücken und einer Stützmauer in der Klausen an der B66, wo ab Montag mit Bauarbeiten und Wartezeiten zu rechnen ist. Parallel dazu gibt es Verkehrsstörungen auf der A9 durch Nachtsperren im Plabutschtunnel und einen Tunnelneubau der ÖBB, der sich als Sorgenkind abzeichnet.",
       "items": [
         {
           "title": "Neuer ÖBB-Plan: Ein Tunnel wird zum Sorgenkind in der Steiermark - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcFlXemZybFZtd3NzOGgtaGdkMG5heHVIcHRWYUhuMlVZNWluZlNPcGVlazFBR2tIblFGZ2lSY3RHN3Rsemh1UUhjTW52OG84MjFhcE9MWERhd0FVX3hvT3BnZkN1YThxN1V0amZSY2pkeGk2aVY5QWdKMDk5U1lOSVI0U3JOWVgyYVNTUWRMdjVabEZGZlNnMU9mSGV3U056Y0lKSG9OZ3hoM2R4NHhn?oc=5",
           "source": "5 Minuten",
           "date": "19. Jun 2026"
+        },
+        {
+          "title": "A9: Nachtsperren im Plabutschtunnel - ÖAMTC",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOUNsQjMtMnlwYThrZmZuc3FpNE0yVnU2VHdNSjh6bmxVeENWbUFadHUwcFJoTEVEM3k4VFYyd09JR3hKZk5yV3ZjbUE1azZuTGs3NXlpWWR0dVhra3R3dndHYWJQWm0xbWkwaHExc052S1czVWJGdXZWYXZKN1lYUzZrWDczMzJ1?oc=5",
+          "source": "ÖAMTC",
+          "date": "15. Jun 2026"
         },
         {
           "title": "Steirer mit 1,6 Promille im Tunnel: Frau hatte keine Chance auszuweichen - 5 Minuten",
@@ -50,14 +56,8 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Ich kann diese Aufgabe nicht vollständig erfüllen, da nur zwei Nachrichtentitel vorhanden sind und der erste (Energy Globe STYRIA AWARD 2026) keinen direkten Bezug zu öffentlichem Verkehr, Verkehrsverbund, S-Bahn, Bus oder Bahnausbau zu haben scheint. Der zweite Titel deutet auf Sparmaßnahmen bei der ÖBB hin, die Bahnprojekte in der Steiermark betreffen könnten, aber ohne die vollständigen Artikel kann ich keine prägnante Zusammenfassung erstellen, die den Anforderungen entspricht.",
+      "summary": "Die ÖBB müssen aufgrund von Sparmaßnahmen in Höhe von 1,6 Milliarden Euro mehrere Bahnausbauprojekte zurückfahren oder verschieben. Dies hat erhebliche Auswirkungen auf die geplante Modernisierung und den Ausbau der Bahninfrastruktur in der Steiermark und österreichweit.",
       "items": [
-        {
-          "title": "Landespreis Energy Globe STYRIA AWARD 2026 verliehen - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vYW4tRkVud0k3Y0puWURIa05OcUtXdW5hZ0NRV0g1SFFYNVlRQUR1MmNydExIcnF4RldqWnVyX1NhMFNBVHVndVJRbGE4R2VySk11YWxERlJwY0hOQnROcFdUYTZST0tVcDFoUlVsaw?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "18. Jun 2026"
-        },
         {
           "title": "Es geht um 1,6 Milliarden Euro – Sparkurs bei der ÖBB! Diese Projekte sind nun betroffen - Heute",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNXzY4S3RoSmt1dFMzU3lVXzJfY0RrQUdJSmdON1htNkxIVlViR1dISjd4aE1SQ3BPUXozcEw1aF9tSzJRcFhid0JON0pyZm1ZZXVjUHFoX19GUkl3MDBzVUxfUWhDMkJrTk15S0lxai1zT01aM09ESXR0SGhmYUFsV21mdzFZdm12akl0ZGZORzRjUQ?oc=5",
@@ -70,19 +70,13 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark zeichnet innovative Klimaschutzprojekte mit dem Energy Globe STYRIA AWARD 2026 aus, wobei Leoben mit zwei Siegerprojekten besonders hervortritt. Diese Auszeichnungen würdigen zukunftsweisende Lösungen für nachhaltige Mobilität und Umweltschutz in der Region.",
+      "summary": "Ich kann diese Aufgabe leider nicht erfüllen, da Sie nur einen Nachrichtentitel angegeben haben, der sich zudem nicht auf Verkehrsplanung, Radwege, Fußverkehr, nachhaltige Mobilität oder Verkehrssicherheit bezieht. Der Energy Globe STYRIA AWARD behandelt Energiethemen und nicht Mobilitätsaspekte. Bitte stellen Sie mir mehrere relevante Nachrichtentitel zur Verfügung, damit ich diese wie gewünscht zusammenfassen kann.",
       "items": [
         {
           "title": "Landespreis Energy Globe STYRIA AWARD 2026 verliehen - Land Steiermark News Portal",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vYW4tRkVud0k3Y0puWURIa05OcUtXdW5hZ0NRV0g1SFFYNVlRQUR1MmNydExIcnF4RldqWnVyX1NhMFNBVHVndVJRbGE4R2VySk11YWxERlJwY0hOQnROcFdUYTZST0tVcDFoUlVsaw?oc=5",
           "source": "Land Steiermark News Portal",
           "date": "18. Jun 2026"
-        },
-        {
-          "title": "Klimaschutz-Erfolg: Leobener Innovationskraft holt zwei Siege beim Energy Globe Styria Award - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQajBMS2lDckpQaGdNUGdMbnl1bk9QeHRLU3EzeUYzUW5ZRlBySkRkWVpyZE81Y3VibTFlZzR5ci10VFZFbUs3UVJxcWhYWlg5al9KVmF3RUtrZ2hjTXpGVnhBdG1hX2d3WGJRb3A0WElic2ljbUYyVFFQaGlaaGt3MjdOMHFVdkN4dEt6MHJRYmtMNlZleTdTLVJjTG1PZ0JCak45RGxKT2FpVnpRUThiU2MxNUxUcjBMSkdIc2lJbDZyaG5SYVE?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "15. Jun 2026"
         }
       ]
     },
@@ -90,8 +84,20 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Das Bauzentrum Hannak eröffnet seinen neuen Standort in Liezen und präsentiert sich damit als modernes Kompetenzzentrum für Bau und Handwerk in der Region. Die Eröffnungsveranstaltung mit Open House unterstreicht die Bedeutung des Projekts für die lokale Baukultur und Wirtschaftsentwicklung der Obersteiermark.",
+      "summary": "Die steirische Baufirma Lutterschmied wurde mit dem Landeswappen ausgezeichnet und trägt damit zur hohen Baukultur der Region bei. Parallel dazu finden wichtige Infrastrukturarbeiten wie die Sanierung von fünf Brücken an der B 66 in der Klausen statt, während sich das Bauzentrum Hannak mit einem neuen Standort in Liezen etabliert.",
       "items": [
+        {
+          "title": "Fehringer Baufirma Lutterschmied mit steirischem Landeswappen ausgezeichnet - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UUzdIQkJzTFJQWUItei02QWIxUmlHRmdXTkViSXMxMnJGTWVxV0lEQVN0NkJrektzZmFEMGV0ZXlpV2Fndi1XOGg0alc5SURLa1Rubzd1QndVS2NTOXV5aFZkejhsR2FXaTZKT0FZWQ?oc=5",
+          "source": "Land Steiermark News Portal",
+          "date": "20. Jun 2026"
+        },
+        {
+          "title": "B 66 Baustart: In der Klausen werden fünf Brücken saniert, mit Wartezeiten ist zu rechnen - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcE1VeXd3OFhsUVlMZldSVjZobXJTYmZKRERJdHVHNWhTVkJGWGxxaGozQ1ZOaUhCN0Y0MjgxVzhxMERYRmRNSGd6UUk5cWtHQXdIRjdRcG5vNXd5STJoZXdVenJIU29DV1p2ZzI4MVNDVU1xc3ZrblJ1ZDhyb3FROXY1dW45ZS1mQUJWa09jZjY4QktyUDdmc2FkMWhsZzcwc0lrOHQ0RWd4M3lSWkNOeEdHRDNPZmd3MGlYNTVjUGJfMENFbkQtek1mckNZMjYycXZ1TA?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "19. Jun 2026"
+        },
         {
           "title": "Bauzentrum Hannak: Neuer Standort in Liezen feiert offizielle Eröffnung mit Open House - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYzBIaHc2VVBSTlkxb05wbDZXR2JJODdqU3FSb0pwNk04RmNzMUJRZXR4R3AzLUFQcnBjMkxIckhhUFlYTndBbFBfX2xteF9LQ0VIT2l2YWwtTnZVaDNDenFTYzBha2ZMMmZMRDd6U1hUMWZseVhOR1JmbWdFanhhTC1NeUV0bzFSVkE0NkRKZUsyXzdFVGNrb19JcEVaQ1ZXTWROWVRXZVNZeGVOcDhydDE3RjRJOW0tOTVaeUZOalc?oc=5",
