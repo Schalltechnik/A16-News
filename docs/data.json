@@ -1,12 +1,12 @@
 {
-  "generated": "21. June 2026, 07:20 UTC",
+  "generated": "22. June 2026, 08:44 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "In der Steiermark stehen mehrere bedeutende Infrastrukturprojekte an, darunter die Sanierung von fünf Brücken und einer Stützmauer in der Klausen an der B66, wo ab Montag mit Bauarbeiten und Wartezeiten zu rechnen ist. Parallel dazu gibt es Verkehrsstörungen auf der A9 durch Nachtsperren im Plabutschtunnel und einen Tunnelneubau der ÖBB, der sich als Sorgenkind abzeichnet.",
+      "summary": "Der Plabutschtunnel an der A9 wird erneut gesperrt und erhält umfangreiche Sanierungsarbeiten, während gleichzeitig fünf Brücken und eine Stützmauer in der Steiermark instandgesetzt werden. Neben diesen Infrastrukturmaßnahmen ereigneten sich auf steirischen Straßen mehrere schwere Verkehrsunfälle, darunter tödliche Kollisionen mit Motorradfahrern und ein Schweinetransporter-Unfall auf der A9.",
       "items": [
         {
           "title": "Neuer ÖBB-Plan: Ein Tunnel wird zum Sorgenkind in der Steiermark - 5 Minuten",
@@ -15,22 +15,16 @@
           "date": "19. Jun 2026"
         },
         {
+          "title": "Graz: Plabutschtunnel wird erneut gesperrt, frische Baustellen starten - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTVZxeVRrbnFtUWd4WkR0cmg4OWlQcUJNek1QVkhQWmFaR29Iay03TV92QjhEOGJtUVdfWmY5TDVUQWQ5d2xsbnQzUDVTZmZ6ZV90ajFTcG9lSXE0Q0t6anQtOEhGNUNYTk5tQXhKT0tRQVhKZWxTZDJUSlFIREs1Q1pNXzViQ0VvNXlydm83ZVh1cXpHb295NGVlbWI0UDMxUElsUkNCOE9YdmhjMUE?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "22. Jun 2026"
+        },
+        {
           "title": "A9: Nachtsperren im Plabutschtunnel - ÖAMTC",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOUNsQjMtMnlwYThrZmZuc3FpNE0yVnU2VHdNSjh6bmxVeENWbUFadHUwcFJoTEVEM3k4VFYyd09JR3hKZk5yV3ZjbUE1azZuTGs3NXlpWWR0dVhra3R3dndHYWJQWm0xbWkwaHExc052S1czVWJGdXZWYXZKN1lYUzZrWDczMzJ1?oc=5",
           "source": "ÖAMTC",
           "date": "15. Jun 2026"
-        },
-        {
-          "title": "Steirer mit 1,6 Promille im Tunnel: Frau hatte keine Chance auszuweichen - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUEFIckhybU5sY3BpODB1T1djODl4SjlGdEhNVmEtZU1XT0I4VExCTGtTdmlzUmx5ZVNYTnFVZUYxNDlHenFFN3FaRWdJc1c2cklyY1FhWXFnOV82dTUyVDNCR01KQ01SZkthNk9KOGRFRUtYZUFROEZUUk9ybERMd1A5QU1OMDB5bmhFbzg3Wk9nTlY3LXczWUVKS2VQR2NvMUU3THlXTks1eDY0bXVMd1JSbUkwZw?oc=5",
-          "source": "5 Minuten",
-          "date": "15. Jun 2026"
-        },
-        {
-          "title": "Bauarbeiten auf der B66: Das kommt ab Montag auf dich zu - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbVdacklYV0dSY21UZUI1UDRoOUxFb09zaXRTbU1zMDhRV3JVb1VfelAxdmtxZmgwM2NCXzdjM0gtTjc5VmxLaUpzeWtiU2lHYmtsNDBrdW1RRU5TakF1SVVKb2tBYVdmQmYyYzlUbzlnZUhnRkFjWHhoQVpsdm8zZ0RKa0VzcS1ZMXkybzdpc2U0aVlIRW5EbDdiNGM5Qmh1LW5z?oc=5",
-          "source": "5 Minuten",
-          "date": "19. Jun 2026"
         },
         {
           "title": "Sanierung von fünf Brücken und einer Stützmauer startet - Kleine Zeitung",
@@ -39,10 +33,22 @@
           "date": "20. Jun 2026"
         },
         {
-          "title": "B 66 Baustart: In der Klausen werden fünf Brücken saniert, mit Wartezeiten ist zu rechnen - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcE1VeXd3OFhsUVlMZldSVjZobXJTYmZKRERJdHVHNWhTVkJGWGxxaGozQ1ZOaUhCN0Y0MjgxVzhxMERYRmRNSGd6UUk5cWtHQXdIRjdRcG5vNXd5STJoZXdVenJIU29DV1p2ZzI4MVNDVU1xc3ZrblJ1ZDhyb3FROXY1dW45ZS1mQUJWa09jZjY4QktyUDdmc2FkMWhsZzcwc0lrOHQ0RWd4M3lSWkNOeEdHRDNPZmd3MGlYNTVjUGJfMENFbkQtek1mckNZMjYycXZ1TA?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "19. Jun 2026"
+          "title": "Tragischer Unfall: Zwei Motorradfahrer sterben nach heftiger Kollision mit Pkw - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRW1kZ2M5QkNzdURRUGJ5cVA3U1g1RjNZNV9KUWZGMVZ3QWRRWVFQTThQaVFHdUVqc3l2SUZQUkt3ZzVIYk5zaDZyQ3p5ZXNIaXphM2VqV1F6QUxZZmstQVNablNiMGVUWVZwR29SU3kzUVNQeFZuQy16bWJ3VlZLbEJNZVRmakNjSzB1dWp2Sko1OTFtRS0xT1UzbGM2bjVDZ1RqZUxVcm1ZbkRjdjJQUUxtS3RkUXZWck5vVF9ZUG8?oc=5",
+          "source": "5 Minuten",
+          "date": "21. Jun 2026"
+        },
+        {
+          "title": "Pkw stieß mit Motorrad zusammen: Zwei Biker kamen ums Leben - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZHNGeFdEUHFuZXZfNjN0QWRTMEkyYWgzRWNuOFNZQm80bGJSREEyYmhqQThmU1luN3Z4SHdNMjY4eWhWYmlWeE9xczdVWG1vRDhLNzFjTmVBZ1IyWTZEaVYtdWYyTndvdnQzLVVCTkVsSDhOWG5xdTZ5MzRBSlFZOTNrd1RIWmJZYzhncjBLUE90bDQzUW1iZjZneURFelVJaDNtTnYyMk8?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "21. Jun 2026"
+        },
+        {
+          "title": "Zwei Biker sterben bei Unfall - oe24.at",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nNzU5Z3dZYlQ0TVZVNDVmclc1blZrVU1FN2tPbWY4b1pHUmRZaDJKU0ZDNkdiVHF3WjlDUmRQUHZra0JBa2Vha0JaTi1QMnZTcUVKMkd6ZEtsU3lfaGFhcHlnOWJ2YTJFZGs3NTNR0gFzQVVfeXFMUF85WFBPMXh0RUNvckwxS0dGTXI4b3Vlb1k1ajNLeEZNYXFXYlppVmVTYzNkNkpXZnRUZE9MaE1RYVByNVRkRUs5Nmg1MU90d0dMUnNkYkZhdWdVYTlKY3A3azNVWnBJdi1HSWdaRW9EclUxZw?oc=5",
+          "source": "oe24.at",
+          "date": "21. Jun 2026"
         },
         {
           "title": "Schweinetransporter auf A9 umgekippt - steiermark.ORF.at",
@@ -56,8 +62,14 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die ÖBB müssen aufgrund von Sparmaßnahmen in Höhe von 1,6 Milliarden Euro mehrere Bahnausbauprojekte zurückfahren oder verschieben. Dies hat erhebliche Auswirkungen auf die geplante Modernisierung und den Ausbau der Bahninfrastruktur in der Steiermark und österreichweit.",
+      "summary": "Die Steiermark setzt auf attraktive Wochenendangebote mit Bus und Bahn, um Bürger ins Grüne zu locken. Allerdings gefährdet ein Sparkurs der ÖBB im Umfang von 1,6 Milliarden Euro wichtige Bahnausbauprojekte in der Region.",
       "items": [
+        {
+          "title": "Raus ins Grüne : Am Wochenende unterwegs mit Bus und Bahn - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZjNJeG5CSW12Sk1jbV8xVEZ1Q2Y0Q0dWVUQ0Rmx5RDhzQVdBTHF5cUkxbVhScVBTZ3RPX2QtNndrd0RCVkI2YWloVlF3UkJNRXVsdlpiNEQ3MmZrdGlpZHJucER5aXByY0oyblVvVHpiSUVHUlVnWUFZR1g2MUlLQ1d6TGx6VmoyNmZaOHp3dw?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "22. Jun 2026"
+        },
         {
           "title": "Es geht um 1,6 Milliarden Euro – Sparkurs bei der ÖBB! Diese Projekte sind nun betroffen - Heute",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNXzY4S3RoSmt1dFMzU3lVXzJfY0RrQUdJSmdON1htNkxIVlViR1dISjd4aE1SQ3BPUXozcEw1aF9tSzJRcFhid0JON0pyZm1ZZXVjUHFoX19GUkl3MDBzVUxfUWhDMkJrTk15S0lxai1zT01aM09ESXR0SGhmYUFsV21mdzFZdm12akl0ZGZORzRjUQ?oc=5",
@@ -70,7 +82,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Ich kann diese Aufgabe leider nicht erfüllen, da Sie nur einen Nachrichtentitel angegeben haben, der sich zudem nicht auf Verkehrsplanung, Radwege, Fußverkehr, nachhaltige Mobilität oder Verkehrssicherheit bezieht. Der Energy Globe STYRIA AWARD behandelt Energiethemen und nicht Mobilitätsaspekte. Bitte stellen Sie mir mehrere relevante Nachrichtentitel zur Verfügung, damit ich diese wie gewünscht zusammenfassen kann.",
+      "summary": "Ich kann die angeforderte Zusammenfassung leider nicht erstellen, da Sie nur einen Nachrichtentitel bereitgestellt haben, der sich zudem nicht auf Verkehrsplanung, Radwege, Fußverkehr, nachhaltige Mobilität oder Verkehrssicherheit bezieht. Der Energy Globe STYRIA AWARD behandelt Nachhaltigkeitsthemen im allgemeinen Sinne, nicht spezifisch Mobilität und Verkehr. Bitte stellen Sie mehrere relevante Nachrichtentitel zur Verfügung, damit ich eine aussagekräftige Zusammenfassung erstellen kann.",
       "items": [
         {
           "title": "Landespreis Energy Globe STYRIA AWARD 2026 verliehen - Land Steiermark News Portal",
@@ -84,7 +96,7 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die steirische Baufirma Lutterschmied wurde mit dem Landeswappen ausgezeichnet und trägt damit zur hohen Baukultur der Region bei. Parallel dazu finden wichtige Infrastrukturarbeiten wie die Sanierung von fünf Brücken an der B 66 in der Klausen statt, während sich das Bauzentrum Hannak mit einem neuen Standort in Liezen etabliert.",
+      "summary": "Die steirische Baufirma Lutterschmied aus Fehring wurde mit dem steirischen Landeswappen für ihre Leistungen ausgezeichnet. An der B 66 in der Klausen beginnen umfangreiche Sanierungsarbeiten an fünf Brücken, die zu Wartezeiten führen werden.",
       "items": [
         {
           "title": "Fehringer Baufirma Lutterschmied mit steirischem Landeswappen ausgezeichnet - Land Steiermark News Portal",
@@ -97,12 +109,6 @@
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcE1VeXd3OFhsUVlMZldSVjZobXJTYmZKRERJdHVHNWhTVkJGWGxxaGozQ1ZOaUhCN0Y0MjgxVzhxMERYRmRNSGd6UUk5cWtHQXdIRjdRcG5vNXd5STJoZXdVenJIU29DV1p2ZzI4MVNDVU1xc3ZrblJ1ZDhyb3FROXY1dW45ZS1mQUJWa09jZjY4QktyUDdmc2FkMWhsZzcwc0lrOHQ0RWd4M3lSWkNOeEdHRDNPZmd3MGlYNTVjUGJfMENFbkQtek1mckNZMjYycXZ1TA?oc=5",
           "source": "MeinBezirk.at",
           "date": "19. Jun 2026"
-        },
-        {
-          "title": "Bauzentrum Hannak: Neuer Standort in Liezen feiert offizielle Eröffnung mit Open House - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYzBIaHc2VVBSTlkxb05wbDZXR2JJODdqU3FSb0pwNk04RmNzMUJRZXR4R3AzLUFQcnBjMkxIckhhUFlYTndBbFBfX2xteF9LQ0VIT2l2YWwtTnZVaDNDenFTYzBha2ZMMmZMRDd6U1hUMWZseVhOR1JmbWdFanhhTC1NeUV0bzFSVkE0NkRKZUsyXzdFVGNrb19JcEVaQ1ZXTWROWVRXZVNZeGVOcDhydDE3RjRJOW0tOTVaeUZOalc?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "16. Jun 2026"
         }
       ]
     },
