@@ -1,12 +1,12 @@
 {
-  "generated": "23. June 2026, 06:34 UTC",
+  "generated": "24. June 2026, 06:32 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "In der Steiermark stehen mehrere Infrastrukturprojekte an, darunter die erneute Sperrung des Plabutschtunnels in Graz sowie umfangreiche Sanierungsarbeiten an fünf Brücken und einer Stützmauer, während ein neuer ÖBB-Tunnel zum Problemfall wird. Daneben ereigneten sich auf steirischen Straßen mehrere schwere Verkehrsunfälle, darunter tödliche Kollisionen mit Motorradfahrern und ein Schweinetransporter-Unfall auf der A9.",
+      "summary": "In der Steiermark stehen mehrere Infrastrukturprojekte an, darunter die erneute Sperrung des Plabutschtunnels in Graz sowie umfangreiche Sanierungsarbeiten an fünf Brücken und einer Stützmauer, während gleichzeitig ein ÖBB-Tunnelprojekt zum Problemfall wird. Daneben ereigneten sich auf steirischen Straßen mehrere schwere Verkehrsunfälle, darunter tödliche Kollisionen zwischen Motorrädern und Pkw sowie ein Schweinetransporter-Unfall auf der A9.",
       "items": [
         {
           "title": "Neuer ÖBB-Plan: Ein Tunnel wird zum Sorgenkind in der Steiermark - 5 Minuten",
@@ -56,7 +56,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Steiermark bietet mit Bus und Bahn attraktive Möglichkeiten für Wochenendausflüge ins Grüne, doch die ÖBB muss aufgrund von Sparmaßnahmen in Höhe von 1,6 Milliarden Euro mehrere geplante Bahnausbauprojekte streichen oder verschieben. Dies könnte die Entwicklung des öffentlichen Verkehrsnetzes in der Region erheblich beeinträchtigen.",
+      "summary": "Die Steiermark bietet mit Bus und Bahn attraktive Möglichkeiten für Wochenendausflüge ins Grüne, doch die ÖBB muss aufgrund von Sparmaßnahmen in Höhe von 1,6 Milliarden Euro mehrere Bahnausbauprojekte zurückfahren oder streichen. Dies könnte die geplante Modernisierung und Erweiterung der öffentlichen Verkehrsinfrastruktur in der Region erheblich beeinträchtigen.",
       "items": [
         {
           "title": "Raus ins Grüne : Am Wochenende unterwegs mit Bus und Bahn - Kleine Zeitung",
@@ -76,19 +76,13 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark setzt verstärkt auf Umweltbewusstsein und Nachhaltigkeit, wie die Verleihung des Energy Globe STYRIA AWARD 2026 und die erstmalige Zertifizierung der Polytechnischen Schule Birkfeld mit dem Umweltzeichen zeigen. Diese Initiativen fördern die Sensibilisierung für nachhaltige Mobilität und Verkehrssicherheit bereits in Bildungseinrichtungen und unterstützen damit langfristig die Verkehrsplanung in der Region.",
+      "summary": "Ich kann die Zusammenfassung leider nicht wie gewünscht durchführen, da Sie nur einen Nachrichtentitel bereitgestellt haben, der sich zudem auf einen Umweltpreis bezieht und nicht direkt auf Verkehrsplanung, Radwege, Fußverkehr oder Verkehrssicherheit abzielt. Um zwei prägnante Sätze zu den genannten Mobilitätsthemen zu verfassen, benötige ich mehrere relevante Nachrichtentitel aus den Bereichen Verkehr und Mobilität in der Steiermark.",
       "items": [
         {
           "title": "Landespreis Energy Globe STYRIA AWARD 2026 verliehen - Land Steiermark News Portal",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vYW4tRkVud0k3Y0puWURIa05OcUtXdW5hZ0NRV0g1SFFYNVlRQUR1MmNydExIcnF4RldqWnVyX1NhMFNBVHVndVJRbGE4R2VySk11YWxERlJwY0hOQnROcFdUYTZST0tVcDFoUlVsaw?oc=5",
           "source": "Land Steiermark News Portal",
           "date": "18. Jun 2026"
-        },
-        {
-          "title": "Birkfeld: Polytechnische Schule erhält zum ersten Mal das Umweltzeichen - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYkphZExNbEZVSXpSMWF3dzlvaGRHRDRmUE56aXVmd3B0dVFiOTF6X3VBelBuSVE3MFZSbHpZQ2JuSV9iVnFsQVNBQVVKWGdQSzBBYmRyYUtxRUZudFVBdGVSUkFIUHhORG9WT2FoUHRQUURfanJzLUxlSEJxUmlfbkFiWkFWZHE4bnFibEwxcTF5RnF5SXZJaTN2UmZiT09rbVVyamlyWHpNRlo5bnRibnV3?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "22. Jun 2026"
         }
       ]
     },
@@ -99,10 +93,10 @@
       "summary": "Die steirische Baufirma Lutterschmied aus Fehring wurde mit dem steirischen Landeswappen für ihre Leistungen ausgezeichnet. An der B 66 in der Klausen beginnen umfangreiche Sanierungsarbeiten an fünf Brücken, die zu Wartezeiten im Verkehr führen werden.",
       "items": [
         {
-          "title": "Fehringer Baufirma Lutterschmied mit steirischem Landeswappen ausgezeichnet - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UUzdIQkJzTFJQWUItei02QWIxUmlHRmdXTkViSXMxMnJGTWVxV0lEQVN0NkJrektzZmFEMGV0ZXlpV2Fndi1XOGg0alc5SURLa1Rubzd1QndVS2NTOXV5aFZkejhsR2FXaTZKT0FZWQ?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "20. Jun 2026"
+          "title": "Fehringer Baufirma Lutterschmied mit steirischem Landeswappen ausgezeichnet - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zSm1wZWtieTU4OEYwLW1uYlBOSW9mN2kxZnpEUzhXeFoxaVRoWTd3b0cwZzRvRlJNYmtfM09CNVEwNjBGMmZUX3d1ZElDaWlFTjlIakFmYS1LOUlLLW9xckJQTXZTMjI4WXdEOTJmdW01blFNUFVkRg?oc=5",
+          "source": "Kommunikation - Land Steiermark",
+          "date": "21. Jun 2026"
         },
         {
           "title": "B 66 Baustart: In der Klausen werden fünf Brücken saniert, mit Wartezeiten ist zu rechnen - MeinBezirk.at",
