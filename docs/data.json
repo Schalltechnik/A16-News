@@ -1,12 +1,12 @@
 {
-  "generated": "24. June 2026, 06:32 UTC",
+  "generated": "25. June 2026, 06:35 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "In der Steiermark stehen mehrere Infrastrukturprojekte an, darunter die erneute Sperrung des Plabutschtunnels in Graz sowie umfangreiche Sanierungsarbeiten an fünf Brücken und einer Stützmauer, während gleichzeitig ein ÖBB-Tunnelprojekt zum Problemfall wird. Daneben ereigneten sich auf steirischen Straßen mehrere schwere Verkehrsunfälle, darunter tödliche Kollisionen zwischen Motorrädern und Pkw sowie ein Schweinetransporter-Unfall auf der A9.",
+      "summary": "In der Steiermark stehen mehrere Infrastrukturprojekte an, darunter die erneute Sperrung des Plabutschtunnels in Graz sowie umfangreiche Sanierungsarbeiten an fünf Brücken und einer Stützmauer, während ein neuer ÖBB-Tunnel zum Sorgenkind wird. Daneben ereigneten sich auf steirischen Straßen mehrere schwere Unfälle, darunter tödliche Kollisionen zwischen Motorrädern und Pkw sowie ein Schweinetransporter-Unfall auf der A9.",
       "items": [
         {
           "title": "Neuer ÖBB-Plan: Ein Tunnel wird zum Sorgenkind in der Steiermark - 5 Minuten",
@@ -56,19 +56,19 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Steiermark bietet mit Bus und Bahn attraktive Möglichkeiten für Wochenendausflüge ins Grüne, doch die ÖBB muss aufgrund von Sparmaßnahmen in Höhe von 1,6 Milliarden Euro mehrere Bahnausbauprojekte zurückfahren oder streichen. Dies könnte die geplante Modernisierung und Erweiterung der öffentlichen Verkehrsinfrastruktur in der Region erheblich beeinträchtigen.",
+      "summary": "Das Regiobus-Netz im Bezirk Weiz wird ausgebaut und bietet den Fahrgästen verbesserte Verbindungen und neue Angebote. Mit Bus und Bahn können Steirerinnen und Steirer an den Wochenenden komfortabel ins Grüne fahren.",
       "items": [
+        {
+          "title": "Öffentlicher Verkehr im Bezirk Weiz: Regiobus-Netz wird noch besser und bietet viel Neues - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVmNsQ3dnQzgwel9vX0kyelhMOTN0Yk1WVUFXRExZUnVwVkNtZHJkdVIxQWhKQVJLOWlteGtnSjBtSmhnNUdGSXBhSXQwQzh1clZVUVltVGM1RlZXeUMyMWpESnZ1cU1xYjJ3dTQwSWJ0dzR5NGhSb0EwZGN3Y05jZHF0TlFfUlVKMERrdGItSENaNlBKTGN4NTV3azBzdU1Jd2tLcA?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "24. Jun 2026"
+        },
         {
           "title": "Raus ins Grüne : Am Wochenende unterwegs mit Bus und Bahn - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZjNJeG5CSW12Sk1jbV8xVEZ1Q2Y0Q0dWVUQ0Rmx5RDhzQVdBTHF5cUkxbVhScVBTZ3RPX2QtNndrd0RCVkI2YWloVlF3UkJNRXVsdlpiNEQ3MmZrdGlpZHJucER5aXByY0oyblVvVHpiSUVHUlVnWUFZR1g2MUlLQ1d6TGx6VmoyNmZaOHp3dw?oc=5",
           "source": "Kleine Zeitung",
           "date": "22. Jun 2026"
-        },
-        {
-          "title": "Es geht um 1,6 Milliarden Euro – Sparkurs bei der ÖBB! Diese Projekte sind nun betroffen - Heute",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNXzY4S3RoSmt1dFMzU3lVXzJfY0RrQUdJSmdON1htNkxIVlViR1dISjd4aE1SQ3BPUXozcEw1aF9tSzJRcFhid0JON0pyZm1ZZXVjUHFoX19GUkl3MDBzVUxfUWhDMkJrTk15S0lxai1zT01aM09ESXR0SGhmYUFsV21mdzFZdm12akl0ZGZORzRjUQ?oc=5",
-          "source": "Heute",
-          "date": "17. Jun 2026"
         }
       ]
     },
@@ -76,8 +76,14 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Ich kann die Zusammenfassung leider nicht wie gewünscht durchführen, da Sie nur einen Nachrichtentitel bereitgestellt haben, der sich zudem auf einen Umweltpreis bezieht und nicht direkt auf Verkehrsplanung, Radwege, Fußverkehr oder Verkehrssicherheit abzielt. Um zwei prägnante Sätze zu den genannten Mobilitätsthemen zu verfassen, benötige ich mehrere relevante Nachrichtentitel aus den Bereichen Verkehr und Mobilität in der Steiermark.",
+      "summary": "Der Öffentliche Verkehr im Bezirk Weiz wird durch ein verbessertes Regiobus-Netz gestärkt und bietet Fahrgästen neue Leistungen. Die Steiermark würdigt mit dem Energy Globe STYRIA AWARD 2026 Projekte, die nachhaltige Mobilität und Energieeffizienz voranbringen.",
       "items": [
+        {
+          "title": "Öffentlicher Verkehr im Bezirk Weiz: Regiobus-Netz wird noch besser und bietet viel Neues - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVmNsQ3dnQzgwel9vX0kyelhMOTN0Yk1WVUFXRExZUnVwVkNtZHJkdVIxQWhKQVJLOWlteGtnSjBtSmhnNUdGSXBhSXQwQzh1clZVUVltVGM1RlZXeUMyMWpESnZ1cU1xYjJ3dTQwSWJ0dzR5NGhSb0EwZGN3Y05jZHF0TlFfUlVKMERrdGItSENaNlBKTGN4NTV3azBzdU1Jd2tLcA?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "24. Jun 2026"
+        },
         {
           "title": "Landespreis Energy Globe STYRIA AWARD 2026 verliehen - Land Steiermark News Portal",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vYW4tRkVud0k3Y0puWURIa05OcUtXdW5hZ0NRV0g1SFFYNVlRQUR1MmNydExIcnF4RldqWnVyX1NhMFNBVHVndVJRbGE4R2VySk11YWxERlJwY0hOQnROcFdUYTZST0tVcDFoUlVsaw?oc=5",
@@ -90,19 +96,13 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die steirische Baufirma Lutterschmied aus Fehring wurde mit dem steirischen Landeswappen für ihre Leistungen ausgezeichnet. An der B 66 in der Klausen beginnen umfangreiche Sanierungsarbeiten an fünf Brücken, die zu Wartezeiten im Verkehr führen werden.",
+      "summary": "Die Fehringer Baufirma Lutterschmied wurde mit dem steirischen Landeswappen ausgezeichnet und erhält damit eine bedeutende Anerkennung für ihre Leistungen im Bauwesen. Diese Ehrung würdigt das Engagement des Unternehmens für qualitätsvolle Baukultur und Handwerksexzellenz in der Steiermark.",
       "items": [
         {
           "title": "Fehringer Baufirma Lutterschmied mit steirischem Landeswappen ausgezeichnet - Kommunikation - Land Steiermark",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zSm1wZWtieTU4OEYwLW1uYlBOSW9mN2kxZnpEUzhXeFoxaVRoWTd3b0cwZzRvRlJNYmtfM09CNVEwNjBGMmZUX3d1ZElDaWlFTjlIakFmYS1LOUlLLW9xckJQTXZTMjI4WXdEOTJmdW01blFNUFVkRg?oc=5",
           "source": "Kommunikation - Land Steiermark",
           "date": "21. Jun 2026"
-        },
-        {
-          "title": "B 66 Baustart: In der Klausen werden fünf Brücken saniert, mit Wartezeiten ist zu rechnen - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcE1VeXd3OFhsUVlMZldSVjZobXJTYmZKRERJdHVHNWhTVkJGWGxxaGozQ1ZOaUhCN0Y0MjgxVzhxMERYRmRNSGd6UUk5cWtHQXdIRjdRcG5vNXd5STJoZXdVenJIU29DV1p2ZzI4MVNDVU1xc3ZrblJ1ZDhyb3FROXY1dW45ZS1mQUJWa09jZjY4QktyUDdmc2FkMWhsZzcwc0lrOHQ0RWd4M3lSWkNOeEdHRDNPZmd3MGlYNTVjUGJfMENFbkQtek1mckNZMjYycXZ1TA?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "19. Jun 2026"
         }
       ]
     },
