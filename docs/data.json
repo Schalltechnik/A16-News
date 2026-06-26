@@ -1,13 +1,19 @@
 {
-  "generated": "25. June 2026, 06:35 UTC",
+  "generated": "26. June 2026, 06:39 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "In der Steiermark stehen mehrere Infrastrukturprojekte an, darunter die erneute Sperrung des Plabutschtunnels in Graz sowie umfangreiche Sanierungsarbeiten an fünf Brücken und einer Stützmauer, während ein neuer ÖBB-Tunnel zum Sorgenkind wird. Daneben ereigneten sich auf steirischen Straßen mehrere schwere Unfälle, darunter tödliche Kollisionen zwischen Motorrädern und Pkw sowie ein Schweinetransporter-Unfall auf der A9.",
+      "summary": "Die Steiermark investiert knapp 13 Millionen Euro in die Instandhaltung und Sanierung ihres Straßennetzes, wobei mehrere Brücken und Stützmauern erneuert werden und der Plabutschtunnel in Graz erneut gesperrt wird. Ein geplanter ÖBB-Tunnel entwickelt sich zum Sorgenkind des Infrastrukturprojekts in der Region.",
       "items": [
+        {
+          "title": "Knapp 13 Mio. Euro für steirisches Straßennetz - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQVVRHWFNMQTRqM1cxMnU2QnFwQXByQkFyZ3IyZVVBQjFlMkZaalozemp6ZW1qUGM3VEphLTdkYVJhcnlOUnRBWFdaN2laUlRPRnBZUg?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "25. Jun 2026"
+        },
         {
           "title": "Neuer ÖBB-Plan: Ein Tunnel wird zum Sorgenkind in der Steiermark - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcFlXemZybFZtd3NzOGgtaGdkMG5heHVIcHRWYUhuMlVZNWluZlNPcGVlazFBR2tIblFGZ2lSY3RHN3Rsemh1UUhjTW52OG84MjFhcE9MWERhd0FVX3hvT3BnZkN1YThxN1V0amZSY2pkeGk2aVY5QWdKMDk5U1lOSVI0U3JOWVgyYVNTUWRMdjVabEZGZlNnMU9mSGV3U056Y0lKSG9OZ3hoM2R4NHhn?oc=5",
@@ -43,12 +49,6 @@
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nNzU5Z3dZYlQ0TVZVNDVmclc1blZrVU1FN2tPbWY4b1pHUmRZaDJKU0ZDNkdiVHF3WjlDUmRQUHZra0JBa2Vha0JaTi1QMnZTcUVKMkd6ZEtsU3lfaGFhcHlnOWJ2YTJFZGs3NTNR0gFzQVVfeXFMUF85WFBPMXh0RUNvckwxS0dGTXI4b3Vlb1k1ajNLeEZNYXFXYlppVmVTYzNkNkpXZnRUZE9MaE1RYVByNVRkRUs5Nmg1MU90d0dMUnNkYkZhdWdVYTlKY3A3azNVWnBJdi1HSWdaRW9EclUxZw?oc=5",
           "source": "oe24.at",
           "date": "21. Jun 2026"
-        },
-        {
-          "title": "Schweinetransporter auf A9 umgekippt - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PM1ZpR016bk5GY29ObVdrNUZ5R3A0TzgzakdQenUwNTJyVzdnVmo0Y1BPODdQTzJqQ25OemF0RTExM0pUaEd0czM0OUpKeHFXN2dydQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "18. Jun 2026"
         }
       ]
     },
@@ -56,11 +56,11 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Das Regiobus-Netz im Bezirk Weiz wird ausgebaut und bietet den Fahrgästen verbesserte Verbindungen und neue Angebote. Mit Bus und Bahn können Steirerinnen und Steirer an den Wochenenden komfortabel ins Grüne fahren.",
+      "summary": "Das Regiobus-Netz im Bezirk Weiz wird ausgebaut und bietet den Fahrgästen verbesserte Verbindungen und neue Angebote. Mit Bus und Bahn können Steirerinnen und Steirer am Wochenende komfortabel ins Grüne fahren.",
       "items": [
         {
           "title": "Öffentlicher Verkehr im Bezirk Weiz: Regiobus-Netz wird noch besser und bietet viel Neues - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVmNsQ3dnQzgwel9vX0kyelhMOTN0Yk1WVUFXRExZUnVwVkNtZHJkdVIxQWhKQVJLOWlteGtnSjBtSmhnNUdGSXBhSXQwQzh1clZVUVltVGM1RlZXeUMyMWpESnZ1cU1xYjJ3dTQwSWJ0dzR5NGhSb0EwZGN3Y05jZHF0TlFfUlVKMERrdGItSENaNlBKTGN4NTV3azBzdU1Jd2tLcA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV3BvTUdKclpqNWhvSm0tRElmbUhBYlc4S05Vc0pqbmpuS1dSUTVkWGhEWE5vRDRJb1hkNEpkQmdWUWw0YkJ5Y2NHVFRxbkFSTU9GOERpUW0yUTdWZ0EyYnh6Y3A1RDE3TjdqTWM1d0hFQVplSm9vLXZuRFV0UDlicElMR0dFMUxOdkhXOUhiYW5MRm1fLURqUEdZbnpJVHVaX2RRVW00b0dnZ1I5ZjZwV210SQ?oc=5",
           "source": "MeinBezirk.at",
           "date": "24. Jun 2026"
         },
@@ -76,19 +76,13 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Der Öffentliche Verkehr im Bezirk Weiz wird durch ein verbessertes Regiobus-Netz gestärkt und bietet Fahrgästen neue Leistungen. Die Steiermark würdigt mit dem Energy Globe STYRIA AWARD 2026 Projekte, die nachhaltige Mobilität und Energieeffizienz voranbringen.",
+      "summary": "Das Regiobus-Netz im Bezirk Weiz wird ausgebaut und modernisiert, um die Qualität des öffentlichen Verkehrs zu verbessern und Fahrgästen neue Angebote bereitzustellen. Diese Verbesserungen tragen zu einer nachhaltigen Mobilitätsentwicklung in der Region bei und sollen mehr Menschen zum Umstieg auf öffentliche Verkehrsmittel bewegen.",
       "items": [
         {
           "title": "Öffentlicher Verkehr im Bezirk Weiz: Regiobus-Netz wird noch besser und bietet viel Neues - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVmNsQ3dnQzgwel9vX0kyelhMOTN0Yk1WVUFXRExZUnVwVkNtZHJkdVIxQWhKQVJLOWlteGtnSjBtSmhnNUdGSXBhSXQwQzh1clZVUVltVGM1RlZXeUMyMWpESnZ1cU1xYjJ3dTQwSWJ0dzR5NGhSb0EwZGN3Y05jZHF0TlFfUlVKMERrdGItSENaNlBKTGN4NTV3azBzdU1Jd2tLcA?oc=5",
           "source": "MeinBezirk.at",
           "date": "24. Jun 2026"
-        },
-        {
-          "title": "Landespreis Energy Globe STYRIA AWARD 2026 verliehen - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vYW4tRkVud0k3Y0puWURIa05OcUtXdW5hZ0NRV0g1SFFYNVlRQUR1MmNydExIcnF4RldqWnVyX1NhMFNBVHVndVJRbGE4R2VySk11YWxERlJwY0hOQnROcFdUYTZST0tVcDFoUlVsaw?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "18. Jun 2026"
         }
       ]
     },
@@ -96,13 +90,25 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Fehringer Baufirma Lutterschmied wurde mit dem steirischen Landeswappen ausgezeichnet und erhält damit eine bedeutende Anerkennung für ihre Leistungen im Bauwesen. Diese Ehrung würdigt das Engagement des Unternehmens für qualitätsvolle Baukultur und Handwerksexzellenz in der Steiermark.",
+      "summary": "Die steirische Baufirma Lutterschmied wurde für ihre Leistungen mit dem Landeswappen ausgezeichnet, während das Land Steiermark knapp 13 Millionen Euro in die Sanierung des Straßennetzes investiert. Ein Schwerpunkt liegt dabei auf der B 66 in der Klausen, wo der Baubeginn mit der Sanierung von fünf Brücken ansteht und Verkehrsbeeinträchtigungen zu erwarten sind.",
       "items": [
         {
           "title": "Fehringer Baufirma Lutterschmied mit steirischem Landeswappen ausgezeichnet - Kommunikation - Land Steiermark",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zSm1wZWtieTU4OEYwLW1uYlBOSW9mN2kxZnpEUzhXeFoxaVRoWTd3b0cwZzRvRlJNYmtfM09CNVEwNjBGMmZUX3d1ZElDaWlFTjlIakFmYS1LOUlLLW9xckJQTXZTMjI4WXdEOTJmdW01blFNUFVkRg?oc=5",
           "source": "Kommunikation - Land Steiermark",
           "date": "21. Jun 2026"
+        },
+        {
+          "title": "Knapp 13 Mio. Euro für steirisches Straßennetz - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQVVRHWFNMQTRqM1cxMnU2QnFwQXByQkFyZ3IyZVVBQjFlMkZaalozemp6ZW1qUGM3VEphLTdkYVJhcnlOUnRBWFdaN2laUlRPRnBZUg?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "25. Jun 2026"
+        },
+        {
+          "title": "B 66 Baustart: In der Klausen werden fünf Brücken saniert, mit Wartezeiten ist zu rechnen - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcE1VeXd3OFhsUVlMZldSVjZobXJTYmZKRERJdHVHNWhTVkJGWGxxaGozQ1ZOaUhCN0Y0MjgxVzhxMERYRmRNSGd6UUk5cWtHQXdIRjdRcG5vNXd5STJoZXdVenJIU29DV1p2ZzI4MVNDVU1xc3ZrblJ1ZDhyb3FROXY1dW45ZS1mQUJWa09jZjY4QktyUDdmc2FkMWhsZzcwc0lrOHQ0RWd4M3lSWkNOeEdHRDNPZmd3MGlYNTVjUGJfMENFbkQtek1mckNZMjYycXZ1TA?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "19. Jun 2026"
         }
       ]
     },
@@ -110,8 +116,21 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Sarah Kastner übernimmt als jüngste Bezirkshauptfrau der Steiermark im Oktober die Leitung der Bezirkshauptmannschaft Bruck-Mürzzuschlag, die auch für Verkehrsangelegenheiten und behördliche Verfahren in diesem Bezirk zuständig ist. Mit ihrer Ernennung wird die Führungsposition in einem wichtigen steirischen Verwaltungsbezirk neu besetzt, der für die Abwicklung von Verkehrsgenehmigungen und behördlichen Verfahren verantwortlich ist.",
+      "items": [
+        {
+          "title": "Sarah Kastner wird neue Bezirkshauptfrau von Bruck-Mürzzuschlag - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sZmY5Z0pyeGo0ZHdTajVBd29CdlNXaXhZVmNlbWlkc25yUEI0T000d29VdTNIeWR6aFVvTkIwbmhwZ3B2bXktRkxqQU5FTjNFeWl1QTNhUWVQWFdGZ3Nvc1BUbFhLZ0MxdzlhVUZNSGNYNUd0TWxr?oc=5",
+          "source": "Kommunikation - Land Steiermark",
+          "date": "25. Jun 2026"
+        },
+        {
+          "title": "Jüngste Bezirkshauptfrau der Steiermark tritt im Oktober ihren Dienst an - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbkRqaVZvNVR6OVVfQ25YNzFrSlZhY3QyM3RxS3UzWW4yZDBwSDNtZU11UXRCOFdaM2RQR1FHRFhFVmNGQ1Z2X3FESTFDeXFjNmdCSlY1RFhCOHB3ZzF5clFIOThpbXhmMlgwQS15ajl5YTM5aHBZSWphZ0p6REpuYXZNdncxVFhFQk1ZQ0l2enJSVzFnTDlvRVFSMkczRFJybFNoNUlhR2s3V3lYZ3Vnak5DV0pqcmM?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "25. Jun 2026"
+        }
+      ]
     }
   }
 }
