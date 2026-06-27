@@ -1,12 +1,12 @@
 {
-  "generated": "26. June 2026, 06:39 UTC",
+  "generated": "27. June 2026, 06:17 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die Steiermark investiert knapp 13 Millionen Euro in die Instandhaltung und Sanierung ihres Straßennetzes, wobei mehrere Brücken und Stützmauern erneuert werden und der Plabutschtunnel in Graz erneut gesperrt wird. Ein geplanter ÖBB-Tunnel entwickelt sich zum Sorgenkind des Infrastrukturprojekts in der Region.",
+      "summary": "Die Steiermark investiert knapp 13 Millionen Euro in die Instandhaltung und Verbesserung ihres Straßennetzes, während gleichzeitig der Grazer Plabutschtunnel erneut für Sanierungsarbeiten gesperrt wird. Mehrere schwere Verkehrsunfälle mit tödlichen Ausgängen unterstreichen die Bedeutung von sicherer Infrastruktur und Verkehrssicherheit auf steirischen Straßen.",
       "items": [
         {
           "title": "Knapp 13 Mio. Euro für steirisches Straßennetz - steiermark.ORF.at",
@@ -15,22 +15,10 @@
           "date": "25. Jun 2026"
         },
         {
-          "title": "Neuer ÖBB-Plan: Ein Tunnel wird zum Sorgenkind in der Steiermark - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcFlXemZybFZtd3NzOGgtaGdkMG5heHVIcHRWYUhuMlVZNWluZlNPcGVlazFBR2tIblFGZ2lSY3RHN3Rsemh1UUhjTW52OG84MjFhcE9MWERhd0FVX3hvT3BnZkN1YThxN1V0amZSY2pkeGk2aVY5QWdKMDk5U1lOSVI0U3JOWVgyYVNTUWRMdjVabEZGZlNnMU9mSGV3U056Y0lKSG9OZ3hoM2R4NHhn?oc=5",
-          "source": "5 Minuten",
-          "date": "19. Jun 2026"
-        },
-        {
           "title": "Graz: Plabutschtunnel wird erneut gesperrt, frische Baustellen starten - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTVZxeVRrbnFtUWd4WkR0cmg4OWlQcUJNek1QVkhQWmFaR29Iay03TV92QjhEOGJtUVdfWmY5TDVUQWQ5d2xsbnQzUDVTZmZ6ZV90ajFTcG9lSXE0Q0t6anQtOEhGNUNYTk5tQXhKT0tRQVhKZWxTZDJUSlFIREs1Q1pNXzViQ0VvNXlydm83ZVh1cXpHb295NGVlbWI0UDMxUElsUkNCOE9YdmhjMUE?oc=5",
           "source": "Kleine Zeitung",
           "date": "22. Jun 2026"
-        },
-        {
-          "title": "Sanierung von fünf Brücken und einer Stützmauer startet - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX0FjQ1NMaGxYRHBxR013LXNSZjlOZjl4T0xVSkRRQ3VOLTh4XzJNR01SZXkwOFViT0pkUGljUDAwYVlPLVNlUE5PSWJYQ0M2QzlTOUpzWUZ6X2hKdUN4Rkh1SlExNG9wRlN1cjhldzBOUU5SazFvclVrWUI1RWNWc1N6Sk9yX3FlRGFzVTdYc0Z3RHRJVWxydERVQlJBTEZlMGhGN1h3WQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "20. Jun 2026"
         },
         {
           "title": "Tragischer Unfall: Zwei Motorradfahrer sterben nach heftiger Kollision mit Pkw - 5 Minuten",
@@ -56,8 +44,14 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Das Regiobus-Netz im Bezirk Weiz wird ausgebaut und bietet den Fahrgästen verbesserte Verbindungen und neue Angebote. Mit Bus und Bahn können Steirerinnen und Steirer am Wochenende komfortabel ins Grüne fahren.",
+      "summary": "Ab 1. Juli werden die Tarife für Bus und Straßenbahn in der Steiermark erhöht, während gleichzeitig das Regiobus-Netz im Bezirk Weiz ausgebaut und verbessert wird. Das öffentliche Verkehrsnystem bietet damit trotz Preisanpassungen erweiterte Möglichkeiten für Wochenendausflüge ins Grüne mit Bus und Bahn.",
       "items": [
+        {
+          "title": "Am 1. Juli steigen Tarife für Bus und Bim in der Steiermark - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNTc1R282aEg1LWlTNTYxd0NNN0FkM25xcUcxZmNQSldkNlE3aEhZWVhSNXVNemUwRHc2S0ozQTByaVo2ckVZcC1lWUtTNU5QOHpzM0RraDZTczBNeVBYMV9aX3pNZDZyWWhwQjJLdzl0VmZRZ2IxMkI2NVpRSUlhSG80R3lNS05PWEdPdmpqUFF2OGJrenRwWk1xNXZDZV9jX0wtNnJFU1I?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "26. Jun 2026"
+        },
         {
           "title": "Öffentlicher Verkehr im Bezirk Weiz: Regiobus-Netz wird noch besser und bietet viel Neues - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV3BvTUdKclpqNWhvSm0tRElmbUhBYlc4S05Vc0pqbmpuS1dSUTVkWGhEWE5vRDRJb1hkNEpkQmdWUWw0YkJ5Y2NHVFRxbkFSTU9GOERpUW0yUTdWZ0EyYnh6Y3A1RDE3TjdqTWM1d0hFQVplSm9vLXZuRFV0UDlicElMR0dFMUxOdkhXOUhiYW5MRm1fLURqUEdZbnpJVHVaX2RRVW00b0dnZ1I5ZjZwV210SQ?oc=5",
@@ -76,13 +70,19 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Das Regiobus-Netz im Bezirk Weiz wird ausgebaut und modernisiert, um die Qualität des öffentlichen Verkehrs zu verbessern und Fahrgästen neue Angebote bereitzustellen. Diese Verbesserungen tragen zu einer nachhaltigen Mobilitätsentwicklung in der Region bei und sollen mehr Menschen zum Umstieg auf öffentliche Verkehrsmittel bewegen.",
+      "summary": "Im Bezirk Weiz wird das Regiobus-Netz ausgebaut und verbessert, um die öffentliche Mobilität nachhaltiger zu gestalten. Siemens investiert 40 Millionen Euro in ein neues Werk in der Steiermark, was zusätzliche Arbeitsplätze und wirtschaftliche Entwicklung in der Region bringt.",
       "items": [
         {
           "title": "Öffentlicher Verkehr im Bezirk Weiz: Regiobus-Netz wird noch besser und bietet viel Neues - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVmNsQ3dnQzgwel9vX0kyelhMOTN0Yk1WVUFXRExZUnVwVkNtZHJkdVIxQWhKQVJLOWlteGtnSjBtSmhnNUdGSXBhSXQwQzh1clZVUVltVGM1RlZXeUMyMWpESnZ1cU1xYjJ3dTQwSWJ0dzR5NGhSb0EwZGN3Y05jZHF0TlFfUlVKMERrdGItSENaNlBKTGN4NTV3azBzdU1Jd2tLcA?oc=5",
           "source": "MeinBezirk.at",
           "date": "24. Jun 2026"
+        },
+        {
+          "title": "Siemens eröffnet Werk um 40 Mio. Euro - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnQnJuTVE1QXdMUEd0VVZyellobENJbkZ5ZFlWZnI3YkZxREExN255ZjlvMl9ZWTZJVFp4T3pwcjFSMXVjVmJHc2t4U1ZRTmw5TEhBdg?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "25. Jun 2026"
         }
       ]
     },
@@ -90,25 +90,19 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die steirische Baufirma Lutterschmied wurde für ihre Leistungen mit dem Landeswappen ausgezeichnet, während das Land Steiermark knapp 13 Millionen Euro in die Sanierung des Straßennetzes investiert. Ein Schwerpunkt liegt dabei auf der B 66 in der Klausen, wo der Baubeginn mit der Sanierung von fünf Brücken ansteht und Verkehrsbeeinträchtigungen zu erwarten sind.",
+      "summary": "Das Land Steiermark investiert knapp 13 Millionen Euro in die Verbesserung des Straßennetzes, während die Fehringer Baufirma Lutterschmied für ihre Leistungen mit dem steirischen Landeswappen ausgezeichnet wurde. Diese Maßnahmen unterstreichen das Engagement des Landes für hochwertige Infrastruktur und die Anerkennung von qualitätsvoller Bauarbeit in der Region.",
       "items": [
+        {
+          "title": "Bauprogramm: Land Steiermark investiert knapp 13 Millionen Euro in das Straßennetz - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU3U4VnBCOUx1TnNRV2NVbVZiTjFsWHB3dVNpN0FjVUdDZ2hhWGZsME82QnJnQUlTU0k1TVY1MGZWRGpid2JQQTVxMzdXdl9nSUlIWXl3TDhtQzlzVmc2Tk1YRzNsTFJsV2VILXl0eERHTDJBMHNfV1gtVmpRNlE4MlJHRDNMLVVoLUhvQ0VTTnVQTFZ5Y18zaHZoYzFVTll6QmdQbnFGQU9KSDJ2TzA2UHltUHNHMGRmS051dTNPNTFpOG1F?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "26. Jun 2026"
+        },
         {
           "title": "Fehringer Baufirma Lutterschmied mit steirischem Landeswappen ausgezeichnet - Kommunikation - Land Steiermark",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zSm1wZWtieTU4OEYwLW1uYlBOSW9mN2kxZnpEUzhXeFoxaVRoWTd3b0cwZzRvRlJNYmtfM09CNVEwNjBGMmZUX3d1ZElDaWlFTjlIakFmYS1LOUlLLW9xckJQTXZTMjI4WXdEOTJmdW01blFNUFVkRg?oc=5",
           "source": "Kommunikation - Land Steiermark",
           "date": "21. Jun 2026"
-        },
-        {
-          "title": "Knapp 13 Mio. Euro für steirisches Straßennetz - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQVVRHWFNMQTRqM1cxMnU2QnFwQXByQkFyZ3IyZVVBQjFlMkZaalozemp6ZW1qUGM3VEphLTdkYVJhcnlOUnRBWFdaN2laUlRPRnBZUg?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "25. Jun 2026"
-        },
-        {
-          "title": "B 66 Baustart: In der Klausen werden fünf Brücken saniert, mit Wartezeiten ist zu rechnen - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcE1VeXd3OFhsUVlMZldSVjZobXJTYmZKRERJdHVHNWhTVkJGWGxxaGozQ1ZOaUhCN0Y0MjgxVzhxMERYRmRNSGd6UUk5cWtHQXdIRjdRcG5vNXd5STJoZXdVenJIU29DV1p2ZzI4MVNDVU1xc3ZrblJ1ZDhyb3FROXY1dW45ZS1mQUJWa09jZjY4QktyUDdmc2FkMWhsZzcwc0lrOHQ0RWd4M3lSWkNOeEdHRDNPZmd3MGlYNTVjUGJfMENFbkQtek1mckNZMjYycXZ1TA?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "19. Jun 2026"
         }
       ]
     },
@@ -116,18 +110,18 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Sarah Kastner übernimmt als jüngste Bezirkshauptfrau der Steiermark im Oktober die Leitung der Bezirkshauptmannschaft Bruck-Mürzzuschlag, die auch für Verkehrsangelegenheiten und behördliche Verfahren in diesem Bezirk zuständig ist. Mit ihrer Ernennung wird die Führungsposition in einem wichtigen steirischen Verwaltungsbezirk neu besetzt, der für die Abwicklung von Verkehrsgenehmigungen und behördlichen Verfahren verantwortlich ist.",
+      "summary": "Die Steiermark bekommt mit Sarah Kastner eine neue Bezirkshauptfrau für den Bezirk Bruck-Mürzzuschlag, die im Oktober ihr Amt antritt und damit die jüngste Bezirkshauptfrau des Bundeslandes wird. Diese Personalveränderung in der Bezirksverwaltung hat Auswirkungen auf die Leitung von Behördenverfahren im Verkehrsbereich, einschließlich UVP-Verfahren und Genehmigungsprozesse in ihrem Zuständigkeitsbereich.",
       "items": [
-        {
-          "title": "Sarah Kastner wird neue Bezirkshauptfrau von Bruck-Mürzzuschlag - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sZmY5Z0pyeGo0ZHdTajVBd29CdlNXaXhZVmNlbWlkc25yUEI0T000d29VdTNIeWR6aFVvTkIwbmhwZ3B2bXktRkxqQU5FTjNFeWl1QTNhUWVQWFdGZ3Nvc1BUbFhLZ0MxdzlhVUZNSGNYNUd0TWxr?oc=5",
-          "source": "Kommunikation - Land Steiermark",
-          "date": "25. Jun 2026"
-        },
         {
           "title": "Jüngste Bezirkshauptfrau der Steiermark tritt im Oktober ihren Dienst an - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbkRqaVZvNVR6OVVfQ25YNzFrSlZhY3QyM3RxS3UzWW4yZDBwSDNtZU11UXRCOFdaM2RQR1FHRFhFVmNGQ1Z2X3FESTFDeXFjNmdCSlY1RFhCOHB3ZzF5clFIOThpbXhmMlgwQS15ajl5YTM5aHBZSWphZ0p6REpuYXZNdncxVFhFQk1ZQ0l2enJSVzFnTDlvRVFSMkczRFJybFNoNUlhR2s3V3lYZ3Vnak5DV0pqcmM?oc=5",
           "source": "Kleine Zeitung",
+          "date": "25. Jun 2026"
+        },
+        {
+          "title": "Sarah Kastner wird neue Bezirkshauptfrau von Bruck-Mürzzuschlag - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sZmY5Z0pyeGo0ZHdTajVBd29CdlNXaXhZVmNlbWlkc25yUEI0T000d29VdTNIeWR6aFVvTkIwbmhwZ3B2bXktRkxqQU5FTjNFeWl1QTNhUWVQWFdGZ3Nvc1BUbFhLZ0MxdzlhVUZNSGNYNUd0TWxr?oc=5",
+          "source": "Kommunikation - Land Steiermark",
           "date": "25. Jun 2026"
         }
       ]
