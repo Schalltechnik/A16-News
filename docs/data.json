@@ -1,12 +1,12 @@
 {
-  "generated": "29. June 2026, 07:15 UTC",
+  "generated": "30. June 2026, 06:41 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "In der Steiermark werden bedeutende Investitionen in die Straßeninfrastruktur getätigt, darunter knapp 13 Millionen Euro für das Straßennetz und eine Generalsanierung der Tunnelkette Pack an der A2. Daneben müssen sich Behörden mit Herausforderungen wie Hangrutschungen an der Südsteirischen Weinstraße auseinandersetzen und Verkehrssicherheit auf Landstraßen gewährleisten.",
+      "summary": "Die Steiermark investiert knapp 13 Millionen Euro in die Sanierung ihres Straßennetzes, wobei die Generalsanierung der Tunnelkette Pack an der A2 ein Schwerpunkt darstellt. Parallel dazu werden Maßnahmen zur Verkehrssicherheit wie kostenlose E-Scooter-Trainings umgesetzt, während Infrastrukturprobleme wie Hangrutsche an der Südsteirischen Weinstraße rechtlich geklärt werden.",
       "items": [
         {
           "title": "Radfahrerin wurde schwarz vor Augen – dann geriet sie auf Landstraße - 5 Minuten",
@@ -30,7 +30,13 @@
           "title": "A2: Generalsanierung der Tunnelkette Pack - ÖAMTC",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMy1tOTZqdVA0eV9kS05NdzNseWgzSjgyQnZHUmJfSFB1VGdBMzlzdHhRU3paZnl0VFlkSGNHZTIwSldZTE1LR1Z6ZlhRdXppaXNKRHhHTTR5TjY5OHRoSS1MNEtQOEs1REw1T0diMTdKNGR2bF9kbEdkdFRrdVphZjlrODJsMUM2M0JTNzlEUFc?oc=5",
           "source": "ÖAMTC",
-          "date": "28. Jun 2026"
+          "date": "27. Jun 2026"
+        },
+        {
+          "title": "Kostenlose E-Scooter-Trainings sollen die Verkehrssicherheit erhöhen - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1bmFDeVJjRndoTnRqTGVMODRDN0xpMU9CNDd6T3k1REJtQnNvTVo4NXlyTUJkTkphdGJEZ0hkWm5WbVZfUlc1dWJCZko4VW9OSnVLbVVzUGlTMTUxTDVvNWxfRklrSUVYX1pHS2JBUWRjYWJfTFln?oc=5",
+          "source": "Kommunikation - Land Steiermark",
+          "date": "29. Jun 2026"
         }
       ]
     },
@@ -38,7 +44,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Ab dem 1. Juli 2024 steigen die Tarife für Bus und Straßenbahn in der Steiermark, während gleichzeitig das Regiobus-Netz im Bezirk Weiz ausgebaut und verbessert wird. Die Preiserhöhungen im öffentlichen Verkehr werden von Verbesserungen im Angebot begleitet.",
+      "summary": "Ab dem 1. Juli 2024 steigen die Tarife für Bus und Straßenbahn in der Steiermark, während gleichzeitig das Regiobus-Netz im Bezirk Weiz ausgebaut und verbessert wird. Trotz der Preiserhöhungen gibt es verschiedene Möglichkeiten, günstiger mit den öffentlichen Verkehrsmitteln zu fahren.",
       "items": [
         {
           "title": "Am 1. Juli steigen Tarife für Bus und Bim in der Steiermark - Kleine Zeitung",
@@ -53,16 +59,22 @@
           "date": "24. Jun 2026"
         },
         {
-          "title": "Öffis in der Steiermark werden teurer: Das zahlst du ab dem 1. Juli - MSN",
-          "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQY1pFMTVlOW9CMlVlMWc0bXhZd1JvRXNJUmZqbEJaYnB4NzFKUjRlUVZqaW45aGhZcUYxaWU5aG4xbUJocWZoSmt3eG9JX1RfTVowOGt2cHRSWC1xc2pZWU1mdmx2Um0xWUg3OEZ2c2NvWm9zSG5Vb3piMHNwXzlBa19YZTRFRE1YbmdFZHBIS0lNSFdvQmJsUzRFaVFJWnZUSzI1WDZMQzdSRk1acGUzNEFnXy16NGFfakFXQm5WeFNDelZRX21tYS1uN3NDcG1HNEgzczQ1SUcwMTNhSHU3TnpFRGxCUHZpX1ZsOFZqanFheF95aV9TTk8wcGlnRFVBVUZjZkVlM3labXJrdUJjRmR3dVpXQktaZ3lyb1k1THFDQlBJUkJ4ZHBCSXhVX1psTEIzSzZCSF9uY043MUxsQnk4aWE4OEgtOFdWU0dLQlRoNWpWTHpMNDk4OA?oc=5",
-          "source": "MSN",
-          "date": "27. Jun 2026"
-        },
-        {
           "title": "Öffis in der Steiermark werden teurer: Das zahlst du ab dem 1. Juli - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWldxejZxTmpEb0JWTmZFRm5sZlc4a2pyU2VyaHk0THBHMk03LUlsMFlvbUxyMFlEaDZGS2VuNUR5WjBUN3N6NDVpX2NJT1Yydms0Y3F3dThTbnczeE9xUWZjZy0yekdzY0R3TVN2eXRqVlhSajRuLXRMaF9oTXRub1BxQjNHT3JoaXFMWl8wNEVqWlpLY3RJNFRyUGRQRWxsLV82RjVPODhodw?oc=5",
           "source": "5 Minuten",
           "date": "27. Jun 2026"
+        },
+        {
+          "title": "Öffis in der Steiermark werden teurer: Das zahlst du ab dem 1. Juli - MSN",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQYV96a0oxekhQZFhKcW9MejNnUEczdFViNjNJZEhtRnNMVWF3bXUyVzZwcDBZQjBPRW1OM0NNUzhkUkFJT00yaUMzOGJCNlVxaEdwVjZRVHJFbWF0VTQ2NC1NVHdKUlJreTJNZlpsSXRHRnNkOWd4VWZZVHpkWmZaUG1tTGJqZ0pNYWp1V0w5RzJQb2FHaWViUjlDeUJBMVk3Q3JKUWNIMU8ya094b3NUdk5XYzRzWTlRallNRWx5NTdDclotMW9PSGVUQ01xMnRNM3RxV0dCdTlwY1JSUDYzYU82WkFBRHRKNnNJeTU1VDNIWDlzOXRj?oc=5",
+          "source": "MSN",
+          "date": "27. Jun 2026"
+        },
+        {
+          "title": "Anstieg ab 1. Juli: So fahren Sie trotz höherer Öffi-Tarife am günstigsten - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOW5Gdjg1bk41VGtjVGpXbXA5UVExRGF2eFBNQUZWanN2R3ZIQ1RXN0dZNXFtV25Xb3JXaDludHBUMnlTRjdWRmNhOHIzWjFacDN3RVBUVWktbU5mR25laFNOUzBibVdfS1Y3LWZuNHYzWUJYN01VQkRyYUFDNnEzQ00zRk5rZEhzMjRjVVF3TnI2QmFMdU9MMXVJRDVCQU9udFpIbXBn?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "30. Jun 2026"
         }
       ]
     },
@@ -70,13 +82,37 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Das Regiobus-Netz im Bezirk Weiz wird ausgebaut und verbessert, um ein attraktiveres öffentliches Verkehrsangebot zu schaffen. Diese Maßnahme trägt zur Förderung nachhaltiger Mobilität und zur Reduktion von Verkehrsbelastungen in der Region bei.",
+      "summary": "Die Steiermark setzt auf eine Verbesserung der nachhaltigen Mobilität durch den Ausbau des Regiobus-Netzes im Bezirk Weiz und die Förderung sicherer Nutzung von E-Scootern mittels kostenloser Trainingsangebote. Mit der Eröffnung des neuen Siemens-Mobility-Werks in Fürstenfeld wird die Region zudem als Produktionsstandort für innovative Mobilitätslösungen gestärkt.",
       "items": [
         {
           "title": "Öffentlicher Verkehr im Bezirk Weiz: Regiobus-Netz wird noch besser und bietet viel Neues - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVmNsQ3dnQzgwel9vX0kyelhMOTN0Yk1WVUFXRExZUnVwVkNtZHJkdVIxQWhKQVJLOWlteGtnSjBtSmhnNUdGSXBhSXQwQzh1clZVUVltVGM1RlZXeUMyMWpESnZ1cU1xYjJ3dTQwSWJ0dzR5NGhSb0EwZGN3Y05jZHF0TlFfUlVKMERrdGItSENaNlBKTGN4NTV3azBzdU1Jd2tLcA?oc=5",
           "source": "MeinBezirk.at",
           "date": "24. Jun 2026"
+        },
+        {
+          "title": "Kostenlose E-Scooter-Trainings sollen die Verkehrssicherheit erhöhen - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1bmFDeVJjRndoTnRqTGVMODRDN0xpMU9CNDd6T3k1REJtQnNvTVo4NXlyTUJkTkphdGJEZ0hkWm5WbVZfUlc1dWJCZko4VW9OSnVLbVVzUGlTMTUxTDVvNWxfRklrSUVYX1pHS2JBUWRjYWJfTFln?oc=5",
+          "source": "Kommunikation - Land Steiermark",
+          "date": "29. Jun 2026"
+        },
+        {
+          "title": "Kostenlose E-Scooter-Trainings sollen die Verkehrssicherheit erhöhen - MSN",
+          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQSW0wVmFqVmdxNVI4N0VIcXNuODUzZXRkZWlYeDNRVEp5RnpoZ0ZobWMzRVBwSEs0aktHY3g2dGdxZ1NjSlJlYzM0SVBrLS1RT0JMdFVCUW5mbFB0RFpyM1hCbkM0N2dQTUFzaTdhMG0wNk9WQjhwWW51bXduQ0lqRTBMc0NQUzV2anFqMlY4UE9mQV9fVWRXVkV5NW9tSmJWMzVVU1ZQQXU5X0FCWEFNQlFRTkVXTHp6bFZLaWFVUlZsLWR2NDBydS13eWxoTDdyMlBDNFFrUWx0QWtYYkt0WS0tT0JwUDN1eFZWWkZSWjVBMThEc1BKbFBYWks3cTFGaklnM1p2ZVJWUUJUZDh0c2Z1d0E0dzVTMUNad3pKT2t1SUhfZThvbUpwdzlHWjkzRWgzV2IzTHZFc09mTFlQQXkzUlZPeW5OS3BOOTdOV1dqSG1TMGEzNTlVb3BWdw?oc=5",
+          "source": "MSN",
+          "date": "29. Jun 2026"
+        },
+        {
+          "title": "Siemens eröffnet Werk um 40 Mio. Euro - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnQnJuTVE1QXdMUEd0VVZyellobENJbkZ5ZFlWZnI3YkZxREExN255ZjlvMl9ZWTZJVFp4T3pwcjFSMXVjVmJHc2t4U1ZRTmw5TEhBdg?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "25. Jun 2026"
+        },
+        {
+          "title": "Offiziele Eröffnung: Siemens Mobility eröffnete Werk in Fürstenfeld - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU3lval9WTl9NVzd0cHRHcU5saGJEUy03a0EtWkYtUENzZ1B4X0h2VXJGcm9HR1k5c28xLVoyRi0yU3JTZnA0SWU5aTB4RnJsYXVQRW01NUVRTHhCc09JMnlpekIxZUpKaXJKZ0tRVTdKTV80V1lENkE3UjhNYTJaSEstYW5sMjhyU1VCNTFCUnROcy1KM1hlaGxnM3NWTkRsVktCZ0xjT0gwUVkybDJ6eGtnRnNZaW43Smc?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "26. Jun 2026"
         }
       ]
     },
@@ -84,8 +120,14 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Das Land Steiermark investiert knapp 13 Millionen Euro in die Modernisierung und Instandhaltung des steirischen Straßennetzes. Der traditionsreiche Bauunternehmen Lutterschmied Bau wird anlässlich seines 100-jährigen Bestehens mit dem steirischen Landeswappen ausgezeichnet.",
+      "summary": "Das Land Steiermark investiert knapp 13 Millionen Euro in die Modernisierung und Instandhaltung des steirischen Straßennetzes. Zusätzlich werden Maßnahmen zur Verkehrssicherheit wie kostenlose E-Scooter-Trainings gefördert, während der traditionsreiche Bauunternehmer Lutterschmied Bau für sein 100-jähriges Bestehen mit dem steirischen Landeswappen ausgezeichnet wird.",
       "items": [
+        {
+          "title": "Kostenlose E-Scooter-Trainings sollen die Verkehrssicherheit erhöhen - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43Ylk2dHBDdmhvZjNjSC1qTmIwZTVZVHpGOWgxWlc0bWRLdlhoMVRlZXQ5OFVWc0RXTWJ0d1RLT0o3Vk1JX3NYVmpJblNzTHdsOVBSX2J1SE9lZjhBMExQbHBQSHpacXA3Q0duYUxuZ1VKS0pzeFpRcg?oc=5",
+          "source": "Kommunikation - Land Steiermark",
+          "date": "29. Jun 2026"
+        },
         {
           "title": "Bauprogramm: Land Steiermark investiert knapp 13 Millionen Euro in das Straßennetz - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU3U4VnBCOUx1TnNRV2NVbVZiTjFsWHB3dVNpN0FjVUdDZ2hhWGZsME82QnJnQUlTU0k1TVY1MGZWRGpid2JQQTVxMzdXdl9nSUlIWXl3TDhtQzlzVmc2Tk1YRzNsTFJsV2VILXl0eERHTDJBMHNfV1gtVmpRNlE4MlJHRDNMLVVoLUhvQ0VTTnVQTFZ5Y18zaHZoYzFVTll6QmdQbnFGQU9KSDJ2TzA2UHltUHNHMGRmS051dTNPNTFpOG1F?oc=5",
@@ -103,6 +145,12 @@
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOVV1TklqT3JwZUV4MEw4S1ItcnF6WDhRT2hPLVd1VkNLbUVwVUVCb3hUdk9RVnJZcHVoNDZxZExDaWZCbVB3OVZhc21mN29IbmR0RjlNVl9pZ25WOTA1S0VpekpCTEdBQ1NtemV6elVpYTVpUTVjaEhXMDNnczdYQjVYc1NxRnJrQzZ2dzh0bjRkcndUVW5WWDJvUFdCdTFyakoxd0ZhUVF6cEp1SVc4MEZjMTRMbldRWF80X2lxYzVicWhDaUZLcC1DS01QNF9xOVJv?oc=5",
           "source": "MeinBezirk.at",
           "date": "28. Jun 2026"
+        },
+        {
+          "title": "Kostenlose E-Scooter-Trainings sollen die Verkehrssicherheit erhöhen - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42UWxNdmRqWEpOczgzMGtiaGJzbjJBQVRMUlBKVGJfVmhOZkVwYXkxa05WbjJGM21KT2xEMDM5SV9iWTFLdVhaT1htb29HSTJCeW9PTjd3d1JBenBHTlF2WVBiaFBjSzdzN2c3OV92TQ?oc=5",
+          "source": "Land Steiermark News Portal",
+          "date": "29. Jun 2026"
         }
       ]
     },
@@ -110,7 +158,7 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Die Nachrichtentitel berichten über die Ernennung von Sarah Kastner zur neuen Bezirkshauptfrau des Bezirks Bruck-Mürzzuschlag, die im Oktober ihren Dienst antritt und damit die jüngste Bezirkshauptfrau der Steiermark wird. Dies ist eine Personalveränderung in der steirischen Verwaltungshierarchie, die für die Leitung von Behördenverfahren im Verkehrsbereich relevant ist.",
+      "summary": "Ich kann diese Anfrage nicht wie gewünscht beantworten, da die angegebenen Nachrichtentitel sich ausschließlich auf die Personalbesetzung einer Bezirkshauptfrau beziehen und keinen Bezug zu UVP-Verfahren, Genehmigungen, Verkehrsverordnungen, Einsprüchen oder verwaltungsrechtlichen Verkehrsthemen haben. Die Titel enthalten keine relevanten Inhalte zum steirischen Verkehrsbereich, die ich zusammenfassen könnte.",
       "items": [
         {
           "title": "Sarah Kastner wird neue Bezirkshauptfrau von Bruck-Mürzzuschlag - Kommunikation - Land Steiermark",
