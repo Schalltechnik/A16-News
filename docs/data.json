@@ -1,194 +1,34 @@
 {
-  "generated": "06. July 2026, 06:56 UTC",
+  "generated": "07. July 2026, 06:31 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die B20 zwischen Thörl und Kapfenberg wird bis Mitte September mit Sanierungsarbeiten und Schutzbauten instand gesetzt, um die Infrastruktur zu verbessern und vor Naturgefahren wie Muren zu schützen. Parallel dazu werden Maßnahmen zur Verkehrssicherheit wie kostenlose E-Scooter-Trainings umgesetzt, während schwere Verkehrsunfälle durch alkoholisierte Fahrer weiterhin ein erhebliches Risiko für die Straßennutzer darstellen.",
-      "items": [
-        {
-          "title": "Alkolenker (27) kracht frontal in Auto – schwebt nun in Lebensgefahr - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY25NMXJNbEVEOUZjZzZLX3Z1ekxfT3dpQWtmVENnM1FIcGhtT0luN3pmV0pQU2hONWdMN005SUxobTVMZG1sTEZDamU2aWtrcEJ5TUlucGNHRkZLeGgwellMZjFFUkF5QVhCOWxaUnJuLUp6bFVuTUVIdDQyeEx4Q0NINHlQVVlqQ2JRZDEtMHJvYXdLa2dwSzNVSHlNQkd4SnpUcklLVFNuT2c3MVhF?oc=5",
-          "source": "5 Minuten",
-          "date": "5. Jul 2026"
-        },
-        {
-          "title": "Alkoholisierter Autofahrer verursacht schweren Frontalcrash in der Steiermark - asatunews.co.id",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORGpiSGF2M0hfS1MtaDlnWWN6Uzk1ZFkzS250b0tjQmQ0UV9FU3FDRTktdE9iZU1QRk1RYjJ2Vk5yUjhIU2dSZDEzek5FTjVXcE42UHkzWUV5YWN1WVg4c09VRHlfVWVrdGdyZUlHRGJTNjQxWEM5OG5sbEdBMXhMZklHQXVZdllKTlZVM252ZHFveWxO?oc=5",
-          "source": "asatunews.co.id",
-          "date": "5. Jul 2026"
-        },
-        {
-          "title": "B20: Die Sanierungsarbeiten werden bis Mitte September andauern - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYUk2U3RfLTRFcUhEU1BPOEJLNXF4RjFMOGZtbUJNLVlNZzZxSElHblFwclFzZ3BtWGxHelVDd0g0cElmXzRXUFdrU0FWRUNIZ2dSZ0xnM3JpRmtJZU1PcG1jbEdJZ3p2elFRUWlNS2dxdS1RMjB2SlgyTmxnMnpJSDlGc242MXV3cTMtTFE1clJRSVc3a0dIcDhldHdGM240YW4tWFhiZnJ0cjcyQW1tT0hNZWJ1Z2d1WExkcA?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "3. Jul 2026"
-        },
-        {
-          "title": "Riesige Mure: 28 Personen geborgen - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aNjVEamV0dE83N2R3XzFUTU5WdC05TVBabFhBU2RNMWVjNElEektfc0ppdTgxVWVfb2ZjYzAza1Z0bnNwVDJKSFdjeV9kblYxVnAtWA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "29. Jun 2026"
-        },
-        {
-          "title": "Bis Mitte September werden zwischen Thörl und Kapfenberg Schutzbauten errichtet - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WVDEtQ29jTndENE8xRHg0SzEzQmlQOHdsaUF5eHpiR3otLXpHTWxMSXVzeEN2ZmhIWktpQjVQUF9JLUVsUGNTNTBtQXMzRG80Q1NiX2VqcU1rcHMxbFVudVpZNURkT2pkTHU2bW1nSW12TnRKQmpVVA?oc=5",
-          "source": "Kommunikation - Land Steiermark",
-          "date": "3. Jul 2026"
-        },
-        {
-          "title": "Kostenlose E-Scooter-Trainings sollen die Verkehrssicherheit erhöhen - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWVFPTDBBa0UtWE1wNGlTdHVMQjN5UE5BSEFkZXctZEctYkN5N19tbHE3Yk0wRmpLU0hacDJ6cTZWOXJoRm84NmlETkNRN0FOTmZuVFE3MGdtOTJtYU55cVJJdmc0SUwzTk9FZGw2LUVJYW54TGNqTEFOY2dzOHNJMWlXYTBPb2hvclNDM1RObEw2NWQzMkVIR3lnZW4wUTZzbkZXNWotOVJmSmlnaXFtMUdmVk0xZw?oc=5",
-          "source": "5 Minuten",
-          "date": "29. Jun 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "oeffentlicher_verkehr": {
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Ab 1. Juli 2024 sind die Fahrpreise für öffentliche Verkehrsmittel in der Steiermark gestiegen, wobei beispielsweise eine Einzelfahrt nun 3,30 statt 3,20 Euro kostet. Gleichzeitig werden Verbesserungen im Bahnverkehr umgesetzt, insbesondere mit mehr Zügen auf der Strecke Graz-Leoben, wobei Pendler allerdings noch weitere Ausbauten fordern.",
-      "items": [
-        {
-          "title": "Ab heute wird Öffi-Fahren teurer: Diese Preise gelten jetzt in der Steiermark - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTGp4Wm9OVV9XZkp6X1VHQ1p4Qi04ekN4dUlBMWdKdVVpNmN3UkVvU3ROZW9CbkFmeEpWVVJnTmRSR3NfenB2Z21oZUJoZzNyRWxoQTN5blRTWUVwU1N6M3ZxQmVVZWh1OVZfQm8yeUx4SUJESHJaMTkyM1VrQldZRXlqYXhMM1c3M1hUOHZTMDZCeWlMVTF4dXNRSWxzN2RhS0JveG5uQlBlLWVCVjRac2Q0S19wWTZYU2N5MVc2NG4?oc=5",
-          "source": "5 Minuten",
-          "date": "1. Jul 2026"
-        },
-        {
-          "title": "Bus, Bim und S-Bahn werden teurer: Das kosten Öffis ab 1. Juli - inside-graz.at",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMHhSYVhCQlQyQjM0WGJWM3ZneTBMN2dGbUdrSXAyV3dpLVRXR19EZkwxcjI5MXlRS25NVnhudnYxTFVOb2J2aUhNbW1EeVBfeGtaVzZjLWFEd211RzA5cGpfdW9tbktnT0EtaVBkYnkxeWR0Nm85bVMxT2RVaVlubmdyZjVOMWhGQmRUOVJQaw?oc=5",
-          "source": "inside-graz.at",
-          "date": "1. Jul 2026"
-        },
-        {
-          "title": "17-Jähriger kollidiert nach Spinnen-Schreck mit Bus - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObjRNQjg1M1VVbUdJZXhaeEFuZ2podkp1VGNRazlhaGdQelpvWWdtMTczaUpnUFV3NHpmajBQcV9WN0loOXprMWh3ODZtNzd2cjNsRjN1V2E3MTZET1I3ZVlvbGtiemt1UVRRREk3T3p3d1JxdUNtQWQwQUcxVndFZ0ZxMEFydWRpdGNaWWZGX2ZObEh0NTFIZTVR?oc=5",
-          "source": "ORF ON",
-          "date": "1. Jul 2026"
-        },
-        {
-          "title": "Verbesserung im Bahnverkehr: Mehr Züge Graz-Leoben in Sicht – Pendler fordern aber mehr - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTG9ISldCY1JQazBNR21HZDRiaWpLek1KODdtaTB6NGR4T0JNVjlrN1ZmdkRxSDdjQVlFNHk0R0Q1Y3MwNXp5dVpQeWZPRUJ2S2VQbXZMVFhnMW1zSzNEd04zaVAyMUVpNGFmeDUzajNYRG9PY3dhaUdnSTR2Mk80RW9xM0FnUlNuM3lfeUdSVElKTXVzTVBrMUg5aGFfTWk1ZV9TNjBFVFM5TUUzNXc?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "1. Jul 2026"
-        },
-        {
-          "title": "Steirer zahlen mehr - 3,30 statt 3,20 Euro: Heute werden Öffis teurer - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1YYmlodFJ2NE1TZk5KUDB4anFkZndVWGRkN19aZFJ3aVJ1eWNKQXVZRU1hLThWa2NoYzFDcGpwaFVhZw?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "1. Jul 2026"
-        },
-        {
-          "title": "Anstieg ab 1. Juli: So fahren Sie trotz höherer Öffi-Tarife am günstigsten - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOW5Gdjg1bk41VGtjVGpXbXA5UVExRGF2eFBNQUZWanN2R3ZIQ1RXN0dZNXFtV25Xb3JXaDludHBUMnlTRjdWRmNhOHIzWjFacDN3RVBUVWktbU5mR25laFNOUzBibVdfS1Y3LWZuNHYzWUJYN01VQkRyYUFDNnEzQ00zRk5rZEhzMjRjVVF3TnI2QmFMdU9MMXVJRDVCQU9udFpIbXBn?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "30. Jun 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "mobilitaet": {
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark reagiert auf steigende Unfallzahlen und Verkehrstote mit verstärkten Sicherheitsmaßnahmen wie kostenlosen E-Scooter-Trainings und fordert gleichzeitig strengere Tempolimits, um die Verkehrssicherheit zu verbessern. Dabei werden auch Einzelfallregelungen wie Strafen bei Radunfällen ohne Fremdbeteiligte diskutiert, während die Mobilitätswende durch Aktivisten wie Martin Wolf vorangetrieben wird.",
-      "items": [
-        {
-          "title": "Strafe bei Radunfall ohne andere Beteiligte - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nWVVPM3gwSkJJYllselZiLWtmZXlsa29JYnoxV0pHSlNGZ3Mxc2FNRXJIb2k3Z1hwSDNZalgwRUlqcVVVMUZDcW9rRjlOdWFlLXdmUA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "2. Jul 2026"
-        },
-        {
-          "title": "VCÖ fordert strengere Tempolimits: Immer mehr Verkehrstote in der Steiermark - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLXNGUTM3RzFjb0xNVldZUmt0MG9IQ1lZVll2ODJyc0V1d3VTUzNoZzZjMGRsTFFCdjMzbURhekhhSWxJd0RtWGRoTmY5bk4xMGVRX21JdFBtM0Ztbk4xcHlYNndEU0NfTmFhczU5ZDJRQ0VPQXlvVlJvTXFHYTV1aEpPVWxqTC1WVHVlUHNnVUN1ckkyNnBkeDNQQTEwLVBRaDd2SmNwQ1RwcF8z?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "5. Jul 2026"
-        },
-        {
-          "title": "Kostenlose E-Scooter-Trainings sollen die Verkehrssicherheit erhöhen - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWVFPTDBBa0UtWE1wNGlTdHVMQjN5UE5BSEFkZXctZEctYkN5N19tbHE3Yk0wRmpLU0hacDJ6cTZWOXJoRm84NmlETkNRN0FOTmZuVFE3MGdtOTJtYU55cVJJdmc0SUwzTk9FZGw2LUVJYW54TGNqTEFOY2dzOHNJMWlXYTBPb2hvclNDM1RObEw2NWQzMkVIR3lnZW4wUTZzbkZXNWotOVJmSmlnaXFtMUdmVk0xZw?oc=5",
-          "source": "5 Minuten",
-          "date": "29. Jun 2026"
-        },
-        {
-          "title": "Anmeldung ab sofort: Steiermark startet E-Scooter-Trainings gegen steigende Unfallzahlen - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdGg3NXUwV2oySk1aYUk0MVNIQWhmV0NJNXVwSkk4R2RRanJVRkQzNVAtaDdaaU93cjdtUHFlOVR0ZmxJUVJ6a3dmSHpMaWs3WkE4WGcxcEEtaGxvSjhUMVVtdUF2ck9jQnV1TXFaTzVVYXdyRHcyQ1N1V1p4blVzN3M2VVNhbXpUVURFZmJaRFNMVWdkeU83UUUxV29pWkI5SlJOLXphcEQwcG8zWFdaX2RZMFo0ay1sY1hodFJqM2U?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "30. Jun 2026"
-        },
-        {
-          "title": "Kostenlose E-Scooter-Trainings starten in der Steiermark - FPÖ Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDEyUmwzQlBydkdpUUZoTm9KMnFIekhDMGFRbHJJZ0dGcG9xcU1qV1NldFVoZHFzUm1fTnUwRFBBREZKQjY4ZE55Tm1OVmtNUjV4c084TXhMTlBIMUlxZkIxekNvZEFUeHFFSzlQUWpiX2pTRHM0V1VrdVNvWmNzbTlxRC1oUU8wZGhwTUhnVTg1MkNLVGNzdQ?oc=5",
-          "source": "FPÖ Steiermark",
-          "date": "2. Jul 2026"
-        },
-        {
-          "title": "Kostenlose E-Scooter-Trainings sollen die Verkehrssicherheit erhöhen - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43Ylk2dHBDdmhvZjNjSC1qTmIwZTVZVHpGOWgxWlc0bWRLdlhoMVRlZXQ5OFVWc0RXTWJ0d1RLT0o3Vk1JX3NYVmpJblNzTHdsOVBSX2J1SE9lZjhBMExQbHBQSHpacXA3Q0duYUxuZ1VKS0pzeFpRcg?oc=5",
-          "source": "Kommunikation - Land Steiermark",
-          "date": "29. Jun 2026"
-        },
-        {
-          "title": "Graz trauert um Martin Wolf: „Pro Bim“-Aktivist ist verstorben - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVWVrLVVka2NyZjZ1dEcxeEpiN3JaT1MyNE1OX2NkZ2dzSnBQN2lKUks1WWd5R0JsUGRlSnRoTjZOdWY4ZnUwejVQdHpWTU9yczZNRDA3eWRSOVRNTEJYb1lEbTNhSjB3ajhvQ1U3R0psQW5YZkp2cUoyWEpTdG02dW9ZM01laHA4R09ZckdTdUFrYnlGQkRNdXItLXY0eGVQ?oc=5",
-          "source": "5 Minuten",
-          "date": "2. Jul 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "landeshochbau": {
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark modernisiert ihre Bauvorschriften durch die Entfällung der Genehmigungspflicht für Klimaanlagen und setzt gleichzeitig auf Infrastrukturentwicklung wie die Eröffnung eines neuen Schwimmbads in Neumarkt sowie das Vorantreiben des innovativen „Tiefenkraft\"-Projekts in Graz. Darüber hinaus intensiviert das Land seine Zusammenarbeit mit Salzburg im Bereich der Spitalsinfrastruktur, um durch Kooperationen effizientere Gesundheitseinrichtungen zu schaffen.",
-      "items": [
-        {
-          "title": "Genehmigungspflicht für Klimaanlagen wird entfallen! - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ndy0zLVgxSlVNVklWUkpBdWdCVDdTRnRLVElENUdrTG1UVm9sQmN5V011MWhUeVo5QVhlM0x0VVdJclp5SjFOdTJmRi0xRDA2WThMU1BpeTdvbWpiSC1MaXdJZWdSLUxPODMxUlVudw?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "1. Jul 2026"
-        },
-        {
-          "title": "Kostenlose E-Scooter-Trainings sollen die Verkehrssicherheit erhöhen - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43Ylk2dHBDdmhvZjNjSC1qTmIwZTVZVHpGOWgxWlc0bWRLdlhoMVRlZXQ5OFVWc0RXTWJ0d1RLT0o3Vk1JX3NYVmpJblNzTHdsOVBSX2J1SE9lZjhBMExQbHBQSHpacXA3Q0duYUxuZ1VKS0pzeFpRcg?oc=5",
-          "source": "Kommunikation - Land Steiermark",
-          "date": "29. Jun 2026"
-        },
-        {
-          "title": "Aus für Spitalsabteilungen: Salzburg, Steiermark kooperieren - NÖN.at - Niederösterreichische Nachrichten",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZG5Xa01YeXlRRm9MMHB3M0hCRUZZREpWNVlxZTZqb0I4bzk4TzJQSmFuWU9oQnFOMzJsQnd6N0xkU2lsOXFzSmtaS1pUMDNia3ZwYVhTM2lmVzRzT2s0dEJQbzhVMHp0NDlLV2NyeXd3Um56UW5hd1N3N0RwT3UyQV94cGhOajVwQ2Q0MV9MR0xudUphUjBMblhhUElGemYtNEE?oc=5",
-          "source": "NÖN.at - Niederösterreichische Nachrichten",
-          "date": "3. Jul 2026"
-        },
-        {
-          "title": "Salzburg und Steiermark: Kooperation für Spitalsabteilungen - VOL.AT",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQzNwUmNnb1AxRFh1R2VWbDNpczlLVTBsRDJyUG41LThzbTBscWVMN1Blb3Vodl9Cd2lSUUhhMzFMc2tnRExUYk1FSFlmRUo4MFN2VVVxb0I1cGxnbXFjWlQxaTBMMXRtUlk4eW5ramNCNmJvRjdEdVluVmRWRXFoRzl4clhnTGpqalZLOThFRmY?oc=5",
-          "source": "VOL.AT",
-          "date": "3. Jul 2026"
-        },
-        {
-          "title": "Aus für Spitalsabteilungen: Salzburg, Steiermark kooperieren - MSN",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQckFHalZfUnlLMW1fMFZ2UzRkajIxeXpuQXdJNHYycktmMG1IQVdrcWdvZDZ3RHQ5OF9ZVFhuNzdRaWhJcnN1Nk9TWGJELVF5dmNjQkQ3X2NmUHNpQUZ5emNyckJaNG1LX081QWM4RTRDbl9PbE9vWm40SEtscm1DV1VDX3hzM0I5amp1Wk1Yck9iTlRQX3F3WlhmbjFMVmd3Y2pEajZ4S1RGRkI1R09FcTB2c0hEbGR3VlBF?oc=5",
-          "source": "MSN",
-          "date": "3. Jul 2026"
-        },
-        {
-          "title": "Große Eröffnung in Neumarkt: Das neue Schwimmbad wurde nun offiziell eröffnet - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcW9sMjRkMHl1UFp3dHhpWU9XcDMzQmxEQVdnWTZsQUJWcXdiWG9DVkNfdl9yUTQza0laUVRnZ2VoSlo4bDM4NWRtODhBYkNkVlc1ME03MlVBWjRvdjltclR5aGZSTXlzWG4tM0wzaGhuV0l6VDBzYjBhdjM1YlJKaUwyNVFzemswX0NGeWNobFdLYjNIQnI4Q3FJTFd6Z0k?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "29. Jun 2026"
-        },
-        {
-          "title": "Nächste Phase für Grazer „Tiefenkraft“-Projekt - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvbmlteUtyX0twQkpfZkNaeDRXeTl1YjhPd2d0XzFxOGo2YWlxb2M3UlZocXhKclIzcXBOUHpHSm53bHhYTU1lc1pwV3VhR0hNdXNBcw?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "2. Jul 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "behoerde_uvp": {
       "label": "Verkehrsbehörde & UVP",
