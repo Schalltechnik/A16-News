@@ -1,12 +1,12 @@
 {
-  "generated": "08. July 2026, 05:38 UTC",
+  "generated": "09. July 2026, 06:29 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die Straßeninfrastruktur in der Steiermark ist derzeit durch mehrere Sanierungsmaßnahmen geprägt, darunter die Arbeiten an der B20, die bis Mitte September andauern, sowie eine Totalsperre der L 428 ab kommenden Montag. Parallel dazu werden Maßnahmen zur Erhöhung der Verkehrssicherheit, wie kostenlose E-Scooter-Trainings, umgesetzt, um Unfälle zu reduzieren.",
+      "summary": "In der Steiermark finden mehrere bedeutende Straßensanierungen statt, darunter die Fahrbahnerneuerung am Grazer Glacis und die zweimonatige Sperrung der St.-Jakober-Straße, während gleichzeitig das Straßenbauprogramm 2026 in der Oststeiermark vorangetrieben wird und die L 428 einer Totalsperrung unterliegt. Parallel dazu ereignen sich mehrere schwere Verkehrsunfälle in der Region, die teilweise durch Alkoholeinfluss verursacht werden und zu Todesfällen sowie Verletzungen führen.",
       "items": [
         {
           "title": "Steiermark: 83-jähriger Motorradfahrer tödlich verunglückt - Kurier",
@@ -21,28 +21,40 @@
           "date": "5. Jul 2026"
         },
         {
+          "title": "Zehn Verletzte bei Verkehrsunfall in Tragöß - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLaGp6Y0lMRmJYVzhRUUdrcmhMdktxNU4yLWwzMW1kQ0otUlUwX25kMzdLVUNJXzU1elFxalBaOTNxZ1JtTnEwRW1UeGNULU9PSWlSQw?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "8. Jul 2026"
+        },
+        {
           "title": "Alkoholisierter Autofahrer verursacht schweren Frontalcrash in der Steiermark - asatunews.co.id",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORGpiSGF2M0hfS1MtaDlnWWN6Uzk1ZFkzS250b0tjQmQ0UV9FU3FDRTktdE9iZU1QRk1RYjJ2Vk5yUjhIU2dSZDEzek5FTjVXcE42UHkzWUV5YWN1WVg4c09VRHlfVWVrdGdyZUlHRGJTNjQxWEM5OG5sbEdBMXhMZklHQXVZdllKTlZVM252ZHFveWxO?oc=5",
           "source": "asatunews.co.id",
           "date": "5. Jul 2026"
         },
         {
-          "title": "B20: Die Sanierungsarbeiten werden bis Mitte September andauern - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYUk2U3RfLTRFcUhEU1BPOEJLNXF4RjFMOGZtbUJNLVlNZzZxSElHblFwclFzZ3BtWGxHelVDd0g0cElmXzRXUFdrU0FWRUNIZ2dSZ0xnM3JpRmtJZU1PcG1jbEdJZ3p2elFRUWlNS2dxdS1RMjB2SlgyTmxnMnpJSDlGc242MXV3cTMtTFE1clJRSVc3a0dIcDhldHdGM240YW4tWFhiZnJ0cjcyQW1tT0hNZWJ1Z2d1WExkcA?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "3. Jul 2026"
+          "title": "Fahrbahnsanierung: Am Grazer Glacis wird es den Sommer über eng - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRm4yMjRMM3kxY2FFTjlQLXNjbFVZQlF1b1FPYUpMX01VbDFHcFhJS2NEQVNYV2NlUkhOMTU3cHpwT2c1UEF3NGN2dlpYdHJqNndlZTl6NFNubVNqbFFGQXMtVGUtRnJ0N19YWkU4cG9tLWhxWFRVRDd0UU1oamkxUExTWVR5WEZRWUNqUHdKQ2NRUEJkaFE?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "8. Jul 2026"
         },
         {
-          "title": "Ab kommenden Montag Totalsperre der L 428 - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94U3MyNTFrNFUya3E4NmdDeUdQS0IySFdWX1BUdU9BbHMtWktxTHBGM2dfQVliaFljVE54S3hDRlZibDhYdWRuWktRSjlPYVkxS3BwUFo3cDNqRHcxaUJnMlhOeExGSDhqMG5YWXhMMA?oc=5",
-          "source": "Land Steiermark News Portal",
+          "title": "St.-Jakober-Straße wegen Sanierung für zwei Monate gesperrt - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcmhwYzVBM0dPQks2TVJMd0NPV01FZ0NBSUsyM21fUE5XRmZiVm5kazAwRDVXZDEyRU1neUN5Q0ZRc2dzcHJZWC1XN3ZDSFZEemZBczdJZXBud3dHT3FJbTloTF9kRUhGTTNQOW1vUU9UMUFQMXNzUkYtWFlUdkI5UDA3NExTY1R3WURfZXNJOXBnQWRuQzZVek1ZMncyZlVIYkVLbGEyU0FoQQ?oc=5",
+          "source": "Kleine Zeitung",
           "date": "7. Jul 2026"
         },
         {
-          "title": "Kostenlose E-Scooter-Trainings sollen die Verkehrssicherheit erhöhen - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvQ245WU51QUF5Ql92Zmg0VWs0VFktLXNZVTdmVkR6a1I2X2RLMDVwYy1ScGtlUXZCRFF2LVdUbFBidnktOGw5UGtaMVhtSnphRkI0cnBIaUFWWVotUi00MzlQNU1JRldGSnJsNWpB?oc=5",
+          "title": "Oststeiermark: So geht es mit dem Straßenbauprogramm 2026 weiter - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcUtFd2RCc2dwVXR1Nlo5TVhBTFJmcVM2OTVKSF8wT1BfRWloVmQzeTFVOVJNaEpMLTJzRUVzTkZld3d5SU5WYU9odk9LWUMyc3Y4dU9McWxDRmJ4U3VydklGWnBnTGpsalhacDhYTG1jRlNKXzY3WE8xZUpzMTRoYWRURW5YdnljS3dzZEw5bUtzRFNmRWEyUjNGbUd5cF9fQ3c?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "8. Jul 2026"
+        },
+        {
+          "title": "Ab kommenden Montag Totalsperre der L 428 - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80dmZPc2E2WFJRTlNfSDREUXZ3eWd4WVVONXltSHV1S0JkRktNTkNjTldXUHBLNTNhcmZsdU5VSEFzdEtuNmRQTnlyenY4TGU3cFRZYjNrRXFmcDVWNW16MDQ4aWQzaE5zV1NVQmJoUQ?oc=5",
           "source": "Land Steiermark News Portal",
-          "date": "4. Jul 2026"
+          "date": "7. Jul 2026"
         }
       ]
     },
@@ -50,25 +62,13 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die öffentlichen Verkehrsmittel in der Steiermark werden ab Juli teurer, während gleichzeitig neue Mobilitätslösungen wie das Sammeltaxi „flux\" an Fahrt gewinnen und der Bahnverkehr zwischen Graz und Leoben ausgebaut werden soll. Allerdings kämpft der öffentliche Verkehr weiterhin mit Herausforderungen wie Zugausfällen und kritischen Stimmen zum Bahnausbau in einzelnen Regionen.",
+      "summary": "Das Sammeltaxi „flux\" entwickelt sich trotz anfänglicher Schwierigkeiten zu einem Erfolgsmodell im steirischen Mikro-Öffentlichen Verkehr, während gleichzeitig die Fahrtkosten für Bus, Straßenbahn und S-Bahn ab Juli 2024 erhöht werden. Zusätzlich sorgen unzureichende Busanbindungen beim geplanten neuen Großbahnhof für politische Debatten, und Zugausfälle bei der GKB verursachen Pendler-Frustration.",
       "items": [
-        {
-          "title": "Ab heute wird Öffi-Fahren teurer: Diese Preise gelten jetzt in der Steiermark - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTGp4Wm9OVV9XZkp6X1VHQ1p4Qi04ekN4dUlBMWdKdVVpNmN3UkVvU3ROZW9CbkFmeEpWVVJnTmRSR3NfenB2Z21oZUJoZzNyRWxoQTN5blRTWUVwU1N6M3ZxQmVVZWh1OVZfQm8yeUx4SUJESHJaMTkyM1VrQldZRXlqYXhMM1c3M1hUOHZTMDZCeWlMVTF4dXNRSWxzN2RhS0JveG5uQlBlLWVCVjRac2Q0S19wWTZYU2N5MVc2NG4?oc=5",
-          "source": "5 Minuten",
-          "date": "1. Jul 2026"
-        },
         {
           "title": "Mikro-ÖV in der Steiermark: Sammeltaxi „flux“ nach holprigem Start auf Rekordkurs - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMXRERGpJa1BFdm5nbFh5bmhZQTVRaEs0eWg0U2J0NmY3bk5lcjZVR2hmZkhpeVVHMm5OSG9tb3VDaFA0MmtMMU56UzR4VnFpWHVSNG9tQVhvVmtMSUIzNTVFV3Q1eVhZQ2hjbDFuVl9pZjEzc0pPUE5vVGRoVFFGcExqLVdCV3J4LTNRT1JoWFh5MlV5b05YY3ZqOFB3V0UwdzlF?oc=5",
           "source": "MeinBezirk.at",
           "date": "6. Jul 2026"
-        },
-        {
-          "title": "Ab heute wird Öffi-Fahren teurer: Diese Preise gelten jetzt in der Steiermark - MSN",
-          "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQeUFVNXMwbVpJQXEyS0JTZ1IyTFJvOUlDNUVUOXA0MDA2YlVWQ1I0NTl5QU5zclZiZDJPNzkyTG5aMmhMaWwwZ3dncHUwbkhZZ05Xd2RSbTFHcjFwWGxJbVhGS1R2RkJpZU5pREpaRjE3b3hYcmsyWGdqTEtrZHA1SzVNT3ZMYVlSTFl3R2ZKRmVNVnR2R01pTlhaLWRmcVdpVmFub0wtS0ZxeFA5bl91bGYtTkVQRHp1LUt0WUZTZ1FxTDk3MFNDclRXTmUwaWpMR2hPaVRabGZDM1JZWVNSN0RiUFlNLW96eVNaMmpZQ2J2TWdEeEs4NDZDN1VoQlFJNnM5OVItN1ROZG16T1VTcXNYNUpOMGlJSVdTRXhsQ1FQTG85MDFxR0doN3pMZmRxRUhLcDg0NGk4MmlrV3lTVEQ3TjRSTExlTzQ2SlRzdU5kX0JCOE9SRVNwV0hBTFJLWkprdzNRbDJGZw?oc=5",
-          "source": "MSN",
-          "date": "1. Jul 2026"
         },
         {
           "title": "Bus, Bim und S-Bahn werden teurer: Das kosten Öffis ab 1. Juli - inside-graz.at",
@@ -77,28 +77,16 @@
           "date": "5. Jul 2026"
         },
         {
-          "title": "17-Jähriger kollidiert nach Spinnen-Schreck mit Bus - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObjRNQjg1M1VVbUdJZXhaeEFuZ2podkp1VGNRazlhaGdQelpvWWdtMTczaUpnUFV3NHpmajBQcV9WN0loOXprMWh3ODZtNzd2cjNsRjN1V2E3MTZET1I3ZVlvbGtiemt1UVRRREk3T3p3d1JxdUNtQWQwQUcxVndFZ0ZxMEFydWRpdGNaWWZGX2ZObEh0NTFIZTVR?oc=5",
-          "source": "ORF ON",
-          "date": "1. Jul 2026"
-        },
-        {
-          "title": "Tiefgarage statt Bahn: Weizer ÖVP: „Es war ein Fehler, den Zug bis in die Stadt zu führen“ - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVUdtOWFyY2YtdHVfZXV0emRrc1pfZTNMNWJwWWgzQ3dJcFRNV21pcHpiUjlTMzNQLW10MVdxWTBSZHgxUWJYeF9mMm5ta0NCR2FYWU9scy0tRk95cGhxbkhzbW5lNWlPSVVNeDVQb1VkUi1NRHF3SGJzRGdteWRENDZ5eTAwUURFQmJNc0JsUXFRZFZnYy1aME5HWmhMUFFUN29uNGlDcGNDTDM2d092Zg?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "6. Jul 2026"
+          "title": "Debatte im Landtag - Neuer Großbahnhof: Bus-Anschlüsse sorgen für Ärger - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1kZ1FYaDExRnBfZzZvX29HYWplWlFYY0J6UWdIWmo1SlZxMTVTUzlLN05RVW9CZkVXWEVGQnlMdTRzZw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "9. Jul 2026"
         },
         {
           "title": "Zugausfall mit Folgen - GKB: Pendler-Frust zum Start in die Arbeitswoche - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9CajBkNlNuWUNwM3MwQ29UZ0x5N2FCcDJxZHlidF9KNW40VFhJa0c5cEMxdmY0Q2ctRFlBZThXakczUQ?oc=5",
           "source": "Kronen Zeitung",
           "date": "6. Jul 2026"
-        },
-        {
-          "title": "Verbesserung im Bahnverkehr: Mehr Züge Graz-Leoben in Sicht – Pendler fordern aber mehr - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTG9ISldCY1JQazBNR21HZDRiaWpLek1KODdtaTB6NGR4T0JNVjlrN1ZmdkRxSDdjQVlFNHk0R0Q1Y3MwNXp5dVpQeWZPRUJ2S2VQbXZMVFhnMW1zSzNEd04zaVAyMUVpNGFmeDUzajNYRG9PY3dhaUdnSTR2Mk80RW9xM0FnUlNuM3lfeUdSVElKTXVzTVBrMUg5aGFfTWk1ZV9TNjBFVFM5TUUzNXc?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "1. Jul 2026"
         }
       ]
     },
@@ -106,7 +94,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark setzt mit neuen Radwegverbindungen wie dem Koppentalradweg und kostenlosen E-Scooter-Trainings verstärkt auf nachhaltige Mobilität und Verkehrssicherheit. Angesichts steigender Verkehrstote fordert der VCÖ strengere Tempolimits, während auch medizinische Faktoren bei Unfällen eine zunehmende Rolle spielen.",
+      "summary": "Die Steiermark setzt verstärkt auf Verkehrssicherheit durch kostenlose E-Scooter-Trainings und die Förderung kinderfreundlicher Verkehrsräume, während gleichzeitig regionale Radwegenetze wie der neue Koppentalradweg ausgebaut werden. Gleichzeitig werden Regelungen für Radfahrer verschärft und die Bedeutung nachhaltiger Mobilität durch Aktivisten wie Martin Wolf unterstrichen, der sich für den öffentlichen Nahverkehr engagiert hat.",
       "items": [
         {
           "title": "Strafe bei Radunfall ohne andere Beteiligte - steiermark.ORF.at",
@@ -121,12 +109,6 @@
           "date": "3. Jul 2026"
         },
         {
-          "title": "VCÖ fordert strengere Tempolimits: Immer mehr Verkehrstote in der Steiermark - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLXNGUTM3RzFjb0xNVldZUmt0MG9IQ1lZVll2ODJyc0V1d3VTUzNoZzZjMGRsTFFCdjMzbURhekhhSWxJd0RtWGRoTmY5bk4xMGVRX21JdFBtM0Ztbk4xcHlYNndEU0NfTmFhczU5ZDJRQ0VPQXlvVlJvTXFHYTV1aEpPVWxqTC1WVHVlUHNnVUN1ckkyNnBkeDNQQTEwLVBRaDd2SmNwQ1RwcF8z?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "5. Jul 2026"
-        },
-        {
           "title": "Kostenlose E-Scooter-Trainings sollen die Verkehrssicherheit erhöhen - Land Steiermark News Portal",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvQ245WU51QUF5Ql92Zmg0VWs0VFktLXNZVTdmVkR6a1I2X2RLMDVwYy1ScGtlUXZCRFF2LVdUbFBidnktOGw5UGtaMVhtSnphRkI0cnBIaUFWWVotUi00MzlQNU1JRldGSnJsNWpB?oc=5",
           "source": "Land Steiermark News Portal",
@@ -139,10 +121,10 @@
           "date": "2. Jul 2026"
         },
         {
-          "title": "Verkehrsunfälle zuletzt oft medizinisch bedingt - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmS2JLUHRrOFZ3cmRkbFVzZE9wQ2VWLXh4VXdyVjRHeGgtZTFGU3FBZGc0d3pRMXM2RzB6NnF5WE5ySmZWUmhDOUt5U0tndFNGN0VCcw?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "7. Jul 2026"
+          "title": "Mitterdorf a. d. Raab: Wo Verkehrssicherheit und Kinderfreundlichkeit großgeschrieben werden - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT2dDLXBYcG94UzRmcldxX3M0V25jZzZvemMyR0Z3dUN6Y3lrSjljSUg3WFg2UWhaY2Rlc3ZMU01IekVEYmlkU1FuQlBXVmd6VEZuSi12VndzdGFvM3QybUdYXzR5SWRXTzdtUUdSMjh6a3hCT0pNZ1ZYY0NyTTFoWVpOZzh2aUVfSVpheG0zdm5xLUlnaXVPRWhVQ3QwY0xBUk14RE95V0lUekRucnZYODN4QVdLbVlxTjI1cA?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "8. Jul 2026"
         },
         {
           "title": "Graz trauert um Martin Wolf: „Pro Bim“-Aktivist ist verstorben - 5 Minuten",
@@ -156,13 +138,13 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark lockert ihre Bauvorschriften durch den Wegfall der Genehmigungspflicht für Klimaanlagen, um Bauvorhaben zu vereinfachen. Gleichzeitig intensiviert das Land seine Zusammenarbeit mit Salzburg bei der Optimierung von Spitalsabteilungen, um Ressourcen effizienter zu nutzen.",
+      "summary": "Die Steiermark intensiviert ihre Zusammenarbeit mit Salzburg bei der Optimierung von Spitalsabteilungen, um Ressourcen effizienter zu nutzen und Synergien zwischen den Bundesländern zu schaffen. Parallel dazu finden in Graz umfangreiche Fahrbahnsanierungen am Glacis statt, die während der Sommermonate zu Verkehrsbeeinträchtigungen führen werden.",
       "items": [
         {
-          "title": "Genehmigungspflicht für Klimaanlagen wird entfallen! - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ndy0zLVgxSlVNVklWUkpBdWdCVDdTRnRLVElENUdrTG1UVm9sQmN5V011MWhUeVo5QVhlM0x0VVdJclp5SjFOdTJmRi0xRDA2WThMU1BpeTdvbWpiSC1MaXdJZWdSLUxPODMxUlVudw?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "1. Jul 2026"
+          "title": "Fahrbahnsanierung: Am Grazer Glacis wird es den Sommer über eng - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRm4yMjRMM3kxY2FFTjlQLXNjbFVZQlF1b1FPYUpMX01VbDFHcFhJS2NEQVNYV2NlUkhOMTU3cHpwT2c1UEF3NGN2dlpYdHJqNndlZTl6NFNubVNqbFFGQXMtVGUtRnJ0N19YWkU4cG9tLWhxWFRVRDd0UU1oamkxUExTWVR5WEZRWUNqUHdKQ2NRUEJkaFE?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "8. Jul 2026"
         },
         {
           "title": "Aus für Spitalsabteilungen: Salzburg, Steiermark kooperieren - NÖN.at - Niederösterreichische Nachrichten",
@@ -182,8 +164,15 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Die Stadt Graz verteidigt ihre strikte Tiefgaragenregel gegen Lockerungsbestrebungen, obwohl bereits 610 Stellplätze ungenutzt bleiben. Die Behörde beharrt auf den geltenden Parkplatzvorschriften trotz der wirtschaftlichen Ineffizienz der Regelung.",
+      "items": [
+        {
+          "title": "610 leere Stellplätze: Stadt Graz wehrt sich gegen Aufweichen der kuriosen Tiefgaragenregel - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZzZkdllWUFMtbVpRV2dSNWhqb0ZTM2JyT3NFd2NvTUJHXzY3MmlET2ZxX3p4MGtWU05fd3FOX0twVnZFNVk3aS03UEhSZ2I3NTRpWHhGQ1BTbjBnRm56SnZiMWx6dG5FQjl5LS1pZDFWWGh2clZUenBKLW1NTVhnWmNFYm5kS1ptSTg3alBBNVJVdWpuX0tSNHRtRWp4aS1mSUxzaXJ3aXNia0hyWVEzcnRRX0c?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "7. Jul 2026"
+        }
+      ]
     }
   }
 }
