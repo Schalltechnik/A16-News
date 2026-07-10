@@ -1,19 +1,13 @@
 {
-  "generated": "09. July 2026, 06:29 UTC",
+  "generated": "10. July 2026, 06:28 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "In der Steiermark finden mehrere bedeutende Straßensanierungen statt, darunter die Fahrbahnerneuerung am Grazer Glacis und die zweimonatige Sperrung der St.-Jakober-Straße, während gleichzeitig das Straßenbauprogramm 2026 in der Oststeiermark vorangetrieben wird und die L 428 einer Totalsperrung unterliegt. Parallel dazu ereignen sich mehrere schwere Verkehrsunfälle in der Region, die teilweise durch Alkoholeinfluss verursacht werden und zu Todesfällen sowie Verletzungen führen.",
+      "summary": "In der Steiermark finden mehrere bedeutende Straßensanierungen statt, darunter die zweimona­tige Sperrung der St.-Jakober-Straße und Fahrbahnsanierungsarbeiten am Grazer Glacis, während das Straßenbauprogramm 2026 in der Oststeiermark fortgesetzt wird. Parallel dazu kommt es zu schweren Verkehrsunfällen auf steirischen Straßen, insbesondere verursacht durch alkoholisierte Fahrer, die teilweise tödliche oder lebensbedrohliche Folgen haben.",
       "items": [
-        {
-          "title": "Steiermark: 83-jähriger Motorradfahrer tödlich verunglückt - Kurier",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMFlYczByX3BzRlFJOVZxR0tDTmFhNGZhUEpzSUl3M0FjbHpaUlBORTRmNHNlYkV2MXV2cUtxRUtaNXRVOVNqSnFrWUlnN1hmNXI2YlJ5WFJndEJ4R3NqRkJHMnp6UVUyM2hhRGJrRzNFM21OeVM5eE9ONzN5VF82TTdFNFNhTkpnLTFwNGF4MURFSnZS?oc=5",
-          "source": "Kurier",
-          "date": "7. Jul 2026"
-        },
         {
           "title": "Alkolenker (27) kracht frontal in Auto – schwebt nun in Lebensgefahr - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY25NMXJNbEVEOUZjZzZLX3Z1ekxfT3dpQWtmVENnM1FIcGhtT0luN3pmV0pQU2hONWdMN005SUxobTVMZG1sTEZDamU2aWtrcEJ5TUlucGNHRkZLeGgwellMZjFFUkF5QVhCOWxaUnJuLUp6bFVuTUVIdDQyeEx4Q0NINHlQVVlqQ2JRZDEtMHJvYXdLa2dwSzNVSHlNQkd4SnpUcklLVFNuT2c3MVhF?oc=5",
@@ -33,15 +27,21 @@
           "date": "5. Jul 2026"
         },
         {
+          "title": "St.-Jakober-Straße wegen Sanierung für zwei Monate gesperrt - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcmhwYzVBM0dPQks2TVJMd0NPV01FZ0NBSUsyM21fUE5XRmZiVm5kazAwRDVXZDEyRU1neUN5Q0ZRc2dzcHJZWC1XN3ZDSFZEemZBczdJZXBud3dHT3FJbTloTF9kRUhGTTNQOW1vUU9UMUFQMXNzUkYtWFlUdkI5UDA3NExTY1R3WURfZXNJOXBnQWRuQzZVek1ZMncyZlVIYkVLbGEyU0FoQQ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "7. Jul 2026"
+        },
+        {
           "title": "Fahrbahnsanierung: Am Grazer Glacis wird es den Sommer über eng - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRm4yMjRMM3kxY2FFTjlQLXNjbFVZQlF1b1FPYUpMX01VbDFHcFhJS2NEQVNYV2NlUkhOMTU3cHpwT2c1UEF3NGN2dlpYdHJqNndlZTl6NFNubVNqbFFGQXMtVGUtRnJ0N19YWkU4cG9tLWhxWFRVRDd0UU1oamkxUExTWVR5WEZRWUNqUHdKQ2NRUEJkaFE?oc=5",
           "source": "Kleine Zeitung",
           "date": "8. Jul 2026"
         },
         {
-          "title": "St.-Jakober-Straße wegen Sanierung für zwei Monate gesperrt - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcmhwYzVBM0dPQks2TVJMd0NPV01FZ0NBSUsyM21fUE5XRmZiVm5kazAwRDVXZDEyRU1neUN5Q0ZRc2dzcHJZWC1XN3ZDSFZEemZBczdJZXBud3dHT3FJbTloTF9kRUhGTTNQOW1vUU9UMUFQMXNzUkYtWFlUdkI5UDA3NExTY1R3WURfZXNJOXBnQWRuQzZVek1ZMncyZlVIYkVLbGEyU0FoQQ?oc=5",
-          "source": "Kleine Zeitung",
+          "title": "Steiermark: 83-jähriger Motorradfahrer tödlich verunglückt - MSN",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbDZlam1SMnpZVTRyRHlZUng5dVN2ZVFlc18zV19JSlBMVHdjZ2ZFTHBSYVJxZFd2YnlIWlNYUThRSG1JRGlwU3duVGxBRFRHS1EwTnBoUnRzbGdHWTFZTEVDdk5sV25DU2FXY096aU9MekJSRWx0bVMtel9fLU5VekRFN0lFMTM2SGMzLXhJb3ZYb0d3T1BmRm42Mk85dDJwblhFV1JjaEdmc2NRdzlBVEFWbjg2R1RqMEZtMno4bnhwODRjOGFuOUhn?oc=5",
+          "source": "MSN",
           "date": "7. Jul 2026"
         },
         {
@@ -54,7 +54,7 @@
           "title": "Ab kommenden Montag Totalsperre der L 428 - Land Steiermark News Portal",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80dmZPc2E2WFJRTlNfSDREUXZ3eWd4WVVONXltSHV1S0JkRktNTkNjTldXUHBLNTNhcmZsdU5VSEFzdEtuNmRQTnlyenY4TGU3cFRZYjNrRXFmcDVWNW16MDQ4aWQzaE5zV1NVQmJoUQ?oc=5",
           "source": "Land Steiermark News Portal",
-          "date": "7. Jul 2026"
+          "date": "8. Jul 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Das Sammeltaxi „flux\" entwickelt sich trotz anfänglicher Schwierigkeiten zu einem Erfolgsmodell im steirischen Mikro-Öffentlichen Verkehr, während gleichzeitig die Fahrtkosten für Bus, Straßenbahn und S-Bahn ab Juli 2024 erhöht werden. Zusätzlich sorgen unzureichende Busanbindungen beim geplanten neuen Großbahnhof für politische Debatten, und Zugausfälle bei der GKB verursachen Pendler-Frustration.",
+      "summary": "Das Sammeltaxi „flux\" verzeichnet trotz anfänglicher Schwierigkeiten starkes Wachstum, während die Fahrtpreise für Bus, Bim und S-Bahn ab Juli 2024 erhöht werden. Gleichzeitig sorgen Infrastrukturprobleme wie unzureichende Busanbindungen am neuen Großbahnhof, Zugausfälle bei der GKB und die Reduktion von Busverbindungen zum Schöckl für Unmut bei Nutzern und in der Politik.",
       "items": [
         {
           "title": "Mikro-ÖV in der Steiermark: Sammeltaxi „flux“ nach holprigem Start auf Rekordkurs - MeinBezirk.at",
@@ -83,6 +83,24 @@
           "date": "9. Jul 2026"
         },
         {
+          "title": "Grazer Hausberg ohne Direktbus: Das ändert sich jetzt für Wanderer am Schöckl - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZDBwcVE1WGlmdFA3a3JkZk92a0ktV210S2t6S0lRUXdLRUJPVWhCU3p4NzhCREZZNUxZTEs0bmFwaGdjZ2JvbFRNd0tzTHQzTy1qejRETjJyOGxSaXoxMHpXaW83T29LUUo5aXFBbHQtRk8yakJhbXQxSDZJWGNISEpvNExWbE5aWTlHa1NQamNRNDV6THlLSTZGNlBCRmxiMUdxby0tQU5Mc3dwa0pyYjhwaGFFalcxd09F?oc=5",
+          "source": "5 Minuten",
+          "date": "10. Jul 2026"
+        },
+        {
+          "title": "Tiefgarage statt Bahn: Weizer ÖVP: „Es war ein Fehler, den Zug bis in die Stadt zu führen“ - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVUdtOWFyY2YtdHVfZXV0emRrc1pfZTNMNWJwWWgzQ3dJcFRNV21pcHpiUjlTMzNQLW10MVdxWTBSZHgxUWJYeF9mMm5ta0NCR2FYWU9scy0tRk95cGhxbkhzbW5lNWlPSVVNeDVQb1VkUi1NRHF3SGJzRGdteWRENDZ5eTAwUURFQmJNc0JsUXFRZFZnYy1aME5HWmhMUFFUN29uNGlDcGNDTDM2d092Zg?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "6. Jul 2026"
+        },
+        {
+          "title": "Schöckl Bus fährt unter der Woche nicht mehr zum Schöcklkreuz - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV0haYlk4VGMwZS1MU2dtOHl6UndlZGNsaXY0V0NyVTJGYkpTX3BlRnMtYnVOV2gxUy1MWjBYdlB3amRPcHVOTjBFQWZPM0V5ZUkzdEJPMnA5TnpWbTI1N0Vtak5Zdy1Fc0E1LVg1cG9yeHNScnFnZkZyekprbVRFeTV5Y2ZUNmtLYTk4UE5NTUFOclJVaTBuUDc4S1RFUnhhVGFkeTNkajZwUnB1dTNfTjY2WkRXUkdk?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "10. Jul 2026"
+        },
+        {
           "title": "Zugausfall mit Folgen - GKB: Pendler-Frust zum Start in die Arbeitswoche - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9CajBkNlNuWUNwM3MwQ29UZ0x5N2FCcDJxZHlidF9KNW40VFhJa0c5cEMxdmY0Q2ctRFlBZThXakczUQ?oc=5",
           "source": "Kronen Zeitung",
@@ -94,14 +112,8 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark setzt verstärkt auf Verkehrssicherheit durch kostenlose E-Scooter-Trainings und die Förderung kinderfreundlicher Verkehrsräume, während gleichzeitig regionale Radwegenetze wie der neue Koppentalradweg ausgebaut werden. Gleichzeitig werden Regelungen für Radfahrer verschärft und die Bedeutung nachhaltiger Mobilität durch Aktivisten wie Martin Wolf unterstrichen, der sich für den öffentlichen Nahverkehr engagiert hat.",
+      "summary": "Die Steiermark investiert verstärkt in nachhaltige Mobilität durch neue Radwegverbindungen wie den Koppentalradweg und kostenlose E-Scooter-Trainings zur Erhöhung der Verkehrssicherheit. Dabei werden besonders kinderfreundliche und sichere Verkehrsräume für alle Nutzer geschaffen.",
       "items": [
-        {
-          "title": "Strafe bei Radunfall ohne andere Beteiligte - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nWVVPM3gwSkJJYllselZiLWtmZXlsa29JYnoxV0pHSlNGZ3Mxc2FNRXJIb2k3Z1hwSDNZalgwRUlqcVVVMUZDcW9rRjlOdWFlLXdmUA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "2. Jul 2026"
-        },
         {
           "title": "Neuer Koppentalradweg verbindet Oberösterreich und die Steiermark - Tips.at",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQREYtUzJrVVZmYzhvUnMwTG5Fem5EcjdERTVEUkZYUENNRm16LVRBSXMyNm1lZkpxaTVXdjZ2OE9wT1NXQktRSlcybnNCSWxFSzZFVHFVLVZpUjlXeDFaOGdZRG1yd05RQnE5aUp4WTZpUGhxOGE2eFJjV2x5dm0yQng5SEVCZlNRS2EzWGMwU0pMU09fQVhyVl9oNU9MWjFDY2NiU012NTE5ZzhnUHZILVA1TVV2RXJOUkVLeWIwVHhjZw?oc=5",
@@ -115,22 +127,16 @@
           "date": "4. Jul 2026"
         },
         {
-          "title": "Kostenlose E-Scooter-Trainings starten in der Steiermark - FPÖ Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDEyUmwzQlBydkdpUUZoTm9KMnFIekhDMGFRbHJJZ0dGcG9xcU1qV1NldFVoZHFzUm1fTnUwRFBBREZKQjY4ZE55Tm1OVmtNUjV4c084TXhMTlBIMUlxZkIxekNvZEFUeHFFSzlQUWpiX2pTRHM0V1VrdVNvWmNzbTlxRC1oUU8wZGhwTUhnVTg1MkNLVGNzdQ?oc=5",
-          "source": "FPÖ Steiermark",
-          "date": "2. Jul 2026"
+          "title": "Start für kostenlose Kurse mit E-Scooter in der Steiermark - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMDQwWUtwYi1aOE4tNHE3MTJHNXZKWGh4bTJ2Vk9rY1dpUVVFQ0VETEZHWUdrR2JxNEdvTmpxY0g1anZERkJfaUNvOVJEQ0tBVk9vV1B5dHVuNHBocDhTWFdpUjBza1djdXNib1Q1TGxDOUFKUzlyd19oVG5haFNoVWRVcmtjeU9fTzdkbjNfQmw?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "4. Jul 2026"
         },
         {
           "title": "Mitterdorf a. d. Raab: Wo Verkehrssicherheit und Kinderfreundlichkeit großgeschrieben werden - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT2dDLXBYcG94UzRmcldxX3M0V25jZzZvemMyR0Z3dUN6Y3lrSjljSUg3WFg2UWhaY2Rlc3ZMU01IekVEYmlkU1FuQlBXVmd6VEZuSi12VndzdGFvM3QybUdYXzR5SWRXTzdtUUdSMjh6a3hCT0pNZ1ZYY0NyTTFoWVpOZzh2aUVfSVpheG0zdm5xLUlnaXVPRWhVQ3QwY0xBUk14RE95V0lUekRucnZYODN4QVdLbVlxTjI1cA?oc=5",
           "source": "MeinBezirk.at",
           "date": "8. Jul 2026"
-        },
-        {
-          "title": "Graz trauert um Martin Wolf: „Pro Bim“-Aktivist ist verstorben - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVWVrLVVka2NyZjZ1dEcxeEpiN3JaT1MyNE1OX2NkZ2dzSnBQN2lKUks1WWd5R0JsUGRlSnRoTjZOdWY4ZnUwejVQdHpWTU9yczZNRDA3eWRSOVRNTEJYb1lEbTNhSjB3ajhvQ1U3R0psQW5YZkp2cUoyWEpTdG02dW9ZM01laHA4R09ZckdTdUFrYnlGQkRNdXItLXY0eGVQ?oc=5",
-          "source": "5 Minuten",
-          "date": "2. Jul 2026"
         }
       ]
     },
@@ -138,14 +144,8 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark intensiviert ihre Zusammenarbeit mit Salzburg bei der Optimierung von Spitalsabteilungen, um Ressourcen effizienter zu nutzen und Synergien zwischen den Bundesländern zu schaffen. Parallel dazu finden in Graz umfangreiche Fahrbahnsanierungen am Glacis statt, die während der Sommermonate zu Verkehrsbeeinträchtigungen führen werden.",
+      "summary": "Salzburg und die Steiermark bauen ihre Zusammenarbeit im Gesundheitswesen aus und werden künftig Spitalsabteilungen kooperativ betreiben, um Ressourcen effizienter zu nutzen. Diese Kooperation führt zur Schließung von redundanten Abteilungen und konzentriert spezialisierte medizinische Leistungen an den leistungsfähigsten Standorten beider Bundesländer.",
       "items": [
-        {
-          "title": "Fahrbahnsanierung: Am Grazer Glacis wird es den Sommer über eng - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRm4yMjRMM3kxY2FFTjlQLXNjbFVZQlF1b1FPYUpMX01VbDFHcFhJS2NEQVNYV2NlUkhOMTU3cHpwT2c1UEF3NGN2dlpYdHJqNndlZTl6NFNubVNqbFFGQXMtVGUtRnJ0N19YWkU4cG9tLWhxWFRVRDd0UU1oamkxUExTWVR5WEZRWUNqUHdKQ2NRUEJkaFE?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "8. Jul 2026"
-        },
         {
           "title": "Aus für Spitalsabteilungen: Salzburg, Steiermark kooperieren - NÖN.at - Niederösterreichische Nachrichten",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZG5Xa01YeXlRRm9MMHB3M0hCRUZZREpWNVlxZTZqb0I4bzk4TzJQSmFuWU9oQnFOMzJsQnd6N0xkU2lsOXFzSmtaS1pUMDNia3ZwYVhTM2lmVzRzT2s0dEJQbzhVMHp0NDlLV2NyeXd3Um56UW5hd1N3N0RwT3UyQV94cGhOajVwQ2Q0MV9MR0xudUphUjBMblhhUElGemYtNEE?oc=5",
@@ -157,6 +157,12 @@
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQzNwUmNnb1AxRFh1R2VWbDNpczlLVTBsRDJyUG41LThzbTBscWVMN1Blb3Vodl9Cd2lSUUhhMzFMc2tnRExUYk1FSFlmRUo4MFN2VVVxb0I1cGxnbXFjWlQxaTBMMXRtUlk4eW5ramNCNmJvRjdEdVluVmRWRXFoRzl4clhnTGpqalZLOThFRmY?oc=5",
           "source": "VOL.AT",
           "date": "3. Jul 2026"
+        },
+        {
+          "title": "Aus für Spitalsabteilungen: Salzburg, Steiermark kooperieren - MSN",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQckFHalZfUnlLMW1fMFZ2UzRkajIxeXpuQXdJNHYycktmMG1IQVdrcWdvZDZ3RHQ5OF9ZVFhuNzdRaWhJcnN1Nk9TWGJELVF5dmNjQkQ3X2NmUHNpQUZ5emNyckJaNG1LX081QWM4RTRDbl9PbE9vWm40SEtscm1DV1VDX3hzM0I5amp1Wk1Yck9iTlRQX3F3WlhmbjFMVmd3Y2pEajZ4S1RGRkI1R09FcTB2c0hEbGR3VlBF?oc=5",
+          "source": "MSN",
+          "date": "3. Jul 2026"
         }
       ]
     },
@@ -164,7 +170,7 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Die Stadt Graz verteidigt ihre strikte Tiefgaragenregel gegen Lockerungsbestrebungen, obwohl bereits 610 Stellplätze ungenutzt bleiben. Die Behörde beharrt auf den geltenden Parkplatzvorschriften trotz der wirtschaftlichen Ineffizienz der Regelung.",
+      "summary": "Die Stadt Graz verteidigt ihre strikte Tiefgaragenregel gegen Lockerungsbestrebungen, da bereits 610 Stellplätze ungenutzt bleiben und eine Aufweichung der Vorschrift zu weiterer Überkapazität führen würde. Die Behörde setzt damit auf eine restriktive Parkraumpolitik, um die Verkehrssituation in der Stadt zu regulieren und unnötige Infrastrukturinvestitionen zu vermeiden.",
       "items": [
         {
           "title": "610 leere Stellplätze: Stadt Graz wehrt sich gegen Aufweichen der kuriosen Tiefgaragenregel - Kleine Zeitung",
