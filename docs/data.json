@@ -1,25 +1,13 @@
 {
-  "generated": "11. July 2026, 05:29 UTC",
+  "generated": "12. July 2026, 05:44 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die Nachrichtenmeldungen zeigen eine Häufung von schweren Verkehrsunfällen in der Steiermark, die überwiegend durch Alkoholeinfluss und Fahrfehler verursacht wurden. Parallel dazu laufen Straßenbaumaßnahmen wie das Straßenbauprogramm 2026 in der Oststeiermark und eine anstehende Totalsperre der L 428, während zu Ferienbeginn mit erhöhtem Verkehrsaufkommen am Grazer Glacis gerechnet wird.",
+      "summary": "In der Steiermark finden derzeit wichtige Infrastrukturmaßnahmen statt, darunter eine Fahrbahnsanierung am Grazer Glacis und eine Totalsperre der L 428, während gleichzeitig strategische Projekte wie ein Basistunnel zwischen der Steiermark und Niederösterreich diskutiert werden. Parallel dazu ereignen sich mehrere schwere Verkehrsunfälle auf steirischen Straßen, die zahlreiche Verletzte und Todesfälle zur Folge haben.",
       "items": [
-        {
-          "title": "Steiermark: 83-jähriger Motorradfahrer tödlich verunglückt - Kurier",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMFlYczByX3BzRlFJOVZxR0tDTmFhNGZhUEpzSUl3M0FjbHpaUlBORTRmNHNlYkV2MXV2cUtxRUtaNXRVOVNqSnFrWUlnN1hmNXI2YlJ5WFJndEJ4R3NqRkJHMnp6UVUyM2hhRGJrRzNFM21OeVM5eE9ONzN5VF82TTdFNFNhTkpnLTFwNGF4MURFSnZS?oc=5",
-          "source": "Kurier",
-          "date": "7. Jul 2026"
-        },
-        {
-          "title": "Alkolenker (27) kracht frontal in Auto – schwebt nun in Lebensgefahr - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY25NMXJNbEVEOUZjZzZLX3Z1ekxfT3dpQWtmVENnM1FIcGhtT0luN3pmV0pQU2hONWdMN005SUxobTVMZG1sTEZDamU2aWtrcEJ5TUlucGNHRkZLeGgwellMZjFFUkF5QVhCOWxaUnJuLUp6bFVuTUVIdDQyeEx4Q0NINHlQVVlqQ2JRZDEtMHJvYXdLa2dwSzNVSHlNQkd4SnpUcklLVFNuT2c3MVhF?oc=5",
-          "source": "5 Minuten",
-          "date": "5. Jul 2026"
-        },
         {
           "title": "Zehn Verletzte bei Verkehrsunfall in Tragöß - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLaGp6Y0lMRmJYVzhRUUdrcmhMdktxNU4yLWwzMW1kQ0otUlUwX25kMzdLVUNJXzU1elFxalBaOTNxZ1JtTnEwRW1UeGNULU9PSWlSQw?oc=5",
@@ -33,27 +21,39 @@
           "date": "5. Jul 2026"
         },
         {
+          "title": "Fahrbahnsanierung: Am Grazer Glacis wird es den Sommer über eng - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRm4yMjRMM3kxY2FFTjlQLXNjbFVZQlF1b1FPYUpMX01VbDFHcFhJS2NEQVNYV2NlUkhOMTU3cHpwT2c1UEF3NGN2dlpYdHJqNndlZTl6NFNubVNqbFFGQXMtVGUtRnJ0N19YWkU4cG9tLWhxWFRVRDd0UU1oamkxUExTWVR5WEZRWUNqUHdKQ2NRUEJkaFE?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "8. Jul 2026"
+        },
+        {
           "title": "Steiermark: 83-jähriger Motorradfahrer tödlich verunglückt - MSN",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbDZlam1SMnpZVTRyRHlZUng5dVN2ZVFlc18zV19JSlBMVHdjZ2ZFTHBSYVJxZFd2YnlIWlNYUThRSG1JRGlwU3duVGxBRFRHS1EwTnBoUnRzbGdHWTFZTEVDdk5sV25DU2FXY096aU9MekJSRWx0bVMtel9fLU5VekRFN0lFMTM2SGMzLXhJb3ZYb0d3T1BmRm42Mk85dDJwblhFV1JjaEdmc2NRdzlBVEFWbjg2R1RqMEZtMno4bnhwODRjOGFuOUhn?oc=5",
           "source": "MSN",
           "date": "7. Jul 2026"
         },
         {
-          "title": "Oststeiermark: So geht es mit dem Straßenbauprogramm 2026 weiter - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcUtFd2RCc2dwVXR1Nlo5TVhBTFJmcVM2OTVKSF8wT1BfRWloVmQzeTFVOVJNaEpMLTJzRUVzTkZld3d5SU5WYU9odk9LWUMyc3Y4dU9McWxDRmJ4U3VydklGWnBnTGpsalhacDhYTG1jRlNKXzY3WE8xZUpzMTRoYWRURW5YdnljS3dzZEw5bUtzRFNmRWEyUjNGbUd5cF9fQ3c?oc=5",
+          "title": "Diskussion rund um Basistunnel-Chancen: So wachsen Steiermark und Niederösterreich zusammen - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObUhXWWd3VGR1TW1vNVowMnZhejNiYW1BNHhPTWd2dm9OSEdtbFJuOGRFNjd2RVk1aV9EaFVUUUg4RW9JTjlNQldlR3Y3UlVBeE9EeWdOUmhDQ0U1emh3bl85SS1RV1g2eXdrbldLcWVBNkE0eU00S2FUakU5eGpPVlN0cUU2UlBDZW9aeVVkV1NCbDBZM09tWWxQWjFoa2FlSnFQS1VsWW9zdw?oc=5",
           "source": "MeinBezirk.at",
-          "date": "8. Jul 2026"
+          "date": "11. Jul 2026"
+        },
+        {
+          "title": "Steirer (30) im Spital - Vierter Motorradunfall in nur 24 Stunden - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB4dTVVMElBUVI0YnVvemRXa2xxUU1JaWFoclZIMXFVYllmM2w4bUdIcXdTTjFXd0ROeGFYci1jSURjQQ?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "11. Jul 2026"
+        },
+        {
+          "title": "Rettungshubschrauber auf der Straße: Schwerer Motorradunfall auf der Gaberl-Bundesstraße - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZDFWZE9tazJCcTBhNkZjeEJ0T1M5VTZCN3RmNEJTdDhBdHZjMFpTcjZhVUN5Q0U5bkVYcjhBejF3b2VnUVVFdVQ5bzFSMUJETWJ4UmhxdzVBWlZNT2JLRlpQeWNnLWhMX0ZDQmRXckpoc2dLalZOVUg4Xy02MmtRNVViR3dINlR0VkpRbkFXS24tNXo1bG9xNGxuZVoxR3o1UFQzR1hHdENERDQ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "11. Jul 2026"
         },
         {
           "title": "Ab kommenden Montag Totalsperre der L 428 - Land Steiermark News Portal",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80dmZPc2E2WFJRTlNfSDREUXZ3eWd4WVVONXltSHV1S0JkRktNTkNjTldXUHBLNTNhcmZsdU5VSEFzdEtuNmRQTnlyenY4TGU3cFRZYjNrRXFmcDVWNW16MDQ4aWQzaE5zV1NVQmJoUQ?oc=5",
           "source": "Land Steiermark News Portal",
-          "date": "8. Jul 2026"
-        },
-        {
-          "title": "Mit Ferienbeginn wird es am Grazer Glacis „eng“ - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CMGRxSklSSEpWUkhmVGJxNENTVHBESXFvbmlSU1IyTk42ZGptSnFwNUVsa3FNdFRCWGR2aGNrSTNBdVcwYzVSTkhDWEZXYmZ4OVVHT2h2NDZWNmdUdVVaeFk1Y0tjVThMaWJjbjRKamM1bTZ5LTJmUQ?oc=5",
-          "source": "Kommunikation - Land Steiermark",
           "date": "8. Jul 2026"
         }
       ]
@@ -62,7 +62,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Das Sammeltaxi „flux\" verzeichnet trotz anfänglicher Schwierigkeiten starkes Wachstum im steirischen Mikro-ÖV-Angebot, während gleichzeitig die Fahrtkosten für Bus, Bim und S-Bahn ab Juli erhöht werden. Infrastrukturprojekte wie der geplante Großbahnhof und Streckensperrungen bei der GKB führen zu Herausforderungen bei Busanbindungen und Pendelverkehren, was Diskussionen über die Verkehrsplanung in der Steiermark auslöst.",
+      "summary": "Das Sammeltaxi „flux\" verzeichnet trotz anfänglicher Schwierigkeiten großen Erfolg, während die Öffi-Tarife ab Juli steigen und gleichzeitig Busanbindungen wie die zum Schöckl reduziert werden. Parallel dazu sorgen Zugausfälle bei der GKB für Pendler-Frustration, während innovative Mobilitätsprojekte aus der Steiermark neue Lösungsansätze für den öffentlichen Verkehr bieten.",
       "items": [
         {
           "title": "Mikro-ÖV in der Steiermark: Sammeltaxi „flux“ nach holprigem Start auf Rekordkurs - MeinBezirk.at",
@@ -77,16 +77,22 @@
           "date": "5. Jul 2026"
         },
         {
+          "title": "Debatte im Landtag - Neuer Großbahnhof: Bus-Anschlüsse sorgen für Ärger - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1kZ1FYaDExRnBfZzZvX29HYWplWlFYY0J6UWdIWmo1SlZxMTVTUzlLN05RVW9CZkVXWEVGQnlMdTRzZw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "9. Jul 2026"
+        },
+        {
           "title": "Grazer Hausberg ohne Direktbus: Das ändert sich jetzt für Wanderer am Schöckl - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZDBwcVE1WGlmdFA3a3JkZk92a0ktV210S2t6S0lRUXdLRUJPVWhCU3p4NzhCREZZNUxZTEs0bmFwaGdjZ2JvbFRNd0tzTHQzTy1qejRETjJyOGxSaXoxMHpXaW83T29LUUo5aXFBbHQtRk8yakJhbXQxSDZJWGNISEpvNExWbE5aWTlHa1NQamNRNDV6THlLSTZGNlBCRmxiMUdxby0tQU5Mc3dwa0pyYjhwaGFFalcxd09F?oc=5",
           "source": "5 Minuten",
           "date": "10. Jul 2026"
         },
         {
-          "title": "Debatte im Landtag - Neuer Großbahnhof: Bus-Anschlüsse sorgen für Ärger - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1kZ1FYaDExRnBfZzZvX29HYWplWlFYY0J6UWdIWmo1SlZxMTVTUzlLN05RVW9CZkVXWEVGQnlMdTRzZw?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "9. Jul 2026"
+          "title": "Schöckl Bus fährt unter der Woche nicht mehr zum Schöcklkreuz - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV0haYlk4VGMwZS1MU2dtOHl6UndlZGNsaXY0V0NyVTJGYkpTX3BlRnMtYnVOV2gxUy1MWjBYdlB3amRPcHVOTjBFQWZPM0V5ZUkzdEJPMnA5TnpWbTI1N0Vtak5Zdy1Fc0E1LVg1cG9yeHNScnFnZkZyekprbVRFeTV5Y2ZUNmtLYTk4UE5NTUFOclJVaTBuUDc4S1RFUnhhVGFkeTNkajZwUnB1dTNfTjY2WkRXUkdk?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "10. Jul 2026"
         },
         {
           "title": "Zugausfall mit Folgen - GKB: Pendler-Frust zum Start in die Arbeitswoche - Kronen Zeitung",
@@ -95,10 +101,10 @@
           "date": "6. Jul 2026"
         },
         {
-          "title": "Sperre von Zugstrecke sorgt für Parkplatzchaos - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tQXlYNGl1N294QktHMlppRGVCdDZ5VTNfYkRhNHZ6NjQ3MDREYkx6Y1VXU19IZ1ZNZk5GX3cxcTlZLUdNczdxZGN6MGJ0UDRmOWVnYw?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "10. Jul 2026"
+          "title": "VCÖ-Mobilitätspreis: Acht Ideen aus der Steiermark bringen Bewegung ins Land - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRnFtMENiNVhudGZxc2NGR2NDMGdsUDRaMDdVQXZuT1kwQVlKZ0RLMWRFMVl3cHlWaUJULWdfRFNvNDZUTXNLR3Y2VzVIRWFLOFdFQmlPOXhrYnhhSDF2SXVVeXhTV3FqaVZ2Sm9qSmpHSmJGbGhoZmdhekVQcm1KRnF6SGtDOU15ejRBZ25uZ0FxMGxPYThfRDRQX3ZrNkNNZG1uWUlQdFhUSk9LdVZSLXNFc1h2N0tVNVZlenZIZ1U?oc=5",
+          "source": "5 Minuten",
+          "date": "12. Jul 2026"
         }
       ]
     },
@@ -106,33 +112,14 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark setzt verstärkt auf Verkehrssicherheit durch niedrigere Tempolimits und kinderfreundliche Infrastruktur, um die steigende Zahl von Verkehrstoten zu reduzieren. Gleichzeitig werden innovative Mobilitätslösungen wie kostenlose E-Scooter-Kurse gefördert, um nachhaltige und sichere Verkehrsalternativen zu etablieren.",
-      "items": [
-        {
-          "title": "VCÖ fordert strengere Tempolimits: Immer mehr Verkehrstote in der Steiermark - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNC14N1otWE9fUWE3b2F0SWZFVlAtZzZrQ3dxQ2pHTnNDQkpmbWNHLWMtUzYxRFowOWJsanZxSmUyRGpnZ01xU2NqX243MEx0aWk0YW5WT0tydTVObWF5TWczNWhSeWNtckNYRzNXbFdhbmJ4WGRFYUtsc2RrSTItekdDYnlHRFZqcVFNbGYyMy1XVG9LbVctRFNzeldOQQ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "5. Jul 2026"
-        },
-        {
-          "title": "Start für kostenlose Kurse mit E-Scooter in der Steiermark - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMDQwWUtwYi1aOE4tNHE3MTJHNXZKWGh4bTJ2Vk9rY1dpUVVFQ0VETEZHWUdrR2JxNEdvTmpxY0g1anZERkJfaUNvOVJEQ0tBVk9vV1B5dHVuNHBocDhTWFdpUjBza1djdXNib1Q1TGxDOUFKUzlyd19oVG5haFNoVWRVcmtjeU9fTzdkbjNfQmw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "4. Jul 2026"
-        },
-        {
-          "title": "Mitterdorf a. d. Raab: Wo Verkehrssicherheit und Kinderfreundlichkeit großgeschrieben werden - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT2dDLXBYcG94UzRmcldxX3M0V25jZzZvemMyR0Z3dUN6Y3lrSjljSUg3WFg2UWhaY2Rlc3ZMU01IekVEYmlkU1FuQlBXVmd6VEZuSi12VndzdGFvM3QybUdYXzR5SWRXTzdtUUdSMjh6a3hCT0pNZ1ZYY0NyTTFoWVpOZzh2aUVfSVpheG0zdm5xLUlnaXVPRWhVQ3QwY0xBUk14RE95V0lUekRucnZYODN4QVdLbVlxTjI1cA?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "8. Jul 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "landeshochbau": {
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Ich kann diese Aufgabe nicht erfüllen, da Sie nur einen Nachrichtentitel bereitgestellt haben, der sich zudem auf eine Fahrbahnsanierung bezieht und nicht auf Hochbau, Schulbauten oder öffentliche Gebäude im klassischen Sinne. Um zwei prägnante Sätze zu verfassen, benötige ich mehrere Nachrichtentitel zu Hochbauprojekten, Schulbauten oder Baukulturthemen in der Steiermark.",
+      "summary": "Ich kann diese Aufgabe leider nicht erfüllen, da Sie nur einen Nachrichtentitel bereitgestellt haben, der sich zudem auf eine Fahrbahnsanierung bezieht und nicht auf Hochbauprojekte, Schulbauten oder öffentliche Gebäude im klassischen Sinne. Um zwei prägnante Sätze zu verfassen, benötige ich mehrere Nachrichtentitel zu den genannten Themenbereichen wie Landeshochbau, Schulbauten oder Baukultur in der Steiermark.",
       "items": [
         {
           "title": "Fahrbahnsanierung: Am Grazer Glacis wird es den Sommer über eng - Kleine Zeitung",
@@ -146,7 +133,7 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Die Stadt Graz verteidigt ihre strikte Tiefgaragenregel gegen Lockerungsbestrebungen, da derzeit 610 Stellplätze ungenutzt bleiben und die Regelung als verkehrspolitisches Instrument zur Steuerung des Parkplatzangebots dient. Die Ernennung einer jungen steirischen Bezirkshauptfrau unterstreicht die zunehmende Chancengleichheit für Frauen in Führungspositionen der steirischen Verkehrsbehörden und Verwaltungsstrukturen.",
+      "summary": "Die Stadt Graz verteidigt ihre strikte Tiefgaragenregel gegen Lockerungsbestrebungen, da derzeit 610 Stellplätze ungenutzt bleiben und die Regelung als verkehrspolitisches Instrument zur Steuerung des Parkplatzangebots dient. Die Ernennung einer jungen steirischen Bezirkshauptfrau unterstreicht die zunehmende Chancengleichheit für Frauen in Führungspositionen der Verkehrsbehörden und Verwaltung.",
       "items": [
         {
           "title": "610 leere Stellplätze: Stadt Graz wehrt sich gegen Aufweichen der kuriosen Tiefgaragenregel - Kleine Zeitung",
