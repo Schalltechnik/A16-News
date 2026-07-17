@@ -1,13 +1,19 @@
 {
-  "generated": "16. July 2026, 05:28 UTC",
+  "generated": "17. July 2026, 05:29 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die Steiermark verzeichnet derzeit mehrere Straßensperrungen wie die Totalsperre der L 208 in Mureck und der L 428 ab kommenden Montag sowie Bauarbeiten am Hartberger Rochusplatz, während gleichzeitig ein Unfall in einem A9-Tunnel bei Graz zu erheblichen Verkehrsbehinderungen führte. Parallel dazu werden infrastrukturelle Zukunftsprojekte wie ein Basistunnel zwischen der Steiermark und Niederösterreich diskutiert, um die regionale Verbindung zu verbessern.",
+      "summary": "In der Steiermark häufen sich schwere Verkehrsunfälle mit mehreren Todesfällen und Verletzten, die zu Sperrungen von Tunneln und Bundesstraßen sowie erheblichen Verkehrsbehinderungen führen. Parallel dazu werden Infrastrukturprojekte wie die Totalsperre der L 208 in Mureck durchgeführt und Diskussionen über den Basistunnel zwischen Steiermark und Niederösterreich geführt.",
       "items": [
+        {
+          "title": "Drei Todesopfer in der Steiermark innerhalb nur einer Woche - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWDQ4LTBpTmdOdXRuWG5sOVpqeUxMcXlzMUdNeFh3YnZsQ2ZlTjFyWnoyc2dOVHQ1am9ncTVvZlVDa0QtVVV6bllrbkR5UXB0dnpjaGhuYWU0SVFJdnRNdHpSV3lYdU9rVW9QZUhHSDVieDBIbE9WY1JUT09QYkJCWjh0cVR1SzhGdTAzVDFNUmYySXJDSkozMnFramc5ZjU5djZnd1E3TGg?oc=5",
+          "source": "5 Minuten",
+          "date": "13. Jul 2026"
+        },
         {
           "title": "Ab morgen Totalsperre der L 208 in Mureck - Land Steiermark News Portal",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhZXJjdExKQWF2NURtRnVsN0lBTm0yQk5KY3c0Rllha19YRXVrc2cwTFB5bTFzUFZibTczcUt2TEY4WVRxY24zZW9uVnA1SXlaU2FaZUJwbU9mdGt0c1lsajZ6am1lWExNekthWTc1NA?oc=5",
@@ -45,16 +51,10 @@
           "date": "11. Jul 2026"
         },
         {
-          "title": "Ab kommenden Montag Totalsperre der L 428 - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80dmZPc2E2WFJRTlNfSDREUXZ3eWd4WVVONXltSHV1S0JkRktNTkNjTldXUHBLNTNhcmZsdU5VSEFzdEtuNmRQTnlyenY4TGU3cFRZYjNrRXFmcDVWNW16MDQ4aWQzaE5zV1NVQmJoUQ?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "12. Jul 2026"
-        },
-        {
-          "title": "Bauarbeiten rund um den Hartberger Rochusplatz - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lc01VQ1h1cGV2dU5tX19TU1gwcjNSRC0tVjVnY2xuWnpvXzhKQVdFU2dYc1V2aVRHRlE5RW8yaHFwMi0yZ2lpbEEwMWRrbnhWbzVfU1NVLUFBeDVsTnJYYi1zeDEzekFpOHNPMXZSQQ?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "13. Jul 2026"
+          "title": "Grazer Zentrum: An neuralgischer Kreuzung kommt es ab heute zu Verkehrsbehinderungen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR0x2Y1ROU21EVGp5VGQtMC00T2M4bTJJakVtRmlJZzgyTnFTYTJMUWJVYWZnbEhDd19rci03bldpNDR6Y2lVbW96SjljRGxQclJyNlVIdmtRRGFQR0V6SDRpR3E4QnZaNU40UHc1eEpibEtSWFZNVER5RU5PM2g3OEtXVGMwRVQ4UnlEVngzQ1BrWExrRXBfVURIcWpKZkIyMkZ1MkgzUjRVZFN6Mnd2aXNoR1U?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "15. Jul 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Steiermark investiert in den Ausbau des öffentlichen Verkehrs mit neuen Infrastrukturen wie dem Busbahnhof Graz Andreas-Hofer-Platz (2026) und einer E-Werkstätte der GKB, während gleichzeitig Busverbindungen optimiert werden – etwa mit erhöhten Takten in Leoben und neuen Erlebnisbussen für Tourismusregionen. Allerdings zeigen sich auch Herausforderungen wie Streckensperrungen und Fahrplanreduktionen beim Schöckl Bus, die auf die Notwendigkeit einer besseren Koordination des Verkehrsangebots hindeuten.",
+      "summary": "Die Steiermark investiert verstärkt in den regionalen Busverkehr mit neuen Linien, verbesserten Fahrplänen und touristischen Angeboten, während gleichzeitig Infrastrukturprojekte wie der neue Busbahnhof Graz und optimierte Stadtbusverbindungen umgesetzt werden. Diese Maßnahmen sollen die Mobilität in der Region fördern und den öffentlichen Verkehr als attraktive Alternative zum Individualverkehr stärken.",
       "items": [
         {
           "title": "Steirische Erlebnisregionen rollen jetzt mit eigenen Bussen durchs Land - Der Grazer",
@@ -71,16 +71,22 @@
           "date": "15. Jul 2026"
         },
         {
-          "title": "GKB startet Bau der neuen E-Werkstätte in Graz - BMIMI INFOTHEK",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTjF1azU2V2VHUGpDSjFLbE5MYnlQR3MxTi00VW1XQXVGRmVXQmdzbl9BZGphcGx3NHpWaDg2dlEtSHBQLWRhcVFrcnhFR09GMVk0a19XVnd1QTBaR1hDVENHMmQwWHNWTzIxZzVvZFlJVS12V2otVXVTZDI1Q1czMmZkcw?oc=5",
-          "source": "BMIMI INFOTHEK",
-          "date": "15. Jul 2026"
+          "title": "Oststeiermark Tourismus setzt auf Regiobus und MICE - wirtschafts-nachrichten.at",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcTVkYk9laDF5cmcxTE1OUjIzUDM0VERfcWIwQy1oaVdZOFYwS0RkN0dON0J2R3lBVHY5M25VZmE2aEN2VExNVVdQbWJjbElyM21aM1pBZHJPdzIzd0ZCSDJ5QlhJTC1qaHk3QUQ1QmpDS2Eyd19mVFU1WWFUdEF6NVlzLWNPa2d3YmNaWHVHTFJBOHpYdkNMVldGZklFLURHWjdkaWlQVFZIUFdPbk14ZGkwek9idU1kblBQaGNtU3VGYm1oZDFyMmFXTQ?oc=5",
+          "source": "wirtschafts-nachrichten.at",
+          "date": "16. Jul 2026"
         },
         {
-          "title": "Schöckl Bus fährt unter der Woche nicht mehr zum Schöcklkreuz - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV0haYlk4VGMwZS1MU2dtOHl6UndlZGNsaXY0V0NyVTJGYkpTX3BlRnMtYnVOV2gxUy1MWjBYdlB3amRPcHVOTjBFQWZPM0V5ZUkzdEJPMnA5TnpWbTI1N0Vtak5Zdy1Fc0E1LVg1cG9yeHNScnFnZkZyekprbVRFeTV5Y2ZUNmtLYTk4UE5NTUFOclJVaTBuUDc4S1RFUnhhVGFkeTNkajZwUnB1dTNfTjY2WkRXUkdk?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "10. Jul 2026"
+          "title": "12. Juli 2026: RegioBus Weiz bekommt neue Fahrpläne, neue Linien - Verbund Linie",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdHlkUi05Rk92TFVGeU5zbzl3eUhJRXYtU2gwUi15RC05RDd4eEp4aU5HYVYzUUVlb1NCTDVaYm1qVDg4LUJUbUVZQmZ3SmhUQnk0QVI5Ql8tRkJ5bUhBNno4TVpucHJoQXNFR1ZsUllNdm5ZeXJLTWZxa1psYXRoZjNnNFZvMGx1T1djVEp6bXlISGxKOUV2Sm1Na3MxZXVfTzBYdG4yZjFpbWk2WmFTdkRrT1hOOEJXMGJpVnI1LVFGN1FiSFlR?oc=5",
+          "source": "Verbund Linie",
+          "date": "12. Jul 2026"
+        },
+        {
+          "title": "Graz: Regionsbusse werden zu den Botschaftern der Erlebnisregion - Der Grazer",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWTNncFRMVzZjRjVHX2ZkRTRKWFBiU0EzanRuZVpYOHZhQXdXYWludXpqczR5VHVuRlVOMWFVV0IyN0xrWFBCOS11dThlQnJxQk5nQTR0MGhMSnZTSGJzc09KTDl6aVZvOGUyN1htN2VMVHdpelBIY252MDRYRzhiMC1TcThHTVpTYWd2NlhB?oc=5",
+          "source": "Der Grazer",
+          "date": "16. Jul 2026"
         },
         {
           "title": "LEOBEN/PROLEB: Stadtbusse nach Proleb fahren seit Juli im Halbstundentakt - Kleine Zeitung",
@@ -112,7 +118,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark zeigt mit acht innovativen Projekten von E-Mobilität bis Barrierefreiheit ihr Engagement für nachhaltige und inklusive Verkehrslösungen im Wettbewerb um den VCÖ-Mobilitätspreis 2026. Ein tragischer Verkehrsunfall mit einem 16-Jährigen in der Mürz unterstreicht jedoch die anhaltende Notwendigkeit verstärkter Verkehrssicherheitsmaßnahmen, besonders für junge Fahrerinnen und Fahrer.",
+      "summary": "Die Steiermark zeigt mit acht innovativen Projekten von E-Mobilität bis Barrierefreiheit großes Engagement im Wettbewerb um den VCÖ-Mobilitätspreis 2026, während ein schwerer Verkehrsunfall mit einem 16-Jährigen in Mürz die anhaltenden Herausforderungen der Verkehrssicherheit unterstreicht.",
       "items": [
         {
           "title": "E-Mobilität bis Barrierefreiheit: Acht steirische Projekte im Rennen um den VCÖ-Mobilitätspreis 2026 - MeinBezirk.at",
@@ -132,13 +138,19 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Das Land Steiermark investiert in die Infrastruktur seiner Liegenschaften, wie der Spatenstich für das neue Hundehaus im Tierheim Kapfenberg zeigt. Parallel modernisiert die GKB ihre technische Ausstattung durch den Bau einer neuen E-Werkstätte in Graz.",
+      "summary": "Das Land Steiermark investiert in die Infrastruktur des Tierheims Kapfenberg mit dem Spatenstich für ein neues Hundehaus, während die Grazer Kommunalbetriebe parallel den Bau einer modernen E-Werkstätte in Graz in Angriff nehmen. Diese Projekte zeigen das Engagement der Steiermark für verbesserte öffentliche Einrichtungen und nachhaltige Infrastrukturentwicklung.",
       "items": [
         {
           "title": "Spatenstich für neues Hundehaus im Tierheim Kapfenberg - Land Steiermark News Portal",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuVGtZM081cnF3d09GSnpsY0ZwdHZLWGN6OE1Fb0Q1c2VWRDA1RUJJS0FUZ0VLV3h2ODRYWGlvZ1d6SGpvbFhVSWx1ck9MQVZ2NmxjQTBqc1FTT2NueXJ1bjNvdk9uRFl2LU1aZGNraw?oc=5",
           "source": "Land Steiermark News Portal",
           "date": "14. Jul 2026"
+        },
+        {
+          "title": "Steiermark: Spatenstich für neues Hundehaus im Tierheim Kapfenberg - Regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa0hlQVFabmJ1Q0lINDRoUDJ5cWs0OGs1NFdscFNEbUVEVjlaSHVILVFZYXlMNXR5T3cxWk5FZUpsNXdTbXlQT2FfSGJ3Ql8xWk5FSlp6VGg4dktkQmkwYkdGVERFUVNwbXBWblJQeHM5R29BTW1TaUhFSEptOF9LakVWMTBNeHNWcWlrdWh3VDhyc3VSU2MtU1FJajJPOVppOGR30gGjAUFVX3lxTE5rSGVBUVpuYnVDSUg0NGhQMnlxazQ4azU0V2xwU0RtRURWOVpIdUgtUVlheUw1dHlPdzFaTkVlSmw1d1NteVBPYV9IYndCXzFaTkVKWnpUaDh2S2RCaTBiR0ZUREVRU3BtcFZuUlB4czlHb0FNbVNpSEVISm04X0tqRVYxME14c1ZxaWt1aHdUOHJzdVJTYy1TUUlqMk85Wmk4ZHc?oc=5",
+          "source": "Regionews.at",
+          "date": "15. Jul 2026"
         },
         {
           "title": "GKB startet Bau der neuen E-Werkstätte in Graz - BMIMI INFOTHEK",
@@ -152,7 +164,7 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Die Steiermark lehnt die Einführung von beschleunigten Genehmigungsverfahren für Windkraftanlagen in definierten Beschleunigungsgebieten ab, was zu Spannungen innerhalb der Koalitionsregierung führt. Die Nachricht über die neue Bezirkshauptfrau ist inhaltlich nicht relevant für Verkehrsbehördenverfahren und UVP-Thematiken.",
+      "summary": "Die steirische Landesregierung lehnt die Einführung von beschleunigten Genehmigungsverfahren für Windkraftanlagen in definierten Beschleunigungsgebieten ab, was zu Spannungen innerhalb der Koalitionsparteien führt. Die dritte Meldung behandelt ein personalrechtliches Thema und ist für Verkehrsbehördenverfahren nicht relevant.",
       "items": [
         {
           "title": "Land lehnt Beschleunigungsgebiete mit Turbo-Verfahren für Windparks ab - Kleine Zeitung",
