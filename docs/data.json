@@ -1,12 +1,12 @@
 {
-  "generated": "18. July 2026, 05:12 UTC",
+  "generated": "19. July 2026, 05:38 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "In der Steiermark kommt es derzeit zu mehreren Totalverkehrssperrungen auf Landesstraßen (L 208, L 353, L 428), während auf übergeordneten Straßenachsen wie der A2 im Packabschnitt und der A9 bei Graz regelmäßig Staus und Unfallsituationen zu Beeinträchtigungen führen. Die Infrastruktur ist durch gehäufte Verkehrsunfälle, insbesondere Motorradunfälle, zusätzlich belastet.",
+      "summary": "In der Steiermark kommt es derzeit zu mehreren Straßensperrungen und Verkehrsbehinderungen: Die Landesstraßen L 208 in Mureck und L 353 im Raum Anger werden totalgesperrt, während im Grazer Zentrum und am Hartberger Rochusplatz Bauarbeiten zu Verkehrsbeeinträchtigungen führen. Zusätzlich entstehen auf übergeordneten Strecken wie der A2 im Packabschnitt und der A9 bei Graz durch Staus und Unfälle erhebliche Verkehrsbehinderungen.",
       "items": [
         {
           "title": "Ab morgen Totalsperre der L 208 in Mureck - Land Steiermark News Portal",
@@ -33,28 +33,16 @@
           "date": "17. Jul 2026"
         },
         {
-          "title": "Steirer (30) im Spital - Vierter Motorradunfall in nur 24 Stunden - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB4dTVVMElBUVI0YnVvemRXa2xxUU1JaWFoclZIMXFVYllmM2w4bUdIcXdTTjFXd0ROeGFYci1jSURjQQ?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "11. Jul 2026"
+          "title": "Grazer Zentrum: An neuralgischer Kreuzung kommt es ab heute zu Verkehrsbehinderungen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR0x2Y1ROU21EVGp5VGQtMC00T2M4bTJJakVtRmlJZzgyTnFTYTJMUWJVYWZnbEhDd19rci03bldpNDR6Y2lVbW96SjljRGxQclJyNlVIdmtRRGFQR0V6SDRpR3E4QnZaNU40UHc1eEpibEtSWFZNVER5RU5PM2g3OEtXVGMwRVQ4UnlEVngzQ1BrWExrRXBfVURIcWpKZkIyMkZ1MkgzUjRVZFN6Mnd2aXNoR1U?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "15. Jul 2026"
         },
         {
-          "title": "Rettungshubschrauber auf der Straße: Schwerer Motorradunfall auf der Gaberl-Bundesstraße - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZDFWZE9tazJCcTBhNkZjeEJ0T1M5VTZCN3RmNEJTdDhBdHZjMFpTcjZhVUN5Q0U5bkVYcjhBejF3b2VnUVVFdVQ5bzFSMUJETWJ4UmhxdzVBWlZNT2JLRlpQeWNnLWhMX0ZDQmRXckpoc2dLalZOVUg4Xy02MmtRNVViR3dINlR0VkpRbkFXS24tNXo1bG9xNGxuZVoxR3o1UFQzR1hHdENERDQ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "11. Jul 2026"
-        },
-        {
-          "title": "Rallye Weiz vom 16. - 18. Juli - ÖAMTC",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Sc1gzQnU2MndiNGcxSzR6OXVqNDZRS2xYZDczREdkY1lBR0RtZTRaaHVlMEpPR0doYng4YUZ6TE1lckZSeDVIMFgxd3RWUkczQUo1YTJuLS0wSjZWOHVQUE82b0F2OFlqMlV0UVRvUXFfWjVGXzEtaXFLakVBUQ?oc=5",
-          "source": "ÖAMTC",
-          "date": "11. Jul 2026"
-        },
-        {
-          "title": "Ab kommenden Montag Totalsperre der L 428 - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80dmZPc2E2WFJRTlNfSDREUXZ3eWd4WVVONXltSHV1S0JkRktNTkNjTldXUHBLNTNhcmZsdU5VSEFzdEtuNmRQTnlyenY4TGU3cFRZYjNrRXFmcDVWNW16MDQ4aWQzaE5zV1NVQmJoUQ?oc=5",
+          "title": "Bauarbeiten rund um den Hartberger Rochusplatz - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lc01VQ1h1cGV2dU5tX19TU1gwcjNSRC0tVjVnY2xuWnpvXzhKQVdFU2dYc1V2aVRHRlE5RW8yaHFwMi0yZ2lpbEEwMWRrbnhWbzVfU1NVLUFBeDVsTnJYYi1zeDEzekFpOHNPMXZSQQ?oc=5",
           "source": "Land Steiermark News Portal",
-          "date": "12. Jul 2026"
+          "date": "13. Jul 2026"
         }
       ]
     },
@@ -62,7 +50,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Steiermark investiert verstärkt in den Ausbau ihres Busnetzes mit neuen Linien, erweiterten Takten und modernen Infrastrukturen wie dem neuen Busbahnhof Graz, um den öffentlichen Verkehr attraktiver und effizienter zu gestalten. Gleichzeitig nutzen steirische Erlebnisregionen und Tourismusverbände die RegioBusse als Werbeträger und Mobilitätslösung, um Tourismus und nachhaltige Verkehrsmobilität zu fördern.",
+      "summary": "Die Steiermark modernisiert ihr Busangebot durch neue Regiobusse, die als Botschafter der Erlebnisregionen fungieren und touristische Ziele besser erschließen. Mit erweiterten Fahrplänen, neuen Linien und dem neuen Busbahnhof Graz Andreas-Hofer-Platz ab Juli 2026 wird die Infrastruktur des öffentlichen Verkehrs deutlich ausgebaut und verdichtet.",
       "items": [
         {
           "title": "Steirische Erlebnisregionen rollen jetzt mit eigenen Bussen durchs Land - Der Grazer",
@@ -71,16 +59,16 @@
           "date": "15. Jul 2026"
         },
         {
-          "title": "Oststeiermark Tourismus setzt auf Regiobus und MICE - wirtschafts-nachrichten.at",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcTVkYk9laDF5cmcxTE1OUjIzUDM0VERfcWIwQy1oaVdZOFYwS0RkN0dON0J2R3lBVHY5M25VZmE2aEN2VExNVVdQbWJjbElyM21aM1pBZHJPdzIzd0ZCSDJ5QlhJTC1qaHk3QUQ1QmpDS2Eyd19mVFU1WWFUdEF6NVlzLWNPa2d3YmNaWHVHTFJBOHpYdkNMVldGZklFLURHWjdkaWlQVFZIUFdPbk14ZGkwek9idU1kblBQaGNtU3VGYm1oZDFyMmFXTQ?oc=5",
-          "source": "wirtschafts-nachrichten.at",
-          "date": "16. Jul 2026"
-        },
-        {
           "title": "Fahrende Werbung: Elf RegioBusse werben für die steirischen Erlebnisregionen - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLWNPS213cVhwWmV5Wk83al9SbWdNZC02eTdBRFg1MDRWa0djQU5kYktZUHVfUGpxM2dVdDhYdXcwOVBhNEp3TGNJYUJGdVNCWG9fMUpfankzZ0tWaUJPVWE2RFE1NWJFQzAxWHpJdWNLcElJX2lZNkUwWmM1X1RhS2Z3aWozYS1HdjJncUZUWlBxdndVTlAtZlBSZ3lGT0JleWhfTkxRbi1mdjdrZEZtNQ?oc=5",
           "source": "MeinBezirk.at",
           "date": "15. Jul 2026"
+        },
+        {
+          "title": "Oststeiermark Tourismus setzt auf Regiobus und MICE - wirtschafts-nachrichten.at",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcTVkYk9laDF5cmcxTE1OUjIzUDM0VERfcWIwQy1oaVdZOFYwS0RkN0dON0J2R3lBVHY5M25VZmE2aEN2VExNVVdQbWJjbElyM21aM1pBZHJPdzIzd0ZCSDJ5QlhJTC1qaHk3QUQ1QmpDS2Eyd19mVFU1WWFUdEF6NVlzLWNPa2d3YmNaWHVHTFJBOHpYdkNMVldGZklFLURHWjdkaWlQVFZIUFdPbk14ZGkwek9idU1kblBQaGNtU3VGYm1oZDFyMmFXTQ?oc=5",
+          "source": "wirtschafts-nachrichten.at",
+          "date": "16. Jul 2026"
         },
         {
           "title": "12. Juli 2026: RegioBus Weiz bekommt neue Fahrpläne, neue Linien - Verbund Linie",
@@ -105,12 +93,6 @@
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc1lyeEtkTjdWV2g4UHZwUzh1dUdxQU5JV3poU21XcDVfN1BJSWFDemd5ejRpMkFUOXhRbEFnTUpNaE9neng1b3hNU2xvZkVVMy1rdHF2eXJZOGNnQXA4ZWZEX2FZd1l0MWJkWEFxem12cVRDbFB3S2RSeXVVa052VUdMQUZQSDllMkQ0Skh1cGl4NGViVTI5YlNaZXc3QlVNaVFJRUFOX1g5X1FQQzhaS3liMjd6TXNOLXFmbUpjNDByaHgtQXBSN2tR?oc=5",
           "source": "Verbund Linie",
           "date": "12. Jul 2026"
-        },
-        {
-          "title": "VCÖ-Mobilitätspreis: Acht Ideen aus der Steiermark bringen Bewegung ins Land - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRnFtMENiNVhudGZxc2NGR2NDMGdsUDRaMDdVQXZuT1kwQVlKZ0RLMWRFMVl3cHlWaUJULWdfRFNvNDZUTXNLR3Y2VzVIRWFLOFdFQmlPOXhrYnhhSDF2SXVVeXhTV3FqaVZ2Sm9qSmpHSmJGbGhoZmdhekVQcm1KRnF6SGtDOU15ejRBZ25uZ0FxMGxPYThfRDRQX3ZrNkNNZG1uWUlQdFhUSk9LdVZSLXNFc1h2N0tVNVZlenZIZ1U?oc=5",
-          "source": "5 Minuten",
-          "date": "12. Jul 2026"
         }
       ]
     },
@@ -118,7 +100,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark zeigt mit acht innovativen Projekten von E-Mobilität bis Barrierefreiheit Engagement für nachhaltige Verkehrslösungen, während ein schwerer Verkehrsunfall eines 16-Jährigen auf einem Radweg die anhaltenden Sicherheitsrisiken im Straßenverkehr unterstreicht. Der Vorfall verdeutlicht die Notwendigkeit verstärkter Verkehrssicherheitsmaßnahmen parallel zu den Bemühungen um zukunftsorientierte Mobilitätskonzepte.",
+      "summary": "Die Steiermark zeigt mit acht innovativen Projekten vom Ausbau der E-Mobilität bis zur Verbesserung der Barrierefreiheit großes Engagement für nachhaltige Verkehrslösungen und bewirbt sich um den renommierten VCÖ-Mobilitätspreis 2026. Ein tragischer Unfall eines 16-Jährigen, der mit seinem Auto auf einen Radweg fuhr und im Fluss landete, unterstreicht jedoch die weiterhin bestehenden Risiken im Straßenverkehr und die Notwendigkeit verstärkter Verkehrssicherheitsmaßnahmen.",
       "items": [
         {
           "title": "E-Mobilität bis Barrierefreiheit: Acht steirische Projekte im Rennen um den VCÖ-Mobilitätspreis 2026 - MeinBezirk.at",
@@ -131,12 +113,6 @@
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1lbFJFMW5TQ0FLWE11dlZrWEsyVEphaXNqeGxWVFFFRGNIX0l3cGh2dlZMMVIwQTRPanEtVDNEZXpFZw?oc=5",
           "source": "Kronen Zeitung",
           "date": "13. Jul 2026"
-        },
-        {
-          "title": "16-Jähriger mit Auto in Mürz gestürzt - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81YWRZd1FIUkJCTU5DQ3lCWDgyc1k5Q1NRcFpkRGNzRGo1R05rSmd3bkNSZXhqRjdraFdDTXlxVzF6V0pTdmY1M00tS2pZUmhsOEQycw?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "13. Jul 2026"
         }
       ]
     },
@@ -144,19 +120,13 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Das Land Steiermark hat den Spatenstich für ein neues Hundehaus im Tierheim Kapfenberg durchgeführt, das die Unterbringungsbedingungen für Hunde verbessern soll. Dieses Bauprojekt unterstreicht das Engagement des Landes für tiergerechte Infrastruktur und öffentliche Einrichtungen in der Region.",
+      "summary": "Das Land Steiermark unterstützt die Modernisierung des Tierheims Kapfenberg durch den Bau eines neuen Hundehauses, das bessere Bedingungen für die Unterbringung von Hunden schafft. Das Projekt zeigt das Engagement des Landes für tiergerechte Infrastruktur und nachhaltige Einrichtungen im Bereich des Tierschutzes.",
       "items": [
         {
           "title": "Spatenstich für neues Hundehaus im Tierheim Kapfenberg - Land Steiermark News Portal",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuVGtZM081cnF3d09GSnpsY0ZwdHZLWGN6OE1Fb0Q1c2VWRDA1RUJJS0FUZ0VLV3h2ODRYWGlvZ1d6SGpvbFhVSWx1ck9MQVZ2NmxjQTBqc1FTT2NueXJ1bjNvdk9uRFl2LU1aZGNraw?oc=5",
           "source": "Land Steiermark News Portal",
           "date": "14. Jul 2026"
-        },
-        {
-          "title": "Steiermark: Spatenstich für neues Hundehaus im Tierheim Kapfenberg - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa0hlQVFabmJ1Q0lINDRoUDJ5cWs0OGs1NFdscFNEbUVEVjlaSHVILVFZYXlMNXR5T3cxWk5FZUpsNXdTbXlQT2FfSGJ3Ql8xWk5FSlp6VGg4dktkQmkwYkdGVERFUVNwbXBWblJQeHM5R29BTW1TaUhFSEptOF9LakVWMTBNeHNWcWlrdWh3VDhyc3VSU2MtU1FJajJPOVppOGR30gGjAUFVX3lxTE5rSGVBUVpuYnVDSUg0NGhQMnlxazQ4azU0V2xwU0RtRURWOVpIdUgtUVlheUw1dHlPdzFaTkVlSmw1d1NteVBPYV9IYndCXzFaTkVKWnpUaDh2S2RCaTBiR0ZUREVRU3BtcFZuUlB4czlHb0FNbVNpSEVISm04X0tqRVYxME14c1ZxaWt1aHdUOHJzdVJTYy1TUUlqMk85Wmk4ZHc?oc=5",
-          "source": "Regionews.at",
-          "date": "15. Jul 2026"
         }
       ]
     },
@@ -164,7 +134,7 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Das Land Steiermark lehnt die Einführung von Beschleunigungsgebieten mit verkürzten Genehmigungsverfahren für Windkraftanlagen ab. Diese Ablehnung bedeutet, dass Windparkprojekte weiterhin das reguläre UVP- und Genehmigungsverfahren durchlaufen müssen, ohne von schnelleren Verwaltungsprozessen zu profitieren.",
+      "summary": "Das Land Steiermark lehnt die Einführung von Beschleunigungsgebieten mit vereinfachten Verfahren für Windkraftanlagen ab und setzt damit auf das reguläre UVP- und Genehmigungsverfahren. Diese Entscheidung bedeutet, dass Windparkprojekte in der Steiermark weiterhin den vollständigen administrativen Prozess mit allen Prüfschritten und Einspruchsmöglichkeiten durchlaufen müssen.",
       "items": [
         {
           "title": "Land lehnt Beschleunigungsgebiete mit Turbo-Verfahren für Windparks ab - Kleine Zeitung",
