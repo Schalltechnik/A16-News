@@ -1,12 +1,12 @@
 {
-  "generated": "19. July 2026, 05:38 UTC",
+  "generated": "20. July 2026, 05:55 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "In der Steiermark kommt es derzeit zu mehreren Straßensperrungen und Verkehrsbehinderungen: Die Landesstraßen L 208 in Mureck und L 353 im Raum Anger werden totalgesperrt, während im Grazer Zentrum und am Hartberger Rochusplatz Bauarbeiten zu Verkehrsbeeinträchtigungen führen. Zusätzlich entstehen auf übergeordneten Strecken wie der A2 im Packabschnitt und der A9 bei Graz durch Staus und Unfälle erhebliche Verkehrsbehinderungen.",
+      "summary": "Die Steiermark ist derzeit von mehreren erheblichen Verkehrsbeeinträchtigungen betroffen, darunter Totalsperrungen auf der Landesstraße 208 in Mureck und der L 353 im Raum Anger sowie ein Unfall im A9-Tunnel bei Graz mit Sperrung und Stau. Zusätzlich kommt es auf der A2 im Packabschnitt zu täglichen Staus und auf der B317 zu einer kompletten Straßensperrung nach einem Frontalcrash.",
       "items": [
         {
           "title": "Ab morgen Totalsperre der L 208 in Mureck - Land Steiermark News Portal",
@@ -33,16 +33,10 @@
           "date": "17. Jul 2026"
         },
         {
-          "title": "Grazer Zentrum: An neuralgischer Kreuzung kommt es ab heute zu Verkehrsbehinderungen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR0x2Y1ROU21EVGp5VGQtMC00T2M4bTJJakVtRmlJZzgyTnFTYTJMUWJVYWZnbEhDd19rci03bldpNDR6Y2lVbW96SjljRGxQclJyNlVIdmtRRGFQR0V6SDRpR3E4QnZaNU40UHc1eEpibEtSWFZNVER5RU5PM2g3OEtXVGMwRVQ4UnlEVngzQ1BrWExrRXBfVURIcWpKZkIyMkZ1MkgzUjRVZFN6Mnd2aXNoR1U?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "15. Jul 2026"
-        },
-        {
-          "title": "Bauarbeiten rund um den Hartberger Rochusplatz - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lc01VQ1h1cGV2dU5tX19TU1gwcjNSRC0tVjVnY2xuWnpvXzhKQVdFU2dYc1V2aVRHRlE5RW8yaHFwMi0yZ2lpbEEwMWRrbnhWbzVfU1NVLUFBeDVsTnJYYi1zeDEzekFpOHNPMXZSQQ?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "13. Jul 2026"
+          "title": "Frontalcrash auf der B317: Straße nach Unfall komplett gesperrt - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRVoxcUZpOWU1T0dhQUpsa2I0enFVaTFXT2tndnBSQ1BDTmlHSG91VXdmcC1Jbngtazd5a3VHREh3MjlBQnZKS1o0clh0N1o4RXViYU4zUC01MS1OYTh2X0lzYkluQno0MnVOTElwSGUtNlNHdnVUMnhFYkQyeFdFLXcyN3pHMklmMzJabS1KZDBUV1U2T2dtVnEyRFJpaVgyZnYzMC1iWUtDb2d0OGc?oc=5",
+          "source": "5 Minuten",
+          "date": "19. Jul 2026"
         }
       ]
     },
@@ -50,7 +44,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Steiermark modernisiert ihr Busangebot durch neue Regiobusse, die als Botschafter der Erlebnisregionen fungieren und touristische Ziele besser erschließen. Mit erweiterten Fahrplänen, neuen Linien und dem neuen Busbahnhof Graz Andreas-Hofer-Platz ab Juli 2026 wird die Infrastruktur des öffentlichen Verkehrs deutlich ausgebaut und verdichtet.",
+      "summary": "Die Steiermark investiert verstärkt in den regionalen Busverkehr, wobei spezialisierte Erlebnisbusse als Botschafter für Tourismusregionen fungieren und gleichzeitig der Nahverkehr in Städten wie Leoben durch verdichtete Fahrpläne optimiert wird. Diese Maßnahmen sollen sowohl den Tourismus fördern als auch die Mobilität der Bevölkerung im öffentlichen Verkehr verbessern.",
       "items": [
         {
           "title": "Steirische Erlebnisregionen rollen jetzt mit eigenen Bussen durchs Land - Der Grazer",
@@ -59,22 +53,10 @@
           "date": "15. Jul 2026"
         },
         {
-          "title": "Fahrende Werbung: Elf RegioBusse werben für die steirischen Erlebnisregionen - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLWNPS213cVhwWmV5Wk83al9SbWdNZC02eTdBRFg1MDRWa0djQU5kYktZUHVfUGpxM2dVdDhYdXcwOVBhNEp3TGNJYUJGdVNCWG9fMUpfankzZ0tWaUJPVWE2RFE1NWJFQzAxWHpJdWNLcElJX2lZNkUwWmM1X1RhS2Z3aWozYS1HdjJncUZUWlBxdndVTlAtZlBSZ3lGT0JleWhfTkxRbi1mdjdrZEZtNQ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "15. Jul 2026"
-        },
-        {
           "title": "Oststeiermark Tourismus setzt auf Regiobus und MICE - wirtschafts-nachrichten.at",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcTVkYk9laDF5cmcxTE1OUjIzUDM0VERfcWIwQy1oaVdZOFYwS0RkN0dON0J2R3lBVHY5M25VZmE2aEN2VExNVVdQbWJjbElyM21aM1pBZHJPdzIzd0ZCSDJ5QlhJTC1qaHk3QUQ1QmpDS2Eyd19mVFU1WWFUdEF6NVlzLWNPa2d3YmNaWHVHTFJBOHpYdkNMVldGZklFLURHWjdkaWlQVFZIUFdPbk14ZGkwek9idU1kblBQaGNtU3VGYm1oZDFyMmFXTQ?oc=5",
           "source": "wirtschafts-nachrichten.at",
           "date": "16. Jul 2026"
-        },
-        {
-          "title": "12. Juli 2026: RegioBus Weiz bekommt neue Fahrpläne, neue Linien - Verbund Linie",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdHlkUi05Rk92TFVGeU5zbzl3eUhJRXYtU2gwUi15RC05RDd4eEp4aU5HYVYzUUVlb1NCTDVaYm1qVDg4LUJUbUVZQmZ3SmhUQnk0QVI5Ql8tRkJ5bUhBNno4TVpucHJoQXNFR1ZsUllNdm5ZeXJLTWZxa1psYXRoZjNnNFZvMGx1T1djVEp6bXlISGxKOUV2Sm1Na3MxZXVfTzBYdG4yZjFpbWk2WmFTdkRrT1hOOEJXMGJpVnI1LVFGN1FiSFlR?oc=5",
-          "source": "Verbund Linie",
-          "date": "12. Jul 2026"
         },
         {
           "title": "Graz: Regionsbusse werden zu den Botschaftern der Erlebnisregion - Der Grazer",
@@ -87,12 +69,6 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWW45ZFQ1S3hhQVhiZ0ZHLUJyZTE4aFhFQVAta3V1YTVVNEt4MFdFWnhjdTFOZjVmREFNZ05GcGNCMmJwUWhhcVZyQ0FaYjgzT1Rodl9vbHk0amg2ZFp3VGpNTzZqUmU3Mms0Rk13eV9ZS1k3WF9tcEpzcGh5NUg1Rkpoa1czb0xXX25ZQXpqOWhmcE9VdlhvVXhtOFZRUU5wRUJnVnhyRQ?oc=5",
           "source": "Kleine Zeitung",
           "date": "14. Jul 2026"
-        },
-        {
-          "title": "12. Juli 2026: Busbahnhof Graz Andreas-Hofer-Platz geht in Betrieb - Verbund Linie",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc1lyeEtkTjdWV2g4UHZwUzh1dUdxQU5JV3poU21XcDVfN1BJSWFDemd5ejRpMkFUOXhRbEFnTUpNaE9neng1b3hNU2xvZkVVMy1rdHF2eXJZOGNnQXA4ZWZEX2FZd1l0MWJkWEFxem12cVRDbFB3S2RSeXVVa052VUdMQUZQSDllMkQ0Skh1cGl4NGViVTI5YlNaZXc3QlVNaVFJRUFOX1g5X1FQQzhaS3liMjd6TXNOLXFmbUpjNDByaHgtQXBSN2tR?oc=5",
-          "source": "Verbund Linie",
-          "date": "12. Jul 2026"
         }
       ]
     },
@@ -100,18 +76,18 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark zeigt mit acht innovativen Projekten vom Ausbau der E-Mobilität bis zur Verbesserung der Barrierefreiheit großes Engagement für nachhaltige Verkehrslösungen und bewirbt sich um den renommierten VCÖ-Mobilitätspreis 2026. Ein tragischer Unfall eines 16-Jährigen, der mit seinem Auto auf einen Radweg fuhr und im Fluss landete, unterstreicht jedoch die weiterhin bestehenden Risiken im Straßenverkehr und die Notwendigkeit verstärkter Verkehrssicherheitsmaßnahmen.",
+      "summary": "Ein 16-Jähriger ist mit seinem Auto von einem Radweg abgekommen und in die Mürz gestürzt, was die Risiken von Fahranfängern im Straßenverkehr unterstreicht. Der Vorfall verdeutlicht die Notwendigkeit verbesserter Verkehrssicherheitsmaßnahmen und einer strikteren Überwachung von Fahranfängern in der Steiermark.",
       "items": [
-        {
-          "title": "E-Mobilität bis Barrierefreiheit: Acht steirische Projekte im Rennen um den VCÖ-Mobilitätspreis 2026 - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWXpud1dDM2k2Zmh0RXBWeWs0MUpoVmhzbklIWGpod1hNSVVNTzJhcjJUVkk3TzJHRF9ETkw1dnJiNjZfRllILWd6clMxblk2dkozLVdXTGhqUjJER0RSX3dqVmFra3NiT3BpZGI3bHhRamF4OE1DOEFhM0E4d1J4ZGdSVzhRNUp1YzIxVVlmTXJGT19rNGcwNFRlM3VKQy1VQUN2N254Y2JNOXRyQ3Z4dXFMVmotbnZ2YzNXS1RuUlZxX1VsZXc?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "12. Jul 2026"
-        },
         {
           "title": "Fuhr am Radweg - Spritztour mit Auto endet für 16-Jährigen in Fluss - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1lbFJFMW5TQ0FLWE11dlZrWEsyVEphaXNqeGxWVFFFRGNIX0l3cGh2dlZMMVIwQTRPanEtVDNEZXpFZw?oc=5",
           "source": "Kronen Zeitung",
+          "date": "13. Jul 2026"
+        },
+        {
+          "title": "16-Jähriger mit Auto in Mürz gestürzt - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81YWRZd1FIUkJCTU5DQ3lCWDgyc1k5Q1NRcFpkRGNzRGo1R05rSmd3bkNSZXhqRjdraFdDTXlxVzF6V0pTdmY1M00tS2pZUmhsOEQycw?oc=5",
+          "source": "steiermark.ORF.at",
           "date": "13. Jul 2026"
         }
       ]
@@ -120,7 +96,7 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Das Land Steiermark unterstützt die Modernisierung des Tierheims Kapfenberg durch den Bau eines neuen Hundehauses, das bessere Bedingungen für die Unterbringung von Hunden schafft. Das Projekt zeigt das Engagement des Landes für tiergerechte Infrastruktur und nachhaltige Einrichtungen im Bereich des Tierschutzes.",
+      "summary": "Das Land Steiermark unterstützt den Bau eines neuen Hundehauses im Tierheim Kapfenberg mit einem Spatenstich. Das Projekt trägt zur Verbesserung der Infrastruktur für Tierschutz und Tierwohl in der Region bei.",
       "items": [
         {
           "title": "Spatenstich für neues Hundehaus im Tierheim Kapfenberg - Land Steiermark News Portal",
@@ -134,15 +110,8 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Das Land Steiermark lehnt die Einführung von Beschleunigungsgebieten mit vereinfachten Verfahren für Windkraftanlagen ab und setzt damit auf das reguläre UVP- und Genehmigungsverfahren. Diese Entscheidung bedeutet, dass Windparkprojekte in der Steiermark weiterhin den vollständigen administrativen Prozess mit allen Prüfschritten und Einspruchsmöglichkeiten durchlaufen müssen.",
-      "items": [
-        {
-          "title": "Land lehnt Beschleunigungsgebiete mit Turbo-Verfahren für Windparks ab - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUWZHMENzWFNZUGV3ZjVMOGpVWXF1UUtvQVZCeElpSFVrMTY4M3ZNaWJ0VTItYS1ic1M4elc5Yk1NYXk2V1RrS3ZsSEpjTzRGM1RIWTQ1VkV2eDcwWThpSndIOVBoYWFMQkZNcWZ5STJ1bmZGZGlPTEpCYUJ5OEJHMjhIYVZPOXRBMUg5OGxBOFhWQWF0OTNQcFJUQ3V6OVU1?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "13. Jul 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     }
   }
 }
