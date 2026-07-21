@@ -1,12 +1,12 @@
 {
-  "generated": "20. July 2026, 05:55 UTC",
+  "generated": "21. July 2026, 05:37 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die Steiermark ist derzeit von mehreren erheblichen Verkehrsbeeinträchtigungen betroffen, darunter Totalsperrungen auf der Landesstraße 208 in Mureck und der L 353 im Raum Anger sowie ein Unfall im A9-Tunnel bei Graz mit Sperrung und Stau. Zusätzlich kommt es auf der A2 im Packabschnitt zu täglichen Staus und auf der B317 zu einer kompletten Straßensperrung nach einem Frontalcrash.",
+      "summary": "In der Steiermark kommt es derzeit zu mehreren Totalverkehrssperrungen auf Landes- und Bundesstraßen (L 208 in Mureck, L 353 bei Anger, B317 nach Frontalcrash), während die A2 im Packabschnitt und die A9 bei Graz durch Unfälle und Tunnelsperrungen regelmäßig zu Staubildungen führen. Zusätzlich entstehen Verkehrsbehinderungen durch Bauarbeiten im Grazer Zentrum und eine Notfallsperrung in Kapfenberg aufgrund einer beschädigten Gasleitung.",
       "items": [
         {
           "title": "Ab morgen Totalsperre der L 208 in Mureck - Land Steiermark News Portal",
@@ -37,6 +37,18 @@
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRVoxcUZpOWU1T0dhQUpsa2I0enFVaTFXT2tndnBSQ1BDTmlHSG91VXdmcC1Jbngtazd5a3VHREh3MjlBQnZKS1o0clh0N1o4RXViYU4zUC01MS1OYTh2X0lzYkluQno0MnVOTElwSGUtNlNHdnVUMnhFYkQyeFdFLXcyN3pHMklmMzJabS1KZDBUV1U2T2dtVnEyRFJpaVgyZnYzMC1iWUtDb2d0OGc?oc=5",
           "source": "5 Minuten",
           "date": "19. Jul 2026"
+        },
+        {
+          "title": "Grazer Zentrum: An neuralgischer Kreuzung kommt es ab heute zu Verkehrsbehinderungen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR0x2Y1ROU21EVGp5VGQtMC00T2M4bTJJakVtRmlJZzgyTnFTYTJMUWJVYWZnbEhDd19rci03bldpNDR6Y2lVbW96SjljRGxQclJyNlVIdmtRRGFQR0V6SDRpR3E4QnZaNU40UHc1eEpibEtSWFZNVER5RU5PM2g3OEtXVGMwRVQ4UnlEVngzQ1BrWExrRXBfVURIcWpKZkIyMkZ1MkgzUjRVZFN6Mnd2aXNoR1U?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "15. Jul 2026"
+        },
+        {
+          "title": "Bagger beschädigt Gasleitung in Kapfenberg: Evakuierung und Straßensperre - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWGhkakRBTnpoYkFZeGZMTTB5bXNHOXRuTWlZeWFBRTUzYi1XelFDRTdqQlZpcHBuejQ0dmRfUzZ5NkVrM1haTm9VWFBfc3NoelA0NzhkOWd4ZEhfX1R1YXdPUDZ5dFFrV2hlRVU5dlVrQUNaanNVM3JybFVQazB6akxzazhRSDZDS2Y3MWpVNkZ2dWlUV0tGb0V1TldpcUxCWVJsLUhHRXBMN19DS0c3ZzQ4UDYxNV8tMjhCZA?oc=5",
+          "source": "5 Minuten",
+          "date": "20. Jul 2026"
         }
       ]
     },
@@ -44,7 +56,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Steiermark investiert verstärkt in den regionalen Busverkehr, wobei spezialisierte Erlebnisbusse als Botschafter für Tourismusregionen fungieren und gleichzeitig der Nahverkehr in Städten wie Leoben durch verdichtete Fahrpläne optimiert wird. Diese Maßnahmen sollen sowohl den Tourismus fördern als auch die Mobilität der Bevölkerung im öffentlichen Verkehr verbessern.",
+      "summary": "Die Steiermark investiert verstärkt in den regionalen Busverkehr, wobei spezialisierte Erlebnisbusse als Botschafter für Tourismusregionen fungieren und gleichzeitig der Nahverkehr in Städten wie Leoben durch verdichtete Fahrpläne im Halbstundentakt optimiert wird. Diese Maßnahmen sollen sowohl den Tourismus fördern als auch die Mobilität für Pendler und Einwohner verbessern.",
       "items": [
         {
           "title": "Steirische Erlebnisregionen rollen jetzt mit eigenen Bussen durchs Land - Der Grazer",
@@ -76,27 +88,14 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Ein 16-Jähriger ist mit seinem Auto von einem Radweg abgekommen und in die Mürz gestürzt, was die Risiken von Fahranfängern im Straßenverkehr unterstreicht. Der Vorfall verdeutlicht die Notwendigkeit verbesserter Verkehrssicherheitsmaßnahmen und einer strikteren Überwachung von Fahranfängern in der Steiermark.",
-      "items": [
-        {
-          "title": "Fuhr am Radweg - Spritztour mit Auto endet für 16-Jährigen in Fluss - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1lbFJFMW5TQ0FLWE11dlZrWEsyVEphaXNqeGxWVFFFRGNIX0l3cGh2dlZMMVIwQTRPanEtVDNEZXpFZw?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "13. Jul 2026"
-        },
-        {
-          "title": "16-Jähriger mit Auto in Mürz gestürzt - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81YWRZd1FIUkJCTU5DQ3lCWDgyc1k5Q1NRcFpkRGNzRGo1R05rSmd3bkNSZXhqRjdraFdDTXlxVzF6V0pTdmY1M00tS2pZUmhsOEQycw?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "13. Jul 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "landeshochbau": {
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Das Land Steiermark unterstützt den Bau eines neuen Hundehauses im Tierheim Kapfenberg mit einem Spatenstich. Das Projekt trägt zur Verbesserung der Infrastruktur für Tierschutz und Tierwohl in der Region bei.",
+      "summary": "Das Land Steiermark investiert in die Infrastruktur des Tierheims Kapfenberg mit dem Bau eines neuen Hundehauses, das den Tieren bessere Bedingungen bietet. Das Projekt unterstreicht das Engagement des Landes für tiergerechte öffentliche Einrichtungen und nachhaltige Baukultur in der Region.",
       "items": [
         {
           "title": "Spatenstich für neues Hundehaus im Tierheim Kapfenberg - Land Steiermark News Portal",
