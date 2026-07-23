@@ -1,98 +1,34 @@
 {
-  "generated": "22. July 2026, 05:36 UTC",
+  "generated": "23. July 2026, 05:41 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die steirische Straßeninfrastruktur ist durch regelmäßige Stauprobleme auf der A2 im Packabschnitt und Verkehrsbehinderungen durch Unfälle sowie Straßensperrungen wie auf der L 353 bei Anger belastet. Schwerwiegende Zwischenfälle wie die Tunnel-Tragödie beim Semmering und Beschädigungen von Versorgungsleitungen durch Bauarbeiten unterstreichen die Notwendigkeit verbesserter Sicherheitsstandards und Infrastrukturerhaltung in der Region.",
-      "items": [
-        {
-          "title": "Steiermarks beste Straßenbauer: Feldbacher Julian Grein ist steirischer Vizemeister - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWFJIMVdYTV9PZ0c4MmphOThYM3VfTWNhcjNlMnM4QXVCU3dnYzF2VVdEdW42cllXUXV3QkwxSExFYWRieHk3WGpEdE4tX0Ffc3RMRkNqQ1FwSnYxMF9iQ3FiMDg3em4zZTNyWXZqdDMyVmEzMGItdE1Ya2ZDTzdkSzdXNGIzcVpuczg4XzZ5Wnc2R2Vwc3g1dU9LN3ZqMk9raThFVDFiUVp1TGtGYWhENFBDSk0?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "21. Jul 2026"
-        },
-        {
-          "title": "A2: Tägliche Staus im Packabschnitt - ÖAMTC",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV3B5ZU15ZXVVcHFHdlpDT0tjeTNrbEZDMGVtUWdwTXpEMUtobFFKNHFTbXV0UTAybXZYSExpc2FaaEF3dVZZYjVRV21IX2YxUjlYSDN2OU9DVEF1SDRkeXZlMERqUHp2T2kzVW9fejNDMVNqd2tBUnhPdkE3WDBpcUt1ZTFGYm93dGc?oc=5",
-          "source": "ÖAMTC",
-          "date": "17. Jul 2026"
-        },
-        {
-          "title": "Tunnel-Tragödie beim Semmering: Arbeiter (45) tot, 54-Jähriger schwer verletzt - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdG5Xdi1lR0tOWkEzUFh3UnoxaDFpZHg5LUZwYnYwcUpHMEZ3RFdrT2M5QU9ka2VOU0JxS2xUenMyajg2QjhIVExOSzkzSHp4TTJNdVBVTGhzRXZGWmI3X2pZWElIbzlmTjNTeFVqcnd3YkVBZ0F5RWlVOVRtY05lYTdtYUluWEZmWlA4UEpXaDdzQ1FHSEVCYW1SUjRITnM4V2Y3a29lcldKR2ZjVlBGXzNVS3Q0aHR6VXVfNHZxRWFMbUpHcXBuRA?oc=5",
-          "source": "5 Minuten",
-          "date": "20. Jul 2026"
-        },
-        {
-          "title": "L 353: Ab Montag Totalsperre im Raum Anger - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TSUI0Vzc5Ujd5MlJrLXktcGpGbmNrTmtPSWtOLWNLZmFlVllkWUFhN0ZhVjJLRWtBTUFZa0p0cDNSQkdzaDd4c2I4eTNhVVZPZ2FjNV8wT3FTS0pDa0ZsbWpLTFpOQnpJaFZndXdzNA?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "17. Jul 2026"
-        },
-        {
-          "title": "Lkw steht auf A2 quer: Stau - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mX3gzZjBIeTBQa29ZbVNtRnVDT1pEMXZJU1FyZUhpeUQ4WDJyY0pMOG53eWtudmRKMWo2Z3BPaVNnR1B4MWVqcGpEUS01NnJfSXFBNA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "21. Jul 2026"
-        },
-        {
-          "title": "Bagger beschädigt Gasleitung in Kapfenberg: Evakuierung und Straßensperre - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWGhkakRBTnpoYkFZeGZMTTB5bXNHOXRuTWlZeWFBRTUzYi1XelFDRTdqQlZpcHBuejQ0dmRfUzZ5NkVrM1haTm9VWFBfc3NoelA0NzhkOWd4ZEhfX1R1YXdPUDZ5dFFrV2hlRVU5dlVrQUNaanNVM3JybFVQazB6akxzazhRSDZDS2Y3MWpVNkZ2dWlUV0tGb0V1TldpcUxCWVJsLUhHRXBMN19DS0c3ZzQ4UDYxNV8tMjhCZA?oc=5",
-          "source": "5 Minuten",
-          "date": "20. Jul 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "oeffentlicher_verkehr": {
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Oststeiermark nutzt Regionalbuslinien als Marketinginstrument zur Förderung von Tourismus und Geschäftsreisen, während die Grazer Regionsbusflotte gezielt als Botschafter der Erlebnisregion eingesetzt wird. Damit wird der öffentliche Verkehr in der Steiermark strategisch mit der touristischen Entwicklung verknüpft.",
-      "items": [
-        {
-          "title": "Oststeiermark Tourismus setzt auf Regiobus und MICE - wirtschafts-nachrichten.at",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcTVkYk9laDF5cmcxTE1OUjIzUDM0VERfcWIwQy1oaVdZOFYwS0RkN0dON0J2R3lBVHY5M25VZmE2aEN2VExNVVdQbWJjbElyM21aM1pBZHJPdzIzd0ZCSDJ5QlhJTC1qaHk3QUQ1QmpDS2Eyd19mVFU1WWFUdEF6NVlzLWNPa2d3YmNaWHVHTFJBOHpYdkNMVldGZklFLURHWjdkaWlQVFZIUFdPbk14ZGkwek9idU1kblBQaGNtU3VGYm1oZDFyMmFXTQ?oc=5",
-          "source": "wirtschafts-nachrichten.at",
-          "date": "16. Jul 2026"
-        },
-        {
-          "title": "Graz: Regionsbusse werden zu den Botschaftern der Erlebnisregion - Der Grazer",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWTNncFRMVzZjRjVHX2ZkRTRKWFBiU0EzanRuZVpYOHZhQXdXYWludXpqczR5VHVuRlVOMWFVV0IyN0xrWFBCOS11dThlQnJxQk5nQTR0MGhMSnZTSGJzc09KTDl6aVZvOGUyN1htN2VMVHdpelBIY252MDRYRzhiMC1TcThHTVpTYWd2NlhB?oc=5",
-          "source": "Der Grazer",
-          "date": "16. Jul 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "mobilitaet": {
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Der Neufeldweg zeigt, dass gut gemeinte Mobilitätskonzepte ohne ausreichende Sicherheitsmaßnahmen für Fußgänger und Radfahrer kontraproduktiv wirken können. Die Steiermark muss ihre Verkehrsplanung überdenken und dabei Verkehrssicherheit als Priorität vor Durchsatzoptimierung setzen.",
-      "items": [
-        {
-          "title": "„Brutale Mobilität“ am Neufeldweg – Konzept geht nach hinten los - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU3QyUVpJTUxtSXZ6ZmUtS3FMa3NUZUNfUmJ3ZW9WU3Q5dFNERmMwdHFsQlV3cm5FelZDT3FWd2ZRVldiNUszVzNYZkM3TE95MUgyTU9seGRvMzN5eUlNOEVVZ3pOb3czamtIUHRGOWFjcEV5UHRia1EyOC1uSHhTbHBSd0FCZUpJOU51WU9fakJqdzdQVTVxUUNQMWZjRERtQmxIcnVlTEwwLVU?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "20. Jul 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "landeshochbau": {
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Grazer Verkehrsbetriebe (GKB) investieren in ihre Infrastruktur und errichten eine moderne E-Werkstätte in Graz, um ihre Flotte für die Elektromobilität auszurüsten. Dieses Projekt unterstreicht die steirische Vorreiterrolle bei der Modernisierung des öffentlichen Nahverkehrs und der Umsetzung nachhaltiger Mobilitätslösungen.",
-      "items": [
-        {
-          "title": "GKB startet Bau der neuen E-Werkstätte in Graz - BMIMI INFOTHEK",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTjF1azU2V2VHUGpDSjFLbE5MYnlQR3MxTi00VW1XQXVGRmVXQmdzbl9BZGphcGx3NHpWaDg2dlEtSHBQLWRhcVFrcnhFR09GMVk0a19XVnd1QTBaR1hDVENHMmQwWHNWTzIxZzVvZFlJVS12V2otVXVTZDI1Q1czMmZkcw?oc=5",
-          "source": "BMIMI INFOTHEK",
-          "date": "15. Jul 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "behoerde_uvp": {
       "label": "Verkehrsbehörde & UVP",
