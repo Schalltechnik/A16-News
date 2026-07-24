@@ -1,13 +1,50 @@
 {
-  "generated": "23. July 2026, 05:41 UTC",
+  "generated": "24. July 2026, 05:37 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "In der Steiermark finden derzeit umfangreiche Straßensanierungen statt, wobei mehrere Landesstraßen wie die L 634 und L 353 sowie eine steirische Brücke ab Montag für längere Zeit vollständig gesperrt werden müssen. Parallel dazu entstehen Verkehrsbeeinträchtigungen auf der A2 im Packabschnitt durch tägliche Staus, während ein tragischer Arbeitsunfall beim Semmeringtunnel und die Erfolge steirischer Straßenbauer die aktuelle Infrastrukturlage prägen.",
+      "items": [
+        {
+          "title": "Steiermarks beste Straßenbauer: Feldbacher Julian Grein ist steirischer Vizemeister - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWFJIMVdYTV9PZ0c4MmphOThYM3VfTWNhcjNlMnM4QXVCU3dnYzF2VVdEdW42cllXUXV3QkwxSExFYWRieHk3WGpEdE4tX0Ffc3RMRkNqQ1FwSnYxMF9iQ3FiMDg3em4zZTNyWXZqdDMyVmEzMGItdE1Ya2ZDTzdkSzdXNGIzcVpuczg4XzZ5Wnc2R2Vwc3g1dU9LN3ZqMk9raThFVDFiUVp1TGtGYWhENFBDSk0?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "21. Jul 2026"
+        },
+        {
+          "title": "Tunnel-Tragödie beim Semmering: Arbeiter (45) tot, 54-Jähriger schwer verletzt - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdG5Xdi1lR0tOWkEzUFh3UnoxaDFpZHg5LUZwYnYwcUpHMEZ3RFdrT2M5QU9ka2VOU0JxS2xUenMyajg2QjhIVExOSzkzSHp4TTJNdVBVTGhzRXZGWmI3X2pZWElIbzlmTjNTeFVqcnd3YkVBZ0F5RWlVOVRtY05lYTdtYUluWEZmWlA4UEpXaDdzQ1FHSEVCYW1SUjRITnM4V2Y3a29lcldKR2ZjVlBGXzNVS3Q0aHR6VXVfNHZxRWFMbUpHcXBuRA?oc=5",
+          "source": "5 Minuten",
+          "date": "20. Jul 2026"
+        },
+        {
+          "title": "A2: Tägliche Staus im Packabschnitt - ÖAMTC",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV3B5ZU15ZXVVcHFHdlpDT0tjeTNrbEZDMGVtUWdwTXpEMUtobFFKNHFTbXV0UTAybXZYSExpc2FaaEF3dVZZYjVRV21IX2YxUjlYSDN2OU9DVEF1SDRkeXZlMERqUHp2T2kzVW9fejNDMVNqd2tBUnhPdkE3WDBpcUt1ZTFGYm93dGc?oc=5",
+          "source": "ÖAMTC",
+          "date": "17. Jul 2026"
+        },
+        {
+          "title": "L 634: Ab Montag Totalsperre wegen Brückensanierung - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBydjhzeElKMm5iYUxubktLZlo2S1NaU0EyMXJtNjY5Z3VZb2dGSUljRkt0YnJDX1puN1d3VnBZakhyQWxnazVlVUZjX09Yc1I1WUNWYk5fUlFlZ21IckRtOG5KY21VMndJaGFPMTU4eWJLUjJHMEZmRw?oc=5",
+          "source": "Kommunikation - Land Steiermark",
+          "date": "23. Jul 2026"
+        },
+        {
+          "title": "L 353: Ab Montag Totalsperre im Raum Anger - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TSUI0Vzc5Ujd5MlJrLXktcGpGbmNrTmtPSWtOLWNLZmFlVllkWUFhN0ZhVjJLRWtBTUFZa0p0cDNSQkdzaDd4c2I4eTNhVVZPZ2FjNV8wT3FTS0pDa0ZsbWpLTFpOQnpJaFZndXdzNA?oc=5",
+          "source": "Land Steiermark News Portal",
+          "date": "17. Jul 2026"
+        },
+        {
+          "title": "Brückensanierung: Steirische Straße ab Montag monatelang gesperrt - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNEt3MWdwclBiT1FUWkxQNndfT0g5WnVUVExFbS1rZExxMV8yNFNjbS1aa1o2N3VRZTlfNXFVZWhFckNkem1TcG02X2Ztbk9aVE9EYnRtVHNSdjE1T0h0azhaSDh6akRESnl4eWVNODZTeGFtTGktajFpT1d3Y0F5TEVWWUsyYjBHMDlZWWtLb2I3WkxacV9fQVVtajlSLUdWaHlmei0tS09sUmdocFJZVE5R?oc=5",
+          "source": "5 Minuten",
+          "date": "23. Jul 2026"
+        }
+      ]
     },
     "oeffentlicher_verkehr": {
       "label": "Öffentlicher Verkehr",
@@ -27,15 +64,47 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Die Steiermark investiert 43 Millionen Euro in die neue Transportleitung Steiermark Süd zur Sicherung der Trinkwasserversorgung, während der Ausbau der B68 durch mögliche Bewilligungslücken und Konflikte beim Bau einer Begleitstraße verzögert wird.",
+      "items": [
+        {
+          "title": "B68 vor Baustart: Grüne schlagen wegen möglicher Bewilligungslücke Alarm - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNnNhcmVSWi1pMndpSkJwSFV2bU9ubm9hQllsTWZhNjJ3RF84RElqN1VQNVZyNXlIUXRrWVdJNHUxUEQ2al9LdmFobDEzbTZZSWJ1NWpnY0FPUVFZOXNVeGJFSG9YQ2ctNkZzeWJzZnpkd3llTzVmTzBYZExxV2lEb3dNeFdaMTFRYmxXdWxMMmEzVmdYRHpBU1Z3QmcwVl9aQ3dPak5QVThYc0E5Y2NpY0tPUlVzaVpHR180RA?oc=5",
+          "source": "5 Minuten",
+          "date": "23. Jul 2026"
+        },
+        {
+          "title": "Trinkwasser-Zukunft: 43 Millionen Euro für Bau der Transportleitung Steiermark Süd - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd1hEVy1kRXBZTXpGSHdzYXNWeWh5d2doZ0ZDZHhkMVBnd2s2a2V1S1NhVm5nZzNkQ0U2Y1RJWFozUEwtUVVjLS1OSk9rdWgtR3FUQnpZVHl2Z0ZHd1ZlZ1Z6U01sd3RBZkFNSU92X29aS0lCU29Vb0xSazBXVkhxR0ZMSWNlTEZxSkxuOUJQUzJ5NE5HRHV5b1VCU0ozTldpX0xkaUxXX1l5dzcwdEE?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "23. Jul 2026"
+        },
+        {
+          "title": "„Pfusch“ an B 68? Bau einer Begleitstraße sorgt für Konflikt - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSm84M3RlbmdLeGRvNmtqMTZuVTEtTlVESHRtUWxRWjdiZE0telMwNWxZZldCcWtHY2lwa0g1UkllT2ZlMWVKLXFNVk12bldlNXNrRkpvZkUyWTBqcnU5SUt6YXZDenlKV3VTa1V4VUwybWJVNk01SWtfYzNjWmdzcm9Nd2tzNDZ4MndFQl9jcHM4UUxrcm1maWh5NVMzRVNYNmM0TVBCNnU?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "23. Jul 2026"
+        }
+      ]
     },
     "behoerde_uvp": {
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Die Grünen warnen vor einer möglichen Bewilligungslücke beim anstehenden Baustart der B68, während gleichzeitig Vorwürfe von \"Pfusch\" beim Bau einer Begleitstraße zu Konflikten führen. Die Vorfälle deuten auf Mängel in der behördlichen Genehmigungsprüfung und Bauabwicklung hin.",
+      "items": [
+        {
+          "title": "B68 vor Baustart: Grüne schlagen wegen möglicher Bewilligungslücke Alarm - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNnNhcmVSWi1pMndpSkJwSFV2bU9ubm9hQllsTWZhNjJ3RF84RElqN1VQNVZyNXlIUXRrWVdJNHUxUEQ2al9LdmFobDEzbTZZSWJ1NWpnY0FPUVFZOXNVeGJFSG9YQ2ctNkZzeWJzZnpkd3llTzVmTzBYZExxV2lEb3dNeFdaMTFRYmxXdWxMMmEzVmdYRHpBU1Z3QmcwVl9aQ3dPak5QVThYc0E5Y2NpY0tPUlVzaVpHR180RA?oc=5",
+          "source": "5 Minuten",
+          "date": "23. Jul 2026"
+        },
+        {
+          "title": "„Pfusch“ an B 68? Bau einer Begleitstraße sorgt für Konflikt - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSm84M3RlbmdLeGRvNmtqMTZuVTEtTlVESHRtUWxRWjdiZE0telMwNWxZZldCcWtHY2lwa0g1UkllT2ZlMWVKLXFNVk12bldlNXNrRkpvZkUyWTBqcnU5SUt6YXZDenlKV3VTa1V4VUwybWJVNk01SWtfYzNjWmdzcm9Nd2tzNDZ4MndFQl9jcHM4UUxrcm1maWh5NVMzRVNYNmM0TVBCNnU?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "23. Jul 2026"
+        }
+      ]
     }
   }
 }
