@@ -1,12 +1,12 @@
 {
-  "generated": "24. July 2026, 05:37 UTC",
+  "generated": "25. July 2026, 05:31 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "In der Steiermark finden derzeit umfangreiche Straßensanierungen statt, wobei mehrere Landesstraßen wie die L 634 und L 353 sowie eine steirische Brücke ab Montag für längere Zeit vollständig gesperrt werden müssen. Parallel dazu entstehen Verkehrsbeeinträchtigungen auf der A2 im Packabschnitt durch tägliche Staus, während ein tragischer Arbeitsunfall beim Semmeringtunnel und die Erfolge steirischer Straßenbauer die aktuelle Infrastrukturlage prägen.",
+      "summary": "In der Steiermark finden derzeit umfangreiche Infrastrukturarbeiten statt, insbesondere eine Totalsperre der Landesstraße L 634 ab Montag aufgrund einer notwendigen Brückensanierung, die mehrere Monate andauern wird. Parallel dazu ereignete sich beim Semmering-Tunnel ein schwerer Arbeitsunfall mit einem Todesfall und einer schwer verletzten Person.",
       "items": [
         {
           "title": "Steiermarks beste Straßenbauer: Feldbacher Julian Grein ist steirischer Vizemeister - MeinBezirk.at",
@@ -21,28 +21,40 @@
           "date": "20. Jul 2026"
         },
         {
-          "title": "A2: Tägliche Staus im Packabschnitt - ÖAMTC",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV3B5ZU15ZXVVcHFHdlpDT0tjeTNrbEZDMGVtUWdwTXpEMUtobFFKNHFTbXV0UTAybXZYSExpc2FaaEF3dVZZYjVRV21IX2YxUjlYSDN2OU9DVEF1SDRkeXZlMERqUHp2T2kzVW9fejNDMVNqd2tBUnhPdkE3WDBpcUt1ZTFGYm93dGc?oc=5",
-          "source": "ÖAMTC",
-          "date": "17. Jul 2026"
-        },
-        {
-          "title": "L 634: Ab Montag Totalsperre wegen Brückensanierung - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBydjhzeElKMm5iYUxubktLZlo2S1NaU0EyMXJtNjY5Z3VZb2dGSUljRkt0YnJDX1puN1d3VnBZakhyQWxnazVlVUZjX09Yc1I1WUNWYk5fUlFlZ21IckRtOG5KY21VMndJaGFPMTU4eWJLUjJHMEZmRw?oc=5",
-          "source": "Kommunikation - Land Steiermark",
+          "title": "L 634: Ab Montag Totalsperre wegen Brückensanierung - politik.steiermark.at",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jOWRxYWt0STVkQldabEtZSHBmLTlleEZ4UUdIbFI5RlNaT0ZTYXNVU2d1MElvNVNFZmJvU1pxYWd6c09TNlcwakJrSkJjVDVtM1pGenotTzBBUGdHQUlPN3ZONk9EWmRfR1N5dVlJZEN4S2c?oc=5",
+          "source": "politik.steiermark.at",
           "date": "23. Jul 2026"
-        },
-        {
-          "title": "L 353: Ab Montag Totalsperre im Raum Anger - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TSUI0Vzc5Ujd5MlJrLXktcGpGbmNrTmtPSWtOLWNLZmFlVllkWUFhN0ZhVjJLRWtBTUFZa0p0cDNSQkdzaDd4c2I4eTNhVVZPZ2FjNV8wT3FTS0pDa0ZsbWpLTFpOQnpJaFZndXdzNA?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "17. Jul 2026"
         },
         {
           "title": "Brückensanierung: Steirische Straße ab Montag monatelang gesperrt - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNEt3MWdwclBiT1FUWkxQNndfT0g5WnVUVExFbS1rZExxMV8yNFNjbS1aa1o2N3VRZTlfNXFVZWhFckNkem1TcG02X2Ztbk9aVE9EYnRtVHNSdjE1T0h0azhaSDh6akRESnl4eWVNODZTeGFtTGktajFpT1d3Y0F5TEVWWUsyYjBHMDlZWWtLb2I3WkxacV9fQVVtajlSLUdWaHlmei0tS09sUmdocFJZVE5R?oc=5",
           "source": "5 Minuten",
           "date": "23. Jul 2026"
+        },
+        {
+          "title": "Steiermark: L 634 - Ab Montag Totalsperre wegen Brückensanierung - Regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVFIxYlNwWnBwdjVqRzBtRnlNN2VoRFVDUW5NSjV1TUlkNUlnWkRLTFd1Y1E4eXR0MVlyMEFqSzZCeUFWaWpLT3dvY3pac1VybTFWcjUyOEx5X0xJbW5xM080T1l6cnN1ZWNBNlQyMmxqRXpXTGxPTldKc2g2WW45RnUtQ2psaEQ1WklVUUJBekdYeG0tN3p0V240aXRsQdIBngFBVV95cUxQVFIxYlNwWnBwdjVqRzBtRnlNN2VoRFVDUW5NSjV1TUlkNUlnWkRLTFd1Y1E4eXR0MVlyMEFqSzZCeUFWaWpLT3dvY3pac1VybTFWcjUyOEx5X0xJbW5xM080T1l6cnN1ZWNBNlQyMmxqRXpXTGxPTldKc2g2WW45RnUtQ2psaEQ1WklVUUJBekdYeG0tN3p0V240aXRsQQ?oc=5",
+          "source": "Regionews.at",
+          "date": "24. Jul 2026"
+        },
+        {
+          "title": "Mopedauto völlig zerfetzt: Fahrer (†57) fliegt samt Sitz aus Unfallwrack – und stirbt - Rosenheim24",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTHV6TnZxbUdvMVhTQXozbWFUc1Fya05SSHFhd2lSRGdBLVhlN1BaU0lvNVQteFZoSFBMNzdRV2hOZkY0ZUV6bzhmQTZSQy1oS1RRdVkxazhuX0xuN2xjTVdSMGl0aGc4OUNocnBTZTdDUFNubHRuYTlMNURrV1lSNTRZeUZkX25yYWllLXlmRkkzTmRJSE9ld0JqMDF4c0lqVUxEb0M4ME5SRnVHT1UyZGZSTUJoN05SNHh1SW9ZV2lDV1RrT2R3dVJjb1dBamhaTDR0eUlucnFsUm5acmdGMXFHVQ?oc=5",
+          "source": "Rosenheim24",
+          "date": "24. Jul 2026"
+        },
+        {
+          "title": "Klein-Lkw überschlägt sich: Mann verletzt - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50bEVZcVVWZEx5Rm1zZUtpWk8yRlNMblBGNzlaTWJwSlhzbHBVY3J0NlQ0T3V4OFh0U04wb053R2xOTEZXQjM3X1FwdHl6UjhGeFlqZg?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "24. Jul 2026"
+        },
+        {
+          "title": "Lkw steht auf A2 quer: Stau - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mX3gzZjBIeTBQa29ZbVNtRnVDT1pEMXZJU1FyZUhpeUQ4WDJyY0pMOG53eWtudmRKMWo2Z3BPaVNnR1B4MWVqcGpEUS01NnJfSXFBNA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "21. Jul 2026"
         }
       ]
     },
@@ -50,21 +62,35 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Der Oststeiermark Tourismus nutzt den Regiobus als strategisches Verkehrsmittel, um Touristen zu transportieren und die Erreichbarkeit von Destinationen zu verbessern. Gleichzeitig wird das MICE-Segment (Meetings, Incentives, Conferences, Events) durch bessere öffentliche Verkehrsanbindungen unterstützt, um die touristische Wertschöpfung in der Region zu steigern.",
+      "items": [
+        {
+          "title": "Oststeiermark Tourismus setzt auf Regiobus und MICE - wirtschafts-nachrichten.at",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcTVkYk9laDF5cmcxTE1OUjIzUDM0VERfcWIwQy1oaVdZOFYwS0RkN0dON0J2R3lBVHY5M25VZmE2aEN2VExNVVdQbWJjbElyM21aM1pBZHJPdzIzd0ZCSDJ5QlhJTC1qaHk3QUQ1QmpDS2Eyd19mVFU1WWFUdEF6NVlzLWNPa2d3YmNaWHVHTFJBOHpYdkNMVldGZklFLURHWjdkaWlQVFZIUFdPbk14ZGkwek9idU1kblBQaGNtU3VGYm1oZDFyMmFXTQ?oc=5",
+          "source": "wirtschafts-nachrichten.at",
+          "date": "22. Jul 2026"
+        }
+      ]
     },
     "mobilitaet": {
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Die Zahl der Motorradunfälle in der Steiermark ist auf ein Rekordhoch angestiegen und erfordert verstärkte Aufmerksamkeit für Verkehrssicherheit bei dieser Fahrzeugkategorie. Ein gezielter Appell an Motorradfahrer soll zu mehr Vorsicht und Prävention im Straßenverkehr beitragen.",
+      "items": [
+        {
+          "title": "Appell an Biker: Motorradunfälle erreichen eine neues Rekordhoch - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdTZLYXRybWZlVGZlNjU1VnlYZFBpZmRBai1lX09FeGJWNnhZbmQ0aThXZlhhWGU5VEJZa3J4eWRmOVV2SXozOVV3bktRZkZzRGhfWkJZV05ydkRjTUZhV01RWXpUSkd6VGVJbnRCcFJibzBjWkItS3ZUUXVBbGxmbDZ2QjRWOFRPNEN1YnJGb05qaXZlUTg2X1VVaGJLUQ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "20. Jul 2026"
+        }
+      ]
     },
     "landeshochbau": {
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark investiert 43 Millionen Euro in die neue Transportleitung Steiermark Süd zur Sicherung der Trinkwasserversorgung, während der Ausbau der B68 durch mögliche Bewilligungslücken und Konflikte beim Bau einer Begleitstraße verzögert wird.",
+      "summary": "Die geplante Begleitstraße zur B68 in der Steiermark wird von den Grünen kritisch hinterfragt, da mögliche Bewilligungslücken und Qualitätsmängel bei der Bauausführung befürchtet werden. Der Konflikt um das Infrastrukturprojekt deutet auf Defizite in der Planungs- und Genehmigungspraxis hin.",
       "items": [
         {
           "title": "B68 vor Baustart: Grüne schlagen wegen möglicher Bewilligungslücke Alarm - 5 Minuten",
@@ -73,7 +99,7 @@
           "date": "23. Jul 2026"
         },
         {
-          "title": "Trinkwasser-Zukunft: 43 Millionen Euro für Bau der Transportleitung Steiermark Süd - Kleine Zeitung",
+          "title": "500 - Failed to fetch dynamically imported module: https://www.kleinezeitung.at/_nuxt/index.DgEuJ-P0.js - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd1hEVy1kRXBZTXpGSHdzYXNWeWh5d2doZ0ZDZHhkMVBnd2s2a2V1S1NhVm5nZzNkQ0U2Y1RJWFozUEwtUVVjLS1OSk9rdWgtR3FUQnpZVHl2Z0ZHd1ZlZ1Z6U01sd3RBZkFNSU92X29aS0lCU29Vb0xSazBXVkhxR0ZMSWNlTEZxSkxuOUJQUzJ5NE5HRHV5b1VCU0ozTldpX0xkaUxXX1l5dzcwdEE?oc=5",
           "source": "Kleine Zeitung",
           "date": "23. Jul 2026"
@@ -90,14 +116,8 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Die Grünen warnen vor einer möglichen Bewilligungslücke beim anstehenden Baustart der B68, während gleichzeitig Vorwürfe von \"Pfusch\" beim Bau einer Begleitstraße zu Konflikten führen. Die Vorfälle deuten auf Mängel in der behördlichen Genehmigungsprüfung und Bauabwicklung hin.",
+      "summary": "Der Bau einer Begleitstraße zur B 68 wird von Kritikern als mangelhaft umgesetzt kritisiert und sorgt für Konflikte zwischen Behörden und Anrainern. Das Verfahren wirft Fragen zur ordnungsgemäßen Genehmigung und Umsetzung von Verkehrsinfrastrukturprojekten in der Steiermark auf.",
       "items": [
-        {
-          "title": "B68 vor Baustart: Grüne schlagen wegen möglicher Bewilligungslücke Alarm - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNnNhcmVSWi1pMndpSkJwSFV2bU9ubm9hQllsTWZhNjJ3RF84RElqN1VQNVZyNXlIUXRrWVdJNHUxUEQ2al9LdmFobDEzbTZZSWJ1NWpnY0FPUVFZOXNVeGJFSG9YQ2ctNkZzeWJzZnpkd3llTzVmTzBYZExxV2lEb3dNeFdaMTFRYmxXdWxMMmEzVmdYRHpBU1Z3QmcwVl9aQ3dPak5QVThYc0E5Y2NpY0tPUlVzaVpHR180RA?oc=5",
-          "source": "5 Minuten",
-          "date": "23. Jul 2026"
-        },
         {
           "title": "„Pfusch“ an B 68? Bau einer Begleitstraße sorgt für Konflikt - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSm84M3RlbmdLeGRvNmtqMTZuVTEtTlVESHRtUWxRWjdiZE0telMwNWxZZldCcWtHY2lwa0g1UkllT2ZlMWVKLXFNVk12bldlNXNrRkpvZkUyWTBqcnU5SUt6YXZDenlKV3VTa1V4VUwybWJVNk01SWtfYzNjWmdzcm9Nd2tzNDZ4MndFQl9jcHM4UUxrcm1maWh5NVMzRVNYNmM0TVBCNnU?oc=5",
