@@ -1,18 +1,24 @@
 {
-  "generated": "26. July 2026, 05:47 UTC",
+  "generated": "27. July 2026, 06:13 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die steirische Straßeninfrastruktur ist derzeit durch mehrere Großprojekte belastet, darunter eine Totalsperre der L 634 zur Brückensanierung und eine Sperrung des Gleinalmtunnels, während gleichzeitig der Reiseverkehr die Autobahnen überlastet. Ein tragischer Arbeitsunfall beim Semmering-Tunnel und die Leistungen steirischer Straßenbauer unterstreichen die Bedeutung von Sicherheit und Qualität bei der Infrastrukturwartung und -entwicklung.",
+      "summary": "In der Steiermark kommt es derzeit zu erheblichen Verkehrsbeeinträchtigungen durch Baustellen und Sperrungen, insbesondere im Packabschnitt der A2, beim Gleinalmtunnel sowie bei der Brückensanierung der L 634, die zu täglichen Staus und Reiseverkehrsüberlastungen auf den Autobahnen führt. Parallel dazu werden wichtige Infrastrukturprojekte wie Tunnelarbeiten am Semmering und Brückensanierungen durchgeführt, während lokale Fachkräfte wie der steirische Vizemeister Julian Grein die hohen Standards des Straßenbaus in der Region vertreten.",
       "items": [
         {
           "title": "Steiermarks beste Straßenbauer: Feldbacher Julian Grein ist steirischer Vizemeister - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWFJIMVdYTV9PZ0c4MmphOThYM3VfTWNhcjNlMnM4QXVCU3dnYzF2VVdEdW42cllXUXV3QkwxSExFYWRieHk3WGpEdE4tX0Ffc3RMRkNqQ1FwSnYxMF9iQ3FiMDg3em4zZTNyWXZqdDMyVmEzMGItdE1Ya2ZDTzdkSzdXNGIzcVpuczg4XzZ5Wnc2R2Vwc3g1dU9LN3ZqMk9raThFVDFiUVp1TGtGYWhENFBDSk0?oc=5",
           "source": "MeinBezirk.at",
           "date": "21. Jul 2026"
+        },
+        {
+          "title": "A2: Tägliche Staus im Packabschnitt - ÖAMTC",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV3B5ZU15ZXVVcHFHdlpDT0tjeTNrbEZDMGVtUWdwTXpEMUtobFFKNHFTbXV0UTAybXZYSExpc2FaaEF3dVZZYjVRV21IX2YxUjlYSDN2OU9DVEF1SDRkeXZlMERqUHp2T2kzVW9fejNDMVNqd2tBUnhPdkE3WDBpcUt1ZTFGYm93dGc?oc=5",
+          "source": "ÖAMTC",
+          "date": "27. Jul 2026"
         },
         {
           "title": "Reiseverkehr überlastete Autobahnen in Kärnten, Tirol und der Steiermark - 5 Minuten",
@@ -24,7 +30,7 @@
           "title": "A9: Sperre Gleinalmtunnel Richtung Süden - ÖAMTC",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPai1ybWRnM054YkNoSUd0SUpVVVZBeHZBdVFIUU9WMVNkVEZ5Wm95YjVkcTRyb0RIRE9LcEk1V1hybDRLeGlGQnlPZlh1cjA0cExlSHloMlhVNzJEeTBibjhaQnJzb3owZmFWNFN6R2NLcjFPcTVMeXRHdklFVVZ4TXZCZG5DTHh6NWViV0t2ZnU?oc=5",
           "source": "ÖAMTC",
-          "date": "22. Jul 2026"
+          "date": "26. Jul 2026"
         },
         {
           "title": "Tunnel-Tragödie beim Semmering: Arbeiter (45) tot, 54-Jähriger schwer verletzt - 5 Minuten",
@@ -49,12 +55,6 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVFIxYlNwWnBwdjVqRzBtRnlNN2VoRFVDUW5NSjV1TUlkNUlnWkRLTFd1Y1E4eXR0MVlyMEFqSzZCeUFWaWpLT3dvY3pac1VybTFWcjUyOEx5X0xJbW5xM080T1l6cnN1ZWNBNlQyMmxqRXpXTGxPTldKc2g2WW45RnUtQ2psaEQ1WklVUUJBekdYeG0tN3p0V240aXRsQdIBngFBVV95cUxQVFIxYlNwWnBwdjVqRzBtRnlNN2VoRFVDUW5NSjV1TUlkNUlnWkRLTFd1Y1E4eXR0MVlyMEFqSzZCeUFWaWpLT3dvY3pac1VybTFWcjUyOEx5X0xJbW5xM080T1l6cnN1ZWNBNlQyMmxqRXpXTGxPTldKc2g2WW45RnUtQ2psaEQ1WklVUUJBekdYeG0tN3p0V240aXRsQQ?oc=5",
           "source": "Regionews.at",
           "date": "24. Jul 2026"
-        },
-        {
-          "title": "Klein-Lkw überschlägt sich: Mann verletzt - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50bEVZcVVWZEx5Rm1zZUtpWk8yRlNMblBGNzlaTWJwSlhzbHBVY3J0NlQ0T3V4OFh0U04wb053R2xOTEZXQjM3X1FwdHl6UjhGeFlqZg?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "24. Jul 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Der Oststeiermark Tourismus nutzt den Regiobus als strategisches Verkehrsmittel zur Erschließung von Tourismuszielen und zur Unterstützung von MICE-Veranstaltungen (Meetings, Incentives, Conferences, Events). Damit wird der öffentliche Nahverkehr als wichtiger Faktor für die touristische Entwicklung und Wirtschaftlichkeit der Region positioniert.",
+      "summary": "Der Oststeiermark Tourismus nutzt den Regiobus als strategisches Verkehrsmittel zur Erschließung von Tourismuszielen und zur Unterstützung von MICE-Veranstaltungen (Meetings, Incentives, Conferences, Events). Damit wird der öffentliche Nahverkehr als wichtiger Faktor für die touristische Entwicklung und wirtschaftliche Wertschöpfung in der Region positioniert.",
       "items": [
         {
           "title": "Oststeiermark Tourismus setzt auf Regiobus und MICE - wirtschafts-nachrichten.at",
@@ -76,7 +76,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Motorradunfallzahlen in der Steiermark sind auf einem besorgniserregenden Rekordhoch angekommen und erfordern dringende Maßnahmen zur Verbesserung der Fahrzeugsicherheit und des Fahrverhaltens. Experten appellieren an Motorradfahrer, verstärkt auf Sicherheitsausrüstung, defensive Fahrweise und Geschwindigkeitsanpassung zu achten, um die steigende Unfallquote zu senken.",
+      "summary": "Die Motorradunfallzahlen in der Steiermark sind auf einem besorgniserregenden Rekordhoch angekommen, was einen dringenden Appell an Motorradfahrer zur erhöhten Vorsicht und Rücksichtnahme im Straßenverkehr darstellt. Dieser Trend unterstreicht die Notwendigkeit verstärkter Verkehrssicherheitsmaßnahmen und Präventionskampagnen, um die Risiken für Zweiradfahrer zu minimieren.",
       "items": [
         {
           "title": "Appell an Biker: Motorradunfälle erreichen eine neues Rekordhoch - Kleine Zeitung",
@@ -90,7 +90,7 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die geplante Begleitstraße zur B68 in der Steiermark wird von den Grünen wegen möglicher Bewilligungslücken kritisch hinterfragt und sorgt für Konflikte bezüglich der Bauqualität. Die Vorwürfe des \"Pfuschs\" bei der Straßenbauerrichtung deuten auf erhebliche Mängel in der Projektabwicklung hin.",
+      "summary": "Ich kann diese Anfrage nicht wie gewünscht beantworten, da zwei der drei Nachrichtentitel nicht vollständig oder lesbar sind – einer enthält nur eine Fehlermeldung und der andere ist unvollständig. Nur der erste Titel zur B68 und möglichen Bewilligungslücken ist aussagekräftig genug, um ihn zusammen mit dem dritten Titel zu einem sinnvollen Fazit zu verarbeiten: Die geplante Begleitstraße zur B68 in der Steiermark wird von den Grünen wegen fehlender Bewilligungen kritisiert und sorgt aufgrund von Qualitätsmängeln für Konflikte. Bitte stellen Sie die vollständigen Nachrichtentitel zur Verfügung, damit ich eine präzise Zusammenfassung erstellen kann.",
       "items": [
         {
           "title": "B68 vor Baustart: Grüne schlagen wegen möglicher Bewilligungslücke Alarm - 5 Minuten",
@@ -116,15 +116,8 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Die Grünen warnen vor dem geplanten Baustart der B68 und kritisieren eine mögliche Lücke in den erforderlichen Bewilligungen. Die Behörde sollte vor Baubeginn alle notwendigen verwaltungsrechtlichen Genehmigungen vollständig vorliegen haben.",
-      "items": [
-        {
-          "title": "B68 vor Baustart: Grüne schlagen wegen möglicher Bewilligungslücke Alarm - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNnNhcmVSWi1pMndpSkJwSFV2bU9ubm9hQllsTWZhNjJ3RF84RElqN1VQNVZyNXlIUXRrWVdJNHUxUEQ2al9LdmFobDEzbTZZSWJ1NWpnY0FPUVFZOXNVeGJFSG9YQ2ctNkZzeWJzZnpkd3llTzVmTzBYZExxV2lEb3dNeFdaMTFRYmxXdWxMMmEzVmdYRHpBU1Z3QmcwVl9aQ3dPak5QVThYc0E5Y2NpY0tPUlVzaVpHR180RA?oc=5",
-          "source": "5 Minuten",
-          "date": "23. Jul 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     }
   }
 }
