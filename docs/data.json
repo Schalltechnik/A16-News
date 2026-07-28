@@ -1,13 +1,19 @@
 {
-  "generated": "27. July 2026, 06:13 UTC",
+  "generated": "28. July 2026, 05:33 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "In der Steiermark kommt es derzeit zu erheblichen Verkehrsbeeinträchtigungen durch Baustellen und Sperrungen, insbesondere im Packabschnitt der A2, beim Gleinalmtunnel sowie bei der Brückensanierung der L 634, die zu täglichen Staus und Reiseverkehrsüberlastungen auf den Autobahnen führt. Parallel dazu werden wichtige Infrastrukturprojekte wie Tunnelarbeiten am Semmering und Brückensanierungen durchgeführt, während lokale Fachkräfte wie der steirische Vizemeister Julian Grein die hohen Standards des Straßenbaus in der Region vertreten.",
+      "summary": "Die Steiermark kämpft mit erheblichen Verkehrsproblemen durch tägliche Staus auf der A2 im Packabschnitt und Sperrungen wie beim Gleinalmtunnel auf der A9, während gleichzeitig umfangreiche Sanierungsarbeiten wie die Brückenerneuerung an der L 634 zu monatelangen Totalverkehrssperrungen führen. Trotz dieser Herausforderungen zeigen steirische Fachkräfte wie der Vizemeister Julian Grein aus Feldbach hohe Kompetenz im Straßenbau, wobei die Infrastruktur jedoch weiterhin durch Reiseverkehr und Unfallgeschehen belastet wird.",
       "items": [
+        {
+          "title": "Steiermark: Siebenjährige von Auto erfasst und schwer verletzt - Kurier",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNkxtN19KUWdybmxqM0RxTk05enhxWFlCaUNGQjk4aVYzMHNYSmtsWTZWMTJyY01KUWlqSVM4Ti00LXEyRzRoY3MxckRxSkVBR3cydHFUXzNjczJNNkhBYV94ZU9IUUV1X3M1N09kcXZIaFNIMVdyUDJoVXphMklsSDJtZ1NabTJJOUZYVHJULTVfS2lER2JfOTEzOG9uT3AzNldNY042UHk?oc=5",
+          "source": "Kurier",
+          "date": "27. Jul 2026"
+        },
         {
           "title": "Steiermarks beste Straßenbauer: Feldbacher Julian Grein ist steirischer Vizemeister - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWFJIMVdYTV9PZ0c4MmphOThYM3VfTWNhcjNlMnM4QXVCU3dnYzF2VVdEdW42cllXUXV3QkwxSExFYWRieHk3WGpEdE4tX0Ffc3RMRkNqQ1FwSnYxMF9iQ3FiMDg3em4zZTNyWXZqdDMyVmEzMGItdE1Ya2ZDTzdkSzdXNGIzcVpuczg4XzZ5Wnc2R2Vwc3g1dU9LN3ZqMk9raThFVDFiUVp1TGtGYWhENFBDSk0?oc=5",
@@ -18,7 +24,7 @@
           "title": "A2: Tägliche Staus im Packabschnitt - ÖAMTC",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV3B5ZU15ZXVVcHFHdlpDT0tjeTNrbEZDMGVtUWdwTXpEMUtobFFKNHFTbXV0UTAybXZYSExpc2FaaEF3dVZZYjVRV21IX2YxUjlYSDN2OU9DVEF1SDRkeXZlMERqUHp2T2kzVW9fejNDMVNqd2tBUnhPdkE3WDBpcUt1ZTFGYm93dGc?oc=5",
           "source": "ÖAMTC",
-          "date": "27. Jul 2026"
+          "date": "26. Jul 2026"
         },
         {
           "title": "Reiseverkehr überlastete Autobahnen in Kärnten, Tirol und der Steiermark - 5 Minuten",
@@ -31,12 +37,6 @@
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPai1ybWRnM054YkNoSUd0SUpVVVZBeHZBdVFIUU9WMVNkVEZ5Wm95YjVkcTRyb0RIRE9LcEk1V1hybDRLeGlGQnlPZlh1cjA0cExlSHloMlhVNzJEeTBibjhaQnJzb3owZmFWNFN6R2NLcjFPcTVMeXRHdklFVVZ4TXZCZG5DTHh6NWViV0t2ZnU?oc=5",
           "source": "ÖAMTC",
           "date": "26. Jul 2026"
-        },
-        {
-          "title": "Tunnel-Tragödie beim Semmering: Arbeiter (45) tot, 54-Jähriger schwer verletzt - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdG5Xdi1lR0tOWkEzUFh3UnoxaDFpZHg5LUZwYnYwcUpHMEZ3RFdrT2M5QU9ka2VOU0JxS2xUenMyajg2QjhIVExOSzkzSHp4TTJNdVBVTGhzRXZGWmI3X2pZWElIbzlmTjNTeFVqcnd3YkVBZ0F5RWlVOVRtY05lYTdtYUluWEZmWlA4UEpXaDdzQ1FHSEVCYW1SUjRITnM4V2Y3a29lcldKR2ZjVlBGXzNVS3Q0aHR6VXVfNHZxRWFMbUpHcXBuRA?oc=5",
-          "source": "5 Minuten",
-          "date": "20. Jul 2026"
         },
         {
           "title": "L 634: Ab Montag Totalsperre wegen Brückensanierung - Kommunikation - Land Steiermark",
@@ -62,13 +62,25 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Der Oststeiermark Tourismus nutzt den Regiobus als strategisches Verkehrsmittel zur Erschließung von Tourismuszielen und zur Unterstützung von MICE-Veranstaltungen (Meetings, Incentives, Conferences, Events). Damit wird der öffentliche Nahverkehr als wichtiger Faktor für die touristische Entwicklung und wirtschaftliche Wertschöpfung in der Region positioniert.",
+      "summary": "Die Steiermark setzt verstärkt auf den Ausbau des regionalen Busverkehrs zur Förderung des Tourismus und zur Entlastung der Straßeninfrastruktur. Ein neues grenzüberschreitendes Klimaticket für die Metropolregion Graz-Klagenfurt-Maribor soll als innovative Lösung zur Verkehrsverlagerung und CO2-Reduktion dienen.",
       "items": [
         {
           "title": "Oststeiermark Tourismus setzt auf Regiobus und MICE - wirtschafts-nachrichten.at",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcTVkYk9laDF5cmcxTE1OUjIzUDM0VERfcWIwQy1oaVdZOFYwS0RkN0dON0J2R3lBVHY5M25VZmE2aEN2VExNVVdQbWJjbElyM21aM1pBZHJPdzIzd0ZCSDJ5QlhJTC1qaHk3QUQ1QmpDS2Eyd19mVFU1WWFUdEF6NVlzLWNPa2d3YmNaWHVHTFJBOHpYdkNMVldGZklFLURHWjdkaWlQVFZIUFdPbk14ZGkwek9idU1kblBQaGNtU3VGYm1oZDFyMmFXTQ?oc=5",
           "source": "wirtschafts-nachrichten.at",
           "date": "22. Jul 2026"
+        },
+        {
+          "title": "Neuer Grüner Vorstoß: Metropol-Klimaticket für den Raum Graz – Klagenfurt – Maribor - Leibnitz Aktuell",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb0NYVUtIcDQxTnp4RjNJZ0VZcHVLNUE0QlRKTUxEZ0t1MXhDVC11QnFLaThzd2RDM2xyS21uemlmNHdSY1YweG5lVm93SVNzV0kzYlhHVEh0NlBoV0pKY2lqX3FfR1hXcVFnOTYzWjdVYUNNb2ZsWV91eVozc3JrYUsyeDM0VDU3M05iRU1TVE9XZHFYTFhpeGFzY0ROLW5sbmpHcERYcVc4dU1BdDM1clNWeF9UdkY4cmRkeWZ0eENtbFgwWmlkVg?oc=5",
+          "source": "Leibnitz Aktuell",
+          "date": "27. Jul 2026"
+        },
+        {
+          "title": "Entlastung für die A9: Neues Klimaticket für Graz, Klagenfurt und Maribor? - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWk1uY2JSNEJXM0xCY2xFTnl1eGlaUzYwWm4ydTJ0WDdoYVdXMlpBdFg5anhlenZYc3A0dlNNal9LaUduaWhJaXVBNWc1S0lxS2hERlNHOGtic0tCV0ZYRkowdmkyMWZOYVotY19zQlpFUXZ6akhLdkJHYklCMmE2dzJoOXoxMVhuVzd1c2J4b1lUWVlFTGtLRHdYR0JGUVhsLThqcVdYNWdCY2NPZ29jb3o5eTZrNkJJSmJJ?oc=5",
+          "source": "5 Minuten",
+          "date": "27. Jul 2026"
         }
       ]
     },
@@ -76,21 +88,14 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Motorradunfallzahlen in der Steiermark sind auf einem besorgniserregenden Rekordhoch angekommen, was einen dringenden Appell an Motorradfahrer zur erhöhten Vorsicht und Rücksichtnahme im Straßenverkehr darstellt. Dieser Trend unterstreicht die Notwendigkeit verstärkter Verkehrssicherheitsmaßnahmen und Präventionskampagnen, um die Risiken für Zweiradfahrer zu minimieren.",
-      "items": [
-        {
-          "title": "Appell an Biker: Motorradunfälle erreichen eine neues Rekordhoch - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdTZLYXRybWZlVGZlNjU1VnlYZFBpZmRBai1lX09FeGJWNnhZbmQ0aThXZlhhWGU5VEJZa3J4eWRmOVV2SXozOVV3bktRZkZzRGhfWkJZV05ydkRjTUZhV01RWXpUSkd6VGVJbnRCcFJibzBjWkItS3ZUUXVBbGxmbDZ2QjRWOFRPNEN1YnJGb05qaXZlUTg2X1VVaGJLUQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "20. Jul 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "landeshochbau": {
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Ich kann diese Anfrage nicht wie gewünscht beantworten, da zwei der drei Nachrichtentitel nicht vollständig oder lesbar sind – einer enthält nur eine Fehlermeldung und der andere ist unvollständig. Nur der erste Titel zur B68 und möglichen Bewilligungslücken ist aussagekräftig genug, um ihn zusammen mit dem dritten Titel zu einem sinnvollen Fazit zu verarbeiten: Die geplante Begleitstraße zur B68 in der Steiermark wird von den Grünen wegen fehlender Bewilligungen kritisiert und sorgt aufgrund von Qualitätsmängeln für Konflikte. Bitte stellen Sie die vollständigen Nachrichtentitel zur Verfügung, damit ich eine präzise Zusammenfassung erstellen kann.",
+      "summary": "Ich kann diese Aufgabe nicht wie angefordert erfüllen, da zwei der drei Nachrichtentitel nicht vollständig oder lesbar sind (Titel 2 ist ein Fehler, Titel 1 und 3 beziehen sich auf die B68-Straße, nicht auf Hochbau oder Baukultur). Für eine aussagekräftige Zusammenfassung zu Landeshochbau und Baukultur in der Steiermark benötige ich vollständige und thematisch relevante Nachrichtentitel.",
       "items": [
         {
           "title": "B68 vor Baustart: Grüne schlagen wegen möglicher Bewilligungslücke Alarm - 5 Minuten",
