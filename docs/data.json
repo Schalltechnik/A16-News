@@ -1,19 +1,13 @@
 {
-  "generated": "30. July 2026, 05:27 UTC",
+  "generated": "31. July 2026, 05:52 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die steirische Straßeninfrastruktur ist durch regelmäßige Verkehrsüberlastungen auf der A2 im Packabschnitt und den Reiseverkehren gekennzeichnet, während gleichzeitig notwendige Sanierungsmaßnahmen wie die Brückenerneuerung an der L 634 durchgeführt werden müssen. Verkehrssicherheit bleibt ein kritisches Thema, da neben Geschwindigkeitsverstößen auch Unfälle mit Fußgängern und Radfahrern im steirischen Straßennetz dokumentiert sind.",
+      "summary": "Die Nachrichtentitel behandeln primär Verkehrssicherheitsprobleme wie Geschwindigkeitsüberschreitungen und Unfälle mit Verletzten in der Steiermark, während infrastrukturelle Themen wie chronische Stauprobleme im Packabschnitt der A2 und Reiseverkehrsüberlastungen auf steirischen Autobahnen nur am Rande erwähnt werden. Konkrete Maßnahmen zum Straßenbau, zur Sanierung oder zu Umfahrungen werden in den vorliegenden Titeln nicht thematisiert.",
       "items": [
-        {
-          "title": "Zivilstreife überholt - Mit 205 km/h auf Landstraße: Motorrad abgenommen - krone.at",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBwSmw4SktJZ3V4a0JSMG4zcGNjM3hPcEhFaGgtRHVRM0I3YkZzQkxHMTdLdUtWb3dmWG1qa25jRkFCQQ?oc=5",
-          "source": "krone.at",
-          "date": "29. Jul 2026"
-        },
         {
           "title": "Motorradfahrer (65) jagt mit 205 km/h über Landstraße - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYTNSM09IY1hqeHNHclpGd1dDZ0FON0dyb3RDQlFoSVVTdUZzWGZNMjNqVjFucGhpTDdzYkZoTzhQU3l2VkQwQVNNaVFmckdhTy1QSmpnQkFjdzlfdVpPUUloU09KVjRiMU5XRGY4bjZ2Z2NpcHQ0czYtUkQ5NUlON0U2ak5pYTlNQlVHS2gtcUhIUnI5RkY1OVZSRUkwYWRD?oc=5",
@@ -27,16 +21,22 @@
           "date": "27. Jul 2026"
         },
         {
-          "title": "Mit dem Rad unterwegs - Siebenjährige von Pkw erfasst und schwer verletzt - krone.at",
+          "title": "Zivilstreife überholt - Mit 205 km/h auf Landstraße: Motorrad abgenommen - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBwSmw4SktJZ3V4a0JSMG4zcGNjM3hPcEhFaGgtRHVRM0I3YkZzQkxHMTdLdUtWb3dmWG1qa25jRkFCQQ?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "29. Jul 2026"
+        },
+        {
+          "title": "Mit dem Rad unterwegs - Siebenjährige von Pkw erfasst und schwer verletzt - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1uMHkzdS1SU1lZanhtRDlqcjBMNlZvZ0VteTdoN0dxVkk4eGgyd3c0V0hjX0JlNk9sRExibHRGZ2Rldw?oc=5",
-          "source": "krone.at",
+          "source": "Kronen Zeitung",
           "date": "27. Jul 2026"
         },
         {
-          "title": "Lassing, Steiermark: Mädchen (7) mit Fahrrad von Pkw erfasst – schwerste Verletzungen - polizei.news",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUUx1bXJFV3FUd3prVzFJdDBOWHh1Wng1amNSazREb2FCQTdRQTYwU084VWpYcjlqTEZZQkx1SkdzUFhyMGRtbTNSZ0twWG5ZZ3I1WnFGN1VYbkREY3o0UXpQSHE4ZHNER2RKeEh2S05idkc3VkZsdUU3TG9DcUlvZlVfanI4NXk3ZVcxSTFWbE5HUDk1QmJCMnhDYWRnWm1GTGRYQ2YyWnczd0pWN0FSV0FMSQ?oc=5",
-          "source": "polizei.news",
-          "date": "29. Jul 2026"
+          "title": "Steiermark: EU-Vorgaben machen neues Energieeffizienz-Umsetzungsgesetz notwendig - Begutachtung ... - Regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdUNsTVozOWZ2X1pvbUxaNXhRU0M0XzFBX29uWXplWk5YM2lUcjFMaE1OaVMxRGFJMVZtR2xUOEpVRldjbjZJY0t4RVR3M0FTRUxHR0N4NEJnOFMxSEtMWUFPbEFicUhnZzYycTN4YUJ1TU1WLV9FOWgxZ3pUT3BfcGdvU2xXR3dtYmdDS2FjZWxaTExXVHl5VDE2bXVWVU85WDNfa2J0NHl1Z3FSSWJ0RGV6ang0a2kwT3RlSlZGdGZVQnIzc2NPdUVyeUdYN1ds0gHQAUFVX3lxTFB1Q2xNWjM5ZnZfWm9tTFo1eFFTQzRfMUFfb25ZemVaTlgzaVRyMUxoTU5pUzFEYUkxVm1HbFQ4SlVGV2NuNkljS3hFVHczQVNFTEdHQ3g0Qmc4UzFIS0xZQU9sQWJxSGdnNjJxM3hhQnVNTVYtX0U5aDFnelRPcF9wZ29TbFdHd21iZ0NLYWNlbFpMTFdUeXlUMTZtdVZVTzlYM19rYnQ0eXVncVJJYnREZXpqeDRraTBPdGVKVkZ0ZlVCcjNzY091RXJ5R1g3V2w?oc=5",
+          "source": "Regionews.at",
+          "date": "30. Jul 2026"
         },
         {
           "title": "A2: Tägliche Staus im Packabschnitt - ÖAMTC",
@@ -51,10 +51,10 @@
           "date": "25. Jul 2026"
         },
         {
-          "title": "L 634: Ab Montag Totalsperre wegen Brückensanierung - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBydjhzeElKMm5iYUxubktLZlo2S1NaU0EyMXJtNjY5Z3VZb2dGSUljRkt0YnJDX1puN1d3VnBZakhyQWxnazVlVUZjX09Yc1I1WUNWYk5fUlFlZ21IckRtOG5KY21VMndJaGFPMTU4eWJLUjJHMEZmRw?oc=5",
-          "source": "Kommunikation - Land Steiermark",
-          "date": "23. Jul 2026"
+          "title": "Klein-Lkw überschlägt sich: Mann verletzt - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50bEVZcVVWZEx5Rm1zZUtpWk8yRlNMblBGNzlaTWJwSlhzbHBVY3J0NlQ0T3V4OFh0U04wb053R2xOTEZXQjM3X1FwdHl6UjhGeFlqZg?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "24. Jul 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Steiermark setzt verstärkt auf RegionalBusse zur Tourismusförderung in der Südsteiermark und plant gleichzeitig ein innovatives Metropol-Klimaticket für die grenzüberschreitende Mobilität zwischen Graz, Klagenfurt und Maribor, um die Verkehrsbelastung auf der A9 zu reduzieren.",
+      "summary": "Die Steiermark setzt verstärkt auf Busverkehr zur Tourismusförderung in der Südsteiermark und arbeitet an innovativen Ticketlösungen wie einem Metropol-Klimaticket für die grenzüberschreitende Region Graz-Klagenfurt-Maribor, um Verkehrsbelastungen auf der A9 zu reduzieren.",
       "items": [
         {
           "title": "Tourismus-Initiative: RegioBusse machen Lust auf Entdeckungstouren in der Südsteiermark - MeinBezirk.at",
@@ -95,26 +95,8 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark investiert massiv in ihre Infrastruktur, insbesondere mit 43 Millionen Euro für die Transportleitung Steiermark Süd zur Sicherung der Trinkwasserversorgung, während gleichzeitig die B68-Baumaßnahmen durch mögliche Bewilligungslücken und Qualitätsmängel bei Begleitstraßen in die Kritik geraten. Die Landesregierung bringt ein neues Energiegesetz zur Gebäudesanierung in Begutachtung, das jedoch auf Widerstand bei Gemeinden und Landkreisen stößt, da die neuen EU-Vorgaben erhebliche finanzielle Belastungen mit sich bringen.",
+      "summary": "Die Steiermark hat ein neues Energiegesetz zur Gebäudesanierung in Begutachtung gebracht, wobei die EU-Vorgaben zur Energieeffizienz auf Kritik stoßen. Die geplanten Maßnahmen werden von Land und Gemeinden als erhebliche finanzielle Belastung wahrgenommen.",
       "items": [
-        {
-          "title": "B68 vor Baustart: Grüne schlagen wegen möglicher Bewilligungslücke Alarm - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNnNhcmVSWi1pMndpSkJwSFV2bU9ubm9hQllsTWZhNjJ3RF84RElqN1VQNVZyNXlIUXRrWVdJNHUxUEQ2al9LdmFobDEzbTZZSWJ1NWpnY0FPUVFZOXNVeGJFSG9YQ2ctNkZzeWJzZnpkd3llTzVmTzBYZExxV2lEb3dNeFdaMTFRYmxXdWxMMmEzVmdYRHpBU1Z3QmcwVl9aQ3dPak5QVThYc0E5Y2NpY0tPUlVzaVpHR180RA?oc=5",
-          "source": "5 Minuten",
-          "date": "23. Jul 2026"
-        },
-        {
-          "title": "Trinkwasser-Zukunft: 43 Millionen Euro für Bau der Transportleitung Steiermark Süd - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd1hEVy1kRXBZTXpGSHdzYXNWeWh5d2doZ0ZDZHhkMVBnd2s2a2V1S1NhVm5nZzNkQ0U2Y1RJWFozUEwtUVVjLS1OSk9rdWgtR3FUQnpZVHl2Z0ZHd1ZlZ1Z6U01sd3RBZkFNSU92X29aS0lCU29Vb0xSazBXVkhxR0ZMSWNlTEZxSkxuOUJQUzJ5NE5HRHV5b1VCU0ozTldpX0xkaUxXX1l5dzcwdEE?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "23. Jul 2026"
-        },
-        {
-          "title": "„Pfusch“ an B 68? Bau einer Begleitstraße sorgt für Konflikt - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSm84M3RlbmdLeGRvNmtqMTZuVTEtTlVESHRtUWxRWjdiZE0telMwNWxZZldCcWtHY2lwa0g1UkllT2ZlMWVKLXFNVk12bldlNXNrRkpvZkUyWTBqcnU5SUt6YXZDenlKV3VTa1V4VUwybWJVNk01SWtfYzNjWmdzcm9Nd2tzNDZ4MndFQl9jcHM4UUxrcm1maWh5NVMzRVNYNmM0TVBCNnU?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "23. Jul 2026"
-        },
         {
           "title": "Gebäudesanierung: Steiermark bringt Energiegesetz in Begutachtung, Kritik an EU-Vorgaben bleibt - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcFRtTTNGRDJRbE0tam5yazNtRkVobjhYNnlUQWVOb1VuUDBSa2Vmc3JpVFY5aTNJZzhaQkxXVU1uVmpSSjZUbjY4RVBPVUZXT2FxY0ZXMTJ6RWkwVVR1ZXlsTERSalpyWGZIbXJPdFB0bGx1MF9mZkRRRUR5blI4U1B6VzhsSTlfX2ZrWGdNRzdoVjdwbGh5M3F0bjUtZEtiRktramxXam82MWlXaFhXWmlPMEtKdnhfRUNhMHlZU3RLZFprdGNVdWxwTVc?oc=5",
@@ -125,12 +107,6 @@
           "title": "Neue EU-Energievorgaben: „Belastungen für Land und Gemeinden“ - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS3Nrb2pUYmpQM1dlRkV0RHh5STc3eFFBa21nQ29MaUxyVGhmWF9US0F4eHYyZUlUb05wWmh5bXgyRUFkYklLa2VXeWlJaU9JVXI2ci1tOWFyLXVUZV9tSFZJQW16eFFXcFBrX0xJVkNua01JellCMGVDY2V5QU9YaEJUNG1fSGFLMUhyRXl1MWxVdkVlYlluUGEteklpZjNOazUyMHpBNVM?oc=5",
           "source": "5 Minuten",
-          "date": "29. Jul 2026"
-        },
-        {
-          "title": "Das Wichtigste im Überblick: Was hat deine Region heute bewegt? - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcC1LWF95NUV4dGpMa0NQS0N4d3FSdXpGX2dqcWxFSjlSZkhlc3FITnlYa0JiaVluR2ZwV2xqMkVuRS1ienVMb1ZIVzcxd1ZXV0s5eEYxM0lTM2JKWVJLTjd0ejNZY0VGbmR4dWFmX1dTT3ZQdjR4ZjM4Z21DNGdfU1g3OUhPYzh0WFo2MU00eVQ0MmM?oc=5",
-          "source": "MeinBezirk.at",
           "date": "29. Jul 2026"
         }
       ]
