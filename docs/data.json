@@ -1,13 +1,25 @@
 {
-  "generated": "31. July 2026, 05:52 UTC",
+  "generated": "01. August 2026, 05:42 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die Nachrichtentitel behandeln primär Verkehrssicherheitsprobleme wie Geschwindigkeitsüberschreitungen und Unfälle mit Verletzten in der Steiermark, während infrastrukturelle Themen wie chronische Stauprobleme im Packabschnitt der A2 und Reiseverkehrsüberlastungen auf steirischen Autobahnen nur am Rande erwähnt werden. Konkrete Maßnahmen zum Straßenbau, zur Sanierung oder zu Umfahrungen werden in den vorliegenden Titeln nicht thematisiert.",
+      "summary": "Die steirischen Straßen sind durch Unfälle mit Verletzten und Geschwindigkeitsverstöße sowie durch Unwetterschäden und Verkehrsüberlastungen, insbesondere im Packabschnitt der A2, erheblich belastet. Infrastrukturelle Herausforderungen wie tägliche Staus und Straßenschäden erfordern verstärkte Aufmerksamkeit für Verkehrssicherheit und Straßenerhaltung in der Steiermark.",
       "items": [
+        {
+          "title": "Mit dem Rad unterwegs - Siebenjährige von Pkw erfasst und schwer verletzt - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1uMHkzdS1SU1lZanhtRDlqcjBMNlZvZ0VteTdoN0dxVkk4eGgyd3c0V0hjX0JlNk9sRExibHRGZ2Rldw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "27. Jul 2026"
+        },
+        {
+          "title": "Unwetter fegte über die Steiermark: Bäume krachen auf Straße und Stromleitungen - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbHd4a3VMMjV6MDNoSUdjNjdoWGxMa3ppVDk2TnNsVjZOaVJSbnlHV0NFTTktWnU3YlVBUXlFTGFfOHpEMkIxV0dIc3ZiZEl0b21VLUNJcWs0QU5lcDRSZU1xZEJCTDl0ZmktZGVfSl9JSzhXUW12WHdYM2dybzdSNk1FUi1PRFJNOTdzdzM3MzN2YUswU0plcll6MWk2c1pvcWZjMkhyMlpmeWN4b1pCdU54SkkwV05ubDZ0LVdiTm02bXFBb2c?oc=5",
+          "source": "5 Minuten",
+          "date": "31. Jul 2026"
+        },
         {
           "title": "Motorradfahrer (65) jagt mit 205 km/h über Landstraße - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYTNSM09IY1hqeHNHclpGd1dDZ0FON0dyb3RDQlFoSVVTdUZzWGZNMjNqVjFucGhpTDdzYkZoTzhQU3l2VkQwQVNNaVFmckdhTy1QSmpnQkFjdzlfdVpPUUloU09KVjRiMU5XRGY4bjZ2Z2NpcHQ0czYtUkQ5NUlON0U2ak5pYTlNQlVHS2gtcUhIUnI5RkY1OVZSRUkwYWRD?oc=5",
@@ -27,12 +39,6 @@
           "date": "29. Jul 2026"
         },
         {
-          "title": "Mit dem Rad unterwegs - Siebenjährige von Pkw erfasst und schwer verletzt - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1uMHkzdS1SU1lZanhtRDlqcjBMNlZvZ0VteTdoN0dxVkk4eGgyd3c0V0hjX0JlNk9sRExibHRGZ2Rldw?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "27. Jul 2026"
-        },
-        {
           "title": "Steiermark: EU-Vorgaben machen neues Energieeffizienz-Umsetzungsgesetz notwendig - Begutachtung ... - Regionews.at",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdUNsTVozOWZ2X1pvbUxaNXhRU0M0XzFBX29uWXplWk5YM2lUcjFMaE1OaVMxRGFJMVZtR2xUOEpVRldjbjZJY0t4RVR3M0FTRUxHR0N4NEJnOFMxSEtMWUFPbEFicUhnZzYycTN4YUJ1TU1WLV9FOWgxZ3pUT3BfcGdvU2xXR3dtYmdDS2FjZWxaTExXVHl5VDE2bXVWVU85WDNfa2J0NHl1Z3FSSWJ0RGV6ang0a2kwT3RlSlZGdGZVQnIzc2NPdUVyeUdYN1ds0gHQAUFVX3lxTFB1Q2xNWjM5ZnZfWm9tTFo1eFFTQzRfMUFfb25ZemVaTlgzaVRyMUxoTU5pUzFEYUkxVm1HbFQ4SlVGV2NuNkljS3hFVHczQVNFTEdHQ3g0Qmc4UzFIS0xZQU9sQWJxSGdnNjJxM3hhQnVNTVYtX0U5aDFnelRPcF9wZ29TbFdHd21iZ0NLYWNlbFpMTFdUeXlUMTZtdVZVTzlYM19rYnQ0eXVncVJJYnREZXpqeDRraTBPdGVKVkZ0ZlVCcjNzY091RXJ5R1g3V2w?oc=5",
           "source": "Regionews.at",
@@ -49,12 +55,6 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR1FxNV8xNzhMYUJ5QncxTFEteWFzRUU1aVI4WUhsZzFWd3k5eHdKc3RxYmo5NXBvX0hxV0xsdTZhcVctRTZDZVBzbV9UcHNZVmpxOElmckNHSEl4Z0o5V2VEOWtJQ2JYUmt0NFQtbDJVVmhrdHFZY29yOVNSUzBCMGI5UlJBeEJ1bnByWm9ESzdENkhIYkNwT1RrWlNsSVlORXlwWVZnUTU5X1I5cG1zc3hYMFlLaEkz?oc=5",
           "source": "5 Minuten",
           "date": "25. Jul 2026"
-        },
-        {
-          "title": "Klein-Lkw überschlägt sich: Mann verletzt - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50bEVZcVVWZEx5Rm1zZUtpWk8yRlNMblBGNzlaTWJwSlhzbHBVY3J0NlQ0T3V4OFh0U04wb053R2xOTEZXQjM3X1FwdHl6UjhGeFlqZg?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "24. Jul 2026"
         }
       ]
     },
@@ -62,24 +62,18 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Steiermark setzt verstärkt auf Busverkehr zur Tourismusförderung in der Südsteiermark und arbeitet an innovativen Ticketlösungen wie einem Metropol-Klimaticket für die grenzüberschreitende Region Graz-Klagenfurt-Maribor, um Verkehrsbelastungen auf der A9 zu reduzieren.",
+      "summary": "Die Südsteiermark setzt auf RegionalBusse als Tourismusangebot für Entdeckungsfahrten, während gleichzeitig ein innovatives Klimaticket für die Städte Graz, Klagenfurt und Maribor diskutiert wird, um die stark belastete A9-Autobahn zu entlasten.",
       "items": [
         {
-          "title": "Tourismus-Initiative: RegioBusse machen Lust auf Entdeckungstouren in der Südsteiermark - MeinBezirk.at",
+          "title": "Tourismus-Initiative: RegioBusse machen Lust auf Entdeckungstouren in der Südsteiermark - meinbezirk.at",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR3JuWWlSZkc0MW5NVDVoemYzTVVaS0h3VGIyczJiUzltbzZCQzV6di1ZWFhPc2dvQnRrUk5zOVV3VjYzbm51am5nLTgyRENVbU9wd0w4VVJEV040cHljZVE0dThYcGFCLVRoc2ZxdlB4WjNMZUNHanllb0FrRGY3NmxTZFJCRzNvZmlzdHBYZ042NXAzaWZNLXNfd2JhTUpHQXhFMEExQ1hzQmZob2xaX09makZJQ3ZyQ0hhR1F3OFRVYm8tdTBr?oc=5",
-          "source": "MeinBezirk.at",
+          "source": "meinbezirk.at",
           "date": "28. Jul 2026"
         },
         {
           "title": "Entlastung für die A9: Neues Klimaticket für Graz, Klagenfurt und Maribor? - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWk1uY2JSNEJXM0xCY2xFTnl1eGlaUzYwWm4ydTJ0WDdoYVdXMlpBdFg5anhlenZYc3A0dlNNal9LaUduaWhJaXVBNWc1S0lxS2hERlNHOGtic0tCV0ZYRkowdmkyMWZOYVotY19zQlpFUXZ6akhLdkJHYklCMmE2dzJoOXoxMVhuVzd1c2J4b1lUWVlFTGtLRHdYR0JGUVhsLThqcVdYNWdCY2NPZ29jb3o5eTZrNkJJSmJJ?oc=5",
           "source": "5 Minuten",
-          "date": "27. Jul 2026"
-        },
-        {
-          "title": "Neuer Grüner Vorstoß: Metropol-Klimaticket für den Raum Graz – Klagenfurt – Maribor - Leibnitz Aktuell",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb0NYVUtIcDQxTnp4RjNJZ0VZcHVLNUE0QlRKTUxEZ0t1MXhDVC11QnFLaThzd2RDM2xyS21uemlmNHdSY1YweG5lVm93SVNzV0kzYlhHVEh0NlBoV0pKY2lqX3FfR1hXcVFnOTYzWjdVYUNNb2ZsWV91eVozc3JrYUsyeDM0VDU3M05iRU1TVE9XZHFYTFhpeGFzY0ROLW5sbmpHcERYcVc4dU1BdDM1clNWeF9UdkY4cmRkeWZ0eENtbFgwWmlkVg?oc=5",
-          "source": "Leibnitz Aktuell",
           "date": "27. Jul 2026"
         }
       ]
@@ -88,19 +82,26 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Die Gemeinde Sinabelkirchen verbessert ihre Infrastruktur durch den Ausbau eines Radwegs in Gnies und modernisiert gleichzeitig die Trinkwasserversorgung. Mit dieser Investition trägt die Steiermark zu einer nachhaltigen Mobilität und besseren Lebensqualität bei.",
+      "items": [
+        {
+          "title": "Baumaßnahmen in Gnies: Sinabelkirchen investiert in Radweg und Trinkwasserversorgung - meinbezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR1dXd3pDUE8yXzlRbW5aM3FnLXQ1bzZHamt4cm45NENoZXZ0dllPMmhldWkxa2F6SVpPMmFFcExBZUFEX0JBaTJOTElxSVliQnliWnU4Qk9oSzVMRHV4bHhtalNObTFNOVlnb0V4bW9Xcmh0Y2JENm5qX09TR2xRdWY5c2tBQ1p3VWRvNUJaaWpqTzNuREEtRFVqeThZdThjN2ROb1ROZVVrMFRVcUk1M0FnT0g?oc=5",
+          "source": "meinbezirk.at",
+          "date": "29. Jul 2026"
+        }
+      ]
     },
     "landeshochbau": {
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark hat ein neues Energiegesetz zur Gebäudesanierung in Begutachtung gebracht, wobei die EU-Vorgaben zur Energieeffizienz auf Kritik stoßen. Die geplanten Maßnahmen werden von Land und Gemeinden als erhebliche finanzielle Belastung wahrgenommen.",
+      "summary": "Die Steiermark hat ein neues Energiegesetz zur Gebäudesanierung in die Begutachtung gebracht, wobei erhebliche Kritik an den EU-Vorgaben geübt wird. Land und Gemeinden sehen sich durch die neuen europäischen Energiestandards mit erheblichen finanziellen und administrativen Belastungen konfrontiert.",
       "items": [
         {
-          "title": "Gebäudesanierung: Steiermark bringt Energiegesetz in Begutachtung, Kritik an EU-Vorgaben bleibt - MeinBezirk.at",
+          "title": "Gebäudesanierung: Steiermark bringt Energiegesetz in Begutachtung, Kritik an EU-Vorgaben bleibt - meinbezirk.at",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcFRtTTNGRDJRbE0tam5yazNtRkVobjhYNnlUQWVOb1VuUDBSa2Vmc3JpVFY5aTNJZzhaQkxXVU1uVmpSSjZUbjY4RVBPVUZXT2FxY0ZXMTJ6RWkwVVR1ZXlsTERSalpyWGZIbXJPdFB0bGx1MF9mZkRRRUR5blI4U1B6VzhsSTlfX2ZrWGdNRzdoVjdwbGh5M3F0bjUtZEtiRktramxXam82MWlXaFhXWmlPMEtKdnhfRUNhMHlZU3RLZFprdGNVdWxwTVc?oc=5",
-          "source": "MeinBezirk.at",
+          "source": "meinbezirk.at",
           "date": "29. Jul 2026"
         },
         {
