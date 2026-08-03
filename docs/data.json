@@ -1,42 +1,30 @@
 {
-  "generated": "02. August 2026, 05:43 UTC",
+  "generated": "03. August 2026, 05:59 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die Steiermark kämpft mit erheblichen Herausforderungen bei der Straßeninfrastruktur, da Unwetter zu Beeinträchtigungen führen und der Packabschnitt der A2 täglich unter Stauaufkommen leidet. Parallel dazu zeigen sich Verkehrssicherheitsprobleme durch Geschwindigkeitsüberschreitungen und Unfälle mit Fußgängern und Radfahrern auf steirischen Straßen.",
+      "summary": "Die Steiermark kämpft mit Unwetterschäden auf Straßen und anhaltenden Verkehrsproblemen, insbesondere im Packabschnitt der A2, wo täglich Staus entstehen. Darüber hinaus zeigen sich kritische Verkehrssicherheitsdefizite, da Kinder im Straßenverkehr schwer verletzt werden.",
       "items": [
         {
-          "title": "Unwetter fegte über die Steiermark: Bäume krachen auf Straße und Stromleitungen - 5min.at",
+          "title": "Unwetter fegte über die Steiermark: Bäume krachen auf Straße und Stromleitungen - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbHd4a3VMMjV6MDNoSUdjNjdoWGxMa3ppVDk2TnNsVjZOaVJSbnlHV0NFTTktWnU3YlVBUXlFTGFfOHpEMkIxV0dIc3ZiZEl0b21VLUNJcWs0QU5lcDRSZU1xZEJCTDl0ZmktZGVfSl9JSzhXUW12WHdYM2dybzdSNk1FUi1PRFJNOTdzdzM3MzN2YUswU0plcll6MWk2c1pvcWZjMkhyMlpmeWN4b1pCdU54SkkwV05ubDZ0LVdiTm02bXFBb2c?oc=5",
-          "source": "5min.at",
+          "source": "5 Minuten",
           "date": "31. Jul 2026"
         },
         {
-          "title": "Mit dem Rad unterwegs - Siebenjährige von Pkw erfasst und schwer verletzt - Kronen Zeitung",
+          "title": "Mit dem Rad unterwegs - Siebenjährige von Pkw erfasst und schwer verletzt - krone.at",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1uMHkzdS1SU1lZanhtRDlqcjBMNlZvZ0VteTdoN0dxVkk4eGgyd3c0V0hjX0JlNk9sRExibHRGZ2Rldw?oc=5",
-          "source": "Kronen Zeitung",
+          "source": "krone.at",
           "date": "27. Jul 2026"
-        },
-        {
-          "title": "Motorradfahrer (65) jagt mit 205 km/h über Landstraße - 5min.at",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYTNSM09IY1hqeHNHclpGd1dDZ0FON0dyb3RDQlFoSVVTdUZzWGZNMjNqVjFucGhpTDdzYkZoTzhQU3l2VkQwQVNNaVFmckdhTy1QSmpnQkFjdzlfdVpPUUloU09KVjRiMU5XRGY4bjZ2Z2NpcHQ0czYtUkQ5NUlON0U2ak5pYTlNQlVHS2gtcUhIUnI5RkY1OVZSRUkwYWRD?oc=5",
-          "source": "5min.at",
-          "date": "29. Jul 2026"
         },
         {
           "title": "Steiermark: Siebenjährige von Auto erfasst und schwer verletzt - Kurier",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNkxtN19KUWdybmxqM0RxTk05enhxWFlCaUNGQjk4aVYzMHNYSmtsWTZWMTJyY01KUWlqSVM4Ti00LXEyRzRoY3MxckRxSkVBR3cydHFUXzNjczJNNkhBYV94ZU9IUUV1X3M1N09kcXZIaFNIMVdyUDJoVXphMklsSDJtZ1NabTJJOUZYVHJULTVfS2lER2JfOTEzOG9uT3AzNldNY042UHk?oc=5",
           "source": "Kurier",
           "date": "27. Jul 2026"
-        },
-        {
-          "title": "Steiermark: EU-Vorgaben machen neues Energieeffizienz-Umsetzungsgesetz notwendig - Begutachtung ... - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdUNsTVozOWZ2X1pvbUxaNXhRU0M0XzFBX29uWXplWk5YM2lUcjFMaE1OaVMxRGFJMVZtR2xUOEpVRldjbjZJY0t4RVR3M0FTRUxHR0N4NEJnOFMxSEtMWUFPbEFicUhnZzYycTN4YUJ1TU1WLV9FOWgxZ3pUT3BfcGdvU2xXR3dtYmdDS2FjZWxaTExXVHl5VDE2bXVWVU85WDNfa2J0NHl1Z3FSSWJ0RGV6ang0a2kwT3RlSlZGdGZVQnIzc2NPdUVyeUdYN1ds0gHQAUFVX3lxTFB1Q2xNWjM5ZnZfWm9tTFo1eFFTQzRfMUFfb25ZemVaTlgzaVRyMUxoTU5pUzFEYUkxVm1HbFQ4SlVGV2NuNkljS3hFVHczQVNFTEdHQ3g0Qmc4UzFIS0xZQU9sQWJxSGdnNjJxM3hhQnVNTVYtX0U5aDFnelRPcF9wZ29TbFdHd21iZ0NLYWNlbFpMTFdUeXlUMTZtdVZVTzlYM19rYnQ0eXVncVJJYnREZXpqeDRraTBPdGVKVkZ0ZlVCcjNzY091RXJ5R1g3V2w?oc=5",
-          "source": "Regionews.at",
-          "date": "30. Jul 2026"
         },
         {
           "title": "A2: Tägliche Staus im Packabschnitt - ÖAMTC",
@@ -50,7 +38,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Südsteiermark setzt auf RegionalBusse, um Touristen zu Entdeckungstouren zu animieren und damit den Tourismus zu fördern. Ein neues Klimaticket für Graz, Klagenfurt und Maribor könnte die stark belastete A9-Autobahn entlasten und den öffentlichen Verkehr zwischen den drei Städten attraktiver machen.",
+      "summary": "Die Südsteiermark setzt verstärkt auf RegionalBusse, um Touristen zu Entdeckungstouren zu animieren und damit nachhaltige Mobilität zu fördern. Gleichzeitig wird die Einführung eines erweiterten Klimatickets für die Ballungsräume Graz, Klagenfurt und Maribor diskutiert, um die stark belastete A9-Autobahn zu entlasten.",
       "items": [
         {
           "title": "Tourismus-Initiative: RegioBusse machen Lust auf Entdeckungstouren in der Südsteiermark - MeinBezirk.at",
@@ -59,9 +47,9 @@
           "date": "28. Jul 2026"
         },
         {
-          "title": "Entlastung für die A9: Neues Klimaticket für Graz, Klagenfurt und Maribor? - 5min.at",
+          "title": "Entlastung für die A9: Neues Klimaticket für Graz, Klagenfurt und Maribor? - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWk1uY2JSNEJXM0xCY2xFTnl1eGlaUzYwWm4ydTJ0WDdoYVdXMlpBdFg5anhlenZYc3A0dlNNal9LaUduaWhJaXVBNWc1S0lxS2hERlNHOGtic0tCV0ZYRkowdmkyMWZOYVotY19zQlpFUXZ6akhLdkJHYklCMmE2dzJoOXoxMVhuVzd1c2J4b1lUWVlFTGtLRHdYR0JGUVhsLThqcVdYNWdCY2NPZ29jb3o5eTZrNkJJSmJJ?oc=5",
-          "source": "5min.at",
+          "source": "5 Minuten",
           "date": "27. Jul 2026"
         }
       ]
@@ -70,7 +58,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark investiert verstärkt in die Radverkehrsinfrastruktur, wie die Baumaßnahmen in Sinabelkirchen und die neue Sightseeingtour von BikeGraz zeigen. Diese Maßnahmen unterstreichen das Engagement für nachhaltige Mobilität und die Förderung des Radfahrens als attraktive Alternative im Verkehrssystem des Landes.",
+      "summary": "Die Steiermark intensiviert ihre Investitionen in nachhaltige Mobilität durch den Ausbau von Radweginfrastruktur in kleineren Gemeinden wie Sinabelkirchen und innovative Rad-Tourismus-Angebote wie die neue BikeGraz-Sightseeingtour. Diese Maßnahmen unterstreichen das Bekenntnis zu einer umweltfreundlichen Verkehrswende, die sowohl alltägliche Mobilität als auch Freizeitverkehr fördern soll.",
       "items": [
         {
           "title": "Baumaßnahmen in Gnies: Sinabelkirchen investiert in Radweg und Trinkwasserversorgung - MeinBezirk.at",
@@ -90,7 +78,7 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark führt ein neues Energiegesetz zur Gebäudesanierung ein, das allerdings auf Kritik an den EU-Vorgaben stößt, die als zu streng und belastend für Land und Gemeinden empfunden werden. Die geplante Regulierung soll zwar die Energieeffizienz verbessern, erzeugt aber Bedenken bezüglich der wirtschaftlichen und administrativen Auswirkungen auf die öffentliche Hand.",
+      "summary": "Die Steiermark hat ein neues Energiegesetz zur Gebäudesanierung in die Begutachtung gebracht, wobei erhebliche Kritik an den EU-Vorgaben geübt wird. Land und Gemeinden sehen sich durch die neuen europäischen Energiestandards mit erheblichen finanziellen und administrativen Belastungen konfrontiert.",
       "items": [
         {
           "title": "Gebäudesanierung: Steiermark bringt Energiegesetz in Begutachtung, Kritik an EU-Vorgaben bleibt - MeinBezirk.at",
@@ -99,9 +87,9 @@
           "date": "29. Jul 2026"
         },
         {
-          "title": "Neue EU-Energievorgaben: „Belastungen für Land und Gemeinden“ - 5min.at",
+          "title": "Neue EU-Energievorgaben: „Belastungen für Land und Gemeinden“ - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS3Nrb2pUYmpQM1dlRkV0RHh5STc3eFFBa21nQ29MaUxyVGhmWF9US0F4eHYyZUlUb05wWmh5bXgyRUFkYklLa2VXeWlJaU9JVXI2ci1tOWFyLXVUZV9tSFZJQW16eFFXcFBrX0xJVkNua01JellCMGVDY2V5QU9YaEJUNG1fSGFLMUhyRXl1MWxVdkVlYlluUGEteklpZjNOazUyMHpBNVM?oc=5",
-          "source": "5min.at",
+          "source": "5 Minuten",
           "date": "29. Jul 2026"
         }
       ]
