@@ -1,12 +1,12 @@
 {
-  "generated": "03. August 2026, 05:59 UTC",
+  "generated": "04. August 2026, 05:34 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die Steiermark kämpft mit Unwetterschäden auf Straßen und anhaltenden Verkehrsproblemen, insbesondere im Packabschnitt der A2, wo täglich Staus entstehen. Darüber hinaus zeigen sich kritische Verkehrssicherheitsdefizite, da Kinder im Straßenverkehr schwer verletzt werden.",
+      "summary": "Die Steiermark kämpft derzeit mit mehreren Herausforderungen in der Straßeninfrastruktur: Unwetterschäden beeinträchtigen die Verkehrssicherheit, während der Packabschnitt der A2 täglich unter Staubildung leidet und auf der B 76 bei Stainz ein Lkw-Unfall zu Sperrungen führte. Diese Vorfälle verdeutlichen die Notwendigkeit verstärkter Instandhaltungs- und Sicherheitsmaßnahmen im steirischen Straßennetz.",
       "items": [
         {
           "title": "Unwetter fegte über die Steiermark: Bäume krachen auf Straße und Stromleitungen - 5 Minuten",
@@ -15,22 +15,16 @@
           "date": "31. Jul 2026"
         },
         {
-          "title": "Mit dem Rad unterwegs - Siebenjährige von Pkw erfasst und schwer verletzt - krone.at",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1uMHkzdS1SU1lZanhtRDlqcjBMNlZvZ0VteTdoN0dxVkk4eGgyd3c0V0hjX0JlNk9sRExibHRGZ2Rldw?oc=5",
-          "source": "krone.at",
-          "date": "27. Jul 2026"
-        },
-        {
-          "title": "Steiermark: Siebenjährige von Auto erfasst und schwer verletzt - Kurier",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNkxtN19KUWdybmxqM0RxTk05enhxWFlCaUNGQjk4aVYzMHNYSmtsWTZWMTJyY01KUWlqSVM4Ti00LXEyRzRoY3MxckRxSkVBR3cydHFUXzNjczJNNkhBYV94ZU9IUUV1X3M1N09kcXZIaFNIMVdyUDJoVXphMklsSDJtZ1NabTJJOUZYVHJULTVfS2lER2JfOTEzOG9uT3AzNldNY042UHk?oc=5",
-          "source": "Kurier",
-          "date": "27. Jul 2026"
-        },
-        {
           "title": "A2: Tägliche Staus im Packabschnitt - ÖAMTC",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV3B5ZU15ZXVVcHFHdlpDT0tjeTNrbEZDMGVtUWdwTXpEMUtobFFKNHFTbXV0UTAybXZYSExpc2FaaEF3dVZZYjVRV21IX2YxUjlYSDN2OU9DVEF1SDRkeXZlMERqUHp2T2kzVW9fejNDMVNqd2tBUnhPdkE3WDBpcUt1ZTFGYm93dGc?oc=5",
           "source": "ÖAMTC",
           "date": "28. Jul 2026"
+        },
+        {
+          "title": "Lkw kippte auf B 76 bei Stainz um, Johngraben gesperrt - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa2FCb1A2d0FuVDFROTM2ZjdEeWtjazBmeEFyU1A5VVF0TkJBbVQ1WHplMERWOFg3MnNrQ2tNM2dyb2loWGNEZEd4RUJQRjJCTjRSTkRJeXNiVHJyRFpubDN0ME5PaEtHNmZRVDJqYTR2MUMtZDFOc0d0cW41ZEtkMUZZWWxfS2tSdHpoSG1RVUxlVjVtWGU3VE9xUWo0QVVW?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "3. Aug 2026"
         }
       ]
     },
@@ -38,27 +32,14 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Südsteiermark setzt verstärkt auf RegionalBusse, um Touristen zu Entdeckungstouren zu animieren und damit nachhaltige Mobilität zu fördern. Gleichzeitig wird die Einführung eines erweiterten Klimatickets für die Ballungsräume Graz, Klagenfurt und Maribor diskutiert, um die stark belastete A9-Autobahn zu entlasten.",
-      "items": [
-        {
-          "title": "Tourismus-Initiative: RegioBusse machen Lust auf Entdeckungstouren in der Südsteiermark - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR3JuWWlSZkc0MW5NVDVoemYzTVVaS0h3VGIyczJiUzltbzZCQzV6di1ZWFhPc2dvQnRrUk5zOVV3VjYzbm51am5nLTgyRENVbU9wd0w4VVJEV040cHljZVE0dThYcGFCLVRoc2ZxdlB4WjNMZUNHanllb0FrRGY3NmxTZFJCRzNvZmlzdHBYZ042NXAzaWZNLXNfd2JhTUpHQXhFMEExQ1hzQmZob2xaX09makZJQ3ZyQ0hhR1F3OFRVYm8tdTBr?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "28. Jul 2026"
-        },
-        {
-          "title": "Entlastung für die A9: Neues Klimaticket für Graz, Klagenfurt und Maribor? - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWk1uY2JSNEJXM0xCY2xFTnl1eGlaUzYwWm4ydTJ0WDdoYVdXMlpBdFg5anhlenZYc3A0dlNNal9LaUduaWhJaXVBNWc1S0lxS2hERlNHOGtic0tCV0ZYRkowdmkyMWZOYVotY19zQlpFUXZ6akhLdkJHYklCMmE2dzJoOXoxMVhuVzd1c2J4b1lUWVlFTGtLRHdYR0JGUVhsLThqcVdYNWdCY2NPZ29jb3o5eTZrNkJJSmJJ?oc=5",
-          "source": "5 Minuten",
-          "date": "27. Jul 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "mobilitaet": {
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark intensiviert ihre Investitionen in nachhaltige Mobilität durch den Ausbau von Radweginfrastruktur in kleineren Gemeinden wie Sinabelkirchen und innovative Rad-Tourismus-Angebote wie die neue BikeGraz-Sightseeingtour. Diese Maßnahmen unterstreichen das Bekenntnis zu einer umweltfreundlichen Verkehrswende, die sowohl alltägliche Mobilität als auch Freizeitverkehr fördern soll.",
+      "summary": "Die Steiermark intensiviert ihre Investitionen in nachhaltige Mobilität durch den Ausbau von Radweginfrastruktur, wie beispielsweise in Sinabelkirchen, während gleichzeitig innovative Angebote wie die neue Sightseeingtour von BikeGraz das Radfahren als attraktive Fortbewegungs- und Freizeitoption fördern. Diese Maßnahmen unterstreichen das steirische Engagement für eine umweltfreundliche Verkehrswende und die Stärkung des Radverkehrs als zentralen Bestandteil einer zukunftsorientierten Mobilitätsstrategie.",
       "items": [
         {
           "title": "Baumaßnahmen in Gnies: Sinabelkirchen investiert in Radweg und Trinkwasserversorgung - MeinBezirk.at",
@@ -78,7 +59,7 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark hat ein neues Energiegesetz zur Gebäudesanierung in die Begutachtung gebracht, wobei erhebliche Kritik an den EU-Vorgaben geübt wird. Land und Gemeinden sehen sich durch die neuen europäischen Energiestandards mit erheblichen finanziellen und administrativen Belastungen konfrontiert.",
+      "summary": "Die Steiermark hat ein neues Energiegesetz zur Gebäudesanierung in Begutachtung gebracht, wobei die EU-Vorgaben zur Energieeffizienz auf Kritik stoßen. Land und Gemeinden befürchten erhebliche finanzielle Belastungen durch die verschärften europäischen Anforderungen.",
       "items": [
         {
           "title": "Gebäudesanierung: Steiermark bringt Energiegesetz in Begutachtung, Kritik an EU-Vorgaben bleibt - MeinBezirk.at",
