@@ -1,24 +1,18 @@
 {
-  "generated": "04. August 2026, 05:34 UTC",
+  "generated": "05. August 2026, 05:33 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die Steiermark kämpft derzeit mit mehreren Herausforderungen in der Straßeninfrastruktur: Unwetterschäden beeinträchtigen die Verkehrssicherheit, während der Packabschnitt der A2 täglich unter Staubildung leidet und auf der B 76 bei Stainz ein Lkw-Unfall zu Sperrungen führte. Diese Vorfälle verdeutlichen die Notwendigkeit verstärkter Instandhaltungs- und Sicherheitsmaßnahmen im steirischen Straßennetz.",
+      "summary": "Unwetter haben in der Steiermark erhebliche Schäden an der Straßeninfrastruktur verursacht, wobei Bäume auf Fahrbahnen stürzten und Stromleitungen beschädigt wurden. Ein Lkw-Unfall auf der B 76 bei Stainz führte zur Sperrung des Johngrabens und verdeutlicht die angespannte Verkehrssituation auf steirischen Bundesstraßen.",
       "items": [
         {
           "title": "Unwetter fegte über die Steiermark: Bäume krachen auf Straße und Stromleitungen - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbHd4a3VMMjV6MDNoSUdjNjdoWGxMa3ppVDk2TnNsVjZOaVJSbnlHV0NFTTktWnU3YlVBUXlFTGFfOHpEMkIxV0dIc3ZiZEl0b21VLUNJcWs0QU5lcDRSZU1xZEJCTDl0ZmktZGVfSl9JSzhXUW12WHdYM2dybzdSNk1FUi1PRFJNOTdzdzM3MzN2YUswU0plcll6MWk2c1pvcWZjMkhyMlpmeWN4b1pCdU54SkkwV05ubDZ0LVdiTm02bXFBb2c?oc=5",
           "source": "5 Minuten",
           "date": "31. Jul 2026"
-        },
-        {
-          "title": "A2: Tägliche Staus im Packabschnitt - ÖAMTC",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV3B5ZU15ZXVVcHFHdlpDT0tjeTNrbEZDMGVtUWdwTXpEMUtobFFKNHFTbXV0UTAybXZYSExpc2FaaEF3dVZZYjVRV21IX2YxUjlYSDN2OU9DVEF1SDRkeXZlMERqUHp2T2kzVW9fejNDMVNqd2tBUnhPdkE3WDBpcUt1ZTFGYm93dGc?oc=5",
-          "source": "ÖAMTC",
-          "date": "28. Jul 2026"
         },
         {
           "title": "Lkw kippte auf B 76 bei Stainz um, Johngraben gesperrt - Kleine Zeitung",
@@ -32,14 +26,21 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Die Graz-Leoben-Bahnverbindung benötigt bis 2026 erhebliche Verbesserungen, um den wachsenden Pendlerverkehr in der Steiermark besser bewältigen zu können. Investitionen in den Bahnausbau sind notwendig, um die Attraktivität des öffentlichen Verkehrs für Pendler zu erhöhen und damit den Wirtschaftsstandort Steiermark zu stärken.",
+      "items": [
+        {
+          "title": "Pendler Österreich: Graz-Leoben-Verbindung muss noch 2026 besser werden - wirtschafts-nachrichten.at",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSkQ3NHFldzBVYzQtanV6enh1anc2OGxNR09HMnUxUTY2dFpZVmRReVdxOHVoV0JPN25Wd0E4d2FmTktKeHRLb2hkTzM4ejloWHJMcURBZk5zOEFyUlVCVWpSSFRLTFVwc2E5LTViQmxQVlg3U01wWTJVOE9BLWNCSHIxNnE2eDZqdTU4UEdPekZzY195UmdHdzI3d3NIZTNTVG9SSTNUOG5VYWdyeUxmallB?oc=5",
+          "source": "wirtschafts-nachrichten.at",
+          "date": "4. Aug 2026"
+        }
+      ]
     },
     "mobilitaet": {
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark intensiviert ihre Investitionen in nachhaltige Mobilität durch den Ausbau von Radweginfrastruktur, wie beispielsweise in Sinabelkirchen, während gleichzeitig innovative Angebote wie die neue Sightseeingtour von BikeGraz das Radfahren als attraktive Fortbewegungs- und Freizeitoption fördern. Diese Maßnahmen unterstreichen das steirische Engagement für eine umweltfreundliche Verkehrswende und die Stärkung des Radverkehrs als zentralen Bestandteil einer zukunftsorientierten Mobilitätsstrategie.",
+      "summary": "Die Steiermark investiert verstärkt in die Radverkehrsinfrastruktur, wie die Baumaßnahmen in Sinabelkirchen und die neue Sightseeingtour von BikeGraz zeigen. Diese Maßnahmen unterstreichen das Engagement des Landes für nachhaltige Mobilität und die Förderung des Radfahrens als attraktive Alternative im Verkehrssystem.",
       "items": [
         {
           "title": "Baumaßnahmen in Gnies: Sinabelkirchen investiert in Radweg und Trinkwasserversorgung - MeinBezirk.at",
@@ -59,7 +60,7 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark hat ein neues Energiegesetz zur Gebäudesanierung in Begutachtung gebracht, wobei die EU-Vorgaben zur Energieeffizienz auf Kritik stoßen. Land und Gemeinden befürchten erhebliche finanzielle Belastungen durch die verschärften europäischen Anforderungen.",
+      "summary": "Die Steiermark hat ein neues Energiegesetz zur Gebäudesanierung in Begutachtung gebracht, wobei erhebliche Kritik an den EU-Vorgaben besteht. Land und Gemeinden sehen sich durch die neuen europäischen Energiestandards mit erheblichen finanziellen und administrativen Belastungen konfrontiert.",
       "items": [
         {
           "title": "Gebäudesanierung: Steiermark bringt Energiegesetz in Begutachtung, Kritik an EU-Vorgaben bleibt - MeinBezirk.at",
