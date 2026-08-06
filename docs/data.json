@@ -1,17 +1,17 @@
 {
-  "generated": "05. August 2026, 05:33 UTC",
+  "generated": "06. August 2026, 05:35 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Unwetter haben in der Steiermark erhebliche Schäden an der Straßeninfrastruktur verursacht, wobei Bäume auf Fahrbahnen stürzten und Stromleitungen beschädigt wurden. Ein Lkw-Unfall auf der B 76 bei Stainz führte zur Sperrung des Johngrabens und verdeutlicht die angespannte Verkehrssituation auf steirischen Bundesstraßen.",
+      "summary": "Die Steiermark wurde von einem Unwetter heimgesucht, das zu Baumstürzen auf Straßen und Beschädigungen an Stromleitungen führte. Auf der B 76 bei Stainz kam es zu einem Lkw-Unfall mit Sperrung des Johngrabens.",
       "items": [
         {
-          "title": "Unwetter fegte über die Steiermark: Bäume krachen auf Straße und Stromleitungen - 5 Minuten",
+          "title": "Unwetter fegte über die Steiermark: Bäume krachen auf Straße und Stromleitungen - 5min.at",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbHd4a3VMMjV6MDNoSUdjNjdoWGxMa3ppVDk2TnNsVjZOaVJSbnlHV0NFTTktWnU3YlVBUXlFTGFfOHpEMkIxV0dIc3ZiZEl0b21VLUNJcWs0QU5lcDRSZU1xZEJCTDl0ZmktZGVfSl9JSzhXUW12WHdYM2dybzdSNk1FUi1PRFJNOTdzdzM3MzN2YUswU0plcll6MWk2c1pvcWZjMkhyMlpmeWN4b1pCdU54SkkwV05ubDZ0LVdiTm02bXFBb2c?oc=5",
-          "source": "5 Minuten",
+          "source": "5min.at",
           "date": "31. Jul 2026"
         },
         {
@@ -26,7 +26,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Graz-Leoben-Bahnverbindung benötigt bis 2026 erhebliche Verbesserungen, um den wachsenden Pendlerverkehr in der Steiermark besser bewältigen zu können. Investitionen in den Bahnausbau sind notwendig, um die Attraktivität des öffentlichen Verkehrs für Pendler zu erhöhen und damit den Wirtschaftsstandort Steiermark zu stärken.",
+      "summary": "Die Graz-Leoben-Bahnverbindung benötigt bis 2026 erhebliche Verbesserungen, um den wachsenden Pendlerverkehr in der Steiermark besser bewältigen zu können. Investitionen in den Ausbau dieser wichtigen Achse sind notwendig, um die Attraktivität des öffentlichen Verkehrs für Berufspendler zu erhöhen.",
       "items": [
         {
           "title": "Pendler Österreich: Graz-Leoben-Verbindung muss noch 2026 besser werden - wirtschafts-nachrichten.at",
@@ -40,14 +40,8 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark investiert verstärkt in die Radverkehrsinfrastruktur, wie die Baumaßnahmen in Sinabelkirchen und die neue Sightseeingtour von BikeGraz zeigen. Diese Maßnahmen unterstreichen das Engagement des Landes für nachhaltige Mobilität und die Förderung des Radfahrens als attraktive Alternative im Verkehrssystem.",
+      "summary": "Die Steiermark intensiviert ihre Rad-Offensive durch innovative Angebote wie die neue Top-10-Sightseeingtour von BikeGraz, die Radfahren als attraktive Mobilitäts- und Freizeitoption bewirbt. Diese Initiative unterstreicht das wachsende Engagement für nachhaltige Verkehrslösungen und die Förderung des Radverkehrs als zentrales Element einer modernen Verkehrsplanung.",
       "items": [
-        {
-          "title": "Baumaßnahmen in Gnies: Sinabelkirchen investiert in Radweg und Trinkwasserversorgung - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR1dXd3pDUE8yXzlRbW5aM3FnLXQ1bzZHamt4cm45NENoZXZ0dllPMmhldWkxa2F6SVpPMmFFcExBZUFEX0JBaTJOTElxSVliQnliWnU4Qk9oSzVMRHV4bHhtalNObTFNOVlnb0V4bW9Xcmh0Y2JENm5qX09TR2xRdWY5c2tBQ1p3VWRvNUJaaWpqTzNuREEtRFVqeThZdThjN2ROb1ROZVVrMFRVcUk1M0FnT0g?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "29. Jul 2026"
-        },
         {
           "title": "Wie die neue Top-10-Sightseeingtour von BikeGraz zur wachsenden Rad-Offensive im Land passt - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRXJDZnAzMFNVRnpXbzJhVDFXYXdXaUZ6RmlrVUZpNGl6VHpoQVMxcGJENmZRVzVNTVUyYnVrX3l6ZjlnTnA5c2pqTzUycDk0TmxoRWNIdXJTeFNWMzlGb3JqSGU2bngxeHlQTGYxUFk0TjV2eEFpXzVSbU9qYm5Yd1pRQWZLV2thdHBHRmh6a0R4QUs0Uk9yY2JFQjZjRVlZVXFkcGRyY1p4dUppMHBXQUg0MmpJVVlGZDRTOEJ4dmZjYkFCRUVQRm1CRVl1U0xpaUFzVzVvM1dVR2R4OUhOY0ZoSlIzTDFZbF8w?oc=5",
@@ -60,21 +54,8 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark hat ein neues Energiegesetz zur Gebäudesanierung in Begutachtung gebracht, wobei erhebliche Kritik an den EU-Vorgaben besteht. Land und Gemeinden sehen sich durch die neuen europäischen Energiestandards mit erheblichen finanziellen und administrativen Belastungen konfrontiert.",
-      "items": [
-        {
-          "title": "Gebäudesanierung: Steiermark bringt Energiegesetz in Begutachtung, Kritik an EU-Vorgaben bleibt - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcFRtTTNGRDJRbE0tam5yazNtRkVobjhYNnlUQWVOb1VuUDBSa2Vmc3JpVFY5aTNJZzhaQkxXVU1uVmpSSjZUbjY4RVBPVUZXT2FxY0ZXMTJ6RWkwVVR1ZXlsTERSalpyWGZIbXJPdFB0bGx1MF9mZkRRRUR5blI4U1B6VzhsSTlfX2ZrWGdNRzdoVjdwbGh5M3F0bjUtZEtiRktramxXam82MWlXaFhXWmlPMEtKdnhfRUNhMHlZU3RLZFprdGNVdWxwTVc?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "29. Jul 2026"
-        },
-        {
-          "title": "Neue EU-Energievorgaben: „Belastungen für Land und Gemeinden“ - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS3Nrb2pUYmpQM1dlRkV0RHh5STc3eFFBa21nQ29MaUxyVGhmWF9US0F4eHYyZUlUb05wWmh5bXgyRUFkYklLa2VXeWlJaU9JVXI2ci1tOWFyLXVUZV9tSFZJQW16eFFXcFBrX0xJVkNua01JellCMGVDY2V5QU9YaEJUNG1fSGFLMUhyRXl1MWxVdkVlYlluUGEteklpZjNOazUyMHpBNVM?oc=5",
-          "source": "5 Minuten",
-          "date": "29. Jul 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "behoerde_uvp": {
       "label": "Verkehrsbehörde & UVP",
