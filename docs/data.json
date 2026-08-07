@@ -1,17 +1,17 @@
 {
-  "generated": "06. August 2026, 05:35 UTC",
+  "generated": "07. August 2026, 04:43 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die Steiermark wurde von einem Unwetter heimgesucht, das zu Baumstürzen auf Straßen und Beschädigungen an Stromleitungen führte. Auf der B 76 bei Stainz kam es zu einem Lkw-Unfall mit Sperrung des Johngrabens.",
+      "summary": "Ein Unwetter hat in der Steiermark erhebliche Schäden an der Straßeninfrastruktur verursacht, wobei umgestürzte Bäume Fahrbahnen blockierten und Stromleitungen beschädigten. Auf der B 76 bei Stainz führte ein Lkw-Unfall zur Sperrung des Johngrabens und demonstriert die Anfälligkeit der Straßen für Verkehrsstörungen.",
       "items": [
         {
-          "title": "Unwetter fegte über die Steiermark: Bäume krachen auf Straße und Stromleitungen - 5min.at",
+          "title": "Unwetter fegte über die Steiermark: Bäume krachen auf Straße und Stromleitungen - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbHd4a3VMMjV6MDNoSUdjNjdoWGxMa3ppVDk2TnNsVjZOaVJSbnlHV0NFTTktWnU3YlVBUXlFTGFfOHpEMkIxV0dIc3ZiZEl0b21VLUNJcWs0QU5lcDRSZU1xZEJCTDl0ZmktZGVfSl9JSzhXUW12WHdYM2dybzdSNk1FUi1PRFJNOTdzdzM3MzN2YUswU0plcll6MWk2c1pvcWZjMkhyMlpmeWN4b1pCdU54SkkwV05ubDZ0LVdiTm02bXFBb2c?oc=5",
-          "source": "5min.at",
+          "source": "5 Minuten",
           "date": "31. Jul 2026"
         },
         {
@@ -26,7 +26,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Graz-Leoben-Bahnverbindung benötigt bis 2026 erhebliche Verbesserungen, um den wachsenden Pendlerverkehr in der Steiermark besser bewältigen zu können. Investitionen in den Ausbau dieser wichtigen Achse sind notwendig, um die Attraktivität des öffentlichen Verkehrs für Berufspendler zu erhöhen.",
+      "summary": "Die Graz-Leoben-Bahnverbindung wird bis 2026 ausgebaut, um die Pendleranbindung in der Steiermark zu verbessern. Dieser Ausbau ist notwendig, um die wirtschaftliche Entwicklung in der Region zu unterstützen und mehr Menschen zum Umstieg auf öffentliche Verkehrsmittel zu bewegen.",
       "items": [
         {
           "title": "Pendler Österreich: Graz-Leoben-Verbindung muss noch 2026 besser werden - wirtschafts-nachrichten.at",
@@ -40,7 +40,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark intensiviert ihre Rad-Offensive durch innovative Angebote wie die neue Top-10-Sightseeingtour von BikeGraz, die Radfahren als attraktive Mobilitäts- und Freizeitoption bewirbt. Diese Initiative unterstreicht das wachsende Engagement für nachhaltige Verkehrslösungen und die Förderung des Radverkehrs als zentrales Element einer modernen Verkehrsplanung.",
+      "summary": "Die Steiermark intensiviert ihre Rad-Offensive durch innovative Angebote wie die neue Top-10-Sightseeingtour von BikeGraz, die Radfahren als attraktive Mobilitäts- und Freizeitalternative bewirbt. Damit unterstreicht das Land sein Engagement für nachhaltige Verkehrslösungen und die Förderung des Radverkehrs als zentralen Baustein einer modernen Verkehrsplanung.",
       "items": [
         {
           "title": "Wie die neue Top-10-Sightseeingtour von BikeGraz zur wachsenden Rad-Offensive im Land passt - MeinBezirk.at",
