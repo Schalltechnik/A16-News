@@ -1,18 +1,24 @@
 {
-  "generated": "07. August 2026, 04:43 UTC",
+  "generated": "08. August 2026, 03:58 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Ein Unwetter hat in der Steiermark erhebliche Schäden an der Straßeninfrastruktur verursacht, wobei umgestürzte Bäume Fahrbahnen blockierten und Stromleitungen beschädigten. Auf der B 76 bei Stainz führte ein Lkw-Unfall zur Sperrung des Johngrabens und demonstriert die Anfälligkeit der Straßen für Verkehrsstörungen.",
+      "summary": "Die steirische Straßeninfrastruktur ist derzeit durch Hitzeeinwirkungen auf den Asphalt belastet, während gleichzeitig mehrere schwere Verkehrsunfälle auf Bundesstraßen wie der B 76 und der Gaberl-Bundesstraße zu Sperrungen und Einsätzen von Rettungshubschraubern führen. Diese Kombination aus Witterungsschäden und Unfallgeschehen stellt die Straßenerhaltung und Verkehrssicherheit in der Steiermark vor erhebliche Herausforderungen.",
       "items": [
         {
-          "title": "Unwetter fegte über die Steiermark: Bäume krachen auf Straße und Stromleitungen - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbHd4a3VMMjV6MDNoSUdjNjdoWGxMa3ppVDk2TnNsVjZOaVJSbnlHV0NFTTktWnU3YlVBUXlFTGFfOHpEMkIxV0dIc3ZiZEl0b21VLUNJcWs0QU5lcDRSZU1xZEJCTDl0ZmktZGVfSl9JSzhXUW12WHdYM2dybzdSNk1FUi1PRFJNOTdzdzM3MzN2YUswU0plcll6MWk2c1pvcWZjMkhyMlpmeWN4b1pCdU54SkkwV05ubDZ0LVdiTm02bXFBb2c?oc=5",
-          "source": "5 Minuten",
-          "date": "31. Jul 2026"
+          "title": "Asphalt leidet unter der Hitze - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqMmdkMnZ0RU9mNUFKYVhVME5QTE4tOERycDNRQmFEc1BSQmFWQ3JFVVBxbFI2d2U0TTE0M1RmYzVwZG42c01JbVlfWGJyQXB6ZmxxQw?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "7. Aug 2026"
+        },
+        {
+          "title": "18-Jähriger und 19-Jährige schwer verletzt: Zwei Rettungshubschrauber auf Gaberl-Bundesstraße - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcnNGejRjRlFxUjFKX19VVl82QldKbE9NVjV6WTRRV3lqaElGaXhreElrTXZpNGxZd002NHpDVXBPRWJnanBFNWx6MC1hUzdQby1nNUZ2eXFXczFyTXhpZnZUWEFsdS1HTG5nQ1AxbUtRNVF2Rk5PTk44RWtlbG8wMko1QXNTbXp6eHNfYWFvRzU0Y2JBOG56cld1bkN5Qm9PM0RsOHVXdG4?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "3. Aug 2026"
         },
         {
           "title": "Lkw kippte auf B 76 bei Stainz um, Johngraben gesperrt - Kleine Zeitung",
@@ -26,7 +32,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Graz-Leoben-Bahnverbindung wird bis 2026 ausgebaut, um die Pendleranbindung in der Steiermark zu verbessern. Dieser Ausbau ist notwendig, um die wirtschaftliche Entwicklung in der Region zu unterstützen und mehr Menschen zum Umstieg auf öffentliche Verkehrsmittel zu bewegen.",
+      "summary": "Die Graz-Leoben-Verbindung muss bis 2026 deutlich verbessert werden, um den wachsenden Pendlerverkehr in der Steiermark effizienter zu bewältigen. Investitionen in den Bahnausbau und die Optimierung der Fahrpläne sind notwendig, um die Attraktivität des öffentlichen Verkehrs für Pendler zu erhöhen.",
       "items": [
         {
           "title": "Pendler Österreich: Graz-Leoben-Verbindung muss noch 2026 besser werden - wirtschafts-nachrichten.at",
@@ -40,7 +46,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark intensiviert ihre Rad-Offensive durch innovative Angebote wie die neue Top-10-Sightseeingtour von BikeGraz, die Radfahren als attraktive Mobilitäts- und Freizeitalternative bewirbt. Damit unterstreicht das Land sein Engagement für nachhaltige Verkehrslösungen und die Förderung des Radverkehrs als zentralen Baustein einer modernen Verkehrsplanung.",
+      "summary": "Die Steiermark intensiviert ihre Rad-Offensive durch innovative Angebote wie die neue Top-10-Sightseeingtour von BikeGraz, die Radfahren als attraktive Mobilitäts- und Freizeitoption bewirbt. Damit unterstreicht das Land sein Engagement für nachhaltige Verkehrslösungen und die Förderung des Radverkehrs als zentralen Baustein einer modernen Verkehrsplanung.",
       "items": [
         {
           "title": "Wie die neue Top-10-Sightseeingtour von BikeGraz zur wachsenden Rad-Offensive im Land passt - MeinBezirk.at",
