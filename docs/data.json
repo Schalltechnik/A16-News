@@ -1,12 +1,12 @@
 {
-  "generated": "08. August 2026, 03:58 UTC",
+  "generated": "09. August 2026, 04:04 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die steirische Straßeninfrastruktur ist derzeit durch Hitzeeinwirkungen auf den Asphalt belastet, während gleichzeitig mehrere schwere Verkehrsunfälle auf Bundesstraßen wie der B 76 und der Gaberl-Bundesstraße zu Sperrungen und Einsätzen von Rettungshubschraubern führen. Diese Kombination aus Witterungsschäden und Unfallgeschehen stellt die Straßenerhaltung und Verkehrssicherheit in der Steiermark vor erhebliche Herausforderungen.",
+      "summary": "Die steirische Straßeninfrastruktur ist derzeit durch Hitzebelastung des Asphalts sowie mehrere schwere Verkehrsunfälle auf Bundesstraßen wie der Gaberl-Bundesstraße, dem Schoberpass und der B 76 bei Stainz stark belastet. Diese Vorfälle verdeutlichen sowohl die Herausforderungen bei der Straßenerhaltung unter extremen Witterungsbedingungen als auch die Verkehrssicherheitsrisiken auf den bergigen Streckenabschnitten der Steiermark.",
       "items": [
         {
           "title": "Asphalt leidet unter der Hitze - steiermark.ORF.at",
@@ -21,6 +21,12 @@
           "date": "3. Aug 2026"
         },
         {
+          "title": "Einsatz: Auto und Lkw kollidieren auf Schoberpass Bundesstraße - 5min.at",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSk1iRjFjTUJWRDMzOHRVS0hEVDloeldRRjJUaWN6elZQbzNJdWZXWmxscktWVks0bUtEeC1Rd1VGQ1cxYUFfbllVUUhQSTJWOVg4VkJkbWpUQlkzUmRvaUZEcUVDVlBSX1ZHY1E0WVlVamZ2ZzRScmNxQTlSVl9WeWstUDdtY1RENUtzVVc0aHJWLTQ5UTdwbWY2N1lwQ2tFLUZFdnEybTdZNE1p?oc=5",
+          "source": "5min.at",
+          "date": "7. Aug 2026"
+        },
+        {
           "title": "Lkw kippte auf B 76 bei Stainz um, Johngraben gesperrt - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa2FCb1A2d0FuVDFROTM2ZjdEeWtjazBmeEFyU1A5VVF0TkJBbVQ1WHplMERWOFg3MnNrQ2tNM2dyb2loWGNEZEd4RUJQRjJCTjRSTkRJeXNiVHJyRFpubDN0ME5PaEtHNmZRVDJqYTR2MUMtZDFOc0d0cW41ZEtkMUZZWWxfS2tSdHpoSG1RVUxlVjVtWGU3VE9xUWo0QVVW?oc=5",
           "source": "Kleine Zeitung",
@@ -32,7 +38,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Graz-Leoben-Verbindung muss bis 2026 deutlich verbessert werden, um den wachsenden Pendlerverkehr in der Steiermark effizienter zu bewältigen. Investitionen in den Bahnausbau und die Optimierung der Fahrpläne sind notwendig, um die Attraktivität des öffentlichen Verkehrs für Pendler zu erhöhen.",
+      "summary": "Die Graz-Leoben-Bahnverbindung benötigt bis 2026 erhebliche Verbesserungen, um den wachsenden Pendlerverkehr in der Steiermark besser bewältigen zu können. Investitionen in den Bahnausbau sind notwendig, um die Attraktivität des öffentlichen Verkehrs für Pendler zu erhöhen und den Verkehrskollaps zu vermeiden.",
       "items": [
         {
           "title": "Pendler Österreich: Graz-Leoben-Verbindung muss noch 2026 besser werden - wirtschafts-nachrichten.at",
@@ -46,13 +52,13 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark intensiviert ihre Rad-Offensive durch innovative Angebote wie die neue Top-10-Sightseeingtour von BikeGraz, die Radfahren als attraktive Mobilitäts- und Freizeitoption bewirbt. Damit unterstreicht das Land sein Engagement für nachhaltige Verkehrslösungen und die Förderung des Radverkehrs als zentralen Baustein einer modernen Verkehrsplanung.",
+      "summary": "Die Graz-Leoben-Verbindung benötigt bis 2026 erhebliche Verbesserungen, um den steigenden Pendlerverkehr effizienter zu bewältigen. Eine bessere Anbindung dieser wirtschaftlich wichtigen Achse ist entscheidend für die nachhaltige Mobilität und Verkehrsentlastung in der Steiermark.",
       "items": [
         {
-          "title": "Wie die neue Top-10-Sightseeingtour von BikeGraz zur wachsenden Rad-Offensive im Land passt - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRXJDZnAzMFNVRnpXbzJhVDFXYXdXaUZ6RmlrVUZpNGl6VHpoQVMxcGJENmZRVzVNTVUyYnVrX3l6ZjlnTnA5c2pqTzUycDk0TmxoRWNIdXJTeFNWMzlGb3JqSGU2bngxeHlQTGYxUFk0TjV2eEFpXzVSbU9qYm5Yd1pRQWZLV2thdHBHRmh6a0R4QUs0Uk9yY2JFQjZjRVlZVXFkcGRyY1p4dUppMHBXQUg0MmpJVVlGZDRTOEJ4dmZjYkFCRUVQRm1CRVl1U0xpaUFzVzVvM1dVR2R4OUhOY0ZoSlIzTDFZbF8w?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "1. Aug 2026"
+          "title": "Pendler Österreich: Graz-Leoben-Verbindung muss noch 2026 besser werden - wirtschafts-nachrichten.at",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSkQ3NHFldzBVYzQtanV6enh1anc2OGxNR09HMnUxUTY2dFpZVmRReVdxOHVoV0JPN25Wd0E4d2FmTktKeHRLb2hkTzM4ejloWHJMcURBZk5zOEFyUlVCVWpSSFRLTFVwc2E5LTViQmxQVlg3U01wWTJVOE9BLWNCSHIxNnE2eDZqdTU4UEdPekZzY195UmdHdzI3d3NIZTNTVG9SSTNUOG5VYWdyeUxmallB?oc=5",
+          "source": "wirtschafts-nachrichten.at",
+          "date": "4. Aug 2026"
         }
       ]
     },
