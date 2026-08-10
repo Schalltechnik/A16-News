@@ -1,12 +1,12 @@
 {
-  "generated": "09. August 2026, 04:04 UTC",
+  "generated": "10. August 2026, 04:18 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die steirische Straßeninfrastruktur ist derzeit durch Hitzebelastung des Asphalts sowie mehrere schwere Verkehrsunfälle auf Bundesstraßen wie der Gaberl-Bundesstraße, dem Schoberpass und der B 76 bei Stainz stark belastet. Diese Vorfälle verdeutlichen sowohl die Herausforderungen bei der Straßenerhaltung unter extremen Witterungsbedingungen als auch die Verkehrssicherheitsrisiken auf den bergigen Streckenabschnitten der Steiermark.",
+      "summary": "Die steirische Straßeninfrastruktur ist derzeit durch Hitzebelastung des Asphalts sowie mehrere schwere Verkehrsunfälle auf Bundesstraßen wie der Gaberl-Bundesstraße, dem Schoberpass und der B 76 bei Stainz stark beansprucht. Diese Vorfälle führen zu Sperrungen und erfordern intensive Rettungseinsätze, was die Vulnerabilität des Straßennetzes unter extremen Bedingungen unterstreicht.",
       "items": [
         {
           "title": "Asphalt leidet unter der Hitze - steiermark.ORF.at",
@@ -21,9 +21,9 @@
           "date": "3. Aug 2026"
         },
         {
-          "title": "Einsatz: Auto und Lkw kollidieren auf Schoberpass Bundesstraße - 5min.at",
+          "title": "Einsatz: Auto und Lkw kollidieren auf Schoberpass Bundesstraße - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSk1iRjFjTUJWRDMzOHRVS0hEVDloeldRRjJUaWN6elZQbzNJdWZXWmxscktWVks0bUtEeC1Rd1VGQ1cxYUFfbllVUUhQSTJWOVg4VkJkbWpUQlkzUmRvaUZEcUVDVlBSX1ZHY1E0WVlVamZ2ZzRScmNxQTlSVl9WeWstUDdtY1RENUtzVVc0aHJWLTQ5UTdwbWY2N1lwQ2tFLUZFdnEybTdZNE1p?oc=5",
-          "source": "5min.at",
+          "source": "5 Minuten",
           "date": "7. Aug 2026"
         },
         {
@@ -38,7 +38,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Graz-Leoben-Bahnverbindung benötigt bis 2026 erhebliche Verbesserungen, um den wachsenden Pendlerverkehr in der Steiermark besser bewältigen zu können. Investitionen in den Bahnausbau sind notwendig, um die Attraktivität des öffentlichen Verkehrs für Pendler zu erhöhen und den Verkehrskollaps zu vermeiden.",
+      "summary": "Die Graz-Leoben-Verbindung muss bis 2026 deutlich verbessert werden, um den wachsenden Pendlerverkehr in der Steiermark besser bewältigen zu können. Investitionen in den Bahnausbau und die Infrastruktur sind notwendig, um die Attraktivität des öffentlichen Verkehrs für Pendler zu erhöhen.",
       "items": [
         {
           "title": "Pendler Österreich: Graz-Leoben-Verbindung muss noch 2026 besser werden - wirtschafts-nachrichten.at",
@@ -52,7 +52,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Graz-Leoben-Verbindung benötigt bis 2026 erhebliche Verbesserungen, um den steigenden Pendlerverkehr effizienter zu bewältigen. Eine bessere Anbindung dieser wirtschaftlich wichtigen Achse ist entscheidend für die nachhaltige Mobilität und Verkehrsentlastung in der Steiermark.",
+      "summary": "Die Graz-Leoben-Verbindung für Pendler muss bis 2026 erheblich verbessert werden, um wirtschaftliche Anforderungen zu erfüllen. Dies erfordert Investitionen in nachhaltige Mobilitätslösungen und bessere Verkehrsanbindungen zwischen den beiden steirischen Wirtschaftszentren.",
       "items": [
         {
           "title": "Pendler Österreich: Graz-Leoben-Verbindung muss noch 2026 besser werden - wirtschafts-nachrichten.at",
