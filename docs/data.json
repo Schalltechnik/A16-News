@@ -1,12 +1,12 @@
 {
-  "generated": "11. August 2026, 04:06 UTC",
+  "generated": "12. August 2026, 04:28 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die steirische Straßeninfrastruktur ist durch Hitzebelastung des Asphalts, Verkehrsunfälle auf Bergstrecken und laufende Sanierungsarbeiten unter Druck. Gleichzeitig werden Notfallpläne für Gefahrguttransporte in Tunnels überprüft und wichtige Landesstraßen wie die L 229 erneuert.",
+      "summary": "Die steirische Straßeninfrastruktur ist derzeit mit mehreren Herausforderungen konfrontiert: Hitzebedingte Asphaltschäden gefährden die Straßenqualität, während gleichzeitig Notfallpläne für den Gefahrguttransport in Tunneln überprüft werden. Zusätzlich führen Sanierungsarbeiten an der Krusdorfer Straße (L 229) zwischen Gnas und Straden zu erheblichen Verkehrsbehinderungen in der Region.",
       "items": [
         {
           "title": "Asphalt leidet unter der Hitze - steiermark.ORF.at",
@@ -21,12 +21,6 @@
           "date": "10. Aug 2026"
         },
         {
-          "title": "Einsatz: Auto und Lkw kollidieren auf Schoberpass Bundesstraße - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSk1iRjFjTUJWRDMzOHRVS0hEVDloeldRRjJUaWN6elZQbzNJdWZXWmxscktWVks0bUtEeC1Rd1VGQ1cxYUFfbllVUUhQSTJWOVg4VkJkbWpUQlkzUmRvaUZEcUVDVlBSX1ZHY1E0WVlVamZ2ZzRScmNxQTlSVl9WeWstUDdtY1RENUtzVVc0aHJWLTQ5UTdwbWY2N1lwQ2tFLUZFdnEybTdZNE1p?oc=5",
-          "source": "5 Minuten",
-          "date": "7. Aug 2026"
-        },
-        {
           "title": "Krusdorfer Straße neu: Verkehrsbehinderungen auf der L 229 zwischen Gnas und Straden - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT0t5cEVKanJDczJUdm5SOXdRYXJ1ZDZITUVsa2V2Z21oQlZrSjBmVlNjeW1hU0d0V2dUeEN0MG1sQlRYTVRzU3RWY3czV1JwUG5xZXRCMHltei1QeVZacnh1Wmo5Q2hCRzBWdmNjdTRqMVFGLWlzZXdkd2VPSGF1dVhCRnFVdXR4NUJDN2pRQi04NTBoenVvRXZHaUwyVmwxTlMxQV95MTVrazg5WjE1RTYtOWtZVmlhOVp3ZzNjaHl3Zw?oc=5",
           "source": "MeinBezirk.at",
@@ -38,19 +32,19 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Der Verkehrsverbund und das Land Steiermark sollten laut Experten stärker in die Entwicklung von Mikro-Öffentlichen Verkehrslösungen investieren, um die Mobilität zu verbessern. Die Bahnverbindung zwischen Graz und Leoben muss bis 2026 deutlich optimiert werden, um den Anforderungen der Pendler gerecht zu werden.",
+      "summary": "Die Koralmbahn ist derzeit wegen eines Rettungseinsatzes bei Graz blockiert und steht seit dem Morgen still. Experten fordern, dass der Verkehrsverbund und das Land Steiermark stärker in die Entwicklung von Mikro-ÖV-Lösungen investieren sollten.",
       "items": [
         {
-          "title": "Mikro-ÖV: Verkehrsverbund und Land sollen ans Steuer, so Experten - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRzJhR1BlVDBiZWxRR0RKREkxRm93aS1mdnEtRDFMN085bFlfY1BTeUtXS2tIR29UcUZ1Ujg2RFV5SzJFUzI5VFhtTllQdFBHU0RHYktLLW04ODNYUW1qZUpkUnBmUnlkVkVodjNaT3RpckdHOE5OLU01WmNqMGhlMzhxNE53Z29SNl81NVFYZnVIUDJKMUlLaDZoLTd3YmVOazJBT0pxeXp2WlZJcTdj?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "9. Aug 2026"
+          "title": "Koralmbahn steht wegen Rettungseinsatz bei Graz seit Morgenstunden still - kleinezeitung.at",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMWZYRncwdEZ3N3QxbVFKTk42T0wtNGl2X085eU12ZXUxLVprc1E1NG84Q2JaOERFejRMOHBGdnNQU05KelZYM2hPelBCaHBIVHVVZjZna2dBYXNuazFBblN4ZExCcWZTTF9NdUdYZG52dEN2andHTkVzeE1MV251MEYtZ1hKcFplOThiYnl5U0h0ZDI5RTBDYURvOA?oc=5",
+          "source": "kleinezeitung.at",
+          "date": "11. Aug 2026"
         },
         {
-          "title": "Pendler Österreich: Graz-Leoben-Verbindung muss noch 2026 besser werden - wirtschafts-nachrichten.at",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSkQ3NHFldzBVYzQtanV6enh1anc2OGxNR09HMnUxUTY2dFpZVmRReVdxOHVoV0JPN25Wd0E4d2FmTktKeHRLb2hkTzM4ejloWHJMcURBZk5zOEFyUlVCVWpSSFRLTFVwc2E5LTViQmxQVlg3U01wWTJVOE9BLWNCSHIxNnE2eDZqdTU4UEdPekZzY195UmdHdzI3d3NIZTNTVG9SSTNUOG5VYWdyeUxmallB?oc=5",
-          "source": "wirtschafts-nachrichten.at",
-          "date": "4. Aug 2026"
+          "title": "Mikro-ÖV: Verkehrsverbund und Land sollen ans Steuer, so Experten - kleinezeitung.at",
+          "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxPQUQzaVpVVkJMQmpZS3piR2hqSm95VGVMbGIzeFo2b3JrRUxZUWZGMDhZaTdBUEw4dlZoaFp6dUVHcVIxdUhtTEVOc0xBOHcxTHJONnZQajViaDlsSHBTa09GakpXc0ZscTEyVllLQW1kMmVFSkF1Qk1MVUpDQ0pSbHpJd0FzTjFzVTR0ZHhwNTN0WllJLVdySU9xal9XV244S3ZwdHRNRUVEMG42RWtZN1lTcGM3RE1BQmx3NThkMjV1NjhranVmMGxjRkJNN0dYYnRiZDNaVFRkSGxaeGxheDBncWNJU1JBUHVBNGxWa2IwRmxmVktqanhIanBmSFR3eWNXVDNQNlBwMEhzY29qWEpFdGRmQnRpZmJvSnc2U0dndHZpUzBhMDhBZkt3dlRGZUdfek9wYXJva1c4aDllb1VaY0p0NFlubVhNLXZkc0RuVXRpTW9rYWU4bjB0eDVZVW9ySEhma1ZIYjRSWnlBZmZiZ1p2TEdXSWxhakJmQkcwZXlnZ2pHTngxYU9pWHZhd2RSY1ROZDU?oc=5",
+          "source": "kleinezeitung.at",
+          "date": "9. Aug 2026"
         }
       ]
     },
@@ -58,22 +52,28 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Graz-Leoben-Verbindung muss bis 2026 deutlich verbessert werden, um Pendlern eine attraktivere Alternative zum Auto zu bieten und die wirtschaftliche Mobilität in der Steiermark zu stärken. Dies erfordert Investitionen in den öffentlichen Nahverkehr, um die Verkehrssicherheit zu erhöhen und nachhaltige Mobilitätslösungen in der Region zu fördern.",
-      "items": [
-        {
-          "title": "Pendler Österreich: Graz-Leoben-Verbindung muss noch 2026 besser werden - wirtschafts-nachrichten.at",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSkQ3NHFldzBVYzQtanV6enh1anc2OGxNR09HMnUxUTY2dFpZVmRReVdxOHVoV0JPN25Wd0E4d2FmTktKeHRLb2hkTzM4ejloWHJMcURBZk5zOEFyUlVCVWpSSFRLTFVwc2E5LTViQmxQVlg3U01wWTJVOE9BLWNCSHIxNnE2eDZqdTU4UEdPekZzY195UmdHdzI3d3NIZTNTVG9SSTNUOG5VYWdyeUxmallB?oc=5",
-          "source": "wirtschafts-nachrichten.at",
-          "date": "4. Aug 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "landeshochbau": {
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Die Ortsdurchfahrt Wettmannstätten ist aufgrund von Bauarbeiten auf der Landesstraße L 639 gesperrt. Die Sperrung führt zu Verkehrsbeeinträchtigungen in diesem Bereich der Steiermark.",
+      "items": [
+        {
+          "title": "Baustelle auf L 639: Ortsdurchfahrt von Wettmannstätten gesperrt - kleinezeitung.at",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3R3NWkybzhOcXdaNVNCemd4US02bExSZHFkc1FVRjJfelRlT0ljUFVGcXZ2NXp4bHVTOGN1eC1ORG1ET1V6Mzl4TzlmT1JRdjhpWG1DU2dEQzAxeVNEWUhjUTNUN3J3dGxubDZGOUNKWV83cTdKcEJfQlZpOVluczZxdlhsc2VmSVhmTG5iVEZ2S2dYTjZJX3NvbF9GcVpKNTh3eFUwV2kwT0I4a3ZZ?oc=5",
+          "source": "kleinezeitung.at",
+          "date": "11. Aug 2026"
+        },
+        {
+          "title": "Wegen Großbaustelle: Ortsdurchfahrt Wettmannstätten gesperrt - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUkFzX3h6eG00YWE2N3BlQkhyRHNITXloS3phTDRlazczYmNXbFdRRXo2bElVanI4SEUyX1ZibjQ0a212OUFMRDdOazRQYi1ybHgyNlhTbUI0d1o2eGxTTVdYOGpXRXo2WmVadzZFYURpQ3h3dWtkRUVVV1BfMFJBdy1ORkhUT0pjdU1WZTVrcHk2T20tT0tSYWltTVFVM0dxdWdWMEUtU0xfdHc?oc=5",
+          "source": "5 Minuten",
+          "date": "11. Aug 2026"
+        }
+      ]
     },
     "behoerde_uvp": {
       "label": "Verkehrsbehörde & UVP",
