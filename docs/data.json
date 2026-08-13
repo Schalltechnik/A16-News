@@ -1,13 +1,19 @@
 {
-  "generated": "12. August 2026, 04:28 UTC",
+  "generated": "13. August 2026, 04:32 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die steirische Straßeninfrastruktur ist derzeit mit mehreren Herausforderungen konfrontiert: Hitzebedingte Asphaltschäden gefährden die Straßenqualität, während gleichzeitig Notfallpläne für den Gefahrguttransport in Tunneln überprüft werden. Zusätzlich führen Sanierungsarbeiten an der Krusdorfer Straße (L 229) zwischen Gnas und Straden zu erheblichen Verkehrsbehinderungen in der Region.",
+      "summary": "Die steirische Straßeninfrastruktur ist derzeit mit mehreren Herausforderungen konfrontiert, darunter Hitzebelastungen auf Asphaltflächen, notwendige Sanierungen von Brücken und Fahrbahnen wie an der L 441 sowie Verkehrsbehinderungen bei Umbauprojekten wie der Krusdorfer Straße. Zusätzlich werden Sicherheitsmaßnahmen in Tunneln überprüft, um den Transport von Gefahrengütern besser zu regulieren.",
       "items": [
+        {
+          "title": "Alkoholisierte Lenkerin kollidierte mit Lkw - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80d0lxbzVnSkxKMW5SMW1QVkI4Q1ZWYkdHRGRKLWdtSVR6UGN4Y2YwMG1WSkh6c0ZlZ1J1RHJSSm5OYXdfMlRpMHM3NmVhVmtNV3JUZg?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "12. Aug 2026"
+        },
         {
           "title": "Asphalt leidet unter der Hitze - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqMmdkMnZ0RU9mNUFKYVhVME5QTE4tOERycDNRQmFEc1BSQmFWQ3JFVVBxbFI2d2U0TTE0M1RmYzVwZG42c01JbVlfWGJyQXB6ZmxxQw?oc=5",
@@ -21,6 +27,12 @@
           "date": "10. Aug 2026"
         },
         {
+          "title": "L 441: Sanierung von drei Brücken und der Fahrbahn - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9EOXNmRDd1bmRaLV9ZWF9IM2F0cVQwTzVqd1RGcjNUWFpFVnVwUXVRek5nZnpIMTc5alZhTmlYQS1wSjY4bnBXUTE2cklhNkhaQWZiVklIUkpJXzBPVGRZYkQwVTZoOXA0cU4weDRLZzM1VUpySWJyZw?oc=5",
+          "source": "Kommunikation - Land Steiermark",
+          "date": "12. Aug 2026"
+        },
+        {
           "title": "Krusdorfer Straße neu: Verkehrsbehinderungen auf der L 229 zwischen Gnas und Straden - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT0t5cEVKanJDczJUdm5SOXdRYXJ1ZDZITUVsa2V2Z21oQlZrSjBmVlNjeW1hU0d0V2dUeEN0MG1sQlRYTVRzU3RWY3czV1JwUG5xZXRCMHltei1QeVZacnh1Wmo5Q2hCRzBWdmNjdTRqMVFGLWlzZXdkd2VPSGF1dVhCRnFVdXR4NUJDN2pRQi04NTBoenVvRXZHaUwyVmwxTlMxQV95MTVrazg5WjE1RTYtOWtZVmlhOVp3ZzNjaHl3Zw?oc=5",
           "source": "MeinBezirk.at",
@@ -32,18 +44,18 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Koralmbahn ist derzeit wegen eines Rettungseinsatzes bei Graz blockiert und steht seit dem Morgen still. Experten fordern, dass der Verkehrsverbund und das Land Steiermark stärker in die Entwicklung von Mikro-ÖV-Lösungen investieren sollten.",
+      "summary": "Die Koralmbahn ist seit dem Morgen aufgrund eines Rettungseinsatzes bei Graz stillgelegt, während Experten fordern, dass der Verkehrsverbund und das Land die Verantwortung für den Ausbau von Mikro-ÖV-Angeboten übernehmen sollten.",
       "items": [
         {
-          "title": "Koralmbahn steht wegen Rettungseinsatz bei Graz seit Morgenstunden still - kleinezeitung.at",
+          "title": "Koralmbahn steht wegen Rettungseinsatz bei Graz seit Morgenstunden still - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMWZYRncwdEZ3N3QxbVFKTk42T0wtNGl2X085eU12ZXUxLVprc1E1NG84Q2JaOERFejRMOHBGdnNQU05KelZYM2hPelBCaHBIVHVVZjZna2dBYXNuazFBblN4ZExCcWZTTF9NdUdYZG52dEN2andHTkVzeE1MV251MEYtZ1hKcFplOThiYnl5U0h0ZDI5RTBDYURvOA?oc=5",
-          "source": "kleinezeitung.at",
+          "source": "Kleine Zeitung",
           "date": "11. Aug 2026"
         },
         {
-          "title": "Mikro-ÖV: Verkehrsverbund und Land sollen ans Steuer, so Experten - kleinezeitung.at",
-          "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxPQUQzaVpVVkJMQmpZS3piR2hqSm95VGVMbGIzeFo2b3JrRUxZUWZGMDhZaTdBUEw4dlZoaFp6dUVHcVIxdUhtTEVOc0xBOHcxTHJONnZQajViaDlsSHBTa09GakpXc0ZscTEyVllLQW1kMmVFSkF1Qk1MVUpDQ0pSbHpJd0FzTjFzVTR0ZHhwNTN0WllJLVdySU9xal9XV244S3ZwdHRNRUVEMG42RWtZN1lTcGM3RE1BQmx3NThkMjV1NjhranVmMGxjRkJNN0dYYnRiZDNaVFRkSGxaeGxheDBncWNJU1JBUHVBNGxWa2IwRmxmVktqanhIanBmSFR3eWNXVDNQNlBwMEhzY29qWEpFdGRmQnRpZmJvSnc2U0dndHZpUzBhMDhBZkt3dlRGZUdfek9wYXJva1c4aDllb1VaY0p0NFlubVhNLXZkc0RuVXRpTW9rYWU4bjB0eDVZVW9ySEhma1ZIYjRSWnlBZmZiZ1p2TEdXSWxhakJmQkcwZXlnZ2pHTngxYU9pWHZhd2RSY1ROZDU?oc=5",
-          "source": "kleinezeitung.at",
+          "title": "Mikro-ÖV: Verkehrsverbund und Land sollen ans Steuer, so Experten - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRzJhR1BlVDBiZWxRR0RKREkxRm93aS1mdnEtRDFMN085bFlfY1BTeUtXS2tIR29UcUZ1Ujg2RFV5SzJFUzI5VFhtTllQdFBHU0RHYktLLW04ODNYUW1qZUpkUnBmUnlkVkVodjNaT3RpckdHOE5OLU01WmNqMGhlMzhxNE53Z29SNl81NVFYZnVIUDJKMUlLaDZoLTd3YmVOazJBT0pxeXp2WlZJcTdj?oc=5",
+          "source": "Kleine Zeitung",
           "date": "9. Aug 2026"
         }
       ]
@@ -59,12 +71,12 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Ortsdurchfahrt Wettmannstätten ist aufgrund von Bauarbeiten auf der Landesstraße L 639 gesperrt. Die Sperrung führt zu Verkehrsbeeinträchtigungen in diesem Bereich der Steiermark.",
+      "summary": "Die Ortsdurchfahrt von Wettmannstätten an der Landesstraße 639 ist aufgrund einer Großbaustelle gesperrt. Die Sperrung führt zu Verkehrsbeeinträchtigungen in diesem Bereich der Steiermark.",
       "items": [
         {
-          "title": "Baustelle auf L 639: Ortsdurchfahrt von Wettmannstätten gesperrt - kleinezeitung.at",
+          "title": "Baustelle auf L 639: Ortsdurchfahrt von Wettmannstätten gesperrt - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3R3NWkybzhOcXdaNVNCemd4US02bExSZHFkc1FVRjJfelRlT0ljUFVGcXZ2NXp4bHVTOGN1eC1ORG1ET1V6Mzl4TzlmT1JRdjhpWG1DU2dEQzAxeVNEWUhjUTNUN3J3dGxubDZGOUNKWV83cTdKcEJfQlZpOVluczZxdlhsc2VmSVhmTG5iVEZ2S2dYTjZJX3NvbF9GcVpKNTh3eFUwV2kwT0I4a3ZZ?oc=5",
-          "source": "kleinezeitung.at",
+          "source": "Kleine Zeitung",
           "date": "11. Aug 2026"
         },
         {
