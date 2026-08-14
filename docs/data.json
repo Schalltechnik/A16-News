@@ -1,18 +1,24 @@
 {
-  "generated": "13. August 2026, 04:32 UTC",
+  "generated": "14. August 2026, 04:29 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die steirische Straßeninfrastruktur ist derzeit mit mehreren Herausforderungen konfrontiert, darunter Hitzebelastungen auf Asphaltflächen, notwendige Sanierungen von Brücken und Fahrbahnen wie an der L 441 sowie Verkehrsbehinderungen bei Umbauprojekten wie der Krusdorfer Straße. Zusätzlich werden Sicherheitsmaßnahmen in Tunneln überprüft, um den Transport von Gefahrengütern besser zu regulieren.",
+      "summary": "In der Steiermark werden mehrere Landesstraßen saniert, darunter die L 229 zwischen Gnas und Straden sowie die L 441 mit Brückenerneuerungen und Fahrbahninstandhaltung. Parallel dazu beschäftigen sich die Behörden mit Herausforderungen wie Hitzebelastung des Asphalts und Notfallplanungen für den Gefahrguttransport in Tunneln.",
       "items": [
         {
           "title": "Alkoholisierte Lenkerin kollidierte mit Lkw - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80d0lxbzVnSkxKMW5SMW1QVkI4Q1ZWYkdHRGRKLWdtSVR6UGN4Y2YwMG1WSkh6c0ZlZ1J1RHJSSm5OYXdfMlRpMHM3NmVhVmtNV3JUZg?oc=5",
           "source": "steiermark.ORF.at",
           "date": "12. Aug 2026"
+        },
+        {
+          "title": "L 229 wird zwischen Gnas und Straden saniert - nachrichten.jetzt",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM3kwN0tLYnNXZnVDdTc5X0xxaVBmTVRKajlVR2NWUVo1RU90eXNXRTNrZzVJYU9UMk4xSS01NmhjdExQT1FwaXVLeTEzY2NIV3BWWGdHcjJGSnF5bEZWN2ZqQzA2SkVfYl9HYlkzRUVESWtIVUpWaS1hZmxkTDFiU3ZaV1BTQQ?oc=5",
+          "source": "nachrichten.jetzt",
+          "date": "13. Aug 2026"
         },
         {
           "title": "Asphalt leidet unter der Hitze - steiermark.ORF.at",
@@ -33,6 +39,18 @@
           "date": "12. Aug 2026"
         },
         {
+          "title": "Obdacher Sattel: Motorrad-Sturz bei Abbiegemanöver, Beifahrerin wurde verletzt - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRHI2X1loRUhJV0UxVkdzcWR3UF9uSHAyOHNteUs4RjBma1FSUVFhQ1hPaWFVaXdCQkJRTmVURmVQQzJTX2RpTy16X3c2QzdzVkxZcTFZWXdfY3MyMjFybzViSmpseWdHSmpHZUlOdUJNdlN4RzBmRUdxekN0QnZ2dE4wR1hUMEdUUUlBV2Nxc2laa19icmVRM01ybW9JVkRpemN1TkxaZzJWUGl3QzlBbDZDYw?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "9. Aug 2026"
+        },
+        {
+          "title": "Einsatz: Auto und Lkw kollidieren auf Schoberpass Bundesstraße - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSk1iRjFjTUJWRDMzOHRVS0hEVDloeldRRjJUaWN6elZQbzNJdWZXWmxscktWVks0bUtEeC1Rd1VGQ1cxYUFfbllVUUhQSTJWOVg4VkJkbWpUQlkzUmRvaUZEcUVDVlBSX1ZHY1E0WVlVamZ2ZzRScmNxQTlSVl9WeWstUDdtY1RENUtzVVc0aHJWLTQ5UTdwbWY2N1lwQ2tFLUZFdnEybTdZNE1p?oc=5",
+          "source": "5 Minuten",
+          "date": "7. Aug 2026"
+        },
+        {
           "title": "Krusdorfer Straße neu: Verkehrsbehinderungen auf der L 229 zwischen Gnas und Straden - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT0t5cEVKanJDczJUdm5SOXdRYXJ1ZDZITUVsa2V2Z21oQlZrSjBmVlNjeW1hU0d0V2dUeEN0MG1sQlRYTVRzU3RWY3czV1JwUG5xZXRCMHltei1QeVZacnh1Wmo5Q2hCRzBWdmNjdTRqMVFGLWlzZXdkd2VPSGF1dVhCRnFVdXR4NUJDN2pRQi04NTBoenVvRXZHaUwyVmwxTlMxQV95MTVrazg5WjE1RTYtOWtZVmlhOVp3ZzNjaHl3Zw?oc=5",
           "source": "MeinBezirk.at",
@@ -44,14 +62,8 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Koralmbahn ist seit dem Morgen aufgrund eines Rettungseinsatzes bei Graz stillgelegt, während Experten fordern, dass der Verkehrsverbund und das Land die Verantwortung für den Ausbau von Mikro-ÖV-Angeboten übernehmen sollten.",
+      "summary": "Experten fordern, dass der Verkehrsverbund und das Land Steiermark stärker in die Entwicklung von Mikro-Mobilität im öffentlichen Verkehr investieren und diese koordinieren sollten. Dies soll das Angebot im öffentlichen Nahverkehr flexibler und bedarfsgerechter gestalten.",
       "items": [
-        {
-          "title": "Koralmbahn steht wegen Rettungseinsatz bei Graz seit Morgenstunden still - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMWZYRncwdEZ3N3QxbVFKTk42T0wtNGl2X085eU12ZXUxLVprc1E1NG84Q2JaOERFejRMOHBGdnNQU05KelZYM2hPelBCaHBIVHVVZjZna2dBYXNuazFBblN4ZExCcWZTTF9NdUdYZG52dEN2andHTkVzeE1MV251MEYtZ1hKcFplOThiYnl5U0h0ZDI5RTBDYURvOA?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "11. Aug 2026"
-        },
         {
           "title": "Mikro-ÖV: Verkehrsverbund und Land sollen ans Steuer, so Experten - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRzJhR1BlVDBiZWxRR0RKREkxRm93aS1mdnEtRDFMN085bFlfY1BTeUtXS2tIR29UcUZ1Ujg2RFV5SzJFUzI5VFhtTllQdFBHU0RHYktLLW04ODNYUW1qZUpkUnBmUnlkVkVodjNaT3RpckdHOE5OLU01WmNqMGhlMzhxNE53Z29SNl81NVFYZnVIUDJKMUlLaDZoLTd3YmVOazJBT0pxeXp2WlZJcTdj?oc=5",
@@ -71,7 +83,7 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Ortsdurchfahrt von Wettmannstätten an der Landesstraße 639 ist aufgrund einer Großbaustelle gesperrt. Die Sperrung führt zu Verkehrsbeeinträchtigungen in diesem Bereich der Steiermark.",
+      "summary": "Die Ortsdurchfahrt von Wettmannstätten an der Landesstraße 639 ist aufgrund einer Großbaustelle gesperrt. Die Sperrung führt zu Verkehrsbehinderungen in der Region.",
       "items": [
         {
           "title": "Baustelle auf L 639: Ortsdurchfahrt von Wettmannstätten gesperrt - Kleine Zeitung",
