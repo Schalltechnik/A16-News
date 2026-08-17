@@ -1,12 +1,12 @@
 {
-  "generated": "16. August 2026, 03:34 UTC",
+  "generated": "17. August 2026, 03:35 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die steirische Straßeninfrastruktur steht vor mehreren Herausforderungen: Während an der L 441 umfangreiche Sanierungsarbeiten an drei Brücken und der Fahrbahn durchgeführt werden und die L 229 zwischen Gnas und Straden durch den Neubau der Krusdorfer Straße beeinträchtigt ist, werden gleichzeitig die Notfallpläne für den Gefahrguttransport in Tunnels überprüft. Verkehrsunfälle wie die Kollision einer alkoholisierten Lenkerin mit einem Lkw verdeutlichen die Sicherheitsrisiken im Straßenverkehr zusätzlich.",
+      "summary": "Die steirische Straßeninfrastruktur ist derzeit durch mehrere Sanierungsprojekte geprägt, darunter die Erneuerung der L 441 mit drei Brückensanierungen sowie Arbeiten an der L 229 zwischen Gnas und Straden, die zu Verkehrsbehinderungen führen. Parallel dazu werden Sicherheitsaspekte wie Notfallpläne für den Gefahrguttransport in Tunnels überprüft, während Verkehrsverstöße wie Alkohollenkerei weiterhin zu Unfällen auf steirischen Bundesstraßen führen.",
       "items": [
         {
           "title": "Alkoholisierte Lenkerin kollidierte mit Lkw - steiermark.ORF.at",
@@ -21,10 +21,16 @@
           "date": "10. Aug 2026"
         },
         {
-          "title": "L 441: Sanierung von drei Brücken und der Fahrbahn - politik.steiermark.at",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53eV90WWRkUFpFRUJ3d1d6a2FYZGppVmxvOW1RS1Q5c0Jhenk0RXFIbmNJZHl0RkpKeENGQXpjd0Q0dDJQeFJMT3hXdGNPUk4yWGdXaFpwR3pId2FrVk4tR2tON0d3RURZSjhWZG1kQXY5YVU?oc=5",
-          "source": "politik.steiermark.at",
+          "title": "L 441: Sanierung von drei Brücken und der Fahrbahn - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HalZSSktEY243elQxVThhVjZSTUx0UkdHaU8wOGNFSnBtY0VNMXEtQ2E2bHFySDFBTGptbWFOVWNtWXAzVTBOWEJkY3JTRGo5U1pCTUg5M1VVc25Nb1NEb3RTVjdGckUxVG5IalNyVQ?oc=5",
+          "source": "Land Steiermark News Portal",
           "date": "12. Aug 2026"
+        },
+        {
+          "title": "Fünf Personen verletzt - Alkolenker kollidierte auf B320 mit Rettungswagen - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE52eDlkMTVVN3ZxRkczR2tzaG5xV20zalluUlFjZDR1eWJJQnc3MHBTOUNrb3NMQ2ppUlRwYnp5am1sZw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "13. Aug 2026"
         },
         {
           "title": "Krusdorfer Straße neu: Verkehrsbehinderungen auf der L 229 zwischen Gnas und Straden - MeinBezirk.at",
@@ -38,14 +44,8 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Der Verkehrsverbund und das Land Steiermark sollten laut Experten stärker in die Steuerung von Mikro-Öffentlichen Verkehrslösungen eingreifen, um diese effizienter zu gestalten. Die Koralmbahn ist derzeit wegen eines Rettungseinsatzes bei Graz unterbrochen und steht seit dem Morgen still.",
+      "summary": "Die Koralmbahn ist seit dem Morgen aufgrund eines Rettungseinsatzes bei Graz zum Stillstand gekommen. Der Vorfall führt zu erheblichen Beeinträchtigungen im Bahnverkehr der Region.",
       "items": [
-        {
-          "title": "Mikro-ÖV: Verkehrsverbund und Land sollen ans Steuer, so Experten - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRzJhR1BlVDBiZWxRR0RKREkxRm93aS1mdnEtRDFMN085bFlfY1BTeUtXS2tIR29UcUZ1Ujg2RFV5SzJFUzI5VFhtTllQdFBHU0RHYktLLW04ODNYUW1qZUpkUnBmUnlkVkVodjNaT3RpckdHOE5OLU01WmNqMGhlMzhxNE53Z29SNl81NVFYZnVIUDJKMUlLaDZoLTd3YmVOazJBT0pxeXp2WlZJcTdj?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "9. Aug 2026"
-        },
         {
           "title": "Koralmbahn steht wegen Rettungseinsatz bei Graz seit Morgenstunden still - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMWZYRncwdEZ3N3QxbVFKTk42T0wtNGl2X085eU12ZXUxLVprc1E1NG84Q2JaOERFejRMOHBGdnNQU05KelZYM2hPelBCaHBIVHVVZjZna2dBYXNuazFBblN4ZExCcWZTTF9NdUdYZG52dEN2andHTkVzeE1MV251MEYtZ1hKcFplOThiYnl5U0h0ZDI5RTBDYURvOA?oc=5",
@@ -65,7 +65,7 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Ortsdurchfahrt von Wettmannstätten ist aufgrund von Bauarbeiten an der Landesstraße 639 gesperrt, was erhebliche Verkehrsbeeinträchtigungen zur Folge hat. In der Steiermark häufen sich zudem fragwürdige Grundstücksdeals, bei denen Personen fremde Liegenschaften unrechtmäßig zum Verkauf angeboten haben.",
+      "summary": "Die Straßenbaustelle auf der L 639 führt zur Sperrung der Ortsdurchfahrt von Wettmannstätten und beeinträchtigt damit den lokalen Verkehr erheblich. Ein fragwürdiger Grundstückskauf in der Steiermark offenbarte dem Käufer problematische Verhältnisse auf dem erworbenen Grundstück.",
       "items": [
         {
           "title": "Baustelle auf L 639: Ortsdurchfahrt von Wettmannstätten gesperrt - Kleine Zeitung",
@@ -78,18 +78,6 @@
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMGZ4cFZKbUYwT285al9mZElyS2kxWHhxUzZGYnpTY3FEaHkyNUxRd1ZpS2RjSW5RbVJvY09wSXVydXhIVjBvUG5fbk9kVnU3amNLNTVyOTZMOHNXYUM4b3NQYktmY0dvTkdTVm5sVlV0aE1JTzVzR2dfdDVZVkVhZ0tPRVlReXdDdTRmYmNUb195WTduYlRSdmdZdU9tWHA1MU9Ocm15STcwSHFXMW9TZ3dQRnBfU1FRdllPWHo4ck1HZw?oc=5",
           "source": "5 Minuten",
           "date": "14. Aug 2026"
-        },
-        {
-          "title": "Feldbach: 30-Jährige bot mutmaßlich fremdes Grundstück zum Verkauf an - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN0VycDQ4TFJnMFhveWFlT1FOZ21PdUZETmNWRE9vT0NoRHJqa1lQSkRsQ3k2bGw0ZHBjYndULUFaM0w2N1BZOWdzbk1ic2VXNU96OGEyMmJ3OW1neGhsUU9MbzBqX01kQkJlN2syd0tvaWZyS3BiV2Q5Vk1GUksybGtpUjBvRGFQcE9tWGZYSVoxQURsa1ZSMTZlcDlRYVdsMjA5amI0a2VGWVhrdmpQTzlHclkwS2pOMGJRcW9RX21mOE0?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "14. Aug 2026"
-        },
-        {
-          "title": "Wegen Großbaustelle: Ortsdurchfahrt Wettmannstätten gesperrt - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUkFzX3h6eG00YWE2N3BlQkhyRHNITXloS3phTDRlazczYmNXbFdRRXo2bElVanI4SEUyX1ZibjQ0a212OUFMRDdOazRQYi1ybHgyNlhTbUI0d1o2eGxTTVdYOGpXRXo2WmVadzZFYURpQ3h3dWtkRUVVV1BfMFJBdy1ORkhUT0pjdU1WZTVrcHk2T20tT0tSYWltTVFVM0dxdWdWMEUtU0xfdHc?oc=5",
-          "source": "5 Minuten",
-          "date": "11. Aug 2026"
         }
       ]
     },
@@ -97,7 +85,7 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Das UVP-Verfahren zur Erweiterung des Tauernwindparks ist erfolgreich abgeschlossen worden. Das geplante Pumpspeicherkraftwerk Koralm wird hingegen nicht realisiert und fällt damit als Millionenprojekt weg.",
+      "summary": "Die Erweiterung des Tauernwindparks hat das erforderliche Umweltverträglichkeitsprüfungsverfahren erfolgreich abgeschlossen und kann damit voranschreiten. Das geplante Pumpspeicherkraftwerk Koralm wird hingegen nicht realisiert und damit ein Millionenprojekt aufgegeben.",
       "items": [
         {
           "title": "Erweiterung des Tauernwindparks: UVP-Verfahren ist abgeschlossen - Kleine Zeitung",
