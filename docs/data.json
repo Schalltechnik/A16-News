@@ -1,19 +1,13 @@
 {
-  "generated": "19. August 2026, 03:32 UTC",
+  "generated": "20. August 2026, 03:32 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die Straßeninfrastruktur in der Steiermark sieht sich mit erheblichen Herausforderungen konfrontiert, da die Kosten für Straßenbaumaßnahmen deutlich gestiegen sind und umfangreiche Sanierungen wie die Instandhaltung von Brücken und Fahrbahnen an der L 441 notwendig sind. Gleichzeitig ereignen sich auf steirischen Straßen vermehrt schwere Verkehrsunfälle, bei denen alkoholisierte Lenker in Kollisionen mit Lkw und Rettungsfahrzeugen verwickelt sind.",
+      "summary": "Die Straßeninfrastruktur in der Steiermark wird durch deutlich gestiegene Baukosten belastet, die eine Ausnahmesituation darstellen. Gleichzeitig zeigen sich Verkehrssicherheitsrisiken auf kritischen Streckenabschnitten wie der B320 und der Teufelskurve am Pogusch, wo Unfälle durch Alkoholeinfluss und Witterungsbedingungen verursacht werden.",
       "items": [
-        {
-          "title": "Alkoholisierte Lenkerin kollidierte mit Lkw - steiermark.orf.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80d0lxbzVnSkxKMW5SMW1QVkI4Q1ZWYkdHRGRKLWdtSVR6UGN4Y2YwMG1WSkh6c0ZlZ1J1RHJSSm5OYXdfMlRpMHM3NmVhVmtNV3JUZg?oc=5",
-          "source": "steiermark.orf.at",
-          "date": "12. Aug 2026"
-        },
         {
           "title": "„Ausnahmesituation“: Kosten für Straßenbau stark gestiegen - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdkthRXVxdVAxWDFKM0c1aWU0Wk5zWWZDb2FvRExHcWZoYWFFR21fOHNydHpWRHlTVHNaWVpZMExhdEFndkNzcDI0UzRQWEotUkNTS0h5Q085aHNKVy0tdWdqbGkxR1o3c3JPOXJnOWY4SVRwR1BBM3dkRTVsN1dmaUgwN014NnJ6TXI1Yl9LLWJ6SGwySHRvMzhGWnN2N1ZmLU4yaE9B?oc=5",
@@ -21,16 +15,16 @@
           "date": "17. Aug 2026"
         },
         {
-          "title": "L 441: Sanierung von drei Brücken und der Fahrbahn - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HalZSSktEY243elQxVThhVjZSTUx0UkdHaU8wOGNFSnBtY0VNMXEtQ2E2bHFySDFBTGptbWFOVWNtWXAzVTBOWEJkY3JTRGo5U1pCTUg5M1VVc25Nb1NEb3RTVjdGckUxVG5IalNyVQ?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "12. Aug 2026"
-        },
-        {
           "title": "Fünf Personen verletzt - Alkolenker kollidierte auf B320 mit Rettungswagen - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE52eDlkMTVVN3ZxRkczR2tzaG5xV20zalluUlFjZDR1eWJJQnc3MHBTOUNrb3NMQ2ppUlRwYnp5am1sZw?oc=5",
           "source": "Kronen Zeitung",
           "date": "13. Aug 2026"
+        },
+        {
+          "title": "Nasse Fahrbahn sorgte für Unfälle in der Teufelskurve am Pogusch - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRjNoWEE3cEl6UG9qd0FKR1dvSVhkZzBObXA4Yy03WFBZUkU4UVFSREtDLUh2eDdyaURDR1F1bFhPWE1BLWdaV09GQzhPUFVHakNmRUhFTGMxVFBkQWtfVUowSDRtWm15X0pUWW8tS3FjeXdOLWZfaDdoQU5RaE5nMkRTMGtnV21kSjN6OFd4MExFNmw0LW95VmpqWHZhV3VUXy1JTVlOZnRiNTAwTnZQcVBR?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "19. Aug 2026"
         }
       ]
     },
@@ -45,15 +39,28 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Ich kann die Zusammenfassung leider nicht erstellen, da Sie nur einen Nachrichtentitel angegeben haben. Um zwei prägnante Sätze zu formulieren, benötige ich mehrere Nachrichtentitel zu den Themen Verkehrsplanung, Radwegen, Fußverkehr, nachhaltiger Mobilität und Verkehrssicherheit in der Steiermark.",
+      "items": [
+        {
+          "title": "Gemeinsame Radausfahrt in Saalfelden - Südwind",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jSnpfbmdwSXdUMUlNbzhybEVaREROV0ZhSDRWSGJhbHFXenZJN2poS3FRTXI3TGt4UUVDdDVXRUVEeHVJd0dKcWJ1M0ZKQkJiUmpTX18tQl9lZnJpQ2VVUmNMVTNjckhmQ0paV0xn?oc=5",
+          "source": "Südwind",
+          "date": "19. Aug 2026"
+        }
+      ]
     },
     "landeshochbau": {
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "In der Steiermark häufen sich Betrugsfälle im Grundstückshandel, wie zwei Vorfälle in Feldbach zeigen, bei denen Privatpersonen fremde Grundstücke illegal zum Verkauf anboten. Parallel dazu entwickelt sich St. Michael zu einem wichtigen Infrastruktur- und Logistikzentrum mit neuen Ladefunktionen für die Region.",
+      "summary": "Die Meldungen behandeln überwiegend Grundstücks- und Liegenschaftsthemen in der Steiermark, darunter fragwürdige Verkäufe und Betrügereien mit Immobilien sowie Infrastrukturprobleme wie die unfallträchtige Teufelskurve am Pogusch. St. Michael entwickelt sich hingegen zu einem bedeutenden Logistik- und Ladezentrum, was auf positive bauliche Entwicklungen in der Region hindeutet.",
       "items": [
+        {
+          "title": "Nasse Fahrbahn sorgte für Unfälle in der Teufelskurve am Pogusch - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRjNoWEE3cEl6UG9qd0FKR1dvSVhkZzBObXA4Yy03WFBZUkU4UVFSREtDLUh2eDdyaURDR1F1bFhPWE1BLWdaV09GQzhPUFVHakNmRUhFTGMxVFBkQWtfVUowSDRtWm15X0pUWW8tS3FjeXdOLWZfaDdoQU5RaE5nMkRTMGtnV21kSjN6OFd4MExFNmw0LW95VmpqWHZhV3VUXy1JTVlOZnRiNTAwTnZQcVBR?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "19. Aug 2026"
+        },
         {
           "title": "Dubioser Grundstücksdeal in der Steiermark: Käufer machte brisante Entdeckung - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMGZ4cFZKbUYwT285al9mZElyS2kxWHhxUzZGYnpTY3FEaHkyNUxRd1ZpS2RjSW5RbVJvY09wSXVydXhIVjBvUG5fbk9kVnU3amNLNTVyOTZMOHNXYUM4b3NQYktmY0dvTkdTVm5sVlV0aE1JTzVzR2dfdDVZVkVhZ0tPRVlReXdDdTRmYmNUb195WTduYlRSdmdZdU9tWHA1MU9Ocm15STcwSHFXMW9TZ3dQRnBfU1FRdllPWHo4ck1HZw?oc=5",
@@ -61,9 +68,9 @@
           "date": "14. Aug 2026"
         },
         {
-          "title": "Feldbach: 30-Jährige bot mutmaßlich fremdes Grundstück zum Verkauf an - MeinBezirk.at",
+          "title": "Feldbach: 30-Jährige bot mutmaßlich fremdes Grundstück zum Verkauf an - meinbezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN0VycDQ4TFJnMFhveWFlT1FOZ21PdUZETmNWRE9vT0NoRHJqa1lQSkRsQ3k2bGw0ZHBjYndULUFaM0w2N1BZOWdzbk1ic2VXNU96OGEyMmJ3OW1neGhsUU9MbzBqX01kQkJlN2syd0tvaWZyS3BiV2Q5Vk1GUksybGtpUjBvRGFQcE9tWGZYSVoxQURsa1ZSMTZlcDlRYVdsMjA5amI0a2VGWVhrdmpQTzlHclkwS2pOMGJRcW9RX21mOE0?oc=5",
-          "source": "MeinBezirk.at",
+          "source": "meinbezirk.at",
           "date": "14. Aug 2026"
         },
         {
@@ -78,7 +85,7 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Die Erweiterung des Tauernwindparks hat das erforderliche UVP-Verfahren erfolgreich abgeschlossen und kann damit vorangetrieben werden. Das geplante Pumpspeicherkraftwerk Koralm wird hingegen nicht realisiert und fällt damit als Großprojekt weg.",
+      "summary": "Das UVP-Verfahren zur Erweiterung des Tauernwindparks ist erfolgreich abgeschlossen worden. Das geplante Pumpspeicherkraftwerk Koralm wird hingegen nicht realisiert und damit ein Millionenprojekt nicht umgesetzt.",
       "items": [
         {
           "title": "Erweiterung des Tauernwindparks: UVP-Verfahren ist abgeschlossen - Kleine Zeitung",
