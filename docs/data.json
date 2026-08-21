@@ -1,24 +1,18 @@
 {
-  "generated": "20. August 2026, 03:32 UTC",
+  "generated": "21. August 2026, 03:36 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die Straßeninfrastruktur in der Steiermark wird durch deutlich gestiegene Baukosten belastet, die eine Ausnahmesituation darstellen. Gleichzeitig zeigen sich Verkehrssicherheitsrisiken auf kritischen Streckenabschnitten wie der B320 und der Teufelskurve am Pogusch, wo Unfälle durch Alkoholeinfluss und Witterungsbedingungen verursacht werden.",
+      "summary": "Die Baukosten für Straßeninfrastruktur in der Steiermark sind deutlich gestiegen und führen zu einer angespannten Finanzierungssituation. Gleichzeitig zeigen sich an kritischen Stellen wie der Teufelskurve am Pogusch Verkehrssicherheitsrisiken, die durch Witterungsbedingungen verschärft werden.",
       "items": [
         {
           "title": "„Ausnahmesituation“: Kosten für Straßenbau stark gestiegen - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdkthRXVxdVAxWDFKM0c1aWU0Wk5zWWZDb2FvRExHcWZoYWFFR21fOHNydHpWRHlTVHNaWVpZMExhdEFndkNzcDI0UzRQWEotUkNTS0h5Q085aHNKVy0tdWdqbGkxR1o3c3JPOXJnOWY4SVRwR1BBM3dkRTVsN1dmaUgwN014NnJ6TXI1Yl9LLWJ6SGwySHRvMzhGWnN2N1ZmLU4yaE9B?oc=5",
           "source": "Kleine Zeitung",
           "date": "17. Aug 2026"
-        },
-        {
-          "title": "Fünf Personen verletzt - Alkolenker kollidierte auf B320 mit Rettungswagen - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE52eDlkMTVVN3ZxRkczR2tzaG5xV20zalluUlFjZDR1eWJJQnc3MHBTOUNrb3NMQ2ppUlRwYnp5am1sZw?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "13. Aug 2026"
         },
         {
           "title": "Nasse Fahrbahn sorgte für Unfälle in der Teufelskurve am Pogusch - Kleine Zeitung",
@@ -39,7 +33,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Ich kann die Zusammenfassung leider nicht erstellen, da Sie nur einen Nachrichtentitel angegeben haben. Um zwei prägnante Sätze zu formulieren, benötige ich mehrere Nachrichtentitel zu den Themen Verkehrsplanung, Radwegen, Fußverkehr, nachhaltiger Mobilität und Verkehrssicherheit in der Steiermark.",
+      "summary": "Ich kann die Zusammenfassung leider nicht erstellen, da Sie nur einen Nachrichtentitel bereitgestellt haben. Um zwei prägnante Sätze zu formulieren, benötige ich mehrere Nachrichtentitel zu den Themen Verkehrsplanung, Radwegen, Fußverkehr, nachhaltiger Mobilität und Verkehrssicherheit in der Steiermark.",
       "items": [
         {
           "title": "Gemeinsame Radausfahrt in Saalfelden - Südwind",
@@ -53,7 +47,7 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Meldungen behandeln überwiegend Grundstücks- und Liegenschaftsthemen in der Steiermark, darunter fragwürdige Verkäufe und Betrügereien mit Immobilien sowie Infrastrukturprobleme wie die unfallträchtige Teufelskurve am Pogusch. St. Michael entwickelt sich hingegen zu einem bedeutenden Logistik- und Ladezentrum, was auf positive bauliche Entwicklungen in der Region hindeutet.",
+      "summary": "Die Nachrichtenmeldungen behandeln primär Verkehrssicherheit und Grundstückstransaktionen in der Steiermark, wobei nasse Fahrbahnen zu Unfällen führten und fragwürdige Grundstückdeals aufgedeckt wurden. Daneben stehen Infrastrukturentwicklungen wie die Etablierung eines Ladezentrums in St. Michael und Hitzeschutzmaßnahmen der Landesregierung im Fokus der steirischen Baukultur und Liegenschaften.",
       "items": [
         {
           "title": "Nasse Fahrbahn sorgte für Unfälle in der Teufelskurve am Pogusch - Kleine Zeitung",
@@ -68,9 +62,15 @@
           "date": "14. Aug 2026"
         },
         {
-          "title": "Feldbach: 30-Jährige bot mutmaßlich fremdes Grundstück zum Verkauf an - meinbezirk.at",
+          "title": "Hitzeschutz-Gipfel der Landesregierung: Was jetzt zählt, was bereits wirkt und wo weiter nachgeschärft wird - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wUFY1M2NVV2t4SWlTNldZYktuT0dsSnJIejVSM0xCOUtsYjFybTc5WjJpUlB3c3ZMSDNpRG94Vks3LWFkVlk5bTFyMDRMcWFJQ09idllCMHRhbXJUVXZUSEc5SzJoOG5Kc1JJdGxWWQ?oc=5",
+          "source": "Land Steiermark News Portal",
+          "date": "20. Aug 2026"
+        },
+        {
+          "title": "Feldbach: 30-Jährige bot mutmaßlich fremdes Grundstück zum Verkauf an - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN0VycDQ4TFJnMFhveWFlT1FOZ21PdUZETmNWRE9vT0NoRHJqa1lQSkRsQ3k2bGw0ZHBjYndULUFaM0w2N1BZOWdzbk1ic2VXNU96OGEyMmJ3OW1neGhsUU9MbzBqX01kQkJlN2syd0tvaWZyS3BiV2Q5Vk1GUksybGtpUjBvRGFQcE9tWGZYSVoxQURsa1ZSMTZlcDlRYVdsMjA5amI0a2VGWVhrdmpQTzlHclkwS2pOMGJRcW9RX21mOE0?oc=5",
-          "source": "meinbezirk.at",
+          "source": "MeinBezirk.at",
           "date": "14. Aug 2026"
         },
         {
@@ -85,21 +85,8 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Das UVP-Verfahren zur Erweiterung des Tauernwindparks ist erfolgreich abgeschlossen worden. Das geplante Pumpspeicherkraftwerk Koralm wird hingegen nicht realisiert und damit ein Millionenprojekt nicht umgesetzt.",
-      "items": [
-        {
-          "title": "Erweiterung des Tauernwindparks: UVP-Verfahren ist abgeschlossen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaUJ0VVFBeEVhb2pvQm9zaFo1NGFYUGJobW9BQkJpeVh4bDJkdDVuVDZ3MUxoYmVCUWtoeWNVTkNkN1QwdGNvOGU4SGlreVcwbGpUSzJ3S25ia3JJWjBvRFFCM0lQQ3c4bVZ2Vkg1Um9XOHBlcmo5Tzc2M1lURlM5eHg0ZFZaY0Uxel92UjJFcUpGNUxvM09DTzJMLVVOWXBUWjY3R2tOYXZ3U0Q0YVE?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "14. Aug 2026"
-        },
-        {
-          "title": "Pumpspeicherkraftwerk Koralm: Millionenprojekt wird nicht gebaut - Kurier",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOWNxRGRUYXg5LTlBS3JTRDg1czZyRUpHYlFQbFd3aUpZN0o2cEZvVDFzTklXSU1LU0NVS0xuZnRmM2l2Njh1VTZ1OXVaSk4tSC11a3VsM09OdW8wemwxOTN2SW51MjRCQjVyLUNVanpUZnRUUGRsUnNWUG1sOUNKd2RraEwzWUJaN2t0V21kbXhFUk52dkk0c3YtR0g?oc=5",
-          "source": "Kurier",
-          "date": "13. Aug 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     }
   }
 }
