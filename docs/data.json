@@ -1,26 +1,13 @@
 {
-  "generated": "21. August 2026, 03:36 UTC",
+  "generated": "22. August 2026, 03:28 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die Baukosten für Straßeninfrastruktur in der Steiermark sind deutlich gestiegen und führen zu einer angespannten Finanzierungssituation. Gleichzeitig zeigen sich an kritischen Stellen wie der Teufelskurve am Pogusch Verkehrssicherheitsrisiken, die durch Witterungsbedingungen verschärft werden.",
-      "items": [
-        {
-          "title": "„Ausnahmesituation“: Kosten für Straßenbau stark gestiegen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdkthRXVxdVAxWDFKM0c1aWU0Wk5zWWZDb2FvRExHcWZoYWFFR21fOHNydHpWRHlTVHNaWVpZMExhdEFndkNzcDI0UzRQWEotUkNTS0h5Q085aHNKVy0tdWdqbGkxR1o3c3JPOXJnOWY4SVRwR1BBM3dkRTVsN1dmaUgwN014NnJ6TXI1Yl9LLWJ6SGwySHRvMzhGWnN2N1ZmLU4yaE9B?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "17. Aug 2026"
-        },
-        {
-          "title": "Nasse Fahrbahn sorgte für Unfälle in der Teufelskurve am Pogusch - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRjNoWEE3cEl6UG9qd0FKR1dvSVhkZzBObXA4Yy03WFBZUkU4UVFSREtDLUh2eDdyaURDR1F1bFhPWE1BLWdaV09GQzhPUFVHakNmRUhFTGMxVFBkQWtfVUowSDRtWm15X0pUWW8tS3FjeXdOLWZfaDdoQU5RaE5nMkRTMGtnV21kSjN6OFd4MExFNmw0LW95VmpqWHZhV3VUXy1JTVlOZnRiNTAwTnZQcVBR?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "19. Aug 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "oeffentlicher_verkehr": {
       "label": "Öffentlicher Verkehr",
@@ -33,53 +20,15 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Ich kann die Zusammenfassung leider nicht erstellen, da Sie nur einen Nachrichtentitel bereitgestellt haben. Um zwei prägnante Sätze zu formulieren, benötige ich mehrere Nachrichtentitel zu den Themen Verkehrsplanung, Radwegen, Fußverkehr, nachhaltiger Mobilität und Verkehrssicherheit in der Steiermark.",
-      "items": [
-        {
-          "title": "Gemeinsame Radausfahrt in Saalfelden - Südwind",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jSnpfbmdwSXdUMUlNbzhybEVaREROV0ZhSDRWSGJhbHFXenZJN2poS3FRTXI3TGt4UUVDdDVXRUVEeHVJd0dKcWJ1M0ZKQkJiUmpTX18tQl9lZnJpQ2VVUmNMVTNjckhmQ0paV0xn?oc=5",
-          "source": "Südwind",
-          "date": "19. Aug 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "landeshochbau": {
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Nachrichtenmeldungen behandeln primär Verkehrssicherheit und Grundstückstransaktionen in der Steiermark, wobei nasse Fahrbahnen zu Unfällen führten und fragwürdige Grundstückdeals aufgedeckt wurden. Daneben stehen Infrastrukturentwicklungen wie die Etablierung eines Ladezentrums in St. Michael und Hitzeschutzmaßnahmen der Landesregierung im Fokus der steirischen Baukultur und Liegenschaften.",
-      "items": [
-        {
-          "title": "Nasse Fahrbahn sorgte für Unfälle in der Teufelskurve am Pogusch - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRjNoWEE3cEl6UG9qd0FKR1dvSVhkZzBObXA4Yy03WFBZUkU4UVFSREtDLUh2eDdyaURDR1F1bFhPWE1BLWdaV09GQzhPUFVHakNmRUhFTGMxVFBkQWtfVUowSDRtWm15X0pUWW8tS3FjeXdOLWZfaDdoQU5RaE5nMkRTMGtnV21kSjN6OFd4MExFNmw0LW95VmpqWHZhV3VUXy1JTVlOZnRiNTAwTnZQcVBR?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "19. Aug 2026"
-        },
-        {
-          "title": "Dubioser Grundstücksdeal in der Steiermark: Käufer machte brisante Entdeckung - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMGZ4cFZKbUYwT285al9mZElyS2kxWHhxUzZGYnpTY3FEaHkyNUxRd1ZpS2RjSW5RbVJvY09wSXVydXhIVjBvUG5fbk9kVnU3amNLNTVyOTZMOHNXYUM4b3NQYktmY0dvTkdTVm5sVlV0aE1JTzVzR2dfdDVZVkVhZ0tPRVlReXdDdTRmYmNUb195WTduYlRSdmdZdU9tWHA1MU9Ocm15STcwSHFXMW9TZ3dQRnBfU1FRdllPWHo4ck1HZw?oc=5",
-          "source": "5 Minuten",
-          "date": "14. Aug 2026"
-        },
-        {
-          "title": "Hitzeschutz-Gipfel der Landesregierung: Was jetzt zählt, was bereits wirkt und wo weiter nachgeschärft wird - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wUFY1M2NVV2t4SWlTNldZYktuT0dsSnJIejVSM0xCOUtsYjFybTc5WjJpUlB3c3ZMSDNpRG94Vks3LWFkVlk5bTFyMDRMcWFJQ09idllCMHRhbXJUVXZUSEc5SzJoOG5Kc1JJdGxWWQ?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "20. Aug 2026"
-        },
-        {
-          "title": "Feldbach: 30-Jährige bot mutmaßlich fremdes Grundstück zum Verkauf an - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN0VycDQ4TFJnMFhveWFlT1FOZ21PdUZETmNWRE9vT0NoRHJqa1lQSkRsQ3k2bGw0ZHBjYndULUFaM0w2N1BZOWdzbk1ic2VXNU96OGEyMmJ3OW1neGhsUU9MbzBqX01kQkJlN2syd0tvaWZyS3BiV2Q5Vk1GUksybGtpUjBvRGFQcE9tWGZYSVoxQURsa1ZSMTZlcDlRYVdsMjA5amI0a2VGWVhrdmpQTzlHclkwS2pOMGJRcW9RX21mOE0?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "14. Aug 2026"
-        },
-        {
-          "title": "St. Michael wird demnächst zum steirischen Ladezentrum - wko.at",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVl94YU92YzVmNnJVWjFKUV90Y05Eb3dxOEhWVzk0QjVPbDNEMjNUOTBLTDA4SVZYYnlkSndGMGZsb0F3Wk1EMWluTVlnSFhCSWlkZjNRcDJSdTZWZTcwd1BGRGRIYlVDRDhYdVVNb2l5QVRUR3JodHlLUkdnc2ZTdDkwY3FaUjBfd3BjUQ?oc=5",
-          "source": "wko.at",
-          "date": "18. Aug 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "behoerde_uvp": {
       "label": "Verkehrsbehörde & UVP",
