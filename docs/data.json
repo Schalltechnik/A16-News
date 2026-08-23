@@ -1,34 +1,104 @@
 {
-  "generated": "22. August 2026, 03:28 UTC",
+  "generated": "23. August 2026, 03:36 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Die Straßeninfrastruktur in der Steiermark steht unter erheblichem Kostendruck, da die Ausgaben für Straßenbau deutlich gestiegen sind, während gleichzeitig wichtige Sanierungsprojekte wie an der B 72 und L 114 in ihre abschließende Phase gehen. Verkehrssicherheit bleibt ein zentrales Anliegen, wie Unfälle an kritischen Stellen wie der Teufelskurve am Pogusch zeigen.",
+      "items": [
+        {
+          "title": "„Ausnahmesituation“: Kosten für Straßenbau stark gestiegen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdkthRXVxdVAxWDFKM0c1aWU0Wk5zWWZDb2FvRExHcWZoYWFFR21fOHNydHpWRHlTVHNaWVpZMExhdEFndkNzcDI0UzRQWEotUkNTS0h5Q085aHNKVy0tdWdqbGkxR1o3c3JPOXJnOWY4SVRwR1BBM3dkRTVsN1dmaUgwN014NnJ6TXI1Yl9LLWJ6SGwySHRvMzhGWnN2N1ZmLU4yaE9B?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "17. Aug 2026"
+        },
+        {
+          "title": "Tirol: Land Tirol investiert rund fünf Millionen Euro in Fuhrpark - Regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWWh4TUV6V2JYWVh2dkhHQ0x0bVV6WDczSWQybEx3cHo3Y2d0SEJrWE42VUt3TEZ3Y1lONEtVY3YtU0NVZ0RYRDNoZmw4TXNvT3R4blVsZTE5dFFsZVdJdkU5c3FOOERFcnhSbm1jYTRQb2VnRDVDbjFUSW43Y1czd0FIc1pyelJBYjlEeXd0ZU16YjBqeS1YNXdlNXIwUXdFMXllcWpJQmfSAagBQVVfeXFMT1loeE1FeldiWFlYdnZIR0NMdG1Velg3M0lkMmxMd3B6N2NndEhCa1hONlVLd0xGd2NZTjRLVWN2LVNDVWdEWEQzaGZsOE1zb090eG5VbGUxOXRRbGVXSXZFOXNxTjhERXJ4Um5tY2E0UG9lZ0Q1Q24xVEluN2NXM3dBSHNacnpSQWI5RHl3dGVNemIwanktWDV3ZTVyMFF3RTF5ZXFqSUJn?oc=5",
+          "source": "Regionews.at",
+          "date": "21. Aug 2026"
+        },
+        {
+          "title": "Nasse Fahrbahn sorgte für Unfälle in der Teufelskurve am Pogusch - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRjNoWEE3cEl6UG9qd0FKR1dvSVhkZzBObXA4Yy03WFBZUkU4UVFSREtDLUh2eDdyaURDR1F1bFhPWE1BLWdaV09GQzhPUFVHakNmRUhFTGMxVFBkQWtfVUowSDRtWm15X0pUWW8tS3FjeXdOLWZfaDdoQU5RaE5nMkRTMGtnV21kSjN6OFd4MExFNmw0LW95VmpqWHZhV3VUXy1JTVlOZnRiNTAwTnZQcVBR?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "19. Aug 2026"
+        },
+        {
+          "title": "B 72, L 114: Zwei Sanierungen gehen ins Finale - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5b2J1ZGxoQjZjTUFFQnBNdE1idlNOdElMNjFoMF9lbWo4dzJacmhDNS03R1FscnRmRGtFck1qWjVEWDN6X1g4VG4tMmItVkpoLThTMmFBeEhYdGxkYnZ4MXV6VUQ0Wi1CZ3Ffd0tB?oc=5",
+          "source": "Land Steiermark News Portal",
+          "date": "21. Aug 2026"
+        }
+      ]
     },
     "oeffentlicher_verkehr": {
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Der Grazer Hauptbahnhof schneidet im VCÖ-Bahnhofstest mit Platz 3 sehr gut ab und zeigt damit die hohe Qualität der Bahninfrastruktur in der Steiermark. Dies unterstreicht die Bedeutung des Hauptbahnhofs als zentraler Verkehrsknotenpunkt für den öffentlichen Verkehr in der Region.",
+      "items": [
+        {
+          "title": "VCÖ-Bahnhofstest: Grazer Hauptbahnhof bei Ranking auf Platz 3 - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQak5HV1o0RlRPUjZUcUgwamJJYWJVZGRtTUkzMlR4N1pQMUVxdGpGSFZFc0Ntck1Wd2tHajJPUEJjd0JHSmJMLVVNa1VOTFZVS1ZHNVBWZ0tXU2trc2V5dGJXZTB6X2VsTkJwX2xzcTlZSG9GbUFFWVdrTnc0bzZxVF91Vm9Qc0F1ZWE2UVB5UFp1ZnZsLVA4MEtDT0pvcmdCal9JaTlyeW1qbXc?oc=5",
+          "source": "5 Minuten",
+          "date": "21. Aug 2026"
+        }
+      ]
     },
     "mobilitaet": {
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Die steirischen Behörden verstärken ihre Verkehrssicherheitsmaßnahmen durch konsequente Polizeikontrollen, bei denen bereits 19 Führerscheine entzogen wurden, um Verkehrsverstöße zu ahnden. Parallel dazu werden Initiativen wie gemeinsame Radausfahrten gefördert, um nachhaltige Mobilität und das Bewusstsein für umweltfreundliche Verkehrsmittel in der Bevölkerung zu stärken.",
+      "items": [
+        {
+          "title": "Polizei-Aktion Steiermark: 19 Führerscheine weg, Steiermark zieht Bilanz nach Kontrolle - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXpmMnJ1cVdUcGpVN1VfSFJzT3RmeUkzZDdCbWFpd0ZtRm1TaUQtQVpZQTVCdmpWaVJBVm9GVi1uVjdwUUNCdS1GLVNwc2w4YWVGNWJmTlNTREdoNUd6ODFXc2E3YV9hdXZvdnNtckl4QWo0QWt6cURhbzdza253V0ZHRG9ucThqZ2ppVXRoWlRKSnNyZXdDU3Y3Q1dkMjdiLXBaQ2RNeXhqZG1fVFNj?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "22. Aug 2026"
+        },
+        {
+          "title": "Steiermark: Konsequente Kontrollen für mehr Verkehrssicherheit - Regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOVdKeldvX2txa3BjVnV6a1ZaU1JqWmhvOWI5cTNmMlR3Z0F1TmRMMXQweHNmcVBYdUJjSFFPZEFmLUZCSkRGMjR4WUVITUtnek5QYi1GX29fRXpFenBvMU5tbm44NVhJaU1DdVFSdkQ3NlBZVWExR3dDYUxkd0xKRWQtVllyc0lHcmxlNGZ0UHMzZU9Fa21HTGEwVUIxZ9IBngFBVV95cUxPOVdKeldvX2txa3BjVnV6a1ZaU1JqWmhvOWI5cTNmMlR3Z0F1TmRMMXQweHNmcVBYdUJjSFFPZEFmLUZCSkRGMjR4WUVITUtnek5QYi1GX29fRXpFenBvMU5tbm44NVhJaU1DdVFSdkQ3NlBZVWExR3dDYUxkd0xKRWQtVllyc0lHcmxlNGZ0UHMzZU9Fa21HTGEwVUIxZw?oc=5",
+          "source": "Regionews.at",
+          "date": "22. Aug 2026"
+        },
+        {
+          "title": "Gemeinsame Radausfahrt in Saalfelden - Südwind",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jSnpfbmdwSXdUMUlNbzhybEVaREROV0ZhSDRWSGJhbHFXenZJN2poS3FRTXI3TGt4UUVDdDVXRUVEeHVJd0dKcWJ1M0ZKQkJiUmpTX18tQl9lZnJpQ2VVUmNMVTNjckhmQ0paV0xn?oc=5",
+          "source": "Südwind",
+          "date": "19. Aug 2026"
+        }
+      ]
     },
     "landeshochbau": {
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Die Meldungen behandeln primär verkehrliche und energiewirtschaftliche Themen, die nur peripher mit Hochbau und Baukultur verbunden sind. Lediglich die geplante Entwicklung St. Michaels zum steirischen Ladezentrum berührt Aspekte der Infrastrukturplanung und Liegenschaften des Landes Steiermark, während die Unfallmeldung zur Teufelskurve und der Hitzeschutz-Gipfel keine direkten Bezüge zu Hochbauprojekten oder öffentlichen Gebäuden aufweisen.",
+      "items": [
+        {
+          "title": "Nasse Fahrbahn sorgte für Unfälle in der Teufelskurve am Pogusch - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRjNoWEE3cEl6UG9qd0FKR1dvSVhkZzBObXA4Yy03WFBZUkU4UVFSREtDLUh2eDdyaURDR1F1bFhPWE1BLWdaV09GQzhPUFVHakNmRUhFTGMxVFBkQWtfVUowSDRtWm15X0pUWW8tS3FjeXdOLWZfaDdoQU5RaE5nMkRTMGtnV21kSjN6OFd4MExFNmw0LW95VmpqWHZhV3VUXy1JTVlOZnRiNTAwTnZQcVBR?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "19. Aug 2026"
+        },
+        {
+          "title": "Hitzeschutz-Gipfel der Landesregierung: Was jetzt zählt, was bereits wirkt und wo weiter nachgeschärft wird - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fd3o2cVR5aE1hWElQVkN3TFFHdVd6Q2VZcWdnd0h0UkxHakpCT21YMXh3S1RYX25TTDZBNHBHWUN5S3NXdG1KeG9xZUVVR0YyWWpyd1lkYmRoUkJlMWZzd29pSnJRZWs4RTJ1X2NVZzlrcG9nOVBVNA?oc=5",
+          "source": "Kommunikation - Land Steiermark",
+          "date": "21. Aug 2026"
+        },
+        {
+          "title": "St. Michael wird demnächst zum steirischen Ladezentrum - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVl94YU92YzVmNnJVWjFKUV90Y05Eb3dxOEhWVzk0QjVPbDNEMjNUOTBLTDA4SVZYYnlkSndGMGZsb0F3Wk1EMWluTVlnSFhCSWlkZjNRcDJSdTZWZTcwd1BGRGRIYlVDRDhYdVVNb2l5QVRUR3JodHlLUkdnc2ZTdDkwY3FaUjBfd3BjUQ?oc=5",
+          "source": "wko.at",
+          "date": "18. Aug 2026"
+        }
+      ]
     },
     "behoerde_uvp": {
       "label": "Verkehrsbehörde & UVP",
