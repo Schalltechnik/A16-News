@@ -1,25 +1,13 @@
 {
-  "generated": "23. August 2026, 03:36 UTC",
+  "generated": "24. August 2026, 03:39 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die Straßeninfrastruktur in der Steiermark steht unter erheblichem Kostendruck, da die Ausgaben für Straßenbau deutlich gestiegen sind, während gleichzeitig wichtige Sanierungsprojekte wie an der B 72 und L 114 in ihre abschließende Phase gehen. Verkehrssicherheit bleibt ein zentrales Anliegen, wie Unfälle an kritischen Stellen wie der Teufelskurve am Pogusch zeigen.",
+      "summary": "Die Teufelskurve am Pogusch war aufgrund von Nässe Schauplatz mehrerer Unfälle, was die Gefährlichkeit dieser Straßenstelle unterstreicht. Zwei bedeutende Sanierungsprojekte an der B 72 und L 114 gehen zeitgleich in ihre abschließende Phase.",
       "items": [
-        {
-          "title": "„Ausnahmesituation“: Kosten für Straßenbau stark gestiegen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdkthRXVxdVAxWDFKM0c1aWU0Wk5zWWZDb2FvRExHcWZoYWFFR21fOHNydHpWRHlTVHNaWVpZMExhdEFndkNzcDI0UzRQWEotUkNTS0h5Q085aHNKVy0tdWdqbGkxR1o3c3JPOXJnOWY4SVRwR1BBM3dkRTVsN1dmaUgwN014NnJ6TXI1Yl9LLWJ6SGwySHRvMzhGWnN2N1ZmLU4yaE9B?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "17. Aug 2026"
-        },
-        {
-          "title": "Tirol: Land Tirol investiert rund fünf Millionen Euro in Fuhrpark - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWWh4TUV6V2JYWVh2dkhHQ0x0bVV6WDczSWQybEx3cHo3Y2d0SEJrWE42VUt3TEZ3Y1lONEtVY3YtU0NVZ0RYRDNoZmw4TXNvT3R4blVsZTE5dFFsZVdJdkU5c3FOOERFcnhSbm1jYTRQb2VnRDVDbjFUSW43Y1czd0FIc1pyelJBYjlEeXd0ZU16YjBqeS1YNXdlNXIwUXdFMXllcWpJQmfSAagBQVVfeXFMT1loeE1FeldiWFlYdnZIR0NMdG1Velg3M0lkMmxMd3B6N2NndEhCa1hONlVLd0xGd2NZTjRLVWN2LVNDVWdEWEQzaGZsOE1zb090eG5VbGUxOXRRbGVXSXZFOXNxTjhERXJ4Um5tY2E0UG9lZ0Q1Q24xVEluN2NXM3dBSHNacnpSQWI5RHl3dGVNemIwanktWDV3ZTVyMFF3RTF5ZXFqSUJn?oc=5",
-          "source": "Regionews.at",
-          "date": "21. Aug 2026"
-        },
         {
           "title": "Nasse Fahrbahn sorgte für Unfälle in der Teufelskurve am Pogusch - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRjNoWEE3cEl6UG9qd0FKR1dvSVhkZzBObXA4Yy03WFBZUkU4UVFSREtDLUh2eDdyaURDR1F1bFhPWE1BLWdaV09GQzhPUFVHakNmRUhFTGMxVFBkQWtfVUowSDRtWm15X0pUWW8tS3FjeXdOLWZfaDdoQU5RaE5nMkRTMGtnV21kSjN6OFd4MExFNmw0LW95VmpqWHZhV3VUXy1JTVlOZnRiNTAwTnZQcVBR?oc=5",
@@ -38,7 +26,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Der Grazer Hauptbahnhof schneidet im VCÖ-Bahnhofstest mit Platz 3 sehr gut ab und zeigt damit die hohe Qualität der Bahninfrastruktur in der Steiermark. Dies unterstreicht die Bedeutung des Hauptbahnhofs als zentraler Verkehrsknotenpunkt für den öffentlichen Verkehr in der Region.",
+      "summary": "Der Grazer Hauptbahnhof schneidet im VCÖ-Bahnhofstest hervorragend ab und belegt österreichweit Platz 3. Die Bewertung unterstreicht die hohe Qualität der Infrastruktur und Ausstattung des wichtigsten Verkehrsknotenpunkts der Steiermark.",
       "items": [
         {
           "title": "VCÖ-Bahnhofstest: Grazer Hauptbahnhof bei Ranking auf Platz 3 - 5 Minuten",
@@ -52,7 +40,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die steirischen Behörden verstärken ihre Verkehrssicherheitsmaßnahmen durch konsequente Polizeikontrollen, bei denen bereits 19 Führerscheine entzogen wurden, um Verkehrsverstöße zu ahnden. Parallel dazu werden Initiativen wie gemeinsame Radausfahrten gefördert, um nachhaltige Mobilität und das Bewusstsein für umweltfreundliche Verkehrsmittel in der Bevölkerung zu stärken.",
+      "summary": "Die steirische Polizei hat durch verstärkte Verkehrskontrollen 19 Führerscheine entzogen und setzt damit ein klares Zeichen für mehr Verkehrssicherheit auf den Straßen. Mit dieser konsequenten Kontrollstrategie verfolgt die Steiermark das Ziel, Verkehrsverstöße zu ahnden und dadurch die Sicherheit aller Verkehrsteilnehmer zu erhöhen.",
       "items": [
         {
           "title": "Polizei-Aktion Steiermark: 19 Führerscheine weg, Steiermark zieht Bilanz nach Kontrolle - MeinBezirk.at",
@@ -65,12 +53,6 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOVdKeldvX2txa3BjVnV6a1ZaU1JqWmhvOWI5cTNmMlR3Z0F1TmRMMXQweHNmcVBYdUJjSFFPZEFmLUZCSkRGMjR4WUVITUtnek5QYi1GX29fRXpFenBvMU5tbm44NVhJaU1DdVFSdkQ3NlBZVWExR3dDYUxkd0xKRWQtVllyc0lHcmxlNGZ0UHMzZU9Fa21HTGEwVUIxZ9IBngFBVV95cUxPOVdKeldvX2txa3BjVnV6a1ZaU1JqWmhvOWI5cTNmMlR3Z0F1TmRMMXQweHNmcVBYdUJjSFFPZEFmLUZCSkRGMjR4WUVITUtnek5QYi1GX29fRXpFenBvMU5tbm44NVhJaU1DdVFSdkQ3NlBZVWExR3dDYUxkd0xKRWQtVllyc0lHcmxlNGZ0UHMzZU9Fa21HTGEwVUIxZw?oc=5",
           "source": "Regionews.at",
           "date": "22. Aug 2026"
-        },
-        {
-          "title": "Gemeinsame Radausfahrt in Saalfelden - Südwind",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jSnpfbmdwSXdUMUlNbzhybEVaREROV0ZhSDRWSGJhbHFXenZJN2poS3FRTXI3TGt4UUVDdDVXRUVEeHVJd0dKcWJ1M0ZKQkJiUmpTX18tQl9lZnJpQ2VVUmNMVTNjckhmQ0paV0xn?oc=5",
-          "source": "Südwind",
-          "date": "19. Aug 2026"
         }
       ]
     },
@@ -78,7 +60,7 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Meldungen behandeln primär verkehrliche und energiewirtschaftliche Themen, die nur peripher mit Hochbau und Baukultur verbunden sind. Lediglich die geplante Entwicklung St. Michaels zum steirischen Ladezentrum berührt Aspekte der Infrastrukturplanung und Liegenschaften des Landes Steiermark, während die Unfallmeldung zur Teufelskurve und der Hitzeschutz-Gipfel keine direkten Bezüge zu Hochbauprojekten oder öffentlichen Gebäuden aufweisen.",
+      "summary": "Die Meldungen behandeln primär verkehrliche und energiewirtschaftliche Themen, die nur tangential mit Hochbau und Baukultur verbunden sind. Lediglich die geplante Entwicklung St. Michaels zum steirischen Ladezentrum berührt Aspekte der baulichen Infrastruktur und Raumentwicklung in der Steiermark, während die Unfallmeldung zur Teufelskurve und der Hitzeschutz-Gipfel eher Verkehrssicherheit und Klimapolitik betreffen.",
       "items": [
         {
           "title": "Nasse Fahrbahn sorgte für Unfälle in der Teufelskurve am Pogusch - Kleine Zeitung",
