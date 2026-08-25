@@ -1,12 +1,12 @@
 {
-  "generated": "24. August 2026, 03:39 UTC",
+  "generated": "25. August 2026, 03:34 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die Teufelskurve am Pogusch war aufgrund von Nässe Schauplatz mehrerer Unfälle, was die Gefährlichkeit dieser Straßenstelle unterstreicht. Zwei bedeutende Sanierungsprojekte an der B 72 und L 114 gehen zeitgleich in ihre abschließende Phase.",
+      "summary": "Die Teufelskurve am Pogusch war aufgrund von Nässe Schauplatz mehrerer Unfälle, was die Gefährlichkeit dieser Straßenstelle unterstreicht. Zwei bedeutende Sanierungsprojekte an der B 72 und L 114 befinden sich in ihren abschließenden Phasen.",
       "items": [
         {
           "title": "Nasse Fahrbahn sorgte für Unfälle in der Teufelskurve am Pogusch - Kleine Zeitung",
@@ -26,13 +26,19 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Der Grazer Hauptbahnhof schneidet im VCÖ-Bahnhofstest hervorragend ab und belegt österreichweit Platz 3. Die Bewertung unterstreicht die hohe Qualität der Infrastruktur und Ausstattung des wichtigsten Verkehrsknotenpunkts der Steiermark.",
+      "summary": "Der Grazer Hauptbahnhof schneidet im VCÖ-Bahnhofstest hervorragend ab und belegt österreichweit Platz 3. Der Verkehrsverbund erweitert sein Angebot mit einem zweiten Band des Wanderbuches für die Verbund-Linien.",
       "items": [
         {
           "title": "VCÖ-Bahnhofstest: Grazer Hauptbahnhof bei Ranking auf Platz 3 - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQak5HV1o0RlRPUjZUcUgwamJJYWJVZGRtTUkzMlR4N1pQMUVxdGpGSFZFc0Ntck1Wd2tHajJPUEJjd0JHSmJMLVVNa1VOTFZVS1ZHNVBWZ0tXU2trc2V5dGJXZTB6X2VsTkJwX2xzcTlZSG9GbUFFWVdrTnc0bzZxVF91Vm9Qc0F1ZWE2UVB5UFp1ZnZsLVA4MEtDT0pvcmdCal9JaTlyeW1qbXc?oc=5",
           "source": "5 Minuten",
           "date": "21. Aug 2026"
+        },
+        {
+          "title": "Jetzt neu: der zweite Band unseres Wanderbuches - Verbund Linie",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZWtPakNjWll1Nk1NdndLQWJFbTVqMW5HZHU3dm9DWDdoZ3BvZWVCNl83ZjZyVExweXdOSnJTT19YZzZIeFZtMG9WTm5ySGxDTVlHVWdJQWRaTVZ3RWt2RWRQY3FjYVJzOUdxZkFmWlp6WlZZM01iYTRnWXVoQU9KMlFnNWFqRU4yQjBGZmdaVUhkMjlMcVRtdnZSMkdmN2dCVGtjZzFHbVhxSVhaTnFvRlh5VWxIcnc?oc=5",
+          "source": "Verbund Linie",
+          "date": "24. Aug 2026"
         }
       ]
     },
@@ -40,13 +46,19 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die steirische Polizei hat durch verstärkte Verkehrskontrollen 19 Führerscheine entzogen und setzt damit ein klares Zeichen für mehr Verkehrssicherheit auf den Straßen. Mit dieser konsequenten Kontrollstrategie verfolgt die Steiermark das Ziel, Verkehrsverstöße zu ahnden und dadurch die Sicherheit aller Verkehrsteilnehmer zu erhöhen.",
+      "summary": "Die Steiermark intensiviert ihre Verkehrssicherheitsmaßnahmen durch verstärkte Polizeikontrollen, die bereits zu zahlreichen Führerscheinentzügen geführt haben. Gleichzeitig zeigt sich eine alarmierende Entwicklung bei Motorradunfällen, da die Zahl der Todesfälle bereits das Vorjahresergebnis erreicht hat und konsequente Kontrollen weiterhin notwendig sind.",
       "items": [
         {
           "title": "Polizei-Aktion Steiermark: 19 Führerscheine weg, Steiermark zieht Bilanz nach Kontrolle - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXpmMnJ1cVdUcGpVN1VfSFJzT3RmeUkzZDdCbWFpd0ZtRm1TaUQtQVpZQTVCdmpWaVJBVm9GVi1uVjdwUUNCdS1GLVNwc2w4YWVGNWJmTlNTREdoNUd6ODFXc2E3YV9hdXZvdnNtckl4QWo0QWt6cURhbzdza253V0ZHRG9ucThqZ2ppVXRoWlRKSnNyZXdDU3Y3Q1dkMjdiLXBaQ2RNeXhqZG1fVFNj?oc=5",
           "source": "MeinBezirk.at",
           "date": "22. Aug 2026"
+        },
+        {
+          "title": "Schon jetzt so viele getötete Motorradfahrer in der Steiermark wie im Vorjahr - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONVdhRS1zcDZxeEdtVWU3SzRxRE1ZT3BTZFVSaEpPWVNOc3hTR2txTEZPMDV0T25yWWliMjhnS1dZVFYyd2hKeWtYcUhLNXN6UTZuWGgyX2VzVDVtWUlUczg5TDF4N1N1RHZiSm00Q2JnSWVZSG1JVzBKNWQycjBMOXR6cXdhNmxiOERQZWtCY2tfVG5JcmZxS3dJSXh5eFN1X0VjYW1iV3Z1dw?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "24. Aug 2026"
         },
         {
           "title": "Steiermark: Konsequente Kontrollen für mehr Verkehrssicherheit - Regionews.at",
@@ -60,13 +72,25 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Meldungen behandeln primär verkehrliche und energiewirtschaftliche Themen, die nur tangential mit Hochbau und Baukultur verbunden sind. Lediglich die geplante Entwicklung St. Michaels zum steirischen Ladezentrum berührt Aspekte der baulichen Infrastruktur und Raumentwicklung in der Steiermark, während die Unfallmeldung zur Teufelskurve und der Hitzeschutz-Gipfel eher Verkehrssicherheit und Klimapolitik betreffen.",
+      "summary": "Die Nachrichtentitel behandeln überwiegend Verkehrsunfälle und Notfalleinsätze in der Steiermark, während ein Artikel zum Hitzeschutz-Gipfel der Landesregierung bauliche und infrastrukturelle Maßnahmen gegen Klimafolgen thematisiert. Nur die Meldung zu St. Michael als zukünftigem Ladezentrum bezieht sich konkret auf ein Hochbauprojekt mit regionaler Bedeutung.",
       "items": [
         {
           "title": "Nasse Fahrbahn sorgte für Unfälle in der Teufelskurve am Pogusch - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRjNoWEE3cEl6UG9qd0FKR1dvSVhkZzBObXA4Yy03WFBZUkU4UVFSREtDLUh2eDdyaURDR1F1bFhPWE1BLWdaV09GQzhPUFVHakNmRUhFTGMxVFBkQWtfVUowSDRtWm15X0pUWW8tS3FjeXdOLWZfaDdoQU5RaE5nMkRTMGtnV21kSjN6OFd4MExFNmw0LW95VmpqWHZhV3VUXy1JTVlOZnRiNTAwTnZQcVBR?oc=5",
           "source": "Kleine Zeitung",
           "date": "19. Aug 2026"
+        },
+        {
+          "title": "Gefährliches Car-Surfing endet im Krankenhaus - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVTRmMnZ2c1NlSXZpa2dORWkzQm0xd09aVXVGV3B5Tl96NzRzOE5vWGtiQVRDZHdIQzliN25tM0pJQ283UEtLcEtPSjRBa1FkdXhaUFhsVUVwX2xhMUJMNEdMMUY5WlFzZERNMlpOdVc0OUVpelpNSmpzLVlTOVpwcmdOdTdMZVJCSVp2cGZNM2o5QQ?oc=5",
+          "source": "ORF ON",
+          "date": "24. Aug 2026"
+        },
+        {
+          "title": "30 Kräfte im Einsatz - 45-Jähriger nach Garagenbrand im Krankenhaus - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE12aW1yeEJPTExpbkVsNldaMlZDWWJqU0x0dEtUUmpaWkUzcml0d0JGWWoyUGExbmU3VkhJZkxOMHB4QQ?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "23. Aug 2026"
         },
         {
           "title": "Hitzeschutz-Gipfel der Landesregierung: Was jetzt zählt, was bereits wirkt und wo weiter nachgeschärft wird - Kommunikation - Land Steiermark",
