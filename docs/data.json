@@ -1,18 +1,24 @@
 {
-  "generated": "25. August 2026, 03:34 UTC",
+  "generated": "26. August 2026, 03:40 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die Teufelskurve am Pogusch war aufgrund von Nässe Schauplatz mehrerer Unfälle, was die Gefährlichkeit dieser Straßenstelle unterstreicht. Zwei bedeutende Sanierungsprojekte an der B 72 und L 114 befinden sich in ihren abschließenden Phasen.",
+      "summary": "In der Steiermark werden mehrere bedeutende Infrastrukturprojekte vorangetrieben, darunter die Sanierung von drei Brücken und der Fahrbahn an der L 441 sowie Abschlussarbeiten bei zwei Sanierungen an der B 72 und L 114. Parallel dazu stellt die Sperrung zweier historischer Tunnel an der Erzbergbahn deren Bestand in Frage.",
       "items": [
         {
-          "title": "Nasse Fahrbahn sorgte für Unfälle in der Teufelskurve am Pogusch - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRjNoWEE3cEl6UG9qd0FKR1dvSVhkZzBObXA4Yy03WFBZUkU4UVFSREtDLUh2eDdyaURDR1F1bFhPWE1BLWdaV09GQzhPUFVHakNmRUhFTGMxVFBkQWtfVUowSDRtWm15X0pUWW8tS3FjeXdOLWZfaDdoQU5RaE5nMkRTMGtnV21kSjN6OFd4MExFNmw0LW95VmpqWHZhV3VUXy1JTVlOZnRiNTAwTnZQcVBR?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "19. Aug 2026"
+          "title": "L 441: Sanierung von drei Brücken und der Fahrbahn - Verwaltung - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ENTlNVWp1NUYtSnRVVXdKN1VFNnBmSDh6aGdHMlZzM09nYzNwcHo2Tk9zODFJWHJkYWxCa2xwYzNiaWk5bmJMUGdyU3ZnRG56Y25yWE44b0x5QWFJeVQzTXM5NjZyb0hla3FvRmZLdnU0MVpQLVZj?oc=5",
+          "source": "Verwaltung - Land Steiermark",
+          "date": "25. Aug 2026"
+        },
+        {
+          "title": "Erzbergbahn kämpft ums Überleben: Zwei historische Tunnel gesperrt - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbVJCTmZoSEZGcjVwSTFsNEYxRkZyT3NKclV5YXl5VlUzRm40Y3VlYUVVbjBSaE5xd0hiZXJNd094Sk9FZ1dvVl8xbE02UkNFTU9uZXpvajVrTXdBMGQ5OTQ5LXpEUHQ5cktEd3dnM3UwYVpUbWMxLVJoR04yN0lYT3F1c3NGVXZteWo5eGtMNjB1T1o2eTRLdkM4MmxHWkhYcS1ISU9JMmE5U0V2b3lKUVNzMA?oc=5",
+          "source": "5 Minuten",
+          "date": "25. Aug 2026"
         },
         {
           "title": "B 72, L 114: Zwei Sanierungen gehen ins Finale - Land Steiermark News Portal",
@@ -26,7 +32,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Der Grazer Hauptbahnhof schneidet im VCÖ-Bahnhofstest hervorragend ab und belegt österreichweit Platz 3. Der Verkehrsverbund erweitert sein Angebot mit einem zweiten Band des Wanderbuches für die Verbund-Linien.",
+      "summary": "Der Grazer Hauptbahnhof schneidet beim VCÖ-Bahnhofstest mit Platz 3 hervorragend ab und bestätigt damit die hohe Qualität der Infrastruktur. Der Verkehrsverbund erweitert sein Angebot mit einem neuen Wanderbuch, das die Verbundlinien noch stärker in den Fokus rückt und Fahrgäste zum Erkunden der Region einlädt.",
       "items": [
         {
           "title": "VCÖ-Bahnhofstest: Grazer Hauptbahnhof bei Ranking auf Platz 3 - 5 Minuten",
@@ -36,7 +42,7 @@
         },
         {
           "title": "Jetzt neu: der zweite Band unseres Wanderbuches - Verbund Linie",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZWtPakNjWll1Nk1NdndLQWJFbTVqMW5HZHU3dm9DWDdoZ3BvZWVCNl83ZjZyVExweXdOSnJTT19YZzZIeFZtMG9WTm5ySGxDTVlHVWdJQWRaTVZ3RWt2RWRQY3FjYVJzOUdxZkFmWlp6WlZZM01iYTRnWXVoQU9KMlFnNWFqRU4yQjBGZmdaVUhkMjlMcVRtdnZSMkdmN2dCVGtjZzFHbVhxSVhaTnFvRlh5VWxIcnc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMExXanAtVmlHby0wREdUSEYyZ2NZaWNfcHdXbTNPQTlweXdURi1kWVBwUWllMUVuRFFBYWdhSGhaWkl4bG13MnM3VFViSlE0ejlMSXRVZHA3eWQtZGI5SUQ4c3drWF9QOU9Pc3FIRHh0REt3ZnN3MjhZSExBQzMtemJqcWVoU0tuZlVkOUlUYVVsaS1HcXZsVEw3SmFpbUxTM2t5VGEyZTlybnNqN1BtOFlR?oc=5",
           "source": "Verbund Linie",
           "date": "24. Aug 2026"
         }
@@ -46,8 +52,14 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark intensiviert ihre Verkehrssicherheitsmaßnahmen durch verstärkte Polizeikontrollen, die bereits zu zahlreichen Führerscheinentzügen geführt haben. Gleichzeitig zeigt sich eine alarmierende Entwicklung bei Motorradunfällen, da die Zahl der Todesfälle bereits das Vorjahresergebnis erreicht hat und konsequente Kontrollen weiterhin notwendig sind.",
+      "summary": "Die Steiermark verzeichnet heuer eine alarmierende Zunahme tödlicher Motorradunfälle, was die Polizei zu verstärkten Kontrollen und Führerscheinentzügen bewogen hat. Diese konsequenten Maßnahmen sollen die Verkehrssicherheit erhöhen und das Risiko für Motorradfahrer deutlich senken.",
       "items": [
+        {
+          "title": "Heuer bereits 16 tödliche Motorradunfälle - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuLUgwQ2c5WUQ1NFFNak9ickhObEVrTFdzWGdhTTZPbkJNcHRUVTZDM2tvYnRnajFNOG9zS1p1SnN2Zm82QUJCa2hpRTZYWXdkQlVQNA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "25. Aug 2026"
+        },
         {
           "title": "Polizei-Aktion Steiermark: 19 Führerscheine weg, Steiermark zieht Bilanz nach Kontrolle - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXpmMnJ1cVdUcGpVN1VfSFJzT3RmeUkzZDdCbWFpd0ZtRm1TaUQtQVpZQTVCdmpWaVJBVm9GVi1uVjdwUUNCdS1GLVNwc2w4YWVGNWJmTlNTREdoNUd6ODFXc2E3YV9hdXZvdnNtckl4QWo0QWt6cURhbzdza253V0ZHRG9ucThqZ2ppVXRoWlRKSnNyZXdDU3Y3Q1dkMjdiLXBaQ2RNeXhqZG1fVFNj?oc=5",
@@ -62,7 +74,7 @@
         },
         {
           "title": "Steiermark: Konsequente Kontrollen für mehr Verkehrssicherheit - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOVdKeldvX2txa3BjVnV6a1ZaU1JqWmhvOWI5cTNmMlR3Z0F1TmRMMXQweHNmcVBYdUJjSFFPZEFmLUZCSkRGMjR4WUVITUtnek5QYi1GX29fRXpFenBvMU5tbm44NVhJaU1DdVFSdkQ3NlBZVWExR3dDYUxkd0xKRWQtVllyc0lHcmxlNGZ0UHMzZU9Fa21HTGEwVUIxZ9IBngFBVV95cUxPOVdKeldvX2txa3BjVnV6a1ZaU1JqWmhvOWI5cTNmMlR3Z0F1TmRMMXQweHNmcVBYdUJjSFFPZEFmLUZCSkRGMjR4WUVITUtnek5QYi1GX29fRXpFenBvMU5tbm44NVhJaU1DdVFSdkQ3NlBZVWExR3dDYUxkd0xKRWQtVllyc0lHcmxlNGZ0UHMzZU9Fa21HTGEwVUIxZw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUEh4VmxxdUZrY1ZNUXRVdE9NaG5WMlVORHRkQ2JCNzgwUktXdUlrZE9wZUtrbUNhcHhVOFBUMWRTcUszMkN5RTVOd1hRQVlPdWRDaEZ5Vk9yYnJPSlZRZjZUQ2dnSzhKZ0JzS0Jkc1M4dlFwUFZ3VHRPSUFlTW5NeG5uS1RTWHhjYWF2ZUV3X1dKanVmeEtPdkJn0gGeAUFVX3lxTE85V0p6V29fa3FrcGNWdXprVlpTUmpaaG85YjlxM2YyVHdnQXVOZEwxdDB4c2ZxUFh1QmNIUU9kQWYtRkJKREYyNHhZRUhNS2d6TlBiLUZfb19FekV6cG8xTm1ubjg1WElpTUN1UVJ2RDc2UFlVYTFHd0NhTGR3TEpFZC1WWXJzSUdybGU0ZnRQczNlT0VrbUdMYTBVQjFn?oc=5",
           "source": "Regionews.at",
           "date": "22. Aug 2026"
         }
@@ -72,17 +84,29 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Nachrichtentitel behandeln überwiegend Verkehrsunfälle und Notfalleinsätze in der Steiermark, während ein Artikel zum Hitzeschutz-Gipfel der Landesregierung bauliche und infrastrukturelle Maßnahmen gegen Klimafolgen thematisiert. Nur die Meldung zu St. Michael als zukünftigem Ladezentrum bezieht sich konkret auf ein Hochbauprojekt mit regionaler Bedeutung.",
+      "summary": "Die Steiermark investiert in ihre Infrastruktur durch die Sanierung von Brücken und Fahrbahnen sowie in zukunftsweisende Energieprojekte wie den Bau eines 22-MW-Photovoltaik-Parks der Energie Steiermark. Parallel dazu fokussiert die Landesregierung auf Hitzeschutzmaßnahmen und unterstützt wirtschaftliche Expansionen wie die Ausbauinvestitionen von NovaLabs in Graz.",
       "items": [
         {
-          "title": "Nasse Fahrbahn sorgte für Unfälle in der Teufelskurve am Pogusch - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRjNoWEE3cEl6UG9qd0FKR1dvSVhkZzBObXA4Yy03WFBZUkU4UVFSREtDLUh2eDdyaURDR1F1bFhPWE1BLWdaV09GQzhPUFVHakNmRUhFTGMxVFBkQWtfVUowSDRtWm15X0pUWW8tS3FjeXdOLWZfaDdoQU5RaE5nMkRTMGtnV21kSjN6OFd4MExFNmw0LW95VmpqWHZhV3VUXy1JTVlOZnRiNTAwTnZQcVBR?oc=5",
+          "title": "L 441: Sanierung von drei Brücken und der Fahrbahn - Verwaltung - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ENTlNVWp1NUYtSnRVVXdKN1VFNnBmSDh6aGdHMlZzM09nYzNwcHo2Tk9zODFJWHJkYWxCa2xwYzNiaWk5bmJMUGdyU3ZnRG56Y25yWE44b0x5QWFJeVQzTXM5NjZyb0hla3FvRmZLdnU0MVpQLVZj?oc=5",
+          "source": "Verwaltung - Land Steiermark",
+          "date": "25. Aug 2026"
+        },
+        {
+          "title": "Energie Steiermark startet Bau eines 22-MW-PV-Parks in Feiting - i-Magazin",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaUFzSmdud2V0UmtPeFUxX2tkeXhNdmxUUmgyQ3VveUVHM0N6N2xNak8zcHM2Q3RzNVBKSTUxZnlJQ0tyN1VVUG02T3BhRDlqVDVXc253M3dUemlnNDg1cFZUWDZqa1pkWnI3bS11U3V3cFBuR2dHQ0dNeEJEc0NhSTBkV19kaEN1MmlWdzFB?oc=5",
+          "source": "i-Magazin",
+          "date": "25. Aug 2026"
+        },
+        {
+          "title": "Baustart für stärksten Photovoltaik-Park der Energie Steiermark - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTUphUzBMQjBUajBGYUFvLTA2VWFYUEkwREs4MDdGUlFUc25oYWVIa3dxQm5jUFFsdkhnZDhzV25hdEw0QndkOEFFUFU3TlFicE5lNTA5emNoLW1oNWxfME8wd3h6WmphaEtrVWZGenNKdlNnTl9hS09zSXB0Rk9mWi1yLUZRMXc2UnV6ek9vdERZTGJVbExTWklWNDQyZ2RvZzd5WWM0QmlUY2NjSTZ3ZQ?oc=5",
           "source": "Kleine Zeitung",
-          "date": "19. Aug 2026"
+          "date": "25. Aug 2026"
         },
         {
           "title": "Gefährliches Car-Surfing endet im Krankenhaus - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVTRmMnZ2c1NlSXZpa2dORWkzQm0xd09aVXVGV3B5Tl96NzRzOE5vWGtiQVRDZHdIQzliN25tM0pJQ283UEtLcEtPSjRBa1FkdXhaUFhsVUVwX2xhMUJMNEdMMUY5WlFzZERNMlpOdVc0OUVpelpNSmpzLVlTOVpwcmdOdTdMZVJCSVp2cGZNM2o5QQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT24tTTY3WmhwZ0dsSnEtQkRMUDlxUi1tWVZyVWR4UWk0YmVmQVlMUTBxZ3JUdUxta3A1UjJTTzlabmxveVZybE95VGpHMGcyOGdvMlFDYmJXV3ZMWTkxYnFJTVhZYlRpVHFQaW0xM212dUUxSUsxeHVFel9sZFVjSl9FNWUzTDZMVnFUWV9lS3RhdUhGMkZhRENkTGdabHFZUU5jMW9sMmM2UkU4d1U0WlQ1WUFxdkF2Z0E?oc=5",
           "source": "ORF ON",
           "date": "24. Aug 2026"
         },
@@ -99,10 +123,10 @@
           "date": "21. Aug 2026"
         },
         {
-          "title": "St. Michael wird demnächst zum steirischen Ladezentrum - wko.at",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVl94YU92YzVmNnJVWjFKUV90Y05Eb3dxOEhWVzk0QjVPbDNEMjNUOTBLTDA4SVZYYnlkSndGMGZsb0F3Wk1EMWluTVlnSFhCSWlkZjNRcDJSdTZWZTcwd1BGRGRIYlVDRDhYdVVNb2l5QVRUR3JodHlLUkdnc2ZTdDkwY3FaUjBfd3BjUQ?oc=5",
-          "source": "wko.at",
-          "date": "18. Aug 2026"
+          "title": "Nächste Millionen-Investition: NovaLabs baut in Graz aus - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRXlaVVRiMVk3NmFOWE5Sd3ZmTWY0bnJDazctNjBQeWZ1WlVhcWhZcWxSZTFsMkNLTkthNFhiZEdfa1FOR2k5Y0IzaGlLMnFpUjVkREllY0NrTVVkYTBsUGE4TnhGZlA5cW16T2dyRUV4YXB5dVdjVkNDSmRWLXZ5eDBfYUE2UmpBLTN0NWF5Tnl4TzgxbUZULWdLSHFfcVpvWmFJTQ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "24. Aug 2026"
         }
       ]
     },
