@@ -1,18 +1,42 @@
 {
-  "generated": "28. August 2026, 14:36 UTC",
+  "generated": "29. August 2026, 09:24 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "In der Steiermark werden mehrere Infrastrukturprojekte vorangetrieben, darunter die Sanierung von drei Brücken und der Fahrbahn auf der L 441 sowie die Erneuerung von Lärmschutzwänden auf der B 66 in Feldbach. Zusätzlich kämpft die Erzbergbahn mit der Sperrung von zwei historischen Tunneln um ihre Zukunftsfähigkeit.",
+      "summary": "Eine Studie zeigt das erhebliche Finanzierungspotenzial einer Lkw-Maut für die Steiermark, die jährlich bis zu 120 Millionen Euro für Infrastrukturmaßnahmen einbringen könnte, während die Grünen diese Gebühr auf Landesstraßen fordern. Parallel laufen konkrete Sanierungsprojekte wie die Erneuerung von Brücken und Fahrbahnen auf der L 441 sowie die Errichtung neuer Lärmschutzwände auf der B 66 in Feldbach.",
       "items": [
+        {
+          "title": "Studie enthüllt Potenzial: Lkw-Maut könnte Steiermark jährlich 120 Millionen Euro bringen - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTFhGaXUwblpzZ2xEQml1ek1QbXlPVTdjRFJRN2ktQ1R0MlVtUXkxOWx2UXVQVkVVeE9ZeVJSZjIzYWVRRmRrUUxacExkQ1pZZ2FfUUh3YlBtUHlycEZodW1maXQtOVVqUUxTU3NFZ0pQa25qMVU0S016R1kxWjBjenBzdVB1cDYtbFkxcW9QUFBQZTVtRlY2MXZLeFpnMTUwT1JDSjU3WndncW9HeUdrM2FqOEFjdzk2ajdEcA?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "29. Aug 2026"
+        },
+        {
+          "title": "Sechs betrunkene Biker aus der Steiermark in Kärnten gestoppt - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT0tjZi1PVUs3bXNGcUxHMWptRlo1bUNNVWxjRWNZeUFpZXlWbmJGenFOUVlCU3laR3QzV2xobU92YnV0YjJMVkFhd3RxR1doY1ZoZGlPbjV1VmlPamNsci1HdG85UmF6Q3RCRzZsREZSZUZKRTdLaWUxb1dXRUVicU43MHdNWGFSak9JRnI2bmVHb2pBQkpQMlpOdWFaMFZhN2VOaVE3TWZ2TGI2?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "28. Aug 2026"
+        },
+        {
+          "title": "Grüne fordern Lkw-Maut auf Landesstraßen - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjSjUyRVllSEpTeWY0cEg1Z2IzaU9QeUYzV0oxSzRRSmhCVWJMUmZIbnlkRkM3Q3ZDdlpILUV0ZXUzSnVJMFp0R2x5NjVjY25iVU1qSw?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "29. Aug 2026"
+        },
         {
           "title": "L 441: Sanierung von drei Brücken und der Fahrbahn - Verwaltung - Land Steiermark",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ENTlNVWp1NUYtSnRVVXdKN1VFNnBmSDh6aGdHMlZzM09nYzNwcHo2Tk9zODFJWHJkYWxCa2xwYzNiaWk5bmJMUGdyU3ZnRG56Y25yWE44b0x5QWFJeVQzTXM5NjZyb0hla3FvRmZLdnU0MVpQLVZj?oc=5",
           "source": "Verwaltung - Land Steiermark",
           "date": "25. Aug 2026"
+        },
+        {
+          "title": "“Verheimlichte” Studie befürwortet flächendeckende Lkw-Maut - NEUE Vorarlberger Tageszeitung",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU2ViT1Y0dHJtN3pSb3FDVFk1emRXTHUwVHlBMEt0c1UwSlRYX3lxR0szTWZ5VFZZanF6UDZTaXV1a29BaTdneS1mNkxJdUdmN0dHYldKM1R2QjFlSjVLM01KaEYydmZUTWhCN3FlS2hQN1UxZUEyYVFSYmE0eTU0ejVnQWQxbFVfRlBCNnoxMG52MU1fZHVxVEpVVlVYLVN1UVE?oc=5",
+          "source": "NEUE Vorarlberger Tageszeitung",
+          "date": "29. Aug 2026"
         },
         {
           "title": "B 66: In Feldbach werden Lärmschutzwände erneuert - Land Steiermark - Politik",
@@ -21,16 +45,16 @@
           "date": "28. Aug 2026"
         },
         {
+          "title": "Steiermark: B 66 - In Feldbach werden Lärmschutzwände erneuert - Regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWEZFMWtqY1BhSnBEc1A1LUVIcW5Wemx5c0c2U0d1ZG9heEl3eGVqb2NPMzFqQXhtbkgzbHdqRFlvWDkzcUZTMzFVWW92OE1NTm1IVkFUZkRUSU4xeVZReDQwby1odk1uRW1xd2x2VlgxMEYtQkN2cXZmY1hYMVpHU2NrOXVkdEpPZE1hZXRHbGIzN1dmMGQxYmZLY0fSAZwBQVVfeXFMTlhGRTFramNQYUpwRHNQNS1FSHFuVnpseXNHNlNHdWRvYXhJd3hlam9jTzMxakF4bW5IM2x3akRZb1g5M3FGUzMxVVlvdjhNTU5tSFZBVGZEVElOMXlWUXg0MG8taHZNbkVtcXdsdlZYMTBGLUJDdnF2ZmNYWDFaR1Njazl1ZHRKT2RNYWV0R2xiMzdXZjBkMWJmS2NH?oc=5",
+          "source": "Regionews.at",
+          "date": "29. Aug 2026"
+        },
+        {
           "title": "Erzbergbahn kämpft ums Überleben: Zwei historische Tunnel gesperrt - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbVJCTmZoSEZGcjVwSTFsNEYxRkZyT3NKclV5YXl5VlUzRm40Y3VlYUVVbjBSaE5xd0hiZXJNd094Sk9FZ1dvVl8xbE02UkNFTU9uZXpvajVrTXdBMGQ5OTQ5LXpEUHQ5cktEd3dnM3UwYVpUbWMxLVJoR04yN0lYT3F1c3NGVXZteWo5eGtMNjB1T1o2eTRLdkM4MmxHWkhYcS1ISU9JMmE5U0V2b3lKUVNzMA?oc=5",
           "source": "5 Minuten",
           "date": "25. Aug 2026"
-        },
-        {
-          "title": "B 66: In Feldbach werden Lärmschutzwände erneuert - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOaWRJOUpES3VucXlVV04ycEdmeDYzSDNRZ3NabkVzay0yV1N0M0FUcWpwMGY2WVZ4U3gzQUUwY3MxT3BwWlZEVmNZejlpMllkNVpyc1BRaGpERUpHXzJUMDVkOUt1ZmpsVmFRVU1IVQ?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "28. Aug 2026"
         }
       ]
     },
@@ -38,7 +62,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Steiermark investiert in die Modernisierung ihrer Verkehrsinfrastruktur, insbesondere am Flughafen Graz-Feldkirchen, während gleichzeitig innovative Mobilitätsprojekte wie das grenzüberschreitende Klimaticket zwischen Graz, Klagenfurt und Maribor vorangetrieben werden. Daneben werden nachhaltige Verkehrslösungen auf lokaler Ebene, wie die Neugestaltung des Ortszentrums in Neudau, mit dem VCÖ-Mobilitätspreis ausgezeichnet.",
+      "summary": "Die Steiermark investiert in die Modernisierung ihrer Verkehrsinfrastruktur, insbesondere am Flughafen Graz-Feldkirchen, während gleichzeitig neue Wanderbücher und Geheimtipps die Attraktivität des öffentlichen Verkehrs in der Region wie der Weststeiermark erhöhen. Darüber hinaus werden EU-Mittel für ein grenzüberschreitendes Klimaticket zwischen Graz, Klagenfurt und Maribor angestrebt, und Gemeinden wie Neudau werden für innovative Mobilitätslösungen ausgezeichnet.",
       "items": [
         {
           "title": "Modernisierung der Verkehrsinfrastruktur am Bahnhof Flughafen Graz-Feldkirchen - Aviation.Direct",
@@ -48,9 +72,15 @@
         },
         {
           "title": "Jetzt neu: der zweite Band unseres Wanderbuches - Verbund Linie",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMExXanAtVmlHby0wREdUSEYyZ2NZaWNfcHdXbTNPQTlweXdURi1kWVBwUWllMUVuRFFBYWdhSGhaWkl4bG13MnM3VFViSlE0ejlMSXRVZHA3eWQtZGI5SUQ4c3drWF9QOU9Pc3FIRHh0REt3ZnN3MjhZSExBQzMtemJqcWVoU0tuZlVkOUlUYVVsaS1HcXZsVEw3SmFpbUxTM2t5VGEyZTlybnNqN1BtOFlR?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZWtPakNjWll1Nk1NdndLQWJFbTVqMW5HZHU3dm9DWDdoZ3BvZWVCNl83ZjZyVExweXdOSnJTT19YZzZIeFZtMG9WTm5ySGxDTVlHVWdJQWRaTVZ3RWt2RWRQY3FjYVJzOUdxZkFmWlp6WlZZM01iYTRnWXVoQU9KMlFnNWFqRU4yQjBGZmdaVUhkMjlMcVRtdnZSMkdmN2dCVGtjZzFHbVhxSVhaTnFvRlh5VWxIcnc?oc=5",
           "source": "Verbund Linie",
           "date": "24. Aug 2026"
+        },
+        {
+          "title": "Geheimtipp Weststeiermark - Verbund Linie",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9OSDgzb1RDMXdQY3UzM0FJLTBtdUp3QjZIMTN5LTh1RTJHZl9fVTNvMW9RcENQSzlQY2pQejVUZ0tWRk53QjlBRUdteUVOTXkzZVR3MGVfRU15WEwxWC04OVpGSEluRndUcjU3a19vcVp3R0txQV92bm9aZw?oc=5",
+          "source": "Verbund Linie",
+          "date": "28. Aug 2026"
         },
         {
           "title": "Grüne wollen EU-Geld für Klimaticket zwischen Graz, Klagenfurt und Maribor - 5 Minuten",
@@ -59,9 +89,9 @@
           "date": "28. Aug 2026"
         },
         {
-          "title": "VCÖ-Mobilitätspreis Steiermark an Neudau für die Neugestaltung des Ortszentrums - Land Steiermark - Politik",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xT2FLRS15U19XcktvOXMxVFFpQWRGUVhSMnhTVkVEUkxGVWtGbHBHaXZQQ2QzelJxdHFVVnl6SkJFdFd1dkVMUlBNa01qN2p0QmJVRjUtaHdvM04yUHFlb0FKVVVQUnhtTlk0YmJHYVlnVWM?oc=5",
-          "source": "Land Steiermark - Politik",
+          "title": "VCÖ-Mobilitätspreis Steiermark an Neudau für die Neugestaltung des Ortszentrums - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RLUR3djA5WV9nMi1uN3pSQzZrUXZsS1NuX1V1S01jQzMwRHdPSU5BSHpWVS04WERyaEJIUXpRdW4zYURMMHdGV3R5RWJES3RmME5FSmpRNEFFU09zU3FjMi1yd1p1WXlSejNVWnVPUQ?oc=5",
+          "source": "Land Steiermark News Portal",
           "date": "26. Aug 2026"
         }
       ]
@@ -70,7 +100,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark setzt verstärkt auf Verkehrssicherheitskontrollen und nachhaltige Mobilitätsprojekte, um die alarmierende Zahl der Motorradunfälle zu bekämpfen und gleichzeitig grüne Verkehrslösungen zu fördern. Während Polizeiaktionen konsequent gegen unsicheres Fahrerverhalten vorgehen, zeigen innovative Projekte wie neue Sportinfrastruktur und nachhaltige Mobilitätskonzepte den Weg zu einer sichereren und umweltfreundlicheren Verkehrszukunft in der Region.",
+      "summary": "Die Steiermark setzt verstärkt auf Verkehrssicherheitsmaßnahmen durch konsequente Kontrollen und nachhaltige Mobilitätsprojekte, um die alarmierende Quote von tödlichen Motorradunfällen zu senken. Gleichzeitig werden innovative Infrastrukturprojekte wie Sportanlagen und grüne Mobilitätslösungen ausgebaut, um die Verkehrssicherheit zu erhöhen und alternative Fortbewegungsformen zu fördern.",
       "items": [
         {
           "title": "Klettern in Leoben: Am Häuselberg entsteht ein neues Paradies für Sportler - MeinBezirk.at",
@@ -83,18 +113,6 @@
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuLUgwQ2c5WUQ1NFFNak9ickhObEVrTFdzWGdhTTZPbkJNcHRUVTZDM2tvYnRnajFNOG9zS1p1SnN2Zm82QUJCa2hpRTZYWXdkQlVQNA?oc=5",
           "source": "steiermark.ORF.at",
           "date": "25. Aug 2026"
-        },
-        {
-          "title": "Polizei-Aktion Steiermark: 19 Führerscheine weg, Steiermark zieht Bilanz nach Kontrolle - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXpmMnJ1cVdUcGpVN1VfSFJzT3RmeUkzZDdCbWFpd0ZtRm1TaUQtQVpZQTVCdmpWaVJBVm9GVi1uVjdwUUNCdS1GLVNwc2w4YWVGNWJmTlNTREdoNUd6ODFXc2E3YV9hdXZvdnNtckl4QWo0QWt6cURhbzdza253V0ZHRG9ucThqZ2ppVXRoWlRKSnNyZXdDU3Y3Q1dkMjdiLXBaQ2RNeXhqZG1fVFNj?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "22. Aug 2026"
-        },
-        {
-          "title": "Schon jetzt so viele getötete Motorradfahrer in der Steiermark wie im Vorjahr - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONVdhRS1zcDZxeEdtVWU3SzRxRE1ZT3BTZFVSaEpPWVNOc3hTR2txTEZPMDV0T25yWWliMjhnS1dZVFYyd2hKeWtYcUhLNXN6UTZuWGgyX2VzVDVtWUlUczg5TDF4N1N1RHZiSm00Q2JnSWVZSG1JVzBKNWQycjBMOXR6cXdhNmxiOERQZWtCY2tfVG5JcmZxS3dJSXh5eFN1X0VjYW1iV3Z1dw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "24. Aug 2026"
         },
         {
           "title": "Steiermark: Konsequente Kontrollen für mehr Verkehrssicherheit - Regionews.at",
@@ -114,7 +132,7 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark investiert in ihre Infrastruktur durch Straßensanierungen wie die Erneuerung der L 441 und treibt gleichzeitig die Energiewende mit großflächigen Photovoltaik-Projekten voran, etwa dem 22-MW-Solarpark der Energie Steiermark in Feiting. Die Grazer Baukultur steht jedoch vor der Herausforderung, ihre zunehmende Flächenversiegelung zu reduzieren und eine nachhaltigere Stadtentwicklung zu verfolgen, während private Unternehmen wie NovaLabs weiterhin in Expansionsprojekte investieren.",
+      "summary": "Die Steiermark investiert in ihre Infrastruktur durch die Sanierung von Brücken und Fahrbahnen auf der L 441 sowie durch den Ausbau von Produktionsstandorten wie NovaLabs in Graz. Parallel dazu treibt Energie Steiermark die Energiewende mit dem Bau eines 22-Megawatt-Photovoltaik-Parks voran, dem stärksten Solarpark des Unternehmens.",
       "items": [
         {
           "title": "L 441: Sanierung von drei Brücken und der Fahrbahn - Verwaltung - Land Steiermark",
@@ -149,12 +167,6 @@
         {
           "title": "Traktorunfall Poppendorf: Frau von rollendem Traktor erfasst, verletzt ins Krankenhaus - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNjRqeDFkOU40elEyWnRraXBDZ0JISXNiT2hYbkpaNnZBcE9uT2RELW1WT1V2dElULXNzeFlPOGZLbnFYeWNuSHNoeURnUFJKSnVySS1SY3cyMW9aWlFPTmRLaEQ4aEJWZVVfaUdnRVlrZ1ZSWnpuWi1GRDBUNnhscUV0LUtoVEZLUG8yM3BuaEZnMTBJVXdHSTFVWkF0V0hEb3ZVdWpYZFYwLWNfUHlIZHhkWGhDcmdtbE1aTzFFdw?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "25. Aug 2026"
-        },
-        {
-          "title": "Mehr Versiegelung, weniger Durchzug: Grazer Baukultur benötigt drastisches Umdenken - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMmRTYmFoc1g5cWt4eDVjbXlQNFYwN3E2V2dMa1kxNnBDUEVEVnI2SHczSzk5YVhDTkZ5QU5FakZFQ3VfdWEtWEsyT0FKdHJzLXdhaEcxM0dCaWFUUnJzRkhmLXVveTF4dExyZ3ViNHUwQ2hlSS1RN0Jtb1ZUNUtQZ3ByQnd0Y3IzUVU1a1JtLWUwcEtHN09lajZGOU9EUQ?oc=5",
           "source": "MeinBezirk.at",
           "date": "25. Aug 2026"
         },
