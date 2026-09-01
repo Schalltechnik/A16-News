@@ -1,12 +1,12 @@
 {
-  "generated": "31. August 2026, 08:55 UTC",
+  "generated": "01. September 2026, 07:59 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "In der Steiermark stehen mehrere bedeutende Infrastrukturprojekte an, darunter die Sanierung von Brücken und Fahrbahnen auf der L 441, Lärmschutzmaßnahmen auf der B 66 in Feldbach sowie Sanierungsarbeiten auf der B 96, während gleichzeitig die Weizklamm-Sperrung auf der B 64 aufgehoben wurde. Parallel dazu wird die Einführung einer Lkw-Maut auf Landesstraßen diskutiert, die der Steiermark jährlich bis zu 120 Millionen Euro für die Straßenerhaltung bringen könnte.",
+      "summary": "Eine Lkw-Maut auf steirischen Landesstraßen könnte dem Land jährlich 120 Millionen Euro einbringen und wird von den Grünen gefordert, während die Landesregierung die Pläne verteidigt. Parallel laufen mehrere Infrastrukturprojekte wie die Sanierung von Brücken und Fahrbahnen auf der L 441, die Erneuerung von Lärmschutzwänden auf der B 66 und Sanierungsmaßnahmen auf der B 96 bis Dezember.",
       "items": [
         {
           "title": "Studie enthüllt Potenzial: Lkw-Maut könnte Steiermark jährlich 120 Millionen Euro bringen - MeinBezirk.at",
@@ -33,9 +33,15 @@
           "date": "25. Aug 2026"
         },
         {
-          "title": "B 66: In Feldbach werden Lärmschutzwände erneuert - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wc1JLTTJoX21FT0ZpX3FCQVJPMWxmc1hfb3VHYzZCN2VPUlhTRXpmZkQyR2FYc0UzYzFjY3lURERwVDN4Ujg4dmgzbnRJbC1vSFlkRUxvOVVZUzR6TGRBejhYRlVyQlNERktGSHQ0SEhtdVZQX2Q0Qg?oc=5",
-          "source": "Kommunikation - Land Steiermark",
+          "title": "„Schreckgespenster“: Schönleitner verteidigt Pläne für LKW-Maut - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdGhwaXllWE84Y25IbC1TenNNaXpnem5yZ0lDdHRMZDVUQnpYY0RmTmZJY20tT1FlY0N6M2RJZU5tOWdXQlNndlMzSnltU3R5cTBTWmtaX2tWMDVpR3VIc3c2emp2VTBDWWQzM3ZiQ05NbXpmRThiSHJfb2hnZHFPVkRkVFpCWWxIWVhhTEZFUmxlM0lkN1F3Ui1QSUlUdXRkdTlvYjUwX0s2WHJyLWc?oc=5",
+          "source": "5 Minuten",
+          "date": "31. Aug 2026"
+        },
+        {
+          "title": "B 66: In Feldbach werden Lärmschutzwände erneuert - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1NFZZWG9mSjQ4M25fM05scUltcG0wdW5GX0FvUWVPSmtETFg2OW1hc2RpX3RKSW96UXVLeTZXRjZLZnlKYkFVbk96YlBQZXpQZ3o5T2hIbVlRNDJEa01jcEx2bFlZTUk3U1NvZ1Bn?oc=5",
+          "source": "Land Steiermark News Portal",
           "date": "28. Aug 2026"
         },
         {
@@ -45,16 +51,10 @@
           "date": "25. Aug 2026"
         },
         {
-          "title": "B 96: Sanierungsmaßnahmen bis Anfang Dezember - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wNmlVcHdhVEtJMkVLSHFqRFZRVnBvakxIdzMyWW9vREx5QTFCMlBqVkJCRkkzVzR6UnN6SXg2ZXJwUzdNNlYyendWdk91djBRMENhckxHQVVLSlczc2pQWThZSE1veGpxVmR3R1d1NA?oc=5",
-          "source": "Land Steiermark News Portal",
+          "title": "B 96: Sanierungsmaßnahmen bis Anfang Dezember - Land Steiermark - Politik",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3WFBHLUdsRzBvNW9XclNSS0lsS3ZEUWE3OTNjelBSRklCMGhPUGF6VnhWMGRHendsMGVfZVVkSjFfa0RfYnZ6Mk16MkFvVmJiem5ScW5jeVpVRVJ6RGE5amVhUlpXUWJ3WlBhX1p0TzdUMTg?oc=5",
+          "source": "Land Steiermark - Politik",
           "date": "31. Aug 2026"
-        },
-        {
-          "title": "Weizklamm bald wieder offen: Freie Fahrt auf B 64 – Straßensperre ab 28. August aufgehoben - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN1AzZ1hnaWlLbHJHaDZSRFNwbnZyRlhnN3pDQV9mZGJUeW44RktfVjAyUFVMd2FfeURWQ0ZCQlhVeUtLUEZ4X2huNVR2Wm4wa0c3Q2dvcmJIb20yQk1pMGdtbUdNQUlUazRaYkJIeld3bFY4TDVSMUY1djFtVkFGRlp1SXR1WHVvbEplWnktUldHb3U2RXFkR3FLWWJENTVWY2VPLTVhMDlqTmozSkE?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "27. Aug 2026"
         }
       ]
     },
@@ -62,25 +62,13 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Steiermark modernisiert ihre Verkehrsinfrastruktur, insbesondere am Flughafen Graz-Feldkirchen, während Sammeltaxis in der Oststeiermark weiterhin wichtige Mobilitätslücken schließen. Parallel dazu werden Angebote wie Wanderbücher zu den öffentlichen Verkehrsmitteln entwickelt und es wird an grenzüberschreitenden Klimaticket-Lösungen zwischen Graz, Klagenfurt und Maribor gearbeitet.",
+      "summary": "Die Steiermark modernisiert ihre Verkehrsinfrastruktur, insbesondere am Flughafen Graz-Feldkirchen, und fördert gleichzeitig die Nutzung öffentlicher Verkehrsmittel durch attraktive Angebote wie Wanderungen und grenzüberschreitende Klimatickets zwischen Graz, Klagenfurt und Maribor.",
       "items": [
-        {
-          "title": "Öffentlicher Verkehr: Sammeltaxi Oststeiermark schließt weiterhin Mobilitätslücken - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORGZrWnJxWFVqQllQZkdtWngzOFU2cldid3FhV2R2ZWV4YV9reG1GRS1zX3NNZjFrRFBIeXlxbGFFbmFmdThkRUxLRzdFWXE1NllpRnFMaFY2V3diWnU4Z3F3aWNfTFlwZFZoS1JQeU9JbVJPblJvQTFRZXNjRDhnQ3FpRmlEMTZVbk1Zdk4wMHgzLTZ5UkdPdmNSSUJCcWY1Ym51eGRjSmdlcXNJMzR2TkVGYw?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "28. Aug 2026"
-        },
         {
           "title": "Modernisierung der Verkehrsinfrastruktur am Bahnhof Flughafen Graz-Feldkirchen - Aviation.Direct",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb3hEaDV6TkhKbHRURWVtVUwxQXdrS0syWW1zUGlDeHhBYU9qaFJJSWpwRjhaQk9xZm5RdHBmSnd0ZV94MmVRdUpycWx1cUFfRTdRUjV6VUQ4empNRklSYlpHVGp1c1ZLbXhsZFV4eGdOSGJ6bnp1bUhpZFZ5QmVZa1NVMktBc2lEbUtUcjhqN0E2VEJ6Zk9QNHR6dmpscDBQckFPUg?oc=5",
           "source": "Aviation.Direct",
           "date": "28. Aug 2026"
-        },
-        {
-          "title": "Jetzt neu: der zweite Band unseres Wanderbuches - Verbund Linie",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZWtPakNjWll1Nk1NdndLQWJFbTVqMW5HZHU3dm9DWDdoZ3BvZWVCNl83ZjZyVExweXdOSnJTT19YZzZIeFZtMG9WTm5ySGxDTVlHVWdJQWRaTVZ3RWt2RWRQY3FjYVJzOUdxZkFmWlp6WlZZM01iYTRnWXVoQU9KMlFnNWFqRU4yQjBGZmdaVUhkMjlMcVRtdnZSMkdmN2dCVGtjZzFHbVhxSVhaTnFvRlh5VWxIcnc?oc=5",
-          "source": "Verbund Linie",
-          "date": "24. Aug 2026"
         },
         {
           "title": "Neues Buch: Mit den Öffis die besten Wanderungen in der Steiermark erleben - MeinBezirk.at",
@@ -100,7 +88,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark kämpft mit einer alarmierenden Zunahme tödlicher Motorradunfälle, während gleichzeitig innovative Projekte durch den VCÖ-Mobilitätspreis ausgezeichnet werden, die nachhaltige und sichere Mobilität in der Region vorantreiben. Diese Entwicklungen zeigen sowohl die dringenden Herausforderungen im Verkehrssicherheitsbereich als auch die positiven Ansätze zur Förderung grünerer Mobilitätslösungen in der Steiermark.",
+      "summary": "Die Steiermark kämpft mit einer besorgniserregenden Zunahme tödlicher Motorradunfälle, während gleichzeitig innovative Projekte zeigen, wie nachhaltige und sichere Mobilität in der Region vorangebracht werden kann. Diese Entwicklungen unterstreichen die Notwendigkeit, sowohl präventive Maßnahmen gegen Verkehrsunfälle zu verstärken als auch in grüne Mobilitätslösungen zu investieren.",
       "items": [
         {
           "title": "Heuer bereits 16 tödliche Motorradunfälle - steiermark.ORF.at",
@@ -120,7 +108,7 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark investiert kontinuierlich in die Infrastruktur mit Sanierungsmaßnahmen an Landesstraßen wie der L 441 und B 96 sowie in moderne Energieinfrastruktur durch den Bau eines 22-MW-Photovoltaik-Parks der Energie Steiermark. Parallel dazu entstehen wirtschaftliche Entwicklungsprojekte wie die Expansion von NovaLabs in Graz, die das Bundesland als innovativen und zukunftsorientierten Wirtschaftsstandort positionieren.",
+      "summary": "Die Steiermark investiert in die Instandhaltung ihrer Verkehrsinfrastruktur mit Sanierungsmaßnahmen an der L 441 und B 96, während gleichzeitig bedeutende Fortschritte in der erneuerbaren Energieversorgung durch den Bau eines 22-MW-Photovoltaik-Parks der Energie Steiermark vorangetrieben werden. Die steirische Baukultur steht jedoch vor der Herausforderung, dem Trend der zunehmenden Flächenversiegelung entgegenzuwirken und eine nachhaltigere Stadtentwicklung mit besserer Durchlüftung und Grünflächenerhalt zu fördern.",
       "items": [
         {
           "title": "L 441: Sanierung von drei Brücken und der Fahrbahn - Verwaltung - Land Steiermark",
@@ -141,16 +129,10 @@
           "date": "25. Aug 2026"
         },
         {
-          "title": "B 96: Sanierungsmaßnahmen bis Anfang Dezember - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wNmlVcHdhVEtJMkVLSHFqRFZRVnBvakxIdzMyWW9vREx5QTFCMlBqVkJCRkkzVzR6UnN6SXg2ZXJwUzdNNlYyendWdk91djBRMENhckxHQVVLSlczc2pQWThZSE1veGpxVmR3R1d1NA?oc=5",
-          "source": "Land Steiermark News Portal",
+          "title": "B 96: Sanierungsmaßnahmen bis Anfang Dezember - Land Steiermark - Politik",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3WFBHLUdsRzBvNW9XclNSS0lsS3ZEUWE3OTNjelBSRklCMGhPUGF6VnhWMGRHendsMGVfZVVkSjFfa0RfYnZ6Mk16MkFvVmJiem5ScW5jeVpVRVJ6RGE5amVhUlpXUWJ3WlBhX1p0TzdUMTg?oc=5",
+          "source": "Land Steiermark - Politik",
           "date": "31. Aug 2026"
-        },
-        {
-          "title": "Gefährliches Car-Surfing endet im Krankenhaus - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT24tTTY3WmhwZ0dsSnEtQkRMUDlxUi1tWVZyVWR4UWk0YmVmQVlMUTBxZ3JUdUxta3A1UjJTTzlabmxveVZybE95VGpHMGcyOGdvMlFDYmJXV3ZMWTkxYnFJTVhZYlRpVHFQaW0xM212dUUxSUsxeHVFel9sZFVjSl9FNWUzTDZMVnFUWV9lS3RhdUhGMkZhRENkTGdabHFZUU5jMW9sMmM2UkU4d1U0WlQ1WUFxdkF2Z0E?oc=5",
-          "source": "ORF ON",
-          "date": "24. Aug 2026"
         },
         {
           "title": "Traktorunfall Poppendorf: Frau von rollendem Traktor erfasst, verletzt ins Krankenhaus - MeinBezirk.at",
@@ -159,10 +141,10 @@
           "date": "25. Aug 2026"
         },
         {
-          "title": "Nächste Millionen-Investition: NovaLabs baut in Graz aus - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRXlaVVRiMVk3NmFOWE5Sd3ZmTWY0bnJDazctNjBQeWZ1WlVhcWhZcWxSZTFsMkNLTkthNFhiZEdfa1FOR2k5Y0IzaGlLMnFpUjVkREllY0NrTVVkYTBsUGE4TnhGZlA5cW16T2dyRUV4YXB5dVdjVkNDSmRWLXZ5eDBfYUE2UmpBLTN0NWF5Tnl4TzgxbUZULWdLSHFfcVpvWmFJTQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "24. Aug 2026"
+          "title": "Mehr Versiegelung, weniger Durchzug: Grazer Baukultur benötigt drastisches Umdenken - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMmRTYmFoc1g5cWt4eDVjbXlQNFYwN3E2V2dMa1kxNnBDUEVEVnI2SHczSzk5YVhDTkZ5QU5FakZFQ3VfdWEtWEsyT0FKdHJzLXdhaEcxM0dCaWFUUnJzRkhmLXVveTF4dExyZ3ViNHUwQ2hlSS1RN0Jtb1ZUNUtQZ3ByQnd0Y3IzUVU1a1JtLWUwcEtHN09lajZGOU9EUQ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "25. Aug 2026"
         }
       ]
     },
