@@ -1,12 +1,12 @@
 {
-  "generated": "03. September 2026, 07:23 UTC",
+  "generated": "04. September 2026, 07:25 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die Steiermark diskutiert intensiv über die Einführung einer Lkw-Maut auf Landesstraßen, die laut Studien jährlich bis zu 120 Millionen Euro für Infrastrukturfinanzierung einbringen könnte und von den Grünen sowie Politikern wie Schönleitner befürwortet wird. Parallel dazu zeigen sich in der Praxis Herausforderungen wie Verkehrsunfälle mit Lastwagen, Staus am Bosrucktunnel und laufende Straßensanierungen im Bezirk Liezen, die Verkehrseinschränkungen mit sich bringen.",
+      "summary": "Eine Studie belegt das erhebliche Finanzierungspotenzial einer Lkw-Maut auf steirischen Landesstraßen, die dem Land jährlich bis zu 120 Millionen Euro einbringen könnte und von den Grünen sowie der Landesregierung als sinnvolle Maßnahme zur Verkehrsfinanzierung verteidigt wird. Parallel dazu investiert das Land in konkrete Infrastrukturmaßnahmen wie Lärmschutzanlagen in Feldbach und wird mit Verkehrssicherheitsproblemen wie Unfällen und Verkehrsverstößen konfrontiert.",
       "items": [
         {
           "title": "Studie enthüllt Potenzial: Lkw-Maut könnte Steiermark jährlich 120 Millionen Euro bringen - MeinBezirk.at",
@@ -15,9 +15,21 @@
           "date": "29. Aug 2026"
         },
         {
+          "title": "Sechs betrunkene Biker aus der Steiermark in Kärnten gestoppt - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT0tjZi1PVUs3bXNGcUxHMWptRlo1bUNNVWxjRWNZeUFpZXlWbmJGenFOUVlCU3laR3QzV2xobU92YnV0YjJMVkFhd3RxR1doY1ZoZGlPbjV1VmlPamNsci1HdG85UmF6Q3RCRzZsREZSZUZKRTdLaWUxb1dXRUVicU43MHdNWGFSak9JRnI2bmVHb2pBQkpQMlpOdWFaMFZhN2VOaVE3TWZ2TGI2?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "28. Aug 2026"
+        },
+        {
           "title": "Grüne fordern Lkw-Maut auf Landesstraßen - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjSjUyRVllSEpTeWY0cEg1Z2IzaU9QeUYzV0oxSzRRSmhCVWJMUmZIbnlkRkM3Q3ZDdlpILUV0ZXUzSnVJMFp0R2x5NjVjY25iVU1qSw?oc=5",
           "source": "steiermark.ORF.at",
+          "date": "29. Aug 2026"
+        },
+        {
+          "title": "Nach Schlangenlinien-Fahrt: Sechs Steirern wurde der Führerschein „gezupft“ - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMHFvblFvNFdvbFhnRjd1NzJCQXliRnNveHhyb09qX2JwOGN2cGowM0RkX1FZdGNfRjFhOFY2NkVnSFBQbFZpUm5PUXFGOEkxcTc5aVZQYUZhWmVYbzgyWHZHR1pkSUZyaTVLMUExWWhKWHNYYVlFNHpUeDVQLUVGS183eVF3VDU4N0IxRldVcVlrbnNTeWpkMEVvVzRJVnAzUWhiOFlpQndmT1U?oc=5",
+          "source": "5 Minuten",
           "date": "29. Aug 2026"
         },
         {
@@ -27,22 +39,16 @@
           "date": "3. Sep 2026"
         },
         {
-          "title": "Baustellen im Bezirk Liezen: Diese Straßen werden saniert, Verkehrseinschränkungen drohen - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLW1hcHJCQmlFNXR5eldEMUVBbTFoRjdZb3g1d2JsSWpJUnI1dk9mRFFQQW5taDZzSjF4Q2VaY2JhRWYtNUtnMlprQVptLTl0elVoTThiZTFIY3I3ZVY4ZXp0bnFnSzBlcks3eW9QTnpzd2NMbTY2VC1UX19ocUhsdXNRV0prX1k1Xy1KQ2xSTzBxVnpuRzFYWUNYOUctYUxKSEJrWHRROEE5UTN5LXM4MWxlTQ?oc=5",
+          "title": "Land investiert: 1,4 Millionen Euro für Lärmschutz in Feldbach, so profitieren Anrainer - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSTFLX09YZm5CakZrMVZOQlJ6M3VhTmFxU1N2dVdONXJBVEhjR2prTDdERjlPSTltaHhoVHo4ZjBwVUZtRjBRVm4xeWNrVk80QWdXM054RWE1VEdDMDUwdzJFalNrMUNBRk9GUE5xcUlYNXJxUU1VTWdjelNlNWhwWENBN09heUpUX0ItM0tYQjZ3aHFDX2dHSUNzUXUtTy1uanRMdUNpdzJtZk1QVFNKTDFFb0lSZ20xUjRPZUVra1BpcDd2SGNsdVJnMWlqQQ?oc=5",
           "source": "MeinBezirk.at",
-          "date": "2. Sep 2026"
+          "date": "3. Sep 2026"
         },
         {
           "title": "„Schreckgespenster“: Schönleitner verteidigt Pläne für LKW-Maut - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdGhwaXllWE84Y25IbC1TenNNaXpnem5yZ0lDdHRMZDVUQnpYY0RmTmZJY20tT1FlY0N6M2RJZU5tOWdXQlNndlMzSnltU3R5cTBTWmtaX2tWMDVpR3VIc3c2emp2VTBDWWQzM3ZiQ05NbXpmRThiSHJfb2hnZHFPVkRkVFpCWWxIWVhhTEZFUmxlM0lkN1F3Ui1QSUlUdXRkdTlvYjUwX0s2WHJyLWc?oc=5",
           "source": "5 Minuten",
           "date": "31. Aug 2026"
-        },
-        {
-          "title": "Stau am Bosrucktunnel – aktuelle Verkehrslage der Pyhrn Autobahn A9 im Überblick (29.08.2026) - reisereporter.de",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZzlCZUR2VXU5WUlxWGtpQXhPa1ZWcmZSZ3JyVUg4MmE2NkxycGF2T3g1Zl9Fb0tZdVY0bEEyM18zRjJKeV9PNGVYRm1hME00ZXFHZEY5TU52U3VKZzF6QjNjWlloMUxmYkFPWHlTSFRXR2tHaU9TNFFsVHEzYUJJUlNWUWcyUjEyQ3l5NTNfU1g4X181SmxKTW94Y01VeHlNSExtd1BuOV9RUEpQemJmd0UwYjBWX1E0N0FqeExzZFR3QkZ2cG0weVFVRERsNS1nSEJNbXJxN0xEX1BPNU5uZndzdE1SX2xCVHNYWTBpMDZYbkHSAY8CQVVfeXFMTmM1TzFKUlBKSjlORXFEeHk4Q05YM1RxUEJ3TGI3TGd6NzdVYkZFcGhNTmVaZTdSZTJ4aWt2TXZidkZuN2ltVFcyQXdxVGJoV1pKVkRxWVBieGFxb0hlRlJhdTlORlRnUmVXdDhWQVAyd1M2QjFmRUZ1LWhDTnpiTXJucEdxa3FRbnlTd3FUUUtZbjFlRUtoQnVYUzlUclJGZ3BPMXNqR3NmOUdmMnpmR29rQi1TQ1RkRzYxUjR6RUVuWVptQlhIMVVFSUEwT1U3RWhDdVdTb1lJVlczbUhsWjlhZUFZMFhmTWdSWUtQSk56VFE1cEU5RFMzR3JnVWl3c2FxWHp5R2VKSFE2c3l4VQ?oc=5",
-          "source": "reisereporter.de",
-          "date": "29. Aug 2026"
         },
         {
           "title": "„Kein grünes Hirngespinst“: Unter Verschluss gehaltene Studie erachtet flächendeckende Lkw-Maut als sinnvoll - DiePresse.com",
@@ -56,13 +62,31 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Grünen streben EU-Förderung für ein grenzüberschreitendes Klimaticket zwischen Graz, Klagenfurt und Maribor an, um den öffentlichen Verkehr in der Region zu stärken. Damit sollen klimafreundliche Mobilität gefördert und die Verkehrsverbindungen zwischen der Steiermark und den Nachbarländern verbessert werden.",
+      "summary": "Die Steiermark arbeitet an innovativen Mobilitätslösungen wie autonomen Bussen und wird von der Bevölkerung zu mehr Bahnausbau aufgefordert, um vom Auto auf öffentliche Verkehrsmittel umzusteigen. Allerdings führen aktuelle S-Bahn-Sperrungen zu Beeinträchtigungen für Pendler, während gleichzeitig die Öffis als attraktive Alternative für Freizeit und Mobilität beworben werden.",
       "items": [
         {
-          "title": "Grüne wollen EU-Geld für Klimaticket zwischen Graz, Klagenfurt und Maribor - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFRIQ3JjdVZIeTN1STBjdWNoN2F4VXVYamZQLWlIRUNSYVpkSHlyWHdQcXZkX0pCalVLRjBYSS1CRFFTY0RYaE5tMV9SYy1UM09pajNPYXh0RGZYbjFMZVFzRXVkYnlDWFJjOFhwSXpyeS1lX1RCVjFmTGFHRDZ1dFdUU3NhclQtRGl0MXY2UE1tdDlaNjdkcVBsTHJvSW9wckMwdnk5THo0ODF2Q2NWVm9fVUI0dnU0elJWb0l3?oc=5",
+          "title": "Selbstfahrende Busse: Steiermark noch am Steuer - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmM1NySTZpdHpURU5idG5PbmxoZ2xOYVFNdVRTdVZjTms2V0F6UmRtS0FfSkVzRFJvY21fY2htaXJyVVQ4bkJmanM1al9fb1JlVGpjYQ?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "1. Sep 2026"
+        },
+        {
+          "title": "Bahn statt Auto: Das wünschen sich die Steirer und Steirerinnen - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMG5BODdETEt6cjJ2U09wQnRmSU1fQmJFU2V3Sl93OXQwOExaQU5UdS1KUXI4eU10aFhJWXM0bTQxS0VVSS1BTTVtN2pjUGpMSno3eFNFdzdtTks4cHJmUnBxb2hSU0Z0X0JfRjk1TmlHZXNYMDdGTkJxSEJpZDNOeG5LLW5Odi1ueF9za1BVblhzWFhueVhJM2Fzb1dZajUwb2loeFplSW8tT0ZOd3c?oc=5",
           "source": "5 Minuten",
-          "date": "28. Aug 2026"
+          "date": "31. Aug 2026"
+        },
+        {
+          "title": "Neues Buch: Mit den Öffis die besten Wanderungen in der Steiermark erleben - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ0tnaGMxSUZ1RmRnQUpaWjJYRmNRUDhfeDJJWXlHX0NPcWFmelhDWTJYdWZSR0dfcnF0RjFjRUF2UlF5LTlKSmt6RF9GMm9fbFpjSUQxcHgtTE9MekdjZkhURVh3b2NrbGFlbWRqeXBqMVJHdmxsajI5NUtJUkFYdWlhOHM5NjdEWE9oTG9paDNyT3dXUkJDMDBNWmplOHk5cllib2NrWFpzeFNxOU92OGlEYTI0Vy1waU83cQ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "29. Aug 2026"
+        },
+        {
+          "title": "S-Bahn-Sperre: Pendler müssen mehr Zeit einplanen - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcE1neWZldXpGVTNmVFNCR21BeEZrcXVQdXNZRzRSQ0lEd0ZiYnd5X29Qd1dVa3NBOFpPdXNuYzNhRkpsbWVDcTR4ZmJld3Ztd3Q1VTBwNjB0R1dSVXNCWjVLOTVVYlRUQzFaZzE3azdyMTNiYWVpVFBSSDRvRjlPdjliS0p3ZFNLS3pqcEQxenFoUDJINktwNUpiZUtBUFd6OHE3cjZFbDBEMHpvX1BES1lDam56RUlIR0xlT2tGU3YwZFY3enBmVg?oc=5",
+          "source": "ORF ON",
+          "date": "3. Sep 2026"
         }
       ]
     },
@@ -70,15 +94,29 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Die Steiermark verzeichnete im Sommer eine besorgniserregende Bilanz mit 22 Verkehrstoten und führt damit die österreichische Statistik an. Dies unterstreicht die dringende Notwendigkeit verstärkter Maßnahmen in den Bereichen Verkehrssicherheit, Infrastrukturausbau für sichere Mobilität und Prävention im Straßenverkehr.",
+      "items": [
+        {
+          "title": "22 Verkehrstote im Sommer: Steiermark als trauriger Spitzenreiter - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRG01ckVWdDhsY0NRd1RaZlB1N1J4bmttRDE1ZGhSekJZNmtuWUh3b21tLU1fQ1YwU1lvUnlNbjU2dnpZR2J0cS1WbTAtRUdYSG5BbVVsOHRGTU5ic2h3M093THdiRFE0NUtaSlM1SmdYZFFsazEtN0l5ZEpOZ09zOGMySmhTXzEwSG9ncEtCcDhXY1VCU0lBaURBSlhyRUpRZlkwMGkzZ0Z0QTNNSXFZ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "1. Sep 2026"
+        }
+      ]
     },
     "landeshochbau": {
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Ich kann diese Aufgabe nicht erfüllen, da mir nur ein einzelner Nachrichtentitel vorliegt, der sich zudem auf eine Bundesstraßensanierung bezieht und nicht auf Landeshochbau, Schulbauten oder öffentliche Gebäude im Sinne der Baukultur. Um zwei prägnante Sätze zu verfassen, benötige ich mehrere thematisch relevante Titel zu Hochbauprojekten oder Liegenschaften der Steiermark.",
+      "items": [
+        {
+          "title": "B 96: Sanierungsmaßnahmen bis Anfang Dezember - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1udDExUGI0OG0zUHpuVGdId3J3SXRodmhuODNYRW83SU9aSEI3RVVYQ25UWXdIUXR6aGhLUXQ4ZkZMcnBkejc1cFd5MEVNREd2TkNCRE1iV0FFTl9wUlpTRTZMQm9OWmMwbXozY0YydmJ6Q3ZGWEViWA?oc=5",
+          "source": "Kommunikation - Land Steiermark",
+          "date": "31. Aug 2026"
+        }
+      ]
     },
     "behoerde_uvp": {
       "label": "Verkehrsbehörde & UVP",
