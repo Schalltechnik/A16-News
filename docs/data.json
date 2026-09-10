@@ -1,18 +1,18 @@
 {
-  "generated": "09. September 2026, 07:34 UTC",
+  "generated": "10. September 2026, 07:31 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Das Land Steiermark investiert 1,4 Millionen Euro in Lärmschutzmaßnahmen in Feldbach, um die Lebensqualität der Anrainer zu verbessern. An der A2 wird eine Brücke abgebrochen, was auf notwendige Infrastrukturmaßnahmen im steirischen Straßennetz hindeutet.",
+      "summary": "An der B 75 bei Oberwölz beginnen Bauarbeiten zur Bekämpfung der Murengefahr, während an der A2 ein Brückenabbruch durchgeführt wird. Diese beiden Infrastrukturmaßnahmen sind wichtige Schritte zur Verbesserung der Verkehrssicherheit in der Steiermark.",
       "items": [
         {
-          "title": "Land investiert: 1,4 Millionen Euro für Lärmschutz in Feldbach, so profitieren Anrainer - meinbezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSTFLX09YZm5CakZrMVZOQlJ6M3VhTmFxU1N2dVdONXJBVEhjR2prTDdERjlPSTltaHhoVHo4ZjBwVUZtRjBRVm4xeWNrVk80QWdXM054RWE1VEdDMDUwdzJFalNrMUNBRk9GUE5xcUlYNXJxUU1VTWdjelNlNWhwWENBN09heUpUX0ItM0tYQjZ3aHFDX2dHSUNzUXUtTy1uanRMdUNpdzJtZk1QVFNKTDFFb0lSZ20xUjRPZUVra1BpcDd2SGNsdVJnMWlqQQ?oc=5",
-          "source": "meinbezirk.at",
-          "date": "3. Sep 2026"
+          "title": "Schluss mit Muren-Gefahr: Baustart an der B 75 bei Oberwölz - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ0xNR0w2VGhTVlViWnlSLWRoMjJVZjlYYmlNUTdWNndEM1d4Y1FsWUlhMDNic0NiTlN1dzdOSnhtZk5FT0dZWUhDVXF0ZF9JOFhoSU9VTy1XVlQ1eldRM21TVkVyYWk4NTM1R05QSFUza0dmZUUzVkhaak8ybzQ4WUZva3JTbnl2QnV5YTQtc1dxakYxOUJhYkdwcGg2LWRtS0daaDNlQXo?oc=5",
+          "source": "5 Minuten",
+          "date": "9. Sep 2026"
         },
         {
           "title": "Stmk: Brückenabbruch an der A2 - ÖAMTC",
@@ -26,13 +26,37 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Ich bin bereit, die Nachrichtentitel zusammenzufassen, aber ich sehe in deiner Nachricht nur einen Titel. Bitte stelle mir alle Nachrichtentitel zur Verfügung, damit ich eine aussagekräftige Zusammenfassung in zwei prägnanten Sätzen erstellen kann.",
+      "summary": "Die Steiermark erhält ab September 2024 insgesamt 27 modernisierte ÖBB Cityjet Doppelstockzüge, die eine erhebliche Kapazitätssteigerung für Pendler und Fahrgäste bringen. Parallel dazu wird die Förderung von autofreien Mobilitätsalternativen wie Wandertouren vorangetrieben, um nachhaltige Verkehrslösungen zu unterstützen.",
       "items": [
+        {
+          "title": "ÖBB Cityjet Doppelstockzüge: Kapazitätsoffensive für die Steiermark ab 13. September - presse-oebb.at",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52YXhlcGZ2c0lwVTRsTEk5cnYwNUllRElpcUxRejRHT25lS1d6NTd4dTZWZEtlVHZKNG5LUUdKMVNnTGJpTEhVZUY2N3M2Y1lhVE54a0R5WG5sVnpSUlE?oc=5",
+          "source": "presse-oebb.at",
+          "date": "10. Sep 2026"
+        },
         {
           "title": "Neues Wanderbuch: Zwölf Touren, ganz ohne Auto - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT2J4MXE3QkQzS01ldml1Tm1PcWY4Z3o1TTdqd3pVRFN4aU9wcWE0S3ZjZ2VFQzlDNkJsUTJMdWRWemh0Umkwemxid2hqV0NJclctVTQ1Ukg2VmlRZVk1RGhnUWcyOVdRNTVMdnpJaEVIb3V6eEpqRVN3X3ZNX084UFhuZlJwU1NFRUNhYVhXMnozd2V5bFE?oc=5",
           "source": "Kleine Zeitung",
           "date": "8. Sep 2026"
+        },
+        {
+          "title": "Ab Sonntag auf Schiene - 27 neue „Doppeldecker“ für steirische Pendler - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBrQXNzRnVORXdMemVQTE9rbllESDdLTmFyeEd0dlRlOWw3d3lhUTBlN3ljOHMwbU9MRE1BUVFWdEwxdw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "9. Sep 2026"
+        },
+        {
+          "title": "Für steirische Pendler rollen bald umgebaute ÖBB-Doppelstockzüge - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbWREbThRMm5VQlF3Wm5hT2dwNEZRdlVNSkI5dVVEenp0UEotdkE3bmZyMTZjUUhXWExIQVh5RENkQVRUeDFrM0lESlBtUUJ5MHpwQ2V0US1PbWZvSmVJTU10aDYwSUo3WDE3TUdCTHZKTUVHcW9NbmNka3lDaVBNQ09mbHVCcG5zVENndnpCQnRCWEFiSUZiUVdCeGdrY0ZpNlNRNUR0WjFqVkVPU1NRelpoUQ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "9. Sep 2026"
+        },
+        {
+          "title": "ÖBB bringen 27 modernisierte Doppelstockzüge in die Steiermark - Bahnblogstelle",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaG00VkZ2bHIycDVQWDJpTkVJWk1FOHE3OXdKVHBWMWRoOXhZOUlZZEFjUmR4VXFlcGlYbC1JNG4yRXVaQk9YS0c5SFR3R2VNbWptZFk0TWpQckhMNkhGWWpkcnF2bENaTTZPRmRsQ3A3ZzZXajFhMURGZnczTUQ2SnFaMnFpNUg4MkNQQ3RveDlsajFUUFlUUDVDOUpZc25Q?oc=5",
+          "source": "Bahnblogstelle",
+          "date": "9. Sep 2026"
         }
       ]
     },
@@ -40,8 +64,14 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark setzt verstärkt auf technische Verkehrssicherheitsmaßnahmen wie die bald aktivierte Section-Control auf der A 9 bei Graz, um die Einhaltung von Geschwindigkeitsbegrenzungen zu überwachen. Diese Maßnahme ist Teil eines umfassenden Ansatzes zur Verbesserung der Verkehrssicherheit auf steirischen Straßen.",
+      "summary": "Die Steiermark intensiviert ihre Verkehrssicherheitsmaßnahmen durch die Einführung von Section-Control auf der A 9 bei Graz, während gleichzeitig Radwege als kritische Infrastruktur in den Fokus rücken, wie ein Unfall mit drei Verletzten zeigt. Diese Entwicklungen verdeutlichen den Bedarf für umfassende Sicherheitskonzepte sowohl im motorisierten als auch im Radverkehr.",
       "items": [
+        {
+          "title": "Drei Verletzte nach Kollision auf Radweg - steiermark.orf.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBadGxnV1doRzNMUDg2czJUOVlONk9QNTJHOGgwZENVdDRWTjZabU5GcHFpOXctaGV2dEdhejVIdThJTlo5Z3lzdkRBc1JZN1V0UHJuWA?oc=5",
+          "source": "steiermark.orf.at",
+          "date": "5. Sep 2026"
+        },
         {
           "title": "Section-Control auf der A 9 bei Graz wird bald scharf gestellt - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOWVLRjFabXNjZnZVS2pzamFqMDVUYU1zalNYNzBDQ3RJTy1mMF9uSzUyQzBqTUpsczR2bndFMjJQeGs0TGUzN2RPSnRDT2haVVItdkp5QXA3NUV0c0hScXBoSGh6T0hXSU96dzR0aUdMeTdDVjJwN1J4VUxEX2pQVzRMam9ZNFVRWTBJSjlKVG9uSGVGOGJDRTR3MDNRWUkwWkxhZWhCQ25MZE5u?oc=5",
@@ -54,7 +84,7 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Ich kann diese Aufgabe nicht erfüllen, da der angegebene Nachrichtentitel sich auf einen Verkehrsunfall bezieht und nicht auf Hochbauprojekte, Schulbauten, öffentliche Gebäude, Liegenschaften oder Baukultur in der Steiermark. Der Inhalt fällt daher nicht in mein Fachgebiet als Experte für Landeshochbau und Baukultur.",
+      "summary": "Ich kann diese Aufgabe nicht wie angefordert erfüllen, da der angegebene Nachrichtentitel sich auf einen Verkehrsunfall bezieht und nicht auf Hochbauprojekte, Schulbauten, öffentliche Gebäude, Liegenschaften oder Baukultur in der Steiermark. Der Titel fällt daher nicht in mein Fachgebiet als Experte für Landeshochbau und Baukultur.",
       "items": [
         {
           "title": "Unfall in Kirchbach: Lkw übersieht Motorrad, 22-Jähriger schwer im Krankenhaus - meinbezirk.at",
