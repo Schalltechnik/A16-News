@@ -1,18 +1,18 @@
 {
-  "generated": "10. September 2026, 07:31 UTC",
+  "generated": "11. September 2026, 07:29 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "An der B 75 bei Oberwölz beginnen Bauarbeiten zur Bekämpfung der Murengefahr, während an der A2 ein Brückenabbruch durchgeführt wird. Diese beiden Infrastrukturmaßnahmen sind wichtige Schritte zur Verbesserung der Verkehrssicherheit in der Steiermark.",
+      "summary": "Bei einer Großübung in Rudersdorf trainierten 47 Atemschutzträger den Ernstfall im S7-Tunnel, um ihre Einsatzbereitschaft für Notfallsituationen zu verbessern. An der A2 in der Steiermark wurde eine Brücke abgebrochen, was Teil der laufenden Infrastrukturmaßnahmen zur Instandhaltung und Modernisierung der Straßennetze ist.",
       "items": [
         {
-          "title": "Schluss mit Muren-Gefahr: Baustart an der B 75 bei Oberwölz - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ0xNR0w2VGhTVlViWnlSLWRoMjJVZjlYYmlNUTdWNndEM1d4Y1FsWUlhMDNic0NiTlN1dzdOSnhtZk5FT0dZWUhDVXF0ZF9JOFhoSU9VTy1XVlQ1eldRM21TVkVyYWk4NTM1R05QSFUza0dmZUUzVkhaak8ybzQ4WUZva3JTbnl2QnV5YTQtc1dxakYxOUJhYkdwcGg2LWRtS0daaDNlQXo?oc=5",
-          "source": "5 Minuten",
-          "date": "9. Sep 2026"
+          "title": "S7-Tunnel-Übung: 47 Atemschutzträger probten den Ernstfall in Rudersdorf - meinbezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0tJSklkTGVDc3htbGkydjNTTmV5Z3p2Q2dOTGFEd1NHTWZFYkl6cHBtNElBczUyM3NQRTJkUGdpSlBIUm1UdmR0bGZHWDFFQ2JJZEFuOUQtZHhVVzFOY1RrblZ3M3k3bF9qNjI0SkNMeHNTZ3lfSWlmZTdad05FdFNwWnZKd3dBczNPdjh5TVZDZVJmcG44VTJaN2ZQNm5tLUVfbl9abGszUE5WZXJBdFl0dw?oc=5",
+          "source": "meinbezirk.at",
+          "date": "10. Sep 2026"
         },
         {
           "title": "Stmk: Brückenabbruch an der A2 - ÖAMTC",
@@ -26,8 +26,14 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Steiermark erhält ab September 2024 insgesamt 27 modernisierte ÖBB Cityjet Doppelstockzüge, die eine erhebliche Kapazitätssteigerung für Pendler und Fahrgäste bringen. Parallel dazu wird die Förderung von autofreien Mobilitätsalternativen wie Wandertouren vorangetrieben, um nachhaltige Verkehrslösungen zu unterstützen.",
+      "summary": "Die ÖBB führen ab 13. September 27 modernisierte Doppelstockzüge in der Steiermark ein, um die Kapazität im Pendlerverkehr deutlich zu erhöhen. Mit dieser Infrastruktur-Offensive sollen mehr Fahrgäste komfortabel befördert und die Attraktivität des öffentlichen Verkehrs gesteigert werden.",
       "items": [
+        {
+          "title": "ÖBB präsentierten Doppelstockzüge - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oN2pIbGtaVTVqQ2hzZHFQd0Z2ZlVHMERUQl8yNy1VT1g1VEhsdk44N1N6OVBKMWkxalZrM0l5b2IzRElYNkJ2YldoZ0pOLXREZ3JaeA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "9. Sep 2026"
+        },
         {
           "title": "ÖBB Cityjet Doppelstockzüge: Kapazitätsoffensive für die Steiermark ab 13. September - presse-oebb.at",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52YXhlcGZ2c0lwVTRsTEk5cnYwNUllRElpcUxRejRHT25lS1d6NTd4dTZWZEtlVHZKNG5LUUdKMVNnTGJpTEhVZUY2N3M2Y1lhVE54a0R5WG5sVnpSUlE?oc=5",
@@ -64,12 +70,18 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark intensiviert ihre Verkehrssicherheitsmaßnahmen durch die Einführung von Section-Control auf der A 9 bei Graz, während gleichzeitig Radwege als kritische Infrastruktur in den Fokus rücken, wie ein Unfall mit drei Verletzten zeigt. Diese Entwicklungen verdeutlichen den Bedarf für umfassende Sicherheitskonzepte sowohl im motorisierten als auch im Radverkehr.",
+      "summary": "Die Steiermark setzt mit dem autofreien Tag 2026 in Graz ein Zeichen für nachhaltige Mobilität, während gleichzeitig Verkehrssicherheitsmaßnahmen wie die Section-Control auf der A 9 und die Verbesserung der Radwegsicherheit nach einem Kollisionsunfall in den Fokus rücken. Diese Entwicklungen zeigen das Spannungsfeld zwischen der Förderung umweltfreundlicher Verkehrsformen und der notwendigen Überwachung sowie Prävention von Verkehrsunfällen im steirischen Mobilitätssystem.",
       "items": [
         {
-          "title": "Drei Verletzte nach Kollision auf Radweg - steiermark.orf.at",
+          "title": "Autofreier Tag 2026 in Graz: „Tunnel aus, Graz an!“ - graz.net",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85MWhxeTltUEhYeVh6VUgyeWxsWGt4ZnFHTUt4cjhiN3l4UndUM0VYcm8tNDVDYVNPX21KRjlubGdTaWUzcEZjRnBFT3pPUnFoYktCZ3Y0U1gyQQ?oc=5",
+          "source": "graz.net",
+          "date": "10. Sep 2026"
+        },
+        {
+          "title": "Drei Verletzte nach Kollision auf Radweg - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBadGxnV1doRzNMUDg2czJUOVlONk9QNTJHOGgwZENVdDRWTjZabU5GcHFpOXctaGV2dEdhejVIdThJTlo5Z3lzdkRBc1JZN1V0UHJuWA?oc=5",
-          "source": "steiermark.orf.at",
+          "source": "steiermark.ORF.at",
           "date": "5. Sep 2026"
         },
         {
@@ -84,13 +96,25 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Ich kann diese Aufgabe nicht wie angefordert erfüllen, da der angegebene Nachrichtentitel sich auf einen Verkehrsunfall bezieht und nicht auf Hochbauprojekte, Schulbauten, öffentliche Gebäude, Liegenschaften oder Baukultur in der Steiermark. Der Titel fällt daher nicht in mein Fachgebiet als Experte für Landeshochbau und Baukultur.",
+      "summary": "Das Land Steiermark setzt rechtliche Schritte gegen Baukartell-Betrügereien durch und fordert Millionenbeträge zurück, während gleichzeitig personelle Veränderungen in der Landesrätin-Abteilung stattfinden. Die Meldung über Grazer Ärzte ist nicht relevant für Hochbau und Baukultur in der Steiermark.",
       "items": [
         {
-          "title": "Unfall in Kirchbach: Lkw übersieht Motorrad, 22-Jähriger schwer im Krankenhaus - meinbezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNUhiMmRiZ0l6VlBIZDhXdGxLN2ZaLXlrZVNweXJUb19zQ3BadVdzWERpS2FrQjltckpRS19uWDluOG55UDd4UFBoOUY1UVFZZWNBVWJYRk42U1U3RllmTnVVZDZQX2NBUDFMX1RmYVNfNjNqMm5BZGlwSjJON1dzRTB5U00yUnpDVTlqTFdUMldjMVBuWDZsVEk1XzdGaHhfVWhZdUtNZTdYb2ZEZWhKUVhiSlQzenZIRTcwWWRR?oc=5",
-          "source": "meinbezirk.at",
-          "date": "5. Sep 2026"
+          "title": "Baukartell-Betrug: Land Steiermark holt sich jetzt Millionen zurück - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQWkwcUJ1UFotc1dGOTFQWnJXNG9JZHJyN3RGRHFTWkNpRGtMXzZVU3loTmliQWFrRzJWSExyYjhsTV8ybHU4Sk1NZVRnUjJOTXpwTThYdkVyQmlTYnN5RF9hQlJSN0NnZHN5QXZHZG1jTUZXLUx5NlRaWDhhTEFZR2lNNXhVdXdaa2JjQUhsY2o2bWxxRElkTHFpMTZOS3BiWWlvZUZvYU4wZnpSenBHMjI2VQ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "10. Sep 2026"
+        },
+        {
+          "title": "Mit 1. Oktober: Neue Leitung im Büro von Landesrätin Holzer - 5min.at",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY3Rndzg4NlFkSGdaSzhTXzZ3TmtKeGY5S0ZBWnd3YUZmdnpEem44OWw4emNjeDBKbjUzdTFBM1ZxNnpDNGdIQi1CTDVoMEdnZzV1cE03bXNHOU5yUmR3QTdBb2h3cWt3LWpVUExWSi1QWDFjdUE1TU02SUpCemZFcVZSQWdYNE0zY25aalhCLUVSeXA0S1VIWjh0Zy0zOEZYMndaRHFKMzc?oc=5",
+          "source": "5min.at",
+          "date": "10. Sep 2026"
+        },
+        {
+          "title": "„Keine Dauerlösung“: Graz springt ein, da Kärntner Ärzte kündigten - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcC1DdVVZdVd0S0JIY0k3VE9qMVNDQnczekU0c3FSREwxaWFEWGs3V2xFM0NyMW14ZUJQUi1PYTF4bXdlVHlxY0Q1TE85X2t2cWNXYkFTRjhhRTBQVW4yQlc3Y3ZwM0hRbXB1NExxVUJwYXdKbTZfVzN1bGJXZnJKZ1hJc3ZFS0NkTHhjUnBtOVJETmctejhkX3NnUkUxY2JUcWlwS0ZfMU1DSVJDVGQtMzJB?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "10. Sep 2026"
         }
       ]
     },
@@ -98,8 +122,15 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Im Regierungsbüro von Landesrat Holzer und im Referat Verkehrsbehörde der Steiermark hat ein Leitungswechsel stattgefunden. Diese personelle Veränderung betrifft die administrative Führungsstruktur in den für Verkehrsangelegenheiten zuständigen Behördeneinheiten des Landes.",
+      "items": [
+        {
+          "title": "Neue Leitung im Regierungsbüro von LR Holzer und im Referat Verkehrsbehörde - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBORlZRX1lETWlVc0p1VEl6aUVITy1DWnNTcEZkYlNrY2ZfX0ZTUUNwWTRhWU5GMVU2c0IwcHlzeWEzckVlWWlQR29xUmZ6ZzJ1SFN5WHlxb0o3VVVlMWl2dG9uamJwM2QtVXRVR05mNA?oc=5",
+          "source": "Land Steiermark News Portal",
+          "date": "10. Sep 2026"
+        }
+      ]
     }
   }
 }
