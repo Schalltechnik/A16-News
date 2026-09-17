@@ -1,12 +1,12 @@
 {
-  "generated": "16. September 2026, 07:55 UTC",
+  "generated": "17. September 2026, 07:59 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die Straßeninfrastruktur in der Steiermark wird durch mehrere bedeutende Projekte geprägt, darunter die Verkehrsfreigabe der B 146 beim Gesäuseeingang, Sanierungsarbeiten an der A9 zwischen Graz-Webling und Schwarzlsee sowie neue Baustellen im Grazer Stadtgebiet. Darüber hinaus werden Sicherheitsmaßnahmen wie Tunnelübungen im S7-Tunnel intensiviert und die grenzüberschreitende Zusammenarbeit zwischen der Steiermark und Kärnten vorangetrieben.",
+      "summary": "Die Straßeninfrastruktur in der Steiermark wird durch mehrere Großprojekte geprägt, darunter die Verkehrsfreigabe der B 146 beim Gesäuseeingang, Sanierungsarbeiten an der A9 zwischen Graz-Webling und Schwarzlsee sowie neue Baustellen im Grazer Stadtgebiet. Darüber hinaus werden Sicherheitsmaßnahmen wie Notfallübungen im S7-Tunnel intensiviert, während die grenzüberschreitende Zusammenarbeit zwischen Steiermark und Kärnten gestärkt wird.",
       "items": [
         {
           "title": "B 146: Verkehrsfreigabe beim Gesäuseeingang - Kommunikation - Land Steiermark",
@@ -15,15 +15,15 @@
           "date": "11. Sep 2026"
         },
         {
-          "title": "4. Steiermark-Kärnten-Konferenz setzt wichtige Schritte für gemeinsamen Zukunftsraum - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4ydlhOV29YN0NLUHdQbFNEa0NCUHNuZkFLc0JKUkZHZ3RDSjBKQ29oLWlpZkQzVGRkQXNqMDBELTJHZ0p2VUFVOC03T1BTVUgtbUtTemlTX2xMUHFnMUFUckc0Vm1NYzA0cmlGS3QxOA?oc=5",
-          "source": "Land Steiermark News Portal",
+          "title": "4. Steiermark-Kärnten-Konferenz setzt wichtige Schritte für gemeinsamen Zukunftsraum - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VNTFfNWE5YUdxZHZqLUI0V2o4ektlakdlblVHcmVRM2JQVUJobTNJNGZ6VnUtQUpHekY3UkhkbkNaMFVjQ2Q0Rjh6Yld0YTJ2TzNFTUk0Qm9MaFpLTlp1ZlAzNU03eHltZEhhVFNla3ZDR04wZGVnUw?oc=5",
+          "source": "Kommunikation - Land Steiermark",
           "date": "15. Sep 2026"
         },
         {
-          "title": "Diese neuen Straßenbaustellen kommen in Graz auf Sie zu - Kleine Zeitung",
+          "title": "Diese neuen Straßenbaustellen kommen in Graz auf Sie zu - kleinezeitung.at",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQmwwZFdGZWxYUThNcUo4YzZUeHdkQ1dic05BS3NvMHR2d3FjbGpadm0yZlBYX09tQzd3NS1lcElGZ0V5dnZUQ1ZkRS1XbU9qSlREWE9rbXg5VDUzVDZrTEF4Njd1ZF9FRnZiWDZXb0hVQnBrbHhKMjE2a3FIVDB2RFNNZVFGSmlvaWU4Y0pVOC0yZ3ExbE9lYVZSTE5zSDNFS0FBTA?oc=5",
-          "source": "Kleine Zeitung",
+          "source": "kleinezeitung.at",
           "date": "14. Sep 2026"
         },
         {
@@ -33,9 +33,9 @@
           "date": "10. Sep 2026"
         },
         {
-          "title": "A9: Sanierung zwischen Graz-Webling und Schwarzlsee - oeamtc.at",
+          "title": "A9: Sanierung zwischen Graz-Webling und Schwarzlsee - ÖAMTC",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd2t3cTgyblJBWExsZVlYVVFIYS1ST0FVUzVGd1JNZHdDdWJxbVA1S0k4MmhFUDRoRDNzeFNmYXJsNElLaV8xYk0ydVZhSm5KbWVwR0Z4Tk5oNFl0LTluOW1hSDZkdWVWRVJXTFFBcF85RDEyRXk5a1ZtbzdudThubVh6dURCZkRIM1hidC16M1paYnNoMm5kdHZOSDNoQQ?oc=5",
-          "source": "oeamtc.at",
+          "source": "ÖAMTC",
           "date": "11. Sep 2026"
         },
         {
@@ -50,7 +50,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Steiermark setzt verstärkt auf umweltfreundliche Mobilität und erweitert sein öffentliches Verkehrsnetz mit modernen Lösungen. Ab September 2024 werden neue ÖBB Cityjet Doppelstockzüge im Einsatz gehen, die die Kapazität für steirische Pendler erheblich erhöhen.",
+      "summary": "Die Steiermark setzt auf eine Mobilität für alle durch umweltfreundliche Verkehrslösungen, wobei die ÖBB ab September mit modernen Doppelstockzügen die Kapazitäten erheblich erhöht. Die Koralmbahn als Schlüsselprojekt braucht jedoch noch ein attraktives Ticketangebot wie das geforderte „Klimaticket Süd\", um ihr volles Potenzial für Pendler und Klimaschutz zu entfalten.",
       "items": [
         {
           "title": "Mobilität für alle: So wird umweltfreundlicher Verkehr in der Steiermark gelebt - MeinBezirk.at",
@@ -59,22 +59,22 @@
           "date": "14. Sep 2026"
         },
         {
-          "title": "ÖBB präsentierten Doppelstockzüge - steiermark.orf.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oN2pIbGtaVTVqQ2hzZHFQd0Z2ZlVHMERUQl8yNy1VT1g1VEhsdk44N1N6OVBKMWkxalZrM0l5b2IzRElYNkJ2YldoZ0pOLXREZ3JaeA?oc=5",
-          "source": "steiermark.orf.at",
-          "date": "9. Sep 2026"
-        },
-        {
           "title": "ÖBB Cityjet Doppelstockzüge: Kapazitätsoffensive für die Steiermark ab 13. September - presse-oebb.at",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPU3ZzMWNkSnFRb1dUM05Pb25xNW1vemxSSnFtWHR0NklfX2twaXlIRTdWYkdsZ29fTnA3c3RBOS1MVXpiUl9KWkZTRDQ4bjBROFVTdjctN0FOdDZvNWVsNW5kY2xaelhfaVVEcHprZVlKQXRXc3FhaldKalB3UkVpd3FlVUVPNHVVOWx6dVRoVllHRzh5UU8zSkdWejNjaEpCRUx5YTdXaFVqTU4xQmFTNXh4Qm9vMUxfUGJoZzc5Vm1fdmdPcVBUZ2Q3c3NqV0pSaklJOU41OWhUR2RlcGZrOGJB?oc=5",
           "source": "presse-oebb.at",
           "date": "11. Sep 2026"
         },
         {
-          "title": "Für steirische Pendler rollen bald umgebaute ÖBB-Doppelstockzüge - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbWREbThRMm5VQlF3Wm5hT2dwNEZRdlVNSkI5dVVEenp0UEotdkE3bmZyMTZjUUhXWExIQVh5RENkQVRUeDFrM0lESlBtUUJ5MHpwQ2V0US1PbWZvSmVJTU10aDYwSUo3WDE3TUdCTHZKTUVHcW9NbmNka3lDaVBNQ09mbHVCcG5zVENndnpCQnRCWEFiSUZiUVdCeGdrY0ZpNlNRNUR0WjFqVkVPU1NRelpoUQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "9. Sep 2026"
+          "title": "Koralmbahn wirkt – jetzt fehlt nur noch das richtige Ticket - Klipp Magazin",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNTVIXzB1UmVLMGxtWktMMUNmUFJTU0ZKMHRkczB1LUFFdnJ6ei1kanlmNDlHOERGQnpwRGRTcGNFdDB2UlJQVzZVU2hmZ0FFNFhaRHdDTWRaRE9rcXRZQ2N3ZGhXeEtZa1ViWVJNWGVpaUxBQ2hVdjJ4X0YwOUdGUGVmOG5LS2NqYmdvYm01RFA4NkdhclJGMVFBUVZTbThyakxqb2VQTQ?oc=5",
+          "source": "Klipp Magazin",
+          "date": "16. Sep 2026"
+        },
+        {
+          "title": "Offensive Forderung der Pendlerinitiative: Koralmbahn wirkt – jetzt muss das „Klimaticket Süd“ kommen! - OTS.at",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQU1BycmFNTHY0NW41Rk9neG95ZklKTUMzRDBtR3BFVlNuVGFsMHRIbTBfX3gwQnhFa1VPNGRUeWM1TWhGRDFWZEJ6TTNwaFVDX0V6TzBEUEVKYWlBdFFjMXZSWFBCeEtqN2NnSE52N19NSEd1MnJJZEtHNmZ5MTFuM21jN0VIMUVkblpaYzEwakhGR2dLZk40RmpYSTBuX3Q0WU8xYmF3ODN5Tm43UTdfbndPOUlScW45Ylhib2M3MGpqWVdXd29LUzQwTEFSd2ZtWFVfamxHRHh0ZXhGRHJEbVh4Vk1fVlZvbWc?oc=5",
+          "source": "OTS.at",
+          "date": "16. Sep 2026"
         }
       ]
     },
@@ -82,8 +82,14 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark setzt verstärkt auf umweltfreundliche Mobilitätslösungen, um allen Bürgern nachhaltige Verkehrsalternativen zu bieten. Durch den Ausbau von Radwegen, Fußverkehrsinfrastruktur und öffentlichen Verkehrsmitteln wird eine sichere und inklusive Mobilität für die gesamte Bevölkerung angestrebt.",
+      "summary": "Die Steiermark setzt verstärkt auf nachhaltige Mobilität und plant für 2026 einen autofreien Tag in Graz unter dem Motto „Tunnel aus, Graz an!\", um Bewusstsein für umweltfreundliche Verkehrsalternativen zu schaffen. Durch konkrete Maßnahmen zur Förderung von Fuß- und Radverkehr sowie öffentlichen Verkehrsmitteln wird Mobilität für alle Bevölkerungsgruppen in der Steiermark gelebt und damit die Verkehrssicherheit sowie Lebensqualität erhöht.",
       "items": [
+        {
+          "title": "Autofreier Tag 2026 in Graz: „Tunnel aus, Graz an!“ - graz.net",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85MWhxeTltUEhYeVh6VUgyeWxsWGt4ZnFHTUt4cjhiN3l4UndUM0VYcm8tNDVDYVNPX21KRjlubGdTaWUzcEZjRnBFT3pPUnFoYktCZ3Y0U1gyQQ?oc=5",
+          "source": "graz.net",
+          "date": "10. Sep 2026"
+        },
         {
           "title": "Mobilität für alle: So wird umweltfreundlicher Verkehr in der Steiermark gelebt - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU19VV1JDZkowY05FUmJGXzU5MWdiMTByQ25XUVd0MDRRbU0xSXRWMWF5MFFMWWdaV0tTZlZfMUNBMTdMZjJHWmZma2hzcE5VYy1MOUV2WlNCbF9rbjhXbHpHOVA5d2otTmNDd3YxN0l4ZHRoTUFKZzY0Y1NCYmpFTzN6NzctSDktNTVPZWw5ZWU0M0FHajI1VWNEd0pWX0NvR29DMWFzbnlKVy0yb3lNNk5OUXdEQQ?oc=5",
@@ -96,12 +102,12 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark setzt rechtliche Konsequenzen gegen Baukartell-Betrügereien durch und fordert Millionen zurück, während gleichzeitig wichtige Infrastrukturprojekte wie die B 146 beim Gesäuseeingang für den Verkehr freigegeben werden. Im Zuge dieser Entwicklungen erfolgen personelle Umstrukturierungen in der Landesregierung, insbesondere in den Büros der zuständigen Landesrätin Holzer und in der Verkehrsbehörde.",
+      "summary": "Das Land Steiermark setzt rechtliche Schritte gegen Baukartell-Betrügereien durch und fordert Millionen zurück, während gleichzeitig wichtige Infrastrukturprojekte wie die Verkehrsfreigabe der B 146 beim Gesäuseeingang vorangetrieben werden. In der Landesadministration erfolgen personelle Wechsel in Führungspositionen, um die Baukultur und Hochbauvorhaben effizient zu gestalten.",
       "items": [
         {
-          "title": "Baukartell-Betrug: Land Steiermark holt sich jetzt Millionen zurück - Kleine Zeitung",
+          "title": "Baukartell-Betrug: Land Steiermark holt sich jetzt Millionen zurück - kleinezeitung.at",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQWkwcUJ1UFotc1dGOTFQWnJXNG9JZHJyN3RGRHFTWkNpRGtMXzZVU3loTmliQWFrRzJWSExyYjhsTV8ybHU4Sk1NZVRnUjJOTXpwTThYdkVyQmlTYnN5RF9hQlJSN0NnZHN5QXZHZG1jTUZXLUx5NlRaWDhhTEFZR2lNNXhVdXdaa2JjQUhsY2o2bWxxRElkTHFpMTZOS3BiWWlvZUZvYU4wZnpSenBHMjI2VQ?oc=5",
-          "source": "Kleine Zeitung",
+          "source": "kleinezeitung.at",
           "date": "10. Sep 2026"
         },
         {
@@ -115,12 +121,6 @@
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY3Rndzg4NlFkSGdaSzhTXzZ3TmtKeGY5S0ZBWnd3YUZmdnpEem44OWw4emNjeDBKbjUzdTFBM1ZxNnpDNGdIQi1CTDVoMEdnZzV1cE03bXNHOU5yUmR3QTdBb2h3cWt3LWpVUExWSi1QWDFjdUE1TU02SUpCemZFcVZSQWdYNE0zY25aalhCLUVSeXA0S1VIWjh0Zy0zOEZYMndaRHFKMzc?oc=5",
           "source": "5 Minuten",
           "date": "10. Sep 2026"
-        },
-        {
-          "title": "Neue Leitung im Regierungsbüro von LR Holzer und im Referat Verkehrsbehörde - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBORlZRX1lETWlVc0p1VEl6aUVITy1DWnNTcEZkYlNrY2ZfX0ZTUUNwWTRhWU5GMVU2c0IwcHlzeWEzckVlWWlQR29xUmZ6ZzJ1SFN5WHlxb0o3VVVlMWl2dG9uamJwM2QtVXRVR05mNA?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "10. Sep 2026"
         }
       ]
     },
@@ -128,13 +128,19 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Im steirischen Verkehrsbereich gibt es personelle Veränderungen in der Leitung des Regierungsbüros von Landesrat Holzer sowie im Referat Verkehrsbehörde. Diese Umstrukturierungen betreffen die administrative Führungsebene der zuständigen Behördenorgane für Verkehrsgenehmigungen und verwaltungsrechtliche Verfahren.",
+      "summary": "An der Bezirkshauptmannschaft Bruck-Mürzzuschlag und in der steirischen Verkehrsbehörde haben Führungswechsel stattgefunden, die eine Neubesetzung von Leitungspositionen mit sich brachten. Diese Personalveränderungen betreffen sowohl das Regierungsbüro des Landesrats Holzer als auch das Referat Verkehrsbehörde in der Steiermark.",
       "items": [
         {
-          "title": "Neue Leitung im Regierungsbüro von LR Holzer und im Referat Verkehrsbehörde - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBORlZRX1lETWlVc0p1VEl6aUVITy1DWnNTcEZkYlNrY2ZfX0ZTUUNwWTRhWU5GMVU2c0IwcHlzeWEzckVlWWlQR29xUmZ6ZzJ1SFN5WHlxb0o3VVVlMWl2dG9uamJwM2QtVXRVR05mNA?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "10. Sep 2026"
+          "title": "Führungswechsel an der BH Bruck-Mürzzuschlag - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuTzdBTUJYYzNqSlhmZjVGTGk5bXFqbnhUanY3dXdQRms1UHhQbFktSFJhelFSdHJCLWdIUmxnbGtGR29TVlJNaVlIRE4zV3pQY05VLWxfMGlEaDVYRjZfcGlMaFdYWFBCd3RIdC1Kal85TUhseXd5Tg?oc=5",
+          "source": "Kommunikation - Land Steiermark",
+          "date": "16. Sep 2026"
+        },
+        {
+          "title": "Steiermark: Neue Leitung im Regierungsbüro von LR Holzer und im Referat Verkehrsbehörde - Regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTFRxemVSbGtpSDhQNlYtbV9QeEQxZ21DUWQ4cjNQRG9jQXV0YzF2YkoyWmdwWWlCNWZjQTZvNnVYX3J4U2gxcm82aTlYZW9nSWxlWmhVWVJPdHJFTFlvTVVMMWF4Wk9weWJxMlNTcTMyMkdlWG85elJ2clBOWm5BRklOWGFnXzNUT1J2QkM4NVpvVUR4U09ZMDVoZ2R4dFJNRm5lNjZiZUdlZ0lnSUpWdzJpdTRaSTF2OFBQONIBwAFBVV95cUxQYUs1T2J2NzE0aWxDcm42VWFhY2s1c0s2c2RsNlVqNmZlUzh5MWFrUVdfcmROeC1JWVVuYU5kZ2lJUjI4WnItcmJBbUJ3U2F6UDNWTm1JVm83VktKajh1dWVKeFlyN3V2cnRidU5jczlCQmtJUGJ2WWhnSzZKN1RvS3BhUURqQ180ajJNOXlESXNkdXJxWEE0aWxsZEY5U3ZLRjlsR3hfWDAtcWZOWWF6UFF0STB3b09zRTdtajBrSmg?oc=5",
+          "source": "Regionews.at",
+          "date": "11. Sep 2026"
         }
       ]
     }
