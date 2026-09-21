@@ -1,25 +1,13 @@
 {
-  "generated": "20. September 2026, 07:55 UTC",
+  "generated": "21. September 2026, 08:13 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "In der Steiermark finden derzeit umfangreiche Straßenerhaltungsmaßnahmen statt, darunter Nachtsperren auf der S6 zwischen Bruck/Mur und Leoben sowie Wartungsarbeiten in den Tunneln der A9 (Bosrucktunnel und Plabutschtunnel), während gleichzeitig neue Baustellen in Graz entstehen. Die grenzüberschreitende Zusammenarbeit zwischen Steiermark und Kärnten soll die Infrastrukturentwicklung in der Region vorantreiben.",
+      "summary": "Die S6 zwischen Bruck/Mur und Leoben ist aufgrund von Nachtsperrungen eingeschränkt, während im Bosrucktunnel der A9 Arbeiten durchgeführt werden. Diese Infrastrukturmaßnahmen führen zu Beeinträchtigungen im Verkehrsfluss der betroffenen Streckenabschnitte.",
       "items": [
-        {
-          "title": "4. Steiermark-Kärnten-Konferenz setzt wichtige Schritte für gemeinsamen Zukunftsraum - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VNTFfNWE5YUdxZHZqLUI0V2o4ektlakdlblVHcmVRM2JQVUJobTNJNGZ6VnUtQUpHekY3UkhkbkNaMFVjQ2Q0Rjh6Yld0YTJ2TzNFTUk0Qm9MaFpLTlp1ZlAzNU03eHltZEhhVFNla3ZDR04wZGVnUw?oc=5",
-          "source": "Kommunikation - Land Steiermark",
-          "date": "15. Sep 2026"
-        },
-        {
-          "title": "Diese neuen Straßenbaustellen kommen in Graz auf Sie zu - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQmwwZFdGZWxYUThNcUo4YzZUeHdkQ1dic05BS3NvMHR2d3FjbGpadm0yZlBYX09tQzd3NS1lcElGZ0V5dnZUQ1ZkRS1XbU9qSlREWE9rbXg5VDUzVDZrTEF4Njd1ZF9FRnZiWDZXb0hVQnBrbHhKMjE2a3FIVDB2RFNNZVFGSmlvaWU4Y0pVOC0yZ3ExbE9lYVZSTE5zSDNFS0FBTA?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "14. Sep 2026"
-        },
         {
           "title": "Themenschwerpunkt Lehre: Brucker holt zweiten Platz bei Lehrlingswettbewerb - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd203R3RDczdRQTRQTnlhWlRVYV96UUdMdkUyYVR3ZTl0RTNKM21mNU5Id1lrNHdvdGRScDBReURNeV80OUJoSV9MbmZZZWlldFNjSnJWRGhDTDNsMFJWZkFYdUUxZGF4SlZMZGtEaTctMEFVV09vb3JQZU9xUnRqbHNVMGRVR2dia3o4NkZDNzc2Z213YmlvNmpaeXctUlY0aGE3NHh3MUxkS3pwNWM4VW5SZm41alc2UGRrWGFR?oc=5",
@@ -35,12 +23,6 @@
         {
           "title": "A9: Arbeiten im Bosrucktunnel - ÖAMTC",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNWZlQjJ5bEJVU2VBem9wQUlJWW1Ya2JhbUFZREhEcUxqUnFhSWoyeXNSeG5xdktqaUdleUF0VUVpY3k0OG5UQjVaSldENXRNeEZHOTI4aDdxY21xOE9HaW4wN3h4dS1fVnFmdmR4VUktSUlCRHdDbV9CTUZ3cFV2Wg?oc=5",
-          "source": "ÖAMTC",
-          "date": "18. Sep 2026"
-        },
-        {
-          "title": "A9: Wartungsarbeiten im Plabutschtunnel - ÖAMTC",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUDFaVV93RTJpeXNEN0lPOVFhVDBpUG9Ra3JOZE9lZjRycnFzUERFa0Jzc1JPeTdVVFc1a0ZZbkl0UWw5V1hfRFlYWHJrcnY3bDFYVWdhQWdUdmpzNUYtaU1weDlwUW9JSVp4X2VTVzl1WXo3ZTJTQnFMOUtnd04tSjJ6QXoxLVEtOHQ3ZGRR?oc=5",
           "source": "ÖAMTC",
           "date": "18. Sep 2026"
         },
@@ -62,7 +44,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Steiermark setzt verstärkt auf umweltfreundliche öffentliche Mobilität mit attraktiven Ticketangeboten wie dem 15-Euro-Freizeit-Ticket und arbeitet am Ausbau von Buslinien und S-Bahn-Infrastruktur. Allerdings verzögert sich die Einführung eines Klimatickets für die Koralmbahn, während die Region insgesamt ihre Öffi-Nutzung intensiviert.",
+      "summary": "Die Steiermark setzt verstärkt auf umweltfreundliche Mobilität und attraktive Ticketangebote wie das neue Freizeit-Ticket um 15 Euro für die Aufsteirern 2026, um mehr Menschen zum öffentlichen Verkehr zu bewegen. Allerdings verzögert sich die Einführung des Klimatickets für die neu eröffnete Koralmbahn, während Kärnten und Steiermark eine verstärkte Kooperation im Verkehrsbereich anstreben.",
       "items": [
         {
           "title": "Mobilität für alle: So wird umweltfreundlicher Verkehr in der Steiermark gelebt - MeinBezirk.at",
@@ -71,33 +53,27 @@
           "date": "14. Sep 2026"
         },
         {
-          "title": "Graz: Ausbau für Linie 1 - ÖAMTC",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXMTdOdUphcHJyUEZDT0NlNkRpX2oyOUllRkZIajJQN1RreDdlZFdfYlhHUjctQWN0bDktQWtZRXRXTlYyblNQRlBfUDVERV9lZExQQmpIb09rX1AwQnpRbUQ4a0J4dkhSc0ZJZ09Gd1lNcEo1bTRzOHdUcw?oc=5",
-          "source": "ÖAMTC",
-          "date": "16. Sep 2026"
-        },
-        {
           "title": "Aufsteirern 2026: Mit Freizeit-Ticket um 15 Euro anreisen - austria.com",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY0dSVjZuX09DTFloNm9xUFhYM3NVYjhQbkVpdWg0YmlvblZiVXJ3T05VY2FxMTJ1UjlOLXJiUmZ0UmdyV2ZPREhYbVhpZHJCVHlxXzNjaUhQWkJ6Ymk0NnlMUTNPVEktTmRCTXp3T2FkNTRVa2dJNU1qTWo1ZFdjbkZja0k5Q1B2STJmNmxlYUh0QjVjVURIcHln?oc=5",
           "source": "austria.com",
           "date": "18. Sep 2026"
         },
         {
-          "title": "„Bitte einsteigen“: Mit den Öffis durch die Südsteiermark - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZjlyaFNUWTBZU2lsdUYxaHpYUzAyWjc5X1FkWWVmaG9DcE1JRlpyblQ4QjczWERVUWJrdndPdy1wbi1sVExwcVBsUkRvQWlyc3VieFpmX05qbHA3dnlmSHBHVnFZc0szemc2ODg0TC1ESEczbjllV1RMdzU5SlkxZmpYcGtiWDdDNXJWQkJjWW9WNnVzczRqRDYxN0lqN2pWTnVIaA?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "18. Sep 2026"
-        },
-        {
-          "title": "Weiter warten auf Klimaticket für Koralmbahn - steiermark.ORF.at",
+          "title": "Weiter warten auf Klimaticket für Koralmbahn - steiermark.orf.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMNEZsQUJ1QlJPZ19lbHAtSlNnQ251OG1ZbU9reFBSUDQwR0VRdlBrR1BoWGtQX3BtVjNGT2U2RG5td0xmc1h3OHQ2MUlMNGlrb0c1Ug?oc=5",
-          "source": "steiermark.ORF.at",
+          "source": "steiermark.orf.at",
           "date": "18. Sep 2026"
         },
         {
           "title": "Koralmbahn wirkt – jetzt fehlt nur noch das richtige Ticket - Klipp Magazin",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNTVIXzB1UmVLMGxtWktMMUNmUFJTU0ZKMHRkczB1LUFFdnJ6ei1kanlmNDlHOERGQnpwRGRTcGNFdDB2UlJQVzZVU2hmZ0FFNFhaRHdDTWRaRE9rcXRZQ2N3ZGhXeEtZa1ViWVJNWGVpaUxBQ2hVdjJ4X0YwOUdGUGVmOG5LS2NqYmdvYm01RFA4NkdhclJGMVFBUVZTbThyakxqb2VQTQ?oc=5",
           "source": "Klipp Magazin",
+          "date": "16. Sep 2026"
+        },
+        {
+          "title": "„Show der Landesfürsten“: Kärnten und Steiermark wollen kooperieren - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMndpcWphUXJIWTVHdE1hcWk1OXFoV0hQd1gwMWxuRjVEbEdlYkpTREs4Tl9yaXFhRi04dWNsWHhicFhHMlhPSTBDTE4yY3E3Yk5vWDdYM1JVZmphbGYxWFRzZ1hKanZOWmNMOW00ekNTdHh0ZEdBT2xUbG5SdjRwTFA1V0l4UVR0MW5SdmVLOE1ZUW44RWZuYnVQLWd6UzFubnhjTFo4WlgtM1Y5TXFXQw?oc=5",
+          "source": "Kleine Zeitung",
           "date": "16. Sep 2026"
         }
       ]
@@ -106,11 +82,11 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark setzt verstärkt auf nachhaltige Mobilität und Verkehrssicherheit, wie preisgekrönte Mobilitätsprojekte, neue Regelungen für E-Mopeds auf Radwegen und Sicherheitsmaßnahmen für Schulkinder zeigen. Dabei spielen der Ausbau des öffentlichen Verkehrs und die Förderung umweltfreundlicher Fortbewegungsarten eine zentrale Rolle für eine lebenswertere und sicherere Mobilität in der Region.",
+      "summary": "Die Steiermark setzt verstärkt auf nachhaltige Mobilität und Verkehrssicherheit, wie preisgekrönte Mobilitätsprojekte, neue Regelungen für E-Mopeds auf Radwegen und Sicherheitsmaßnahmen für Schulkinder zeigen. Dabei spielen der Ausbau des öffentlichen Nahverkehrs und die Förderung umweltfreundlicher Verkehrsmittel eine zentrale Rolle für eine lebenswerte Mobilität in der Region.",
       "items": [
         {
           "title": "Nachhaltiges Reisen, Verkehrsberuhigung: Drei steirische Mobilitätsprojekte holen VCÖ-Preis - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbnZqdS1BLXlfbEdoRW9iQkZHY1dSMUlMTTQ5eDlSUXkyQVRCbGJaM0dJSVB6TkVqTG9PWUNKXzdFSTdlajZBcEc2UG1MTVdQNmQ0QnpybGRmbHItYVdwT2N4ZDZQLW1kTi1jclBUOUpaVFJzYk1IQVNVdExjQkdZNExDVTF4TFZDTzdOdFlrOW9VVlhUVDRGVkdkSFNFMk5UTTJrcWtPRGhOWXF3ZjVWeEFqRUsyNEs3UERn?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMkhYSHhyYUF6by1QeUxSQ2lnaEs0cDBicWtGV1RVNXJPY2RDWEVMX3BEZVpneS00ZDVTS3JrU3VDYXprVzVCeTVjLTdPMndPQzRYT19wRzIyYS1CN2VnUkhET3VQbHBhMk8tcE9VaXdUbkFyenltNUZnZ1A2MmRpZU1kZlVhYTVZaFdMcWJQS0Q0dzA0U3duQTduVDBDek9aOFlVVWNOR3lPclVE?oc=5",
           "source": "MeinBezirk.at",
           "date": "18. Sep 2026"
         },
@@ -151,19 +127,13 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "An der Bezirkshauptmannschaft Bruck-Mürzzuschlag hat ein Führungswechsel stattgefunden, der die Leitung dieser für Verkehrsbehördenverfahren zuständigen Dienststelle betrifft. Diese personelle Veränderung in der steirischen Bezirksverwaltung kann Auswirkungen auf die Bearbeitung von verkehrsrechtlichen Genehmigungen und Verfahren haben.",
+      "summary": "Der Bezirkshauptmannschaft Bruck-Mürzzuschlag steht mit einem Führungswechsel eine personelle Neuausrichtung bevor, die Auswirkungen auf die Verwaltungsabläufe in diesem für den steirischen Verkehrsbereich zuständigen Bezirk haben kann. Die Kommunikation des Landes Steiermark zu dieser Personalveränderung deutet auf eine organisatorische Transition hin, die für Verkehrsangelegenheiten und Behördenverfahren relevant sein dürfte.",
       "items": [
         {
           "title": "Führungswechsel an der BH Bruck-Mürzzuschlag - Kommunikation - Land Steiermark",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuTzdBTUJYYzNqSlhmZjVGTGk5bXFqbnhUanY3dXdQRms1UHhQbFktSFJhelFSdHJCLWdIUmxnbGtGR29TVlJNaVlIRE4zV3pQY05VLWxfMGlEaDVYRjZfcGlMaFdYWFBCd3RIdC1Kal85TUhseXd5Tg?oc=5",
           "source": "Kommunikation - Land Steiermark",
           "date": "16. Sep 2026"
-        },
-        {
-          "title": "Steiermark: Führungswechsel an der BH Bruck-Mürzzuschlag - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQenVENW1oWWhTTjdUNURpVnR0NUZXc0dIQVYtTHFKMTd3NGVyNjE0TDduZ3FzOGdIVEllNENabXBWSEpWaERnV29kLUU5WHpndG5UUTcyUjdtcTB5SFBvd2N3aU85Q1lEQlp5d0xJRFBqRjBzMzNodGppRFctTl9xZmFvTGRERk9pMk5DVG1jSGkyMVpHWHZB0gGXAUFVX3lxTFB6dUQ1bWhZaFNON1Q1RGlWdHQ1RldzR0hBVi1McUoxN3c0ZXI2MTRMN25ncXM4Z0hUSWU0Q1ptcFZISlZoRGdXb2QtRTlYemd0blRRNzJSN21xMHlIUG93Y3dpTzlDWURCWnl3TElEUGpGMHMzM2h0amlEVy1OX3FmYW9MZERGT2kyTkNUbWNIaTIxWkdYdkE?oc=5",
-          "source": "Regionews.at",
-          "date": "17. Sep 2026"
         }
       ]
     }
