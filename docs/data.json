@@ -1,18 +1,18 @@
 {
-  "generated": "22. September 2026, 07:57 UTC",
+  "generated": "23. September 2026, 07:58 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Im Bosrucktunnel an der A9 finden derzeit Arbeiten statt, die den Verkehr beeinflussen. Die Steiermark und Kärnten arbeiten zudem verstärkt an gemeinsamen infrastrukturellen Zukunftsprojekten zusammen.",
+      "summary": "Der Straßenerhaltungsdienst der Steiermark kann sich über hervorragende Erfolge bei Lehrlingswettbewerben freuen, wobei Julian Grein den Staatsmeistertitel gewonnen hat und ein weiterer Lehrling aus Bruck den zweiten Platz erreichte. Parallel dazu laufen Instandhaltungsarbeiten im Bosrucktunnel an der A9, die Teil der laufenden Infrastrukturmaßnahmen sind.",
       "items": [
         {
-          "title": "4. Steiermark-Kärnten-Konferenz setzt wichtige Schritte für gemeinsamen Zukunftsraum - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VNTFfNWE5YUdxZHZqLUI0V2o4ektlakdlblVHcmVRM2JQVUJobTNJNGZ6VnUtQUpHekY3UkhkbkNaMFVjQ2Q0Rjh6Yld0YTJ2TzNFTUk0Qm9MaFpLTlp1ZlAzNU03eHltZEhhVFNla3ZDR04wZGVnUw?oc=5",
-          "source": "Kommunikation - Land Steiermark",
-          "date": "15. Sep 2026"
+          "title": "Straßenerhaltungsdienst: Lehrling Julian Grein holt Staatsmeistertitel für die Steiermark - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdHBZYjJHZk5PMnlpdVdtTnBMYUFLSjhqS1JDRXFfTjF4X0plREVab3BXSWliLXNoYUJOeFYxNk5GVlNvNnRqTkptNGYzU09NeUxwMmRnbnlUS0ZXTVBDT0R3c1VobEpiYUNXc051ZjR1a3BlVzVKaTRBZUJHWU1ONUlRTWdORnFjcFlMamZxVTYwMnhNNkIxUGZMY0VJZFdhdmxkZzZ5c1VpeDczRDBPOEpEamc4R19NZ0g2ZFVwWnBRMkpldGN3MnlXVQ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "23. Sep 2026"
         },
         {
           "title": "Themenschwerpunkt Lehre: Brucker holt zweiten Platz bei Lehrlingswettbewerb - MeinBezirk.at",
@@ -21,16 +21,16 @@
           "date": "18. Sep 2026"
         },
         {
+          "title": "Lehrling Julian Grein gewinnt Staatsmeistertitel im Straßenerhaltungsdienst für die Steiermark - Welt Stimme",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRlVXY01vMkV6UWdweDJETDZWQVdIVng3TGpiQzZnRVQ5emxlUUIyT3NLZW1xUVd5TmVNX0VTX3BaUGR5NWJrMHlFcXk5dkIza0ZCalZ3eHpBcHBHQXk5TnlPSnNlTmU2RnB3am5xMFM0MWlZQXR2QnNfM2R2Y0NlWjJadUp6MTlLUnQ2bUx1cnpjY2t4Q1Y1TjZHYVg1eURqUnpNZjdzVXVpd29PV0FxUkRQYjlxR0hSOGtJaXlURFBhVlF5MG1zdE1Gdw?oc=5",
+          "source": "Welt Stimme",
+          "date": "23. Sep 2026"
+        },
+        {
           "title": "A9: Arbeiten im Bosrucktunnel - ÖAMTC",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNWZlQjJ5bEJVU2VBem9wQUlJWW1Ya2JhbUFZREhEcUxqUnFhSWoyeXNSeG5xdktqaUdleUF0VUVpY3k0OG5UQjVaSldENXRNeEZHOTI4aDdxY21xOE9HaW4wN3h4dS1fVnFmdmR4VUktSUlCRHdDbV9CTUZ3cFV2Wg?oc=5",
           "source": "ÖAMTC",
           "date": "18. Sep 2026"
-        },
-        {
-          "title": "Schwerer Unfall in der Steiermark: Frau (60) in Fahrzeug eingeschlossen - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZU40eDZMb0wzelpqSi1sdTNTUHJxeHRkNUtLYnRpNHloVy1sNDE0TXNzdWJWNEdzRXdSMHMzODNBUGlCVHdBUW9scjZ5enRXSDdWWnFZSTVGY3VsQmtDcEszaGVQcFMzdDJOMXd5WHJDRlpFX2M5STRvcjZySFZvaWd5eG4tNDB3VlFfanBJLUFyNGJ2VFFGMEc4UFpMdDdnR2MzWFVRZ3BLbUJobG9HMDliVmRNbkRMeTJ3?oc=5",
-          "source": "5 Minuten",
-          "date": "16. Sep 2026"
         }
       ]
     },
@@ -38,7 +38,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Steiermark arbeitet an attraktiven Ticketlösungen wie einem günstigen 15-Euro-Freizeit-Ticket für 2026 und plant die Koralmbahn als wichtige Infrastruktur-Verbindung zwischen Kärnten und Steiermark, wobei jedoch noch Fragen zur optimalen Ticketgestaltung für diese neue Bahnstrecke offen sind. Die beiden Bundesländer streben eine verstärkte Kooperation im öffentlichen Verkehr an, um die Mobilität und Erreichbarkeit in der Region zu verbessern.",
+      "summary": "Die Steiermark arbeitet an attraktiven Ticketlösungen für den öffentlichen Verkehr, wobei ein neues Freizeit-Ticket ab 2026 für 15 Euro angeboten werden soll und die Koralmbahn als wichtige Infrastruktur bereitsteht, aber noch auf die Integration ins Klimaticket-System wartet. Kärnten und die Steiermark streben eine verstärkte Kooperation im Verkehrsbereich an, um die Mobilität in der Region zu verbessern.",
       "items": [
         {
           "title": "Aufsteirern 2026: Mit Freizeit-Ticket um 15 Euro anreisen - austria.com",
@@ -47,16 +47,22 @@
           "date": "18. Sep 2026"
         },
         {
+          "title": "Koralmbahn wirkt – jetzt fehlt nur noch das richtige Ticket - Klipp Magazin",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNTVIXzB1UmVLMGxtWktMMUNmUFJTU0ZKMHRkczB1LUFFdnJ6ei1kanlmNDlHOERGQnpwRGRTcGNFdDB2UlJQVzZVU2hmZ0FFNFhaRHdDTWRaRE9rcXRZQ2N3ZGhXeEtZa1ViWVJNWGVpaUxBQ2hVdjJ4X0YwOUdGUGVmOG5LS2NqYmdvYm01RFA4NkdhclJGMVFBUVZTbThyakxqb2VQTQ?oc=5",
+          "source": "Klipp Magazin",
+          "date": "16. Sep 2026"
+        },
+        {
           "title": "Weiter warten auf Klimaticket für Koralmbahn - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMNEZsQUJ1QlJPZ19lbHAtSlNnQ251OG1ZbU9reFBSUDQwR0VRdlBrR1BoWGtQX3BtVjNGT2U2RG5td0xmc1h3OHQ2MUlMNGlrb0c1Ug?oc=5",
           "source": "steiermark.ORF.at",
           "date": "18. Sep 2026"
         },
         {
-          "title": "Koralmbahn wirkt – jetzt fehlt nur noch das richtige Ticket - Klipp Magazin",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNTVIXzB1UmVLMGxtWktMMUNmUFJTU0ZKMHRkczB1LUFFdnJ6ei1kanlmNDlHOERGQnpwRGRTcGNFdDB2UlJQVzZVU2hmZ0FFNFhaRHdDTWRaRE9rcXRZQ2N3ZGhXeEtZa1ViWVJNWGVpaUxBQ2hVdjJ4X0YwOUdGUGVmOG5LS2NqYmdvYm01RFA4NkdhclJGMVFBUVZTbThyakxqb2VQTQ?oc=5",
-          "source": "Klipp Magazin",
-          "date": "16. Sep 2026"
+          "title": "Weiter Warten auf Klimaticket - ORF",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZWmsxQ1hneGhxZERvMzhvS2x0Y0tJSmZUazJJMWtEczBNR0pMQmVKaGdUVTNhdHI0UmxBRk9qWGNRaTFmTWNGbnQ1blF4SnVQQUF2S3hMZDgwYi1GMWF1cV9ubTlxczE4VkU2RlJ1Mms?oc=5",
+          "source": "ORF",
+          "date": "18. Sep 2026"
         },
         {
           "title": "„Show der Landesfürsten“: Kärnten und Steiermark wollen kooperieren - Kleine Zeitung",
@@ -70,7 +76,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark setzt verstärkt auf nachhaltige Mobilität und Verkehrssicherheit, wie ausgezeichnete Mobilitätsprojekte, neue Regelungen für E-Mopeds auf Radwegen sowie Sicherheitsmaßnahmen für Schulkinder zeigen. Gleichzeitig werden öffentliche Veranstaltungen und Bahnverbindungen genutzt, um die Bevölkerung für umweltfreundliche Verkehrsalternativen zu sensibilisieren und das Bewusstsein für sichere Mobilität zu stärken.",
+      "summary": "Die Steiermark setzt verstärkt auf nachhaltige Mobilität und Verkehrsberuhigung, wie innovative Mobilitätsprojekte und neue Regelungen für E-Mopeds auf Radwegen zeigen. Gleichzeitig intensiviert das Land seine Verkehrssicherheitsmaßnahmen, um Ablenkung im Straßenverkehr zu bekämpfen und vulnerable Verkehrsteilnehmer wie Schulkinder durch Präventionskampagnen und Ausrüstung zu schützen.",
       "items": [
         {
           "title": "Nachhaltiges Reisen, Verkehrsberuhigung: Drei steirische Mobilitätsprojekte holen VCÖ-Preis - MeinBezirk.at",
@@ -85,16 +91,28 @@
           "date": "19. Sep 2026"
         },
         {
+          "title": "Jeder dritte Unfall durch Ablenkung: Steiermark startet Schwerpunktwoche im Straßenverkehr - kfv.at",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SalJ0bDNZdjlRb0JLN2RIdnM4UFlZMGp3Z3p1aE1HT3VySnBqSGxrdjIyOXM4ZW1GTFRjdndZUVYxaHdLVlhvUVNJUHlxRXlQUXdMbndHWTJXWXZwSVJHNkIyWEhacHNiUlo3TEw2SHhFd1VHajVFMnQyVHVYZw?oc=5",
+          "source": "kfv.at",
+          "date": "22. Sep 2026"
+        },
+        {
+          "title": "„Im Blindflug“: 21 Menschen starben im Vorjahr durch Ablenkung - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOVNRdFFmYVA5bmFoaVZPMFA5U2VfNzlhdXVzM2dyeTA0SzZkNm82ZHIxMTlPbEZXNHhwaXdYUFBnQ0pPQ01YaFk3cWowcmNxLXF6WldXLUZJYTlMZmczZDl4blBtV01tNS1xSFJRRVRaSUxWQmxjclpKWXhLRklqbGtqNDBod1o3OEhWZkUxODRSTkM1T2Y3dkxCMkpOR2ZhaFRRUmFlMy0?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "22. Sep 2026"
+        },
+        {
           "title": "Verkehrssicherheit: Niklasdorfer Erstklässler erhalten Warnwesten für Sicherheit am Schulweg - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMTVSMTNpM1NCUHVxMGIzZmRzM29PNkNCQ3VLb2tPRDJkUktJV2Y2VTlOUTB3SGFzQXJwQW82QjRfeTBtb2VleTRnaGlDeHhoUkUxemhXcUVNYndnUzNhSlhhRUhSS3dYc2FoTTJuaGZidkpJWHoyUGNvZjRPV1BEMVFlN0JPcDdJSW9lUHhNaVlWNXZZSlpiRU4xMTQzdmpaSlFIR0VyVHBSYkFuZkxtaE93dlI5cmwwV2QyVVVualJJenk4?oc=5",
           "source": "MeinBezirk.at",
           "date": "18. Sep 2026"
         },
         {
-          "title": "Mobilitätsfest: Das erwartet Besucher morgen am Grazer Hauptplatz - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYWZHX1AyT2lLUEVKS2RVc01FR2tyN0QyVUJRY3hxZXVKTHFVNHlwTWt0TGdCUEFvQjZPT1pkRG1mM09jd2FNRzV5MkFOaF9QSHJ2NEtUTkV3RFVrM2xWcHQxLWwzZGJhcFZSZ1BZSzlab003UWxlaUwyT3g4ZGdzUGt3d2ZGY3VBSnZpNHN0bVZ3dXRNbjZzaWxaeklaZFVNRF9ZN0dST2k?oc=5",
-          "source": "5 Minuten",
-          "date": "21. Sep 2026"
+          "title": "Kampagne soll Jugendliche sensibilisieren - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlbUhrOUNkNEJNbmtpODJJd19ya3VBYy04VUs4MGxNTGhnbGJ5cjExODN2Q2oxellydHg5VFg2XzlEOHBwWUdyQXpWUXd3WHJQM0tNbw?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "22. Sep 2026"
         },
         {
           "title": "Steiermarkbahn: Murtalbahn stand bei Veranstaltung in Murau im Mittelpunkt - MeinBezirk.at",
@@ -108,7 +126,7 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Ich kann diese Aufgabe nicht erfüllen, da Sie nur einen Nachrichtentitel bereitgestellt haben, der sich zudem auf die Energie Steiermark und einen Sonderlandtag bezieht – Themen, die außerhalb meines definierten Fachbereichs Landeshochbau und Baukultur liegen. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich mehrere relevante Nachrichtentitel zu Hochbauprojekten, Schulbauten oder öffentlichen Gebäuden in der Steiermark.",
+      "summary": "Ich kann diese Aufgabe leider nicht erfüllen, da Sie nur einen Nachrichtentitel bereitgestellt haben, der sich zudem auf die Energie Steiermark bezieht und nicht auf Hochbauprojekte, Schulbauten, öffentliche Gebäude oder Baukultur in der Steiermark. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich mehrere relevante Nachrichtentitel zu den genannten Themengebieten.",
       "items": [
         {
           "title": "66 Fragen zur Energie Steiermark: Am Dienstag kommt es zum Sonderlandtag - 5 Minuten",
@@ -122,7 +140,7 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Ich kann diese Aufgabe nicht erfüllen, da Sie nur einen Nachrichtentitel bereitgestellt haben, der sich zudem auf einen Führungswechsel bei einer Bezirkshauptmannschaft bezieht und nicht auf UVP-Verfahren, Genehmigungen, Verkehrsverordnungen oder verwaltungsrechtliche Verkehrsthemen. Um eine aussagekräftige Zusammenfassung zu mehreren verkehrsbehördlichen Themen zu erstellen, benötige ich entsprechende Nachrichtentitel mit relevantem Inhalt.",
+      "summary": "Ich kann diese Aufgabe nicht erfüllen, da Sie nur einen Nachrichtentitel bereitgestellt haben, der sich zudem auf einen Führungswechsel bei einer Bezirkshauptmannschaft bezieht und nicht auf UVP-Verfahren, Genehmigungen, Verkehrsverordnungen oder verwaltungsrechtliche Verkehrsthemen. Um eine aussagekräftige Zusammenfassung zu mehreren verkehrsbehördlichen Themen zu erstellen, benötige ich mehrere relevante Nachrichtentitel aus dem steirischen Verkehrsbereich.",
       "items": [
         {
           "title": "Führungswechsel an der BH Bruck-Mürzzuschlag - Kommunikation - Land Steiermark",
