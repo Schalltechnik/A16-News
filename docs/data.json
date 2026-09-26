@@ -1,13 +1,19 @@
 {
-  "generated": "25. September 2026, 08:12 UTC",
+  "generated": "26. September 2026, 08:00 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die steirische Straßeninfrastruktur profitiert von hochqualifizierten Fachkräften, wie der Staatsmeister im Straßenerhaltungsdienst Julian Grein und weitere talentierte Lehrlinge zeigen, während gleichzeitig wichtige Wartungsarbeiten in den Tunneln der A9 durchgeführt werden. Zusätzlich werden Maßnahmen zum Wildtierschutz im Straßenraum durch 23 neue Reviere verstärkt, um die Verkehrssicherheit zu erhöhen.",
+      "summary": "Die steirische Straßeninfrastruktur ist derzeit durch mehrere Sanierungsprojekte und Wartungsarbeiten geprägt, darunter Sperrungen wie beim Mühlweg und nächtliche Arbeiten am Plabutschtunnel auf der A9. Gleichzeitig werden Lücken im Radwegnetz geschlossen und der Straßenerhaltungsdienst setzt neue Standards, während auch Wildtierschutzmaßnahmen im Straßenraum an Bedeutung gewinnen.",
       "items": [
+        {
+          "title": "Radwegnetz: Wo in der Steiermark noch Lücken klaffen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUGtGUjVKOXkwdmJpOFBQRTQzVWZYVndUQThKZUNORGpMMTFnUm9pQ2dncVlJekVlWTJvckVpOWpOcWpfSDZodUg2RkxkWWtYWUxXRWJPYjZmeGszamdGNDBoYWMzZmNxeUNlVGxQQWlGXzE5RjhzVU1WbzI0MHhhRHdVc1ZhdEliMGdXWDItZ0xxSE52Z21oR25WbTVtcWs?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "25. Sep 2026"
+        },
         {
           "title": "Straßenerhaltungsdienst: Lehrling Julian Grein holt Staatsmeistertitel für die Steiermark - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdHBZYjJHZk5PMnlpdVdtTnBMYUFLSjhqS1JDRXFfTjF4X0plREVab3BXSWliLXNoYUJOeFYxNk5GVlNvNnRqTkptNGYzU09NeUxwMmRnbnlUS0ZXTVBDT0R3c1VobEpiYUNXc051ZjR1a3BlVzVKaTRBZUJHWU1ONUlRTWdORnFjcFlMamZxVTYwMnhNNkIxUGZMY0VJZFdhdmxkZzZ5c1VpeDczRDBPOEpEamc4R19NZ0g2ZFVwWnBRMkpldGN3MnlXVQ?oc=5",
@@ -21,34 +27,22 @@
           "date": "23. Sep 2026"
         },
         {
-          "title": "Themenschwerpunkt Lehre: Brucker holt zweiten Platz bei Lehrlingswettbewerb - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeEE4TTdGbDQ2Tmp5dWFtemhKZl8xN0hMTXZQTDlUZEZOc0wzYlVRRXN2dnk0eGVBTDAxakxUQ2pKNWhVRXpZN1pRY0lVN0ZRNk40amN4c3ZkT2NTZUZYakhveHJnNXVHY1V3TDBpNzlTSEpQMlk1YktXdVRlYnduSzNEWk9wZHczWE9KRVVWaUhJWkpEWDBjc3JIczZndXVGYm1iNDY3YTkyMTdIT0lz?oc=5",
+          "title": "Mühlweg gesperrt: Straßenerhaltung und Sanierung - austria.com",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTjJiR3dQaktGYkpzb0ZFRXVkdWxrOHdPWDRrdm13eDA1X1UxeGc5MTF6Mm9SSkl6OVl5aVhWaUF3aUlpNmZhaDJiTVQ1VzZRTUtFUTM1WEtPOEtqSWpqelJYdWtfTTRDSXRKMlRncjdGTi11UnQ1d0xnZ3ZHQUhvX2oxUGpoU0ll?oc=5",
+          "source": "austria.com",
+          "date": "25. Sep 2026"
+        },
+        {
+          "title": "Baustellen auf der A9: Plabutschtunnel wird für Wartungsarbeiten nachts gesperrt - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdVRsMnFrLURSY1pBN0FPZzluYTdGNU1FUTBlckFCdFlsd29PbmVCa0dLaGZTbmZwZVR0eWdUSGFlcmJGQTF5dWRQSXotUUhkc21oM2VjSFdLeXZ2ZVd5UTBlRDBSZ2JPbGpwWW9qTW9ZTzZOQlVxQmlmakhOMWxsVUlRMGgwZzVtc245UFE4dFBqVTlXX1dmY2hOUjR3YmppUVlnZ0xGN2pteGlwZnVzTTJVcW4?oc=5",
           "source": "MeinBezirk.at",
-          "date": "18. Sep 2026"
+          "date": "25. Sep 2026"
         },
         {
-          "title": "Lehrling Julian Grein gewinnt Staatsmeistertitel im Straßenerhaltungsdienst für die Steiermark - Welt Stimme",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRlVXY01vMkV6UWdweDJETDZWQVdIVng3TGpiQzZnRVQ5emxlUUIyT3NLZW1xUVd5TmVNX0VTX3BaUGR5NWJrMHlFcXk5dkIza0ZCalZ3eHpBcHBHQXk5TnlPSnNlTmU2RnB3am5xMFM0MWlZQXR2QnNfM2R2Y0NlWjJadUp6MTlLUnQ2bUx1cnpjY2t4Q1Y1TjZHYVg1eURqUnpNZjdzVXVpd29PV0FxUkRQYjlxR0hSOGtJaXlURFBhVlF5MG1zdE1Gdw?oc=5",
-          "source": "Welt Stimme",
-          "date": "23. Sep 2026"
-        },
-        {
-          "title": "A9: Wartungsarbeiten im Plabutschtunnel - ÖAMTC",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUDFaVV93RTJpeXNEN0lPOVFhVDBpUG9Ra3JOZE9lZjRycnFzUERFa0Jzc1JPeTdVVFc1a0ZZbkl0UWw5V1hfRFlYWHJrcnY3bDFYVWdhQWdUdmpzNUYtaU1weDlwUW9JSVp4X2VTVzl1WXo3ZTJTQnFMOUtnd04tSjJ6QXoxLVEtOHQ3ZGRR?oc=5",
-          "source": "ÖAMTC",
-          "date": "18. Sep 2026"
-        },
-        {
-          "title": "A9: Arbeiten im Bosrucktunnel - ÖAMTC",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNWZlQjJ5bEJVU2VBem9wQUlJWW1Ya2JhbUFZREhEcUxqUnFhSWoyeXNSeG5xdktqaUdleUF0VUVpY3k0OG5UQjVaSldENXRNeEZHOTI4aDdxY21xOE9HaW4wN3h4dS1fVnFmdmR4VUktSUlCRHdDbV9CTUZ3cFV2Wg?oc=5",
-          "source": "ÖAMTC",
-          "date": "18. Sep 2026"
-        },
-        {
-          "title": "Schwerer Unfall: Motorradfahrer schwer verletzt, Hubschrauber-Einsatz in Halbenrain - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWpIMWtFVXZYY0prczhnc3Z5VlNQSkdVSUMzT2NUNTNpci1nWUZvUE9IYmUwd1haR3dnSGNoV09JZXllaTJzY1dieTZUQm9sd21kZUdUYUJOZF9OZU5DTVh0bTdsMWFaTjhjcFlQdUM4cG5iNjRmemdrT1lFYzFSNU1QWVBrWWJkUWduNmZFb1FSTUoxNm5pVC0zbHA4a0RXWkxOc2I2VHVreHNEdlRnbHpQbmw1T0NkTC1PNHFFSWozRVYxYVE0?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "19. Sep 2026"
+          "title": "„Der ganze Abschnitt ist gesperrt“: Einsatz in Lieboch wirft Fragen auf - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUmJadlRBeHpSM0pLZmtWMHhJcnZiWFpLcG5jOFllTVVDMlVkR2NZYVUzeXVxX3lhNExXREJocVFIbzRLaG9Mc1RPdEJYQlV4eVQyM1EwM2ZFWHlVVUt0LWdNdlRmVTliOXdCXzNvWUgtWUJwQm1ZWVMtUU5yc1doeDhLeGVaN3MxaGFzMFRFSVIxeGhyNHBXMFFEYmxzWng3SGZwVkdTT1BUUQ?oc=5",
+          "source": "5 Minuten",
+          "date": "24. Sep 2026"
         }
       ]
     },
@@ -56,27 +50,20 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Das neue Aufsteirern-Freizeit-Ticket ermöglicht ab 2026 Besucher um nur 15 Euro mit öffentlichen Verkehrsmitteln in der Steiermark anzureisen. Mit dieser günstigen Maßnahme soll der öffentliche Verkehr als attraktive Alternative zum Auto gestärkt und mehr Touristen zu steirischen Veranstaltungen gebracht werden.",
-      "items": [
-        {
-          "title": "Aufsteirern 2026: Mit Freizeit-Ticket um 15 Euro anreisen - austria.com",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY0dSVjZuX09DTFloNm9xUFhYM3NVYjhQbkVpdWg0YmlvblZiVXJ3T05VY2FxMTJ1UjlOLXJiUmZ0UmdyV2ZPREhYbVhpZHJCVHlxXzNjaUhQWkJ6Ymk0NnlMUTNPVEktTmRCTXp3T2FkNTRVa2dJNU1qTWo1ZFdjbkZja0k5Q1B2STJmNmxlYUh0QjVjVURIcHln?oc=5",
-          "source": "austria.com",
-          "date": "18. Sep 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "mobilitaet": {
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark setzt verstärkt auf nachhaltige Mobilität und Verkehrsberuhigung, wie preisgekrönte Mobilitätsprojekte und neue Regelungen für E-Mopeds auf Radwegen zeigen. Gleichzeitig werden Maßnahmen zur Unfallprävention intensiviert, indem Wildwarngeräte zur Vermeidung von Wildunfällen eingesetzt werden und Ablenkung im Straßenverkehr durch Schwerpunktwochen bekämpft wird.",
+      "summary": "Die Steiermark arbeitet an der Schließung von Lücken im Radwegenetz und führt neue Regelungen für E-Mopeds ein, um die Sicherheit im Radverkehr zu verbessern. Gleichzeitig werden Maßnahmen gegen Ablenkung im Straßenverkehr und Wildwarngeräte in Jagdrevieren intensiviert, um die insgesamt hohe Unfallrate und Verkehrstodesfälle zu reduzieren.",
       "items": [
         {
-          "title": "Nachhaltiges Reisen, Verkehrsberuhigung: Drei steirische Mobilitätsprojekte holen VCÖ-Preis - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMkhYSHhyYUF6by1QeUxSQ2lnaEs0cDBicWtGV1RVNXJPY2RDWEVMX3BEZVpneS00ZDVTS3JrU3VDYXprVzVCeTVjLTdPMndPQzRYT19wRzIyYS1CN2VnUkhET3VQbHBhMk8tcE9VaXdUbkFyenltNUZnZ1A2MmRpZU1kZlVhYTVZaFdMcWJQS0Q0dzA0U3duQTduVDBDek9aOFlVVWNOR3lPclVE?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "18. Sep 2026"
+          "title": "Radwegnetz: Wo in der Steiermark noch Lücken klaffen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUGtGUjVKOXkwdmJpOFBQRTQzVWZYVndUQThKZUNORGpMMTFnUm9pQ2dncVlJekVlWTJvckVpOWpOcWpfSDZodUg2RkxkWWtYWUxXRWJPYjZmeGszamdGNDBoYWMzZmNxeUNlVGxQQWlGXzE5RjhzVU1WbzI0MHhhRHdVc1ZhdEliMGdXWDItZ0xxSE52Z21oR25WbTVtcWs?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "25. Sep 2026"
         },
         {
           "title": "Neue Regeln ab 1.10. - E-Mopeds eingebremst: Das Ende der Radweg-Anarchie - Kronen Zeitung",
@@ -91,22 +78,22 @@
           "date": "23. Sep 2026"
         },
         {
-          "title": "Jeder dritte Unfall durch Ablenkung: Steiermark startet Schwerpunktwoche im Straßenverkehr - kfv.at",
+          "title": "Jeder dritte Unfall durch Ablenkung: Steiermark startet Schwerpunktwoche im Straßenverkehr - KFV - Kuratorium für Verkehrssicherheit",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SalJ0bDNZdjlRb0JLN2RIdnM4UFlZMGp3Z3p1aE1HT3VySnBqSGxrdjIyOXM4ZW1GTFRjdndZUVYxaHdLVlhvUVNJUHlxRXlQUXdMbndHWTJXWXZwSVJHNkIyWEhacHNiUlo3TEw2SHhFd1VHajVFMnQyVHVYZw?oc=5",
-          "source": "kfv.at",
+          "source": "KFV - Kuratorium für Verkehrssicherheit",
           "date": "22. Sep 2026"
-        },
-        {
-          "title": "Alle acht Minuten stirbt ein Wildtier auf der Straße – was tun? - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM1pHdTBoMG1KUENGWkJiOVVtRFBhSnNkaElGWG9BVUY3clNhOTRGQjFEUnJrY1ctNUtzV0l3SkdxM0ZyQ1lyNkVlZVFnV25PdHVQdUd6cnJiaWZJeHBrckpLUEw1Tms0QUN6eHRndjVhT0JYV3JnYVBjaWNVLTZaR0ZsbExtZ2ZsbU5IT2RrZTBWY1M0bGY4QnRsMjVXSDE1M0thNW5FVXFUV0U?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "24. Sep 2026"
         },
         {
           "title": "Jägerschaft erhielt 5.000 Geräte: Wildwarngeräte sollen Steiermarks Straßen sicherer machen - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNlBFX0ZFOXd1YnVwNVVTNmtsemxPTDJHcVV2dGJicXF1UjlkM0pBYU9WUGdONHBaY3ZlYzdFRVdyQkJxa1RHTEF3SGdoYjJWbjAta2FSOHozTEpSMktSdUc5Y2ozSFhDNC1GNWplSEY3cXBMcnZ4UDFsaDM4M1g4ZFNMTHR5Zy1NNXVRN0dxWUh1cGs4TC1aUFBTYktNZkRiQ05xQS0wSml2YUprREdhM2l3MjBQdw?oc=5",
           "source": "MeinBezirk.at",
           "date": "23. Sep 2026"
+        },
+        {
+          "title": "Alle acht Minuten stirbt ein Wildtier auf der Straße – was tun? - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM1pHdTBoMG1KUENGWkJiOVVtRFBhSnNkaElGWG9BVUY3clNhOTRGQjFEUnJrY1ctNUtzV0l3SkdxM0ZyQ1lyNkVlZVFnV25PdHVQdUd6cnJiaWZJeHBrckpLUEw1Tms0QUN6eHRndjVhT0JYV3JnYVBjaWNVLTZaR0ZsbExtZ2ZsbU5IT2RrZTBWY1M0bGY4QnRsMjVXSDE1M0thNW5FVXFUV0U?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "24. Sep 2026"
         },
         {
           "title": "Steiermark rüstet 23 neue Reviere mit Wildwarngeräten aus - nachrichten.jetzt",
@@ -126,7 +113,7 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Ich kann diese Aufgabe leider nicht erfüllen, da Sie nur einen Nachrichtentitel bereitgestellt haben, der sich zudem auf die Energie Steiermark bezieht und nicht auf Hochbauprojekte, Schulbauten, öffentliche Gebäude oder Baukultur. Um eine aussagekräftige Zusammenfassung zu Landeshochbau und Baukultur in der Steiermark zu erstellen, benötige ich mehrere relevante Nachrichtentitel zu diesen Themengebieten.",
+      "summary": "Ich kann diese Aufgabe nicht erfüllen, da Sie nur einen Nachrichtentitel bereitgestellt haben, der sich zudem auf die Energie Steiermark und einen Sonderlandtag bezieht – also nicht auf Hochbauprojekte, Schulbauten, öffentliche Gebäude oder Baukultur. Um zwei prägnante Sätze zu verfassen, benötige ich mehrere thematisch relevante Nachrichtentitel zu Landeshochbau und Baukultur in der Steiermark.",
       "items": [
         {
           "title": "66 Fragen zur Energie Steiermark: Am Dienstag kommt es zum Sonderlandtag - 5 Minuten",
