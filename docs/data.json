@@ -1,12 +1,12 @@
 {
-  "generated": "27. September 2026, 08:34 UTC",
+  "generated": "28. September 2026, 08:58 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die steirische Straßeninfrastruktur ist durch verschiedene Herausforderungen geprägt, darunter Lücken im Radwegnetz, notwendige Sanierungsarbeiten wie die aktuelle Sperrung des Mühlwegs und Wartungsarbeiten am Plabutschtunnel der A9. Gleichzeitig zeigen sich positive Entwicklungen durch engagierte Fachkräfte in der Straßenerhaltung und neue Initiativen zum Wildtierschutz im Straßenraum mit 23 beteiligten Revieren.",
+      "summary": "Die steirische Straßeninfrastruktur steht vor mehreren Herausforderungen, darunter Lücken im Radwegnetz, notwendige Sanierungen wie die aktuelle Sperrung des Mühlwegs sowie Wartungsarbeiten am Plabutschtunnel der A9. Gleichzeitig zeigen erfolgreiche Fachkräfte wie Staatsmeister Julian Grein und erweiterte Wildtierschutzmaßnahmen in 23 neuen Revieren, dass die Steiermark aktiv an der Verbesserung und Sicherheit ihrer Straßeninfrastruktur arbeitet.",
       "items": [
         {
           "title": "Radwegnetz: Wo in der Steiermark noch Lücken klaffen - Kleine Zeitung",
@@ -44,21 +44,14 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Der Grazer Jakominiplatz wird umgebaut, um den öffentlichen Verkehr und die Verkehrssituation in der Innenstadt zu verbessern. Die Maßnahme ist Teil der Bemühungen, den ÖPNV attraktiver zu gestalten und den Verkehrsfluss in Graz zu optimieren.",
-      "items": [
-        {
-          "title": "„Wir müssen was tun:“ Grazer Jakominiplatz soll umgebaut werden - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUGExb3RfczItOVVsX0pZdFM2SkM0QVFvSHYwaTMxbno1ZVdmUHViY3ZkNjZuQjNoVGpMSDc0NWFHbW1HclJyemwyM0FpbWxqYWpQcEFJWi1jMXJEaXdOdWNxNkhUa09WQlZlZmhPbHVBSHJGRW9tRFBubGFJYldBbHE4eTgtMTNrb0M2bWpRN096OWJid0NaV0tRUTdEZ193My1tUzNVWFZhbkk?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "26. Sep 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "mobilitaet": {
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark arbeitet an der Schließung von Lücken im Radwegnetz und setzt verstärkt auf nachhaltige Mobilitätsformen, um den Fuß- und Radverkehr zu fördern. Gleichzeitig werden Maßnahmen zur Verkehrssicherheit intensiviert, indem Wildwarngeräte in Jagdrevieren installiert werden und Schwerpunktwochen gegen Ablenkung im Straßenverkehr durchgeführt werden, da Unachtsamkeit und Wildunfälle erhebliche Risiken darstellen.",
+      "summary": "Die Steiermark arbeitet an der Schließung von Lücken im Radwegnetz und setzt verstärkt auf nachhaltige Mobilitätsangebote, während gleichzeitig Verkehrssicherheitsmaßnahmen wie Wildwarngeräte und Kampagnen gegen Ablenkung im Straßenverkehr intensiviert werden. Mit dem Einsatz von 5.000 Wildwarngeräten und einer Schwerpunktwoche gegen Fahrerablenkung, die jährlich zu Todesfällen führt, versucht das Bundesland, sowohl Mensch als auch Tier vor Unfällen zu bewahren.",
       "items": [
         {
           "title": "Radwegnetz: Wo in der Steiermark noch Lücken klaffen - Kleine Zeitung",
@@ -67,9 +60,9 @@
           "date": "25. Sep 2026"
         },
         {
-          "title": "Steirische Jägerschaft erhielt rund 5.000 Wildwarngeräte - news.steiermark.at",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKdG1iR2JpWTN3T1VkN3ppMHdMbWpPWHQ2V1B3eXhVVXNhWFVpOE0wZlZPeUotNnZCSnRpRUdEOW1ldEtlMlZiQ0ZLdWJhcEVWU0ZPUldfU2Q2THdNeGk2WFFXSHFfd2V2OVJUR3VkVQ?oc=5",
-          "source": "news.steiermark.at",
+          "title": "Steirische Jägerschaft erhielt rund 5.000 Wildwarngeräte - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sNFREejQ4NjZ4RWtEcEstcXJoRVBxZUVSOWxvVGpBcnBjYmMwcTFpSXo1RUZxZnRRMDFtNmJ1LTk0emxQdDY3TU9xM3poWk9aWjdBOHFWbUQ3b3ROakxIWlprQTNzdDRfVmhPZHQ1UQ?oc=5",
+          "source": "Land Steiermark News Portal",
           "date": "23. Sep 2026"
         },
         {
@@ -103,10 +96,10 @@
           "date": "22. Sep 2026"
         },
         {
-          "title": "Bad Mitterndorf: Nachhaltige Mobilitätsformen wurden am Hauptplatz getestet - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYXJSdVE0YUp5OTdNMlgzODRENzZwT0g5WmVJdzNrNlBXMnlJMVFxNmw1R2hyS0tzQWs4UFljRmd0NGtHTjh1a2J3eHZwVzFwNl9rVkR3YzFyeVJ6aW54VUlXTUhPN2ttMDR4cEdOaTdsZ045Y09hUHpyRjNCMWRDdDE3S1VjcDc4aDFuaExFR1RBWXZNUjlybzZsMV9uY0pKU0hVczZJQkFiaVlsbmFZTw?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "25. Sep 2026"
+          "title": "Mobilitätsfest Bad Mitterndorf: Nachhaltige Mobilität - austria.com",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcE02YTl0aV9PdzBkQ0VrMEtHeE9PUS1rRWNaTjhfNjJ3RmVINDc2dUZGblRReS01NjgtaUllV0U0MllabW1vNVZETGVHenUxY0hLQTJFUnh5ZlJQYnNsUmE0UnZMMjBGaTFsU1RhajdoOGlMWU1KUUhFSnJPXzZ1NjZpdUNmdlZlRERrV09QSmZLYjREVU91TzVPcmM5Y2JxY0E?oc=5",
+          "source": "austria.com",
+          "date": "23. Sep 2026"
         }
       ]
     },
@@ -114,7 +107,7 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Ich kann diese Anfrage nicht wie gewünscht beantworten, da die beiden Nachrichtentitel nicht die Steiermark betreffen: Der erste Titel behandelt ein Salzburger Amtsgebäude und der zweite einen steirischen Landtag zu Energie Steiermark, aber keinen Hochbau oder Baukultur. Eine sinnvolle Zusammenfassung zu Landeshochbau und Baukultur in der Steiermark ist daher nicht möglich.",
+      "summary": "Ich kann diese Anfrage nicht wie gewünscht beantworten, da die beiden Nachrichtentitel nicht die Steiermark betreffen: Der erste Titel behandelt ein Salzburger Amtsgebäude und der zweite einen steirischen Landtag zu Energie Steiermark, aber keinen Hochbau oder Baukultur. Eine aussagekräftige Zusammenfassung zu Landeshochbau und Baukultur in der Steiermark ist daher nicht möglich.",
       "items": [
         {
           "title": "Salzburg-Stadt: Amtsgebäude in der Michael-Pacher-Straße soll an die GSWB verkauft werden - Regionews.at",
