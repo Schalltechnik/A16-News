@@ -1,12 +1,12 @@
 {
-  "generated": "28. September 2026, 08:58 UTC",
+  "generated": "29. September 2026, 09:06 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die steirische Straßeninfrastruktur steht vor mehreren Herausforderungen, darunter Lücken im Radwegnetz, notwendige Sanierungen wie die aktuelle Sperrung des Mühlwegs sowie Wartungsarbeiten am Plabutschtunnel der A9. Gleichzeitig zeigen erfolgreiche Fachkräfte wie Staatsmeister Julian Grein und erweiterte Wildtierschutzmaßnahmen in 23 neuen Revieren, dass die Steiermark aktiv an der Verbesserung und Sicherheit ihrer Straßeninfrastruktur arbeitet.",
+      "summary": "Die steirische Straßeninfrastruktur wird durch verschiedene Sanierungsprojekte wie die Andritzer Reichsstraße und den Mühlweg sowie Wartungsarbeiten am Plabutschtunnel vorangetrieben, während gleichzeitig Lücken im Radwegnetz geschlossen und neue Verkehrserschließungen wie die Ausfahrt an der Obdacher Straße realisiert werden. Ergänzend werden Maßnahmen zum Wildtierschutz im Straßenraum umgesetzt und Fachkräfte wie der Staatsmeister Julian Grein die Qualität der Straßenerhaltung sichern.",
       "items": [
         {
           "title": "Radwegnetz: Wo in der Steiermark noch Lücken klaffen - Kleine Zeitung",
@@ -15,9 +15,21 @@
           "date": "25. Sep 2026"
         },
         {
-          "title": "Straßenerhaltungsdienst: Lehrling Julian Grein holt Staatsmeistertitel für die Steiermark - MeinBezirk.at",
+          "title": "Andritzer Reichsstraße: Geforderter Gehsteig wird endlich gebaut - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeUx2NzB0WFlhNW5zLTJDTnAxNXY2LXhBUXY4R0lLX1pBWUFDUnV6QXRNVzBMQ0piMVJRN1RfaWM0c2dsX1BtRXhaeEIyN0pxYWRPRnhPdmZSZkdsakFhSTFxanNsOVdlN1pZSTBrMS1kVEVYZC1Ya255bzduTG13Uk5ha21obVFIRzdIbzFrREZwdEpKSThicjBzUmNtbjg2ejhIek01LUY1Yy0ta0c4?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "29. Sep 2026"
+        },
+        {
+          "title": "Obdacher Straße: Neue Ausfahrt für ein Unternehmen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ2tJRFF4dFNtOFhwaVZmSnU2a1Y2U01ZS1JZM2gtYWlIcWc2aEFrdXF0Z1dIb0Nla3NWOGdIaGhubEpISy01U1VaVzhkV0tsbHBCY3haUmd1ZFhJd0d0cXp3WURTUnB6dFdqZ2wzQ1llcDRnR3plQV9IWHVLYWdxeDdkeDFlZ1VMSFNKM2VXMWZzMTdxS3pHVWRPWl9WZw?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "28. Sep 2026"
+        },
+        {
+          "title": "Straßenerhaltungsdienst: Lehrling Julian Grein holt Staatsmeistertitel für die Steiermark - meinbezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdHBZYjJHZk5PMnlpdVdtTnBMYUFLSjhqS1JDRXFfTjF4X0plREVab3BXSWliLXNoYUJOeFYxNk5GVlNvNnRqTkptNGYzU09NeUxwMmRnbnlUS0ZXTVBDT0R3c1VobEpiYUNXc051ZjR1a3BlVzVKaTRBZUJHWU1ONUlRTWdORnFjcFlMamZxVTYwMnhNNkIxUGZMY0VJZFdhdmxkZzZ5c1VpeDczRDBPOEpEamc4R19NZ0g2ZFVwWnBRMkpldGN3MnlXVQ?oc=5",
-          "source": "MeinBezirk.at",
+          "source": "meinbezirk.at",
           "date": "23. Sep 2026"
         },
         {
@@ -33,9 +45,9 @@
           "date": "25. Sep 2026"
         },
         {
-          "title": "Baustellen auf der A9: Plabutschtunnel wird für Wartungsarbeiten nachts gesperrt - MeinBezirk.at",
+          "title": "Baustellen auf der A9: Plabutschtunnel wird für Wartungsarbeiten nachts gesperrt - meinbezirk.at",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdVRsMnFrLURSY1pBN0FPZzluYTdGNU1FUTBlckFCdFlsd29PbmVCa0dLaGZTbmZwZVR0eWdUSGFlcmJGQTF5dWRQSXotUUhkc21oM2VjSFdLeXZ2ZVd5UTBlRDBSZ2JPbGpwWW9qTW9ZTzZOQlVxQmlmakhOMWxsVUlRMGgwZzVtc245UFE4dFBqVTlXX1dmY2hOUjR3YmppUVlnZ0xGN2pteGlwZnVzTTJVcW4?oc=5",
-          "source": "MeinBezirk.at",
+          "source": "meinbezirk.at",
           "date": "25. Sep 2026"
         }
       ]
@@ -44,14 +56,21 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Die Steiermark arbeitet daran, Gastgeber und Tourismusunternehmen besser über die Möglichkeiten des öffentlichen Verkehrs zu informieren, um Gäste zum Umstieg auf Öffis zu bewegen. Damit sollen der Verkehrsverbund gestärkt und nachhaltige Mobilität in der Region gefördert werden.",
+      "items": [
+        {
+          "title": "Steirische Gastgeber sollen „öffi-fit“ gemacht werden - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQzV0NkxMMi0zYXpfb0xRc2N4bkdBTHhOQTlhNXktNFozWkxNYlYyekFvdm9QWnRqX2VXaXoyQ2JNVzR6a1ROX1hzalFZcF9zUFhRXy0tX0UySEdLTDJRcEd4M2NPRWVrWkV1dHZKS2IxaE41ekhrOWw5bmwtME9uTkl6Z0RrTldydmR3TXYtdk5rVV9uX3RvR29EUHpsVk0?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "29. Sep 2026"
+        }
+      ]
     },
     "mobilitaet": {
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark arbeitet an der Schließung von Lücken im Radwegnetz und setzt verstärkt auf nachhaltige Mobilitätsangebote, während gleichzeitig Verkehrssicherheitsmaßnahmen wie Wildwarngeräte und Kampagnen gegen Ablenkung im Straßenverkehr intensiviert werden. Mit dem Einsatz von 5.000 Wildwarngeräten und einer Schwerpunktwoche gegen Fahrerablenkung, die jährlich zu Todesfällen führt, versucht das Bundesland, sowohl Mensch als auch Tier vor Unfällen zu bewahren.",
+      "summary": "Die Steiermark arbeitet an der Schließung von Lücken im Radwegnetz und der Förderung nachhaltiger Mobilität, während gleichzeitig Verkehrssicherheitsmaßnahmen wie Wildwarngeräte und Schwerpunktwochen gegen Ablenkung im Straßenverkehr intensiviert werden. Mit innovativen Ansätzen wie der Ausstattung von Jagdrevieren mit Wildwarngeräten und verstärkten Kampagnen gegen Fahrerablenkung versucht das Bundesland, sowohl die Sicherheit von Verkehrsteilnehmern als auch von Wildtieren zu verbessern.",
       "items": [
         {
           "title": "Radwegnetz: Wo in der Steiermark noch Lücken klaffen - Kleine Zeitung",
@@ -72,9 +91,9 @@
           "date": "22. Sep 2026"
         },
         {
-          "title": "Jägerschaft erhielt 5.000 Geräte: Wildwarngeräte sollen Steiermarks Straßen sicherer machen - MeinBezirk.at",
+          "title": "Jägerschaft erhielt 5.000 Geräte: Wildwarngeräte sollen Steiermarks Straßen sicherer machen - meinbezirk.at",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNlBFX0ZFOXd1YnVwNVVTNmtsemxPTDJHcVV2dGJicXF1UjlkM0pBYU9WUGdONHBaY3ZlYzdFRVdyQkJxa1RHTEF3SGdoYjJWbjAta2FSOHozTEpSMktSdUc5Y2ozSFhDNC1GNWplSEY3cXBMcnZ4UDFsaDM4M1g4ZFNMTHR5Zy1NNXVRN0dxWUh1cGs4TC1aUFBTYktNZkRiQ05xQS0wSml2YUprREdhM2l3MjBQdw?oc=5",
-          "source": "MeinBezirk.at",
+          "source": "meinbezirk.at",
           "date": "23. Sep 2026"
         },
         {
@@ -84,16 +103,16 @@
           "date": "24. Sep 2026"
         },
         {
-          "title": "Steiermark rüstet 23 neue Reviere mit Wildwarngeräten aus - nachrichten.jetzt",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUVctWXBXeG04U25jVWdkbWFsTElxNXhJQXpvVGc5SGlqVU05S1QtQU4yR2t4M0xOYUpFRldjbXAyUldXQVhqc0ROVm53VmlORHM1OEhoM0xwMFFzSFJkbnozZWU5eHhLUU1nUDRYUFV0OThISUZFaGcyTmsybWJpY19UdWZHdTdQZFgteEpuZzVpSnpiQVQ3eS13?oc=5",
-          "source": "nachrichten.jetzt",
-          "date": "23. Sep 2026"
-        },
-        {
           "title": "„Im Blindflug“: 21 Menschen starben im Vorjahr durch Ablenkung - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOVNRdFFmYVA5bmFoaVZPMFA5U2VfNzlhdXVzM2dyeTA0SzZkNm82ZHIxMTlPbEZXNHhwaXdYUFBnQ0pPQ01YaFk3cWowcmNxLXF6WldXLUZJYTlMZmczZDl4blBtV01tNS1xSFJRRVRaSUxWQmxjclpKWXhLRklqbGtqNDBod1o3OEhWZkUxODRSTkM1T2Y3dkxCMkpOR2ZhaFRRUmFlMy0?oc=5",
           "source": "Kleine Zeitung",
           "date": "22. Sep 2026"
+        },
+        {
+          "title": "Steiermark rüstet 23 neue Reviere mit Wildwarngeräten aus - nachrichten.jetzt",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUVctWXBXeG04U25jVWdkbWFsTElxNXhJQXpvVGc5SGlqVU05S1QtQU4yR2t4M0xOYUpFRldjbXAyUldXQVhqc0ROVm53VmlORHM1OEhoM0xwMFFzSFJkbnozZWU5eHhLUU1nUDRYUFV0OThISUZFaGcyTmsybWJpY19UdWZHdTdQZFgteEpuZzVpSnpiQVQ3eS13?oc=5",
+          "source": "nachrichten.jetzt",
+          "date": "23. Sep 2026"
         },
         {
           "title": "Mobilitätsfest Bad Mitterndorf: Nachhaltige Mobilität - austria.com",
@@ -107,19 +126,13 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Ich kann diese Anfrage nicht wie gewünscht beantworten, da die beiden Nachrichtentitel nicht die Steiermark betreffen: Der erste Titel behandelt ein Salzburger Amtsgebäude und der zweite einen steirischen Landtag zu Energie Steiermark, aber keinen Hochbau oder Baukultur. Eine aussagekräftige Zusammenfassung zu Landeshochbau und Baukultur in der Steiermark ist daher nicht möglich.",
+      "summary": "Ich muss Sie korrigieren: Der angegebene Nachrichtentitel bezieht sich auf Salzburg-Stadt, nicht auf die Steiermark. Daher kann ich ihn nicht als Experte für steirische Baukultur zusammenfassen, da er außerhalb meines Fachgebietes liegt.",
       "items": [
         {
           "title": "Salzburg-Stadt: Amtsgebäude in der Michael-Pacher-Straße soll an die GSWB verkauft werden - Regionews.at",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORXFZcmU3d0hwVEEwY0NZc0k5amJhdVFfdnN5QXBJblRDVUJLZUMydXRjWFc3dWc0RnFoVnRWNTI4RThvWll0VmxwZ201VU1ZMmJhNEZSRGJhdG94c1BtbTdrMWpadEdoR25Wd1VTSU9DTkNmTko5cHl3c1BwanpTNmlOUEdubG5ON3NieFlZMVlCNDZxWFZnT1pGaVBKTWR1OExMcnFQa1d3eWxJSGNnZWtNNVRSNDRFRlJMa1BR0gG-AUFVX3lxTE5FcVlyZTd3SHBUQTBjQ1lzSTlqYmF1UV92c3lBcEluVENVQktlQzJ1dGNYVzd1ZzRGcWhWdFY1MjhFOG9aWXRWbHBnbTVVTVkyYmE0RlJEYmF0b3hzUG1tN2sxalp0R2hHblZ3VVNJT0NOQ2ZOSjlweXdzUHBqelM2aU5QR25sbk43c2J4WVkxWUI0NnFYVmdPWkZpUEpNZHU4TExycVBrV3d5bElIY2dla001VFI0NEVGUkxrUFE?oc=5",
           "source": "Regionews.at",
           "date": "26. Sep 2026"
-        },
-        {
-          "title": "66 Fragen zur Energie Steiermark: Am Dienstag kommt es zum Sonderlandtag - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaVVIUmlPbkZnLUpxRmlBTk5pejVaS3U2cmJUckhkTy03RVRuMkd0OEE2LVNOX3NMcVRab1BxVEVXbmtONkRTOWktSDM0VEZCVm9KekZXMnNsWWhnM0taTkR5YWEzZGhUelgzOWtEWFgyS05SdVZ3a3Y5OVJLVnVjVTR4a0ZiOVJPaEtpS29obTFONTFJbXBFUENCMllHT0VDSklzRTFNMjNuUGpIMk1HTDJiazYyNnRv?oc=5",
-          "source": "5 Minuten",
-          "date": "21. Sep 2026"
         }
       ]
     },
