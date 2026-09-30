@@ -1,19 +1,13 @@
 {
-  "generated": "29. September 2026, 09:06 UTC",
+  "generated": "30. September 2026, 09:01 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die steirische Straßeninfrastruktur wird durch verschiedene Sanierungsprojekte wie die Andritzer Reichsstraße und den Mühlweg sowie Wartungsarbeiten am Plabutschtunnel vorangetrieben, während gleichzeitig Lücken im Radwegnetz geschlossen und neue Verkehrserschließungen wie die Ausfahrt an der Obdacher Straße realisiert werden. Ergänzend werden Maßnahmen zum Wildtierschutz im Straßenraum umgesetzt und Fachkräfte wie der Staatsmeister Julian Grein die Qualität der Straßenerhaltung sichern.",
+      "summary": "In der Steiermark werden mehrere Infrastrukturprojekte vorangetrieben, darunter der Gehsteigbau an der Andritzer Reichsstraße, eine neue Ausfahrt an der Obdacher Straße sowie Sanierungsarbeiten am Mühlweg. Parallel dazu finden Wartungsarbeiten im Plabutschtunnel der A9 statt, während neue Maßnahmen zum Wildtierschutz im Straßenraum implementiert werden.",
       "items": [
-        {
-          "title": "Radwegnetz: Wo in der Steiermark noch Lücken klaffen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUGtGUjVKOXkwdmJpOFBQRTQzVWZYVndUQThKZUNORGpMMTFnUm9pQ2dncVlJekVlWTJvckVpOWpOcWpfSDZodUg2RkxkWWtYWUxXRWJPYjZmeGszamdGNDBoYWMzZmNxeUNlVGxQQWlGXzE5RjhzVU1WbzI0MHhhRHdVc1ZhdEliMGdXWDItZ0xxSE52Z21oR25WbTVtcWs?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "25. Sep 2026"
-        },
         {
           "title": "Andritzer Reichsstraße: Geforderter Gehsteig wird endlich gebaut - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeUx2NzB0WFlhNW5zLTJDTnAxNXY2LXhBUXY4R0lLX1pBWUFDUnV6QXRNVzBMQ0piMVJRN1RfaWM0c2dsX1BtRXhaeEIyN0pxYWRPRnhPdmZSZkdsakFhSTFxanNsOVdlN1pZSTBrMS1kVEVYZC1Ya255bzduTG13Uk5ha21obVFIRzdIbzFrREZwdEpKSThicjBzUmNtbjg2ejhIek01LUY1Yy0ta0c4?oc=5",
@@ -27,10 +21,10 @@
           "date": "28. Sep 2026"
         },
         {
-          "title": "Straßenerhaltungsdienst: Lehrling Julian Grein holt Staatsmeistertitel für die Steiermark - meinbezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdHBZYjJHZk5PMnlpdVdtTnBMYUFLSjhqS1JDRXFfTjF4X0plREVab3BXSWliLXNoYUJOeFYxNk5GVlNvNnRqTkptNGYzU09NeUxwMmRnbnlUS0ZXTVBDT0R3c1VobEpiYUNXc051ZjR1a3BlVzVKaTRBZUJHWU1ONUlRTWdORnFjcFlMamZxVTYwMnhNNkIxUGZMY0VJZFdhdmxkZzZ5c1VpeDczRDBPOEpEamc4R19NZ0g2ZFVwWnBRMkpldGN3MnlXVQ?oc=5",
-          "source": "meinbezirk.at",
-          "date": "23. Sep 2026"
+          "title": "Mühlweg gesperrt: Straßenerhaltung und Sanierung - austria.com",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTjJiR3dQaktGYkpzb0ZFRXVkdWxrOHdPWDRrdm13eDA1X1UxeGc5MTF6Mm9SSkl6OVl5aVhWaUF3aUlpNmZhaDJiTVQ1VzZRTUtFUTM1WEtPOEtqSWpqelJYdWtfTTRDSXRKMlRncjdGTi11UnQ1d0xnZ3ZHQUhvX2oxUGpoU0ll?oc=5",
+          "source": "austria.com",
+          "date": "25. Sep 2026"
         },
         {
           "title": "23 neue Reviere beteiligen sich an Wildtierschutz im Straßenraum - Kleine Zeitung",
@@ -39,16 +33,16 @@
           "date": "23. Sep 2026"
         },
         {
-          "title": "Mühlweg gesperrt: Straßenerhaltung und Sanierung - austria.com",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTjJiR3dQaktGYkpzb0ZFRXVkdWxrOHdPWDRrdm13eDA1X1UxeGc5MTF6Mm9SSkl6OVl5aVhWaUF3aUlpNmZhaDJiTVQ1VzZRTUtFUTM1WEtPOEtqSWpqelJYdWtfTTRDSXRKMlRncjdGTi11UnQ1d0xnZ3ZHQUhvX2oxUGpoU0ll?oc=5",
-          "source": "austria.com",
+          "title": "A9: Wartungsarbeiten im Plabutschtunnel - ÖAMTC",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUDFaVV93RTJpeXNEN0lPOVFhVDBpUG9Ra3JOZE9lZjRycnFzUERFa0Jzc1JPeTdVVFc1a0ZZbkl0UWw5V1hfRFlYWHJrcnY3bDFYVWdhQWdUdmpzNUYtaU1weDlwUW9JSVp4X2VTVzl1WXo3ZTJTQnFMOUtnd04tSjJ6QXoxLVEtOHQ3ZGRR?oc=5",
+          "source": "ÖAMTC",
           "date": "25. Sep 2026"
         },
         {
-          "title": "Baustellen auf der A9: Plabutschtunnel wird für Wartungsarbeiten nachts gesperrt - meinbezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdVRsMnFrLURSY1pBN0FPZzluYTdGNU1FUTBlckFCdFlsd29PbmVCa0dLaGZTbmZwZVR0eWdUSGFlcmJGQTF5dWRQSXotUUhkc21oM2VjSFdLeXZ2ZVd5UTBlRDBSZ2JPbGpwWW9qTW9ZTzZOQlVxQmlmakhOMWxsVUlRMGgwZzVtc245UFE4dFBqVTlXX1dmY2hOUjR3YmppUVlnZ0xGN2pteGlwZnVzTTJVcW4?oc=5",
-          "source": "meinbezirk.at",
-          "date": "25. Sep 2026"
+          "title": "„Der ganze Abschnitt ist gesperrt“: Einsatz in Lieboch wirft Fragen auf - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUmJadlRBeHpSM0pLZmtWMHhJcnZiWFpLcG5jOFllTVVDMlVkR2NZYVUzeXVxX3lhNExXREJocVFIbzRLaG9Mc1RPdEJYQlV4eVQyM1EwM2ZFWHlVVUt0LWdNdlRmVTliOXdCXzNvWUgtWUJwQm1ZWVMtUU5yc1doeDhLeGVaN3MxaGFzMFRFSVIxeGhyNHBXMFFEYmxzWng3SGZwVkdTT1BUUQ?oc=5",
+          "source": "5 Minuten",
+          "date": "24. Sep 2026"
         }
       ]
     },
@@ -56,12 +50,18 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Steiermark arbeitet daran, Gastgeber und Tourismusunternehmen besser über die Möglichkeiten des öffentlichen Verkehrs zu informieren, um Gäste zum Umstieg auf Öffis zu bewegen. Damit sollen der Verkehrsverbund gestärkt und nachhaltige Mobilität in der Region gefördert werden.",
+      "summary": "Die Steiermark arbeitet daran, Gastgeber im Tourismus für die Nutzung öffentlicher Verkehrsmittel zu sensibilisieren und auszubilden. In Wildon stehen Bahnausbauprojekte auf der Agenda, die von Bürgermeister Grassmugg als wichtige Zukunftsinvestitionen für die Region vorangetrieben werden.",
       "items": [
         {
           "title": "Steirische Gastgeber sollen „öffi-fit“ gemacht werden - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQzV0NkxMMi0zYXpfb0xRc2N4bkdBTHhOQTlhNXktNFozWkxNYlYyekFvdm9QWnRqX2VXaXoyQ2JNVzR6a1ROX1hzalFZcF9zUFhRXy0tX0UySEdLTDJRcEd4M2NPRWVrWkV1dHZKS2IxaE41ekhrOWw5bmwtME9uTkl6Z0RrTldydmR3TXYtdk5rVV9uX3RvR29EUHpsVk0?oc=5",
           "source": "Kleine Zeitung",
+          "date": "29. Sep 2026"
+        },
+        {
+          "title": "Zukunft in Wildon: Bürgermeister Grassmugg über Projekte, Bahnausbau und Jubiläum - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc191aUMwdGVPVmJkTFYtTVZRZUx6cUd5eklqa2lubUNPNjUxemM1S3hLNm5CQTN3V295RUtVQ3dmMDZJNmF1aXJoZWJZS1dqek1EVmN2RUUwaTZTZk52Z1l3TXF3TGpfWWtNR0NrMDB6akM1bHM4eXlockU1UWJYM2NsSFpDVi1jTXRnU0ZFcDlfUGVPbERKRTl4ZUljNGh0bHhfTy0wOUxaWk1MMTQ2b2ZPa3BWVTYyNnc?oc=5",
+          "source": "MeinBezirk.at",
           "date": "29. Sep 2026"
         }
       ]
@@ -70,8 +70,14 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark arbeitet an der Schließung von Lücken im Radwegnetz und der Förderung nachhaltiger Mobilität, während gleichzeitig Verkehrssicherheitsmaßnahmen wie Wildwarngeräte und Schwerpunktwochen gegen Ablenkung im Straßenverkehr intensiviert werden. Mit innovativen Ansätzen wie der Ausstattung von Jagdrevieren mit Wildwarngeräten und verstärkten Kampagnen gegen Fahrerablenkung versucht das Bundesland, sowohl die Sicherheit von Verkehrsteilnehmern als auch von Wildtieren zu verbessern.",
+      "summary": "Die Steiermark arbeitet an der Verbesserung ihrer nachhaltigen Mobilitätsinfrastruktur, indem lokale Mobilitätskonzepte wie SAM etabliert werden und Lücken im Radwegenetz geschlossen werden sollen. Parallel dazu werden Maßnahmen zur Verkehrssicherheit umgesetzt, etwa durch die Ausstattung von Jagdrevieren mit Wildwarngeräten, um die täglich zahlreichen Wildunfälle auf steirischen Straßen zu reduzieren.",
       "items": [
+        {
+          "title": "Mein Rohrbach an der Lafnitz: Mobilitätskonzept SAM soll bleiben - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdWYtQ2RqLVFBZ3lJTnB0dWU5ekVSRE1TMmhFYnpJdGxZaUNWLXZyTjhUTndaSmFnZEluSS1RTGFuSzgtQU8tdDFlVklOSk1RNjNjWTROeUI5bWxBcnFwVEdDazFiWXRTMWZMY2pRVENuZUFMeTJhdlVZX1BsdzhzR2lBOFFQQ283bk4xZnMycmxnenRycG9iWGVBUnFsWGJiUHNaUw?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "30. Sep 2026"
+        },
         {
           "title": "Radwegnetz: Wo in der Steiermark noch Lücken klaffen - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUGtGUjVKOXkwdmJpOFBQRTQzVWZYVndUQThKZUNORGpMMTFnUm9pQ2dncVlJekVlWTJvckVpOWpOcWpfSDZodUg2RkxkWWtYWUxXRWJPYjZmeGszamdGNDBoYWMzZmNxeUNlVGxQQWlGXzE5RjhzVU1WbzI0MHhhRHdVc1ZhdEliMGdXWDItZ0xxSE52Z21oR25WbTVtcWs?oc=5",
@@ -85,28 +91,16 @@
           "date": "23. Sep 2026"
         },
         {
-          "title": "Jeder dritte Unfall durch Ablenkung: Steiermark startet Schwerpunktwoche im Straßenverkehr - KFV - Kuratorium für Verkehrssicherheit",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SalJ0bDNZdjlRb0JLN2RIdnM4UFlZMGp3Z3p1aE1HT3VySnBqSGxrdjIyOXM4ZW1GTFRjdndZUVYxaHdLVlhvUVNJUHlxRXlQUXdMbndHWTJXWXZwSVJHNkIyWEhacHNiUlo3TEw2SHhFd1VHajVFMnQyVHVYZw?oc=5",
-          "source": "KFV - Kuratorium für Verkehrssicherheit",
-          "date": "22. Sep 2026"
-        },
-        {
-          "title": "Jägerschaft erhielt 5.000 Geräte: Wildwarngeräte sollen Steiermarks Straßen sicherer machen - meinbezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNlBFX0ZFOXd1YnVwNVVTNmtsemxPTDJHcVV2dGJicXF1UjlkM0pBYU9WUGdONHBaY3ZlYzdFRVdyQkJxa1RHTEF3SGdoYjJWbjAta2FSOHozTEpSMktSdUc5Y2ozSFhDNC1GNWplSEY3cXBMcnZ4UDFsaDM4M1g4ZFNMTHR5Zy1NNXVRN0dxWUh1cGs4TC1aUFBTYktNZkRiQ05xQS0wSml2YUprREdhM2l3MjBQdw?oc=5",
-          "source": "meinbezirk.at",
-          "date": "23. Sep 2026"
-        },
-        {
           "title": "Alle acht Minuten stirbt ein Wildtier auf der Straße – was tun? - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM1pHdTBoMG1KUENGWkJiOVVtRFBhSnNkaElGWG9BVUY3clNhOTRGQjFEUnJrY1ctNUtzV0l3SkdxM0ZyQ1lyNkVlZVFnV25PdHVQdUd6cnJiaWZJeHBrckpLUEw1Tms0QUN6eHRndjVhT0JYV3JnYVBjaWNVLTZaR0ZsbExtZ2ZsbU5IT2RrZTBWY1M0bGY4QnRsMjVXSDE1M0thNW5FVXFUV0U?oc=5",
           "source": "Kleine Zeitung",
           "date": "24. Sep 2026"
         },
         {
-          "title": "„Im Blindflug“: 21 Menschen starben im Vorjahr durch Ablenkung - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOVNRdFFmYVA5bmFoaVZPMFA5U2VfNzlhdXVzM2dyeTA0SzZkNm82ZHIxMTlPbEZXNHhwaXdYUFBnQ0pPQ01YaFk3cWowcmNxLXF6WldXLUZJYTlMZmczZDl4blBtV01tNS1xSFJRRVRaSUxWQmxjclpKWXhLRklqbGtqNDBod1o3OEhWZkUxODRSTkM1T2Y3dkxCMkpOR2ZhaFRRUmFlMy0?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "22. Sep 2026"
+          "title": "Jägerschaft erhielt 5.000 Geräte: Wildwarngeräte sollen Steiermarks Straßen sicherer machen - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNlBFX0ZFOXd1YnVwNVVTNmtsemxPTDJHcVV2dGJicXF1UjlkM0pBYU9WUGdONHBaY3ZlYzdFRVdyQkJxa1RHTEF3SGdoYjJWbjAta2FSOHozTEpSMktSdUc5Y2ozSFhDNC1GNWplSEY3cXBMcnZ4UDFsaDM4M1g4ZFNMTHR5Zy1NNXVRN0dxWUh1cGs4TC1aUFBTYktNZkRiQ05xQS0wSml2YUprREdhM2l3MjBQdw?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "23. Sep 2026"
         },
         {
           "title": "Steiermark rüstet 23 neue Reviere mit Wildwarngeräten aus - nachrichten.jetzt",
@@ -126,15 +120,8 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Ich muss Sie korrigieren: Der angegebene Nachrichtentitel bezieht sich auf Salzburg-Stadt, nicht auf die Steiermark. Daher kann ich ihn nicht als Experte für steirische Baukultur zusammenfassen, da er außerhalb meines Fachgebietes liegt.",
-      "items": [
-        {
-          "title": "Salzburg-Stadt: Amtsgebäude in der Michael-Pacher-Straße soll an die GSWB verkauft werden - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORXFZcmU3d0hwVEEwY0NZc0k5amJhdVFfdnN5QXBJblRDVUJLZUMydXRjWFc3dWc0RnFoVnRWNTI4RThvWll0VmxwZ201VU1ZMmJhNEZSRGJhdG94c1BtbTdrMWpadEdoR25Wd1VTSU9DTkNmTko5cHl3c1BwanpTNmlOUEdubG5ON3NieFlZMVlCNDZxWFZnT1pGaVBKTWR1OExMcnFQa1d3eWxJSGNnZWtNNVRSNDRFRlJMa1BR0gG-AUFVX3lxTE5FcVlyZTd3SHBUQTBjQ1lzSTlqYmF1UV92c3lBcEluVENVQktlQzJ1dGNYVzd1ZzRGcWhWdFY1MjhFOG9aWXRWbHBnbTVVTVkyYmE0RlJEYmF0b3hzUG1tN2sxalp0R2hHblZ3VVNJT0NOQ2ZOSjlweXdzUHBqelM2aU5QR25sbk43c2J4WVkxWUI0NnFYVmdPWkZpUEpNZHU4TExycVBrV3d5bElIY2dla001VFI0NEVGUkxrUFE?oc=5",
-          "source": "Regionews.at",
-          "date": "26. Sep 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "behoerde_uvp": {
       "label": "Verkehrsbehörde & UVP",
