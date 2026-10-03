@@ -1,19 +1,13 @@
 {
-  "generated": "02. October 2026, 09:02 UTC",
+  "generated": "03. October 2026, 08:34 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "In der Steiermark werden wichtige Infrastrukturprojekte vorangetrieben, darunter der lange geforderte Gehsteigbau an der Andritzer Reichsstraße und eine neue Ausfahrt an der Obdacher Straße für ein Unternehmen. Gleichzeitig zeigt sich in der Region ein positives Engagement junger Fachkräfte im Straßenbau- und Infrastruktursektor.",
+      "summary": "Die Obdacher Straße erhält eine neue Ausfahrt für ein Unternehmen, was die lokale Infrastruktur optimiert. Der Bezirk gelingt es gleichzeitig, junge Fachkräfte für Arbeiten im Straßenbau und der Infrastrukturentwicklung zu gewinnen.",
       "items": [
-        {
-          "title": "Andritzer Reichsstraße: Geforderter Gehsteig wird endlich gebaut - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeUx2NzB0WFlhNW5zLTJDTnAxNXY2LXhBUXY4R0lLX1pBWUFDUnV6QXRNVzBMQ0piMVJRN1RfaWM0c2dsX1BtRXhaeEIyN0pxYWRPRnhPdmZSZkdsakFhSTFxanNsOVdlN1pZSTBrMS1kVEVYZC1Ya255bzduTG13Uk5ha21obVFIRzdIbzFrREZwdEpKSThicjBzUmNtbjg2ejhIek01LUY1Yy0ta0c4?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "29. Sep 2026"
-        },
         {
           "title": "Obdacher Straße: Neue Ausfahrt für ein Unternehmen - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ2tJRFF4dFNtOFhwaVZmSnU2a1Y2U01ZS1JZM2gtYWlIcWc2aEFrdXF0Z1dIb0Nla3NWOGdIaGhubEpISy01U1VaVzhkV0tsbHBCY3haUmd1ZFhJd0d0cXp3WURTUnB6dFdqZ2wzQ1llcDRnR3plQV9IWHVLYWdxeDdkeDFlZ1VMSFNKM2VXMWZzMTdxS3pHVWRPWl9WZw?oc=5",
@@ -32,7 +26,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Steiermark arbeitet daran, Gastgeber im Tourismus für die Nutzung öffentlicher Verkehrsmittel zu sensibilisieren und fit zu machen. In Wildon stehen Bahnausbauprojekte auf der Agenda, die von Bürgermeister Grassmugg als wichtige Zukunftsinvestitionen für die Region vorangetrieben werden.",
+      "summary": "Die Steiermark arbeitet daran, Gastgeber im Tourismus für den öffentlichen Verkehr zu sensibilisieren, während gleichzeitig der Bahnausbau in der Region vorangetrieben wird. Die Bundesländer fordern eine Vereinfachung des Ticketsystems auf der Koralmbahn, damit Klimatickets für die gesamte Fahrt gültig sind und der aktuelle „Ticket-Irrsinn\" mit unterschiedlichen ÖBB-Regelungen endlich abgeschafft wird.",
       "items": [
         {
           "title": "Steirische Gastgeber sollen „öffi-fit“ gemacht werden - Kleine Zeitung",
@@ -45,6 +39,24 @@
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc191aUMwdGVPVmJkTFYtTVZRZUx6cUd5eklqa2lubUNPNjUxemM1S3hLNm5CQTN3V295RUtVQ3dmMDZJNmF1aXJoZWJZS1dqek1EVmN2RUUwaTZTZk52Z1l3TXF3TGpfWWtNR0NrMDB6akM1bHM4eXlockU1UWJYM2NsSFpDVi1jTXRnU0ZFcDlfUGVPbERKRTl4ZUljNGh0bHhfTy0wOUxaWk1MMTQ2b2ZPa3BWVTYyNnc?oc=5",
           "source": "MeinBezirk.at",
           "date": "29. Sep 2026"
+        },
+        {
+          "title": "Koralmbahn: Länder wollen ÖBB-Ticketregel abschaffen - inside-graz.at",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQjEyZWtNR1laUWZ1RDZpT3E1RlVmd3NHNzYzZnFuNFVBZWIwMmx6VVlkUnZCN0lUYnpFSmNvRHE2eFVjNkdGdmhQVXRuLVBLVVBlb09MVHB6R1pleHdYaldaVmlKZGJWcmE0d2Q4ZlJiUkZnYk5PNG5WblB6MGpGUUtHXzFJVExablJPRXhvS2pPWjR2VGpuOUtWYw?oc=5",
+          "source": "inside-graz.at",
+          "date": "3. Oct 2026"
+        },
+        {
+          "title": "Koralmbahn: Klimatickets sollen künftig für die ganze Fahrt reichen - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWXhXdlVVemp2Q1pYUlNaTFFNSE5NdUg1SndXb3AzdXVyTE42NFg0NHdoWDdwY1I2LWUxemtVUjNTcWduM3lSLUwtcktaRkprTEM0OGg2V1Z5TDl0WVRQdFd0dm9NX2xzLTRPSDljZXYwZ1N5TnlPWTJPSHdkLVRxOUtrMUFnRFJPR1RPSThiQlNkQlVTeWFoMVBwZER5REFQRjlmTWdfZlBNTWNnajB3SWc2c3U?oc=5",
+          "source": "5 Minuten",
+          "date": "2. Oct 2026"
+        },
+        {
+          "title": "Bundesländer fordern Ende des „Ticket-Irrsinns“ auf der Koralmbahn - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcmtpeGl6Y1ZZODRGOHBrb3VqckxtMW5wcElDVVdoQ2o4dzNFZE1XYW5LMkM2SEJjQVh5c2hxcGZZLXRHakwwbHNSVXM0a2Q5b1p2elJFWHpiRFpiODVrbTRzLVJJLTRiWHdTZ3ZJcGc4blJoNUl0UW5Ja1dUeWx4U2JyRWtVNTFaekZzRHNYZTMxbk93NzdwY3hwRGkwZ1dNQ2t1QUtwanprTDMwblBoTg?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "2. Oct 2026"
         }
       ]
     },
@@ -52,19 +64,13 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Das Mobilitätskonzept SAM in Rohrbach an der Lafnitz hat sich bewährt und soll fortgeführt werden, um nachhaltige Mobilität in der Region zu sichern. Gleichzeitig zeigen sich beim steirischen Radwegnetz noch erhebliche Lücken, die für eine flächendeckende und sichere Radinfrastruktur geschlossen werden müssen.",
+      "summary": "Das Mobilitätskonzept SAM in Rohrbach an der Lafnitz hat sich als erfolgreiche Initiative für nachhaltige Verkehrslösungen etabliert und soll dauerhaft beibehalten werden. Die Gemeinde bekennt sich damit zu einer zukunftsorientierten Verkehrsplanung, die umweltfreundliche Mobilität fördert und die Lebensqualität vor Ort verbessert.",
       "items": [
         {
           "title": "Mein Rohrbach an der Lafnitz: Mobilitätskonzept SAM soll bleiben - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdWYtQ2RqLVFBZ3lJTnB0dWU5ekVSRE1TMmhFYnpJdGxZaUNWLXZyTjhUTndaSmFnZEluSS1RTGFuSzgtQU8tdDFlVklOSk1RNjNjWTROeUI5bWxBcnFwVEdDazFiWXRTMWZMY2pRVENuZUFMeTJhdlVZX1BsdzhzR2lBOFFQQ283bk4xZnMycmxnenRycG9iWGVBUnFsWGJiUHNaUw?oc=5",
           "source": "MeinBezirk.at",
           "date": "30. Sep 2026"
-        },
-        {
-          "title": "Radwegnetz: Wo in der Steiermark noch Lücken klaffen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUGtGUjVKOXkwdmJpOFBQRTQzVWZYVndUQThKZUNORGpMMTFnUm9pQ2dncVlJekVlWTJvckVpOWpOcWpfSDZodUg2RkxkWWtYWUxXRWJPYjZmeGszamdGNDBoYWMzZmNxeUNlVGxQQWlGXzE5RjhzVU1WbzI0MHhhRHdVc1ZhdEliMGdXWDItZ0xxSE52Z21oR25WbTVtcWs?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "25. Sep 2026"
         }
       ]
     },
@@ -72,8 +78,14 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Ich kann diese Aufgabe nicht wie angefordert erfüllen, da der angegebene Nachrichtentitel sich auf ein privates Logistik- und Produktionsunternehmen bezieht und nicht auf Landeshochbau, Schulbauten, öffentliche Gebäude oder Baukultur in der Steiermark. Das Projekt fällt daher nicht in mein angegebenes Fachgebiet.",
+      "summary": "Das Krankenhaus der Elisabethinen setzt bei seiner Erweiterung auf nachhaltiges Bauen mit Holz als Konstruktionsmaterial. Lugitsch investiert millionenschwer in die Modernisierung seiner Eierlogistik-Infrastruktur und steigert damit die Kapazität auf 90.000 Eier pro Stunde.",
       "items": [
+        {
+          "title": "Krankenhaus der Elisabethinen mit Holzbau erweitert - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMkZVMWtxZWlWYlU1ZkwtS3ZKRldQR216UThDMms1bEYzMHdfWkZucnNCbTVIZlBqWlVhZVJDUXRZeThydU1FM2tyRVM2enZseHVBVVNfeEZwRE5tb1plQkd2WmtwcGZobllwRmJiY19Yal96bmZwbGQ0aGhqSEd5SFRObWFleEZma1Z1V0dVWWFZUmt6WmZuYkR5Z1hpMnFYeU0tbm9MU29DV2pFNVVJTXllTW9MbjQwXy1TM3RDaWE?oc=5",
+          "source": "ORF ON",
+          "date": "2. Oct 2026"
+        },
         {
           "title": "Millionen-Investition: Lugitsch modernisiert Eierlogistik – 90.000 Eier pro Stunde - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPazRRNHY0eEptS2duVVhwUEdjWTZFaVBVRWNfdzFpanA5Q2VXaGxPNThQek1Yd1FxbkJJbW80cnBORjh6dDh0cEFTWWRWWFVITk1vbGRpc3lPUDl3LWlBRnk2YVN5QkdsR25GUi1yS3lLcEU4UW4zbkt4cEFTU2lXOERJcXlLRXVUNzluLUFIWER6QXBLeHZyY25zbDVJb3kwaDNkcmN3bkVmX1BRSzhIbVpkQ0hTeXoxYXRoSnc1SQ?oc=5",
@@ -86,7 +98,7 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Die Steiermark kritisiert die zu kurze Übergangsfrist für die Regelung von E-Mopeds im Straßenverkehr, die eine angemessene Vorbereitung der Behörden und Verkehrsteilnehmer gefährdet. Die Verkehrsbehörde fordert eine Verlängerung der Frist, um die neuen Bestimmungen ordnungsgemäß umsetzen und kommunizieren zu können.",
+      "summary": "Die Steiermark kritisiert die zu kurze Übergangsfrist für die Regelung von E-Mopeds, die eine schnellere Anpassung der Verkehrsbehörden und Betreiber an neue Vorschriften erfordert. Die Kritik deutet auf Defizite bei der Abstimmung zwischen Bundes- und Landesebene hin, da die praktische Umsetzung neuer Verkehrsbestimmungen mehr Vorbereitungszeit benötigt.",
       "items": [
         {
           "title": "E-Mopeds: Kritik an kurzer Übergangsfrist - steiermark.ORF.at",
