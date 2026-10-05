@@ -1,19 +1,13 @@
 {
-  "generated": "04. October 2026, 08:50 UTC",
+  "generated": "05. October 2026, 09:37 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "In der Steiermark finden derzeit verschiedene Infrastrukturmaßnahmen statt, darunter die Schaffung einer neuen Ausfahrt an der Obdacher Straße für ein Unternehmen sowie Wartungsarbeiten im Plabutschtunnel der A9. Daneben werden auch andere öffentliche Einrichtungen wie eine neue Polizeiinspektion in Trieben eröffnet und Fachkräfte in der Region gewonnen.",
+      "summary": "In der Steiermark finden derzeit Wartungsarbeiten im Plabutschtunnel an der A9 statt, während auf der B66 ein schwerer Frontalzusammenstoß zwei Motorradfahrer verletzt hat. Der Graz-Marathon am 11. Oktober und Bemühungen zur Gewinnung junger Fachkräfte im Straßeninfrastrukturbereich prägen das aktuelle Geschehen in der Region.",
       "items": [
-        {
-          "title": "Obdacher Straße: Neue Ausfahrt für ein Unternehmen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ2tJRFF4dFNtOFhwaVZmSnU2a1Y2U01ZS1JZM2gtYWlIcWc2aEFrdXF0Z1dIb0Nla3NWOGdIaGhubEpISy01U1VaVzhkV0tsbHBCY3haUmd1ZFhJd0d0cXp3WURTUnB6dFdqZ2wzQ1llcDRnR3plQV9IWHVLYWdxeDdkeDFlZ1VMSFNKM2VXMWZzMTdxS3pHVWRPWl9WZw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "28. Sep 2026"
-        },
         {
           "title": "Junge Fachkräfte im Bezirk wissen zu begeistern - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVi0zeDhOczNraGFkcWpMUW9rNHZNYUdMREdFZzFwUWMyX2p0ZWlKZXl3YXo2YzlIY0pQQjlMaHFZdGJZQ0hLQkJseFFudjRvVVZ4YWh5bUJ2cHAzLU1zdTRjbE10V1E2U2l1dEtsTlUxdmhCQ2NrVlBQSFY0WFpVcWZIMFJxZHBPazlIWE5yQmw3dUVrYXd1aDhR?oc=5",
@@ -21,15 +15,21 @@
           "date": "1. Oct 2026"
         },
         {
-          "title": "A9: Wartungsarbeiten im Plabutschtunnel - oeamtc.at",
+          "title": "A9: Wartungsarbeiten im Plabutschtunnel - ÖAMTC",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUDFaVV93RTJpeXNEN0lPOVFhVDBpUG9Ra3JOZE9lZjRycnFzUERFa0Jzc1JPeTdVVFc1a0ZZbkl0UWw5V1hfRFlYWHJrcnY3bDFYVWdhQWdUdmpzNUYtaU1weDlwUW9JSVp4X2VTVzl1WXo3ZTJTQnFMOUtnd04tSjJ6QXoxLVEtOHQ3ZGRR?oc=5",
-          "source": "oeamtc.at",
+          "source": "ÖAMTC",
           "date": "2. Oct 2026"
         },
         {
-          "title": "Neue Polizeiinspektion in Trieben feierlich eröffnet - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWndDbEtaaHl4bVJiUVMwS1hPS2FkZ2dkd0x1WTlsM1BTUDJNREE5MGhGMEJKbGx2VnJIa2tCSG10Y25OWktTWWc0azVaMEtuc1lnTURwYkRVbVRaaGYtOHQtUWpUUUNtbEZRcmg2czVVMUNWcVkzbzZBQ1M3b2IwTk5laC1hQU9sTDlvWXZla3lKZkprOGVKUFd6bHlsVGli?oc=5",
-          "source": "5 Minuten",
+          "title": "Schwerer Unfall in Steiermark: Frontalzusammenstoß auf B66 fordert zwei Motorradfahrer verletzt - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdWphb2dGSkZWckRsb3BSVVJLOVRuSFJJcDV6S2ROUGVCSkh4a3hrYnhhcGpINElYdXpXRW1USnItZFA1bE1lYi12WjZWcjV0VUl2V1UyR0VzcU9Xd1dQZkFSQjF2SDhYZGk5TzZVWm80V0F4b0dpcXgzaUJKUG9HOXRxdWlTLS1hSWJaQUFqVGJvQWZneTVQbUZxYXZKSVJ0RkxPQ1pmRkJUbE5WcXJiQ3R3Y2hiWEx3dmgxN1FKSGYwU1VQblZaVm5hSjhFYlE0VzJmYjhn?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "5. Oct 2026"
+        },
+        {
+          "title": "Graz-Marathon am 11. Oktober - ÖAMTC",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZSnRJLWdqZ0ljZ3RrM0tzaWNLVzdUS1dVZzBJelVVRUtOOVliVjVDTW5lNlNkcVhMVkdXQm50eWNkRFVuUUVUT1ByY0JhX21jeEZiOF9PTjV6RTNRbnc2QVdpU0FQYlE0UkttOE02Y2REQkdJcDRONVYzZUl2VGM?oc=5",
+          "source": "ÖAMTC",
           "date": "2. Oct 2026"
         }
       ]
@@ -38,7 +38,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Steiermark arbeitet daran, Gastgeber im Tourismus für den öffentlichen Verkehr zu sensibilisieren, während gleichzeitig der Bahnausbau vorangetrieben wird. Die Bundesländer fordern eine Vereinfachung der Ticketregeln auf der Koralmbahn, damit Klimatickets für die gesamte Fahrt gültig sind und der aktuelle „Ticket-Irrsinn\" beendet wird.",
+      "summary": "Die Steiermark arbeitet daran, Gastgeber im Tourismus für den öffentlichen Verkehr zu sensibilisieren, während gleichzeitig ein massiver Konflikt um die Ticketregelung auf der Koralmbahn eskaliert, da Bundesländer das uneinheitliche Tarifsystem und das Stückelungsverbot abschaffen wollen. Der Bahnausbau in der Region, insbesondere in Wildon, soll vorangetrieben werden, wobei die Klimatickets zukünftig für komplette Fahrten auf der Koralmbahn gelten sollen, um das Verkehrssystem attraktiver und kundenfreundlicher zu gestalten.",
       "items": [
         {
           "title": "Steirische Gastgeber sollen „öffi-fit“ gemacht werden - Kleine Zeitung",
@@ -47,16 +47,22 @@
           "date": "29. Sep 2026"
         },
         {
+          "title": "Bundesländer fordern Ende des „Ticket-Irrsinns“ auf der Koralmbahn - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcmtpeGl6Y1ZZODRGOHBrb3VqckxtMW5wcElDVVdoQ2o4dzNFZE1XYW5LMkM2SEJjQVh5c2hxcGZZLXRHakwwbHNSVXM0a2Q5b1p2elJFWHpiRFpiODVrbTRzLVJJLTRiWHdTZ3ZJcGc4blJoNUl0UW5Ja1dUeWx4U2JyRWtVNTFaekZzRHNYZTMxbk93NzdwY3hwRGkwZ1dNQ2t1QUtwanprTDMwblBoTg?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "2. Oct 2026"
+        },
+        {
           "title": "Zukunft in Wildon: Bürgermeister Grassmugg über Projekte, Bahnausbau und Jubiläum - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc191aUMwdGVPVmJkTFYtTVZRZUx6cUd5eklqa2lubUNPNjUxemM1S3hLNm5CQTN3V295RUtVQ3dmMDZJNmF1aXJoZWJZS1dqek1EVmN2RUUwaTZTZk52Z1l3TXF3TGpfWWtNR0NrMDB6akM1bHM4eXlockU1UWJYM2NsSFpDVi1jTXRnU0ZFcDlfUGVPbERKRTl4ZUljNGh0bHhfTy0wOUxaWk1MMTQ2b2ZPa3BWVTYyNnc?oc=5",
           "source": "MeinBezirk.at",
           "date": "29. Sep 2026"
         },
         {
-          "title": "Koralmbahn: Länder wollen ÖBB-Ticketregel abschaffen - inside-graz.at",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQjEyZWtNR1laUWZ1RDZpT3E1RlVmd3NHNzYzZnFuNFVBZWIwMmx6VVlkUnZCN0lUYnpFSmNvRHE2eFVjNkdGdmhQVXRuLVBLVVBlb09MVHB6R1pleHdYaldaVmlKZGJWcmE0d2Q4ZlJiUkZnYk5PNG5WblB6MGpGUUtHXzFJVExablJPRXhvS2pPWjR2VGpuOUtWYw?oc=5",
-          "source": "inside-graz.at",
-          "date": "3. Oct 2026"
+          "title": "Zwist um Koralmbahn-Ticket: Bundesländer fordern geeint Ende des Stückelungsverbotes - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN0MzYzNqdHZVUXk5WklwOUxWN3lYRTJQR01NajdrUmRqb3Fyck9wSW9hZlM5bjZXUENWM3lqaHgyYnRjSVNhamxCMHBQOTNqY0ZDNVhmS2JjTnllRWJtS0hpMGhaWVY1azFJZ015R1JvM0hLZUxiRFpsb3Jkd1VUY1JOTW5EOWFCT0xZOXhrQXd5N3pXN2dyLUlYeW1GanY3MVExWkpvTTc0ZW9zejQ5ejRtZmNkc2RER19LSnZfVVlORWM?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "5. Oct 2026"
         },
         {
           "title": "Koralmbahn: Klimatickets sollen künftig für die ganze Fahrt reichen - 5 Minuten",
@@ -65,10 +71,10 @@
           "date": "2. Oct 2026"
         },
         {
-          "title": "Bundesländer fordern Ende des „Ticket-Irrsinns“ auf der Koralmbahn - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcmtpeGl6Y1ZZODRGOHBrb3VqckxtMW5wcElDVVdoQ2o4dzNFZE1XYW5LMkM2SEJjQVh5c2hxcGZZLXRHakwwbHNSVXM0a2Q5b1p2elJFWHpiRFpiODVrbTRzLVJJLTRiWHdTZ3ZJcGc4blJoNUl0UW5Ja1dUeWx4U2JyRWtVNTFaekZzRHNYZTMxbk93NzdwY3hwRGkwZ1dNQ2t1QUtwanprTDMwblBoTg?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "2. Oct 2026"
+          "title": "Koralmbahn: Länder wollen ÖBB-Ticketregel abschaffen - inside-graz.at",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQjEyZWtNR1laUWZ1RDZpT3E1RlVmd3NHNzYzZnFuNFVBZWIwMmx6VVlkUnZCN0lUYnpFSmNvRHE2eFVjNkdGdmhQVXRuLVBLVVBlb09MVHB6R1pleHdYaldaVmlKZGJWcmE0d2Q4ZlJiUkZnYk5PNG5WblB6MGpGUUtHXzFJVExablJPRXhvS2pPWjR2VGpuOUtWYw?oc=5",
+          "source": "inside-graz.at",
+          "date": "3. Oct 2026"
         }
       ]
     },
@@ -76,7 +82,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Das Mobilitätskonzept SAM in Rohrbach an der Lafnitz wird beibehalten, um nachhaltige Verkehrslösungen in der Region zu sichern. Die Steiermark setzt zudem mit 5.000 Wildwarngeräten ein wichtiges Maßnahmenpaket um, um Wildunfälle auf den Straßen zu reduzieren und die Verkehrssicherheit zu erhöhen.",
+      "summary": "Die Steiermark setzt auf umfassende Mobilitätskonzepte wie SAM in kleineren Gemeinden und investiert gleichzeitig in innovative Sicherheitsmaßnahmen wie Wildwarngeräte zur Unfallprävention. Durch gezielte Überprüfungen von Straßenabschnitten wie der Breitenauer Straße wird die Verkehrssicherheit kontinuierlich verbessert.",
       "items": [
         {
           "title": "Mein Rohrbach an der Lafnitz: Mobilitätskonzept SAM soll bleiben - MeinBezirk.at",
@@ -89,6 +95,12 @@
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeHhfQWI5amYxZ1JFcEJ2V290ejBnWnVMeUZzampudy1pWU9DVjdIZWZFelFKWnF2Q3VybTROem9Ta1pXM3V4Y0xPQWNWNHlMZlc1YzY5V1IwNEI5bEpZYVNsTjJ1cDdDLTlLcm85RFpHeWFmeUR3dlduYnczM1lWZEY3a09EN0NfM2JGU1h0dVlFbWJuM1MxTEVYVms?oc=5",
           "source": "austria.com",
           "date": "2. Oct 2026"
+        },
+        {
+          "title": "Mehr Verkehrssicherheit: Breitenauer Straße unter die Lupe genommen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZDZucWoxUko1Q3VCNjhwWUtaMm9mb19Nc3JReDJGWlU0YmYxdlF5Wlo0U0tMTXMtN1RpWTlLQ29tZkR4MTJiQ2p5U193RFowOVN1aDMyblJlYUcxTENNTHBCQ096TGJHTFhGczhrU2R3NnZZUlc2X3dlbWhMOE5sVUhoVGpqSzVHeHJfZHExOHFzUnBkZ0RMOGluRlhybFVOT1ByRXVzanlUdENhRS05Ym1BNA?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "4. Oct 2026"
         }
       ]
     },
@@ -96,7 +108,7 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Elisabethinen in Graz haben einen modernen Neubau eröffnet, der das Krankenhaus erweitert und zeitgemäße medizinische Infrastruktur schafft. Die Erweiterung setzt dabei auf nachhaltiges Bauen mit Holz und demonstriert damit innovative Baukultur im steirischen Hochbau.",
+      "summary": "Die Elisabethinen in Graz haben einen modernen Neubau eröffnet, der das Krankenhaus erweitert. Die Erweiterung zeichnet sich durch die Verwendung von Holz als nachhaltigen Baustoff aus und setzt damit ein Zeichen für zukunftsorientierte Baukultur in der Steiermark.",
       "items": [
         {
           "title": "Elisabethinen Graz eröffnet Neubau - steiermark.ORF.at",
@@ -105,9 +117,9 @@
           "date": "2. Oct 2026"
         },
         {
-          "title": "Krankenhaus der Elisabethinen mit Holzbau erweitert - ORF ON",
+          "title": "Krankenhaus der Elisabethinen mit Holzbau erweitert - on.orf.at",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMkZVMWtxZWlWYlU1ZkwtS3ZKRldQR216UThDMms1bEYzMHdfWkZucnNCbTVIZlBqWlVhZVJDUXRZeThydU1FM2tyRVM2enZseHVBVVNfeEZwRE5tb1plQkd2WmtwcGZobllwRmJiY19Yal96bmZwbGQ0aGhqSEd5SFRObWFleEZma1Z1V0dVWWFZUmt6WmZuYkR5Z1hpMnFYeU0tbm9MU29DV2pFNVVJTXllTW9MbjQwXy1TM3RDaWE?oc=5",
-          "source": "ORF ON",
+          "source": "on.orf.at",
           "date": "2. Oct 2026"
         }
       ]
@@ -116,7 +128,7 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Die Steiermark kritisiert die zu kurze Übergangsfrist für die Regulierung von E-Mopeds, die eine angemessene Anpassung der Verkehrsinfrastruktur und Genehmigungsverfahren erschwert. Die Verkehrsbehörde fordert mehr Zeit für die Umsetzung der neuen Bestimmungen und die Anpassung der entsprechenden Verkehrsverordnungen.",
+      "summary": "Die Kritik an der kurzen Übergangsfrist für E-Mopeds deutet auf Herausforderungen bei der Umsetzung neuer Verkehrsregelungen hin, die Fahrzeughalter und Behörden vor kurzfristige Anpassungen stellen. Solche Übergangsprobleme sind typisch bei der Einführung neuer Verkehrsverordnungen und erfordern oft Abstimmungen zwischen den Stakeholdern und der Verkehrsbehörde.",
       "items": [
         {
           "title": "E-Mopeds: Kritik an kurzer Übergangsfrist - steiermark.ORF.at",
