@@ -1,12 +1,12 @@
 {
-  "generated": "06. October 2026, 09:26 UTC",
+  "generated": "07. October 2026, 09:22 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Im Bezirk werden junge Fachkräfte für Straßeninfrastruktur gewonnen, während an der A9 Wartungsarbeiten im Plabutschtunnel durchgeführt werden. Der Graz-Marathon am 11. Oktober führt zu verkehrlichen Beeinträchtigungen im Stadtgebiet.",
+      "summary": "Im Plabutschtunnel an der A9 finden derzeit Wartungsarbeiten statt, die den Verkehr beeinflussen können. Der Graz-Marathon am 11. Oktober erfordert zusätzlich Verkehrsregelungen im Grazer Stadtgebiet.",
       "items": [
         {
           "title": "Junge Fachkräfte im Bezirk wissen zu begeistern - Kleine Zeitung",
@@ -32,19 +32,13 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Bundesländer kritisieren einheitlich die uneinheitliche Ticketregelung auf der Koralmbahn und fordern die Abschaffung der Stückelungsverbote, damit Klimatickets für komplette Fahrten gelten. Parallel werden in der Steiermark Bahnausbauprojekte wie in Wildon vorangetrieben, um die Infrastruktur des öffentlichen Verkehrs zu modernisieren.",
+      "summary": "Die Steiermark und andere Bundesländer fordern die Abschaffung der unlogischen Ticketregelung auf der Koralmbahn, wonach Klimatickets nur für Teilstrecken gelten und nicht für die gesamte Fahrt verwendet werden können. Parallel dazu wird das erfolgreiche Sammeltaxi-System SAM in der Region mit 35 Gemeinden für weitere vier Jahre fortgesetzt.",
       "items": [
         {
           "title": "Bundesländer fordern Ende des „Ticket-Irrsinns“ auf der Koralmbahn - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcmtpeGl6Y1ZZODRGOHBrb3VqckxtMW5wcElDVVdoQ2o4dzNFZE1XYW5LMkM2SEJjQVh5c2hxcGZZLXRHakwwbHNSVXM0a2Q5b1p2elJFWHpiRFpiODVrbTRzLVJJLTRiWHdTZ3ZJcGc4blJoNUl0UW5Ja1dUeWx4U2JyRWtVNTFaekZzRHNYZTMxbk93NzdwY3hwRGkwZ1dNQ2t1QUtwanprTDMwblBoTg?oc=5",
           "source": "Kleine Zeitung",
           "date": "2. Oct 2026"
-        },
-        {
-          "title": "Zukunft in Wildon: Bürgermeister Grassmugg über Projekte, Bahnausbau und Jubiläum - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc191aUMwdGVPVmJkTFYtTVZRZUx6cUd5eklqa2lubUNPNjUxemM1S3hLNm5CQTN3V295RUtVQ3dmMDZJNmF1aXJoZWJZS1dqek1EVmN2RUUwaTZTZk52Z1l3TXF3TGpfWWtNR0NrMDB6akM1bHM4eXlockU1UWJYM2NsSFpDVi1jTXRnU0ZFcDlfUGVPbERKRTl4ZUljNGh0bHhfTy0wOUxaWk1MMTQ2b2ZPa3BWVTYyNnc?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "29. Sep 2026"
         },
         {
           "title": "Koralmbahn: Klimatickets sollen künftig für die ganze Fahrt reichen - 5 Minuten",
@@ -59,10 +53,16 @@
           "date": "5. Oct 2026"
         },
         {
-          "title": "Koralmbahn: Länder wollen ÖBB-Ticketregel abschaffen - inside-graz.at",
+          "title": "Koralmbahn: Länder wollen ÖBB-Ticketregel abschaffen - Inside Graz",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQjEyZWtNR1laUWZ1RDZpT3E1RlVmd3NHNzYzZnFuNFVBZWIwMmx6VVlkUnZCN0lUYnpFSmNvRHE2eFVjNkdGdmhQVXRuLVBLVVBlb09MVHB6R1pleHdYaldaVmlKZGJWcmE0d2Q4ZlJiUkZnYk5PNG5WblB6MGpGUUtHXzFJVExablJPRXhvS2pPWjR2VGpuOUtWYw?oc=5",
-          "source": "inside-graz.at",
+          "source": "Inside Graz",
           "date": "3. Oct 2026"
+        },
+        {
+          "title": "Vier weitere Jahre: Sammeltaxi SAM geht mit 35 Gemeinden weiter - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMDRUTXkzamczRER1RU52MGNtX2I4RW9MRURSNDZ1TlNwTWJMZllMNWdzU1A0QlVEaGFMTk9hdU5LU0JjbnUzTWhfUFQwMm55ZVdXS25KeEUzNUxhLTZwZFlWTXFFWkUyQjIxcENlb0ZzNE5QRXZXR21BazZJZWpKZlh1d01vMkc5NExvMFRENlhLb3RvXy1NSlJOT25IaHlMbEl5VjhCMUZRRXZP?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "6. Oct 2026"
         }
       ]
     },
@@ -70,13 +70,13 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark setzt auf umfassende Mobilitätskonzepte wie SAM in Rohrbach an der Lafnitz und investiert in innovative Sicherheitsmaßnahmen wie 5.000 Wildwarngeräte zur Unfallprävention. Gleichzeitig werden kritische Verkehrsstrecken wie die Breitenauer Straße gezielt überprüft und optimiert, um die Verkehrssicherheit für alle Verkehrsteilnehmer zu erhöhen.",
+      "summary": "Die Steiermark investiert in nachhaltige Mobilität durch den Ausbau von Geh- und Radinfrastruktur wie der neuen Unterführung in Pörtschach, während gleichzeitig Maßnahmen zur Erhöhung der Verkehrssicherheit wie Wildwarngeräte gegen Unfälle und die Überprüfung kritischer Straßenabschnitte umgesetzt werden. Diese Maßnahmen zeigen einen ganzheitlichen Ansatz zur Verbesserung der Mobilität und Sicherheit im Straßenverkehr.",
       "items": [
         {
-          "title": "Mein Rohrbach an der Lafnitz: Mobilitätskonzept SAM soll bleiben - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdWYtQ2RqLVFBZ3lJTnB0dWU5ekVSRE1TMmhFYnpJdGxZaUNWLXZyTjhUTndaSmFnZEluSS1RTGFuSzgtQU8tdDFlVklOSk1RNjNjWTROeUI5bWxBcnFwVEdDazFiWXRTMWZMY2pRVENuZUFMeTJhdlVZX1BsdzhzR2lBOFFQQ283bk4xZnMycmxnenRycG9iWGVBUnFsWGJiUHNaUw?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "30. Sep 2026"
+          "title": "ÖBB: Baustart für neue Geh- und Radunterführung in Pörtschach am Wörthersee - ÖBB",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSUNDUjk1ZlRlbVBFdkRLTmRRd2RXUWlKaEZVRkdIMHVSNWUtejl5N1dfclNnbzZVaUxUOVdtbXA1LTZTVFpKQW13RmdYa0pmR1JvY2tyNjJ0Q2M3bmxhUWxxVVBZUUNMUnhoV3AtUEN4d3I1Q3d5V0NvWEZIVzZtS2R3eHRRM2phSF9xbGlveGFQaUVBRkNwaWl1eUJoY0tLRUpwSnNmeG85cHBldHBWZXQ3bG9zZGtjRkFUTjJrbkJYek5SX2daSk5KaW5LamJDWktiUHBraw?oc=5",
+          "source": "ÖBB",
+          "date": "7. Oct 2026"
         },
         {
           "title": "Steiermark: 5.000 Wildwarngeräte gegen Wildunfälle - austria.com",
@@ -96,13 +96,19 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Elisabethinen in Graz haben einen modernen Neubau eröffnet, der das Krankenhaus erweitert und zeitgemäße medizinische Infrastruktur bietet. Die Erweiterung zeichnet sich durch die Verwendung von Holz als nachhaltiges Baumaterial aus und setzt damit ein Zeichen für zukunftsorientierte Baukultur in der Steiermark.",
+      "summary": "Die Elisabethinen in Graz realisieren ein bedeutendes Krankenhausprojekt mit modernem Neubau und innovativer Holzbauweise, wobei die Einrichtung von ihrem bisherigen Standort in Eggenberg an einen neuen Ort übersiedelt. Dieses Hochbauprojekt dokumentiert die zeitgenössische Entwicklung der steirischen Spitalslandschaft und setzt architektonische Akzente durch nachhaltige Bauweisen.",
       "items": [
         {
           "title": "Elisabethinen Graz eröffnet Neubau - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83QUVURFd4S2x5VThHajhYeW1sX2lrbFJMeGdDNXBBMTQ5Z1k3RWdQUTJsb0dBTkpZMzhZTU84eUZPdjBZVE5SWkNaV2R4TC1sOEplVA?oc=5",
           "source": "steiermark.ORF.at",
           "date": "2. Oct 2026"
+        },
+        {
+          "title": "Auszug aus Eggenberg - Elisabethinen: In Graz siedelt ein ganzes Spital - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE43UjlFaElRTTVvVWVxLWMwSWJ4czVqZ1VlZUJoZ1JZQy1LTUYtemNoRkY0VlExQkxlMzlPRlo1cktCUQ?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "6. Oct 2026"
         },
         {
           "title": "Krankenhaus der Elisabethinen mit Holzbau erweitert - ORF ON",
@@ -116,12 +122,12 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Sarah Kastner übernimmt als neue Bezirkshauptfrau von Bruck-Mürzzuschlag eine Schlüsselposition in der steirischen Verkehrsbehörde und wird für Genehmigungsverfahren sowie Verkehrsangelegenheiten in ihrem Bezirk zuständig sein. Die geplante kurze Übergangsfrist für die Regelung von E-Mopeds wird von Kritikern als unzureichend für eine ordnungsgemäße Umsetzung der neuen Verkehrsvorschriften bemängelt.",
+      "summary": "Sarah Kastner übernimmt als neue Bezirkshauptfrau von Bruck-Mürzzuschlag eine Schlüsselposition in der steirischen Verkehrsverwaltung und wird für Genehmigungsverfahren sowie behördliche Entscheidungen im Verkehrsbereich zuständig sein. Die geplante Übergangsfrist für E-Mopeds wird von Kritikern als zu kurz bemängelt, was auf Herausforderungen bei der Umsetzung neuer Verkehrsverordnungen hindeutet.",
       "items": [
         {
-          "title": "Sarah Kastner wird neue Bezirkshauptfrau von Bruck-Mürzzuschlag - kommunikation.steiermark.at",
+          "title": "Sarah Kastner wird neue Bezirkshauptfrau von Bruck-Mürzzuschlag - Kommunikation - Land Steiermark",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3Z0d6ejVQaC1TVXVXdUUyckR2Z3VvU3Fmb1FMTmxqaXhwcVZpbTJBZ0Zpc3V2SUl2VGQyeEMzbEVmS1B2cTZRcmctUXpjLUdaMndXbFhaWFlUMFAyaHJJZV9FUEhpOS01aG1weW9JbmN3OE01XzZR?oc=5",
-          "source": "kommunikation.steiermark.at",
+          "source": "Kommunikation - Land Steiermark",
           "date": "1. Oct 2026"
         },
         {
