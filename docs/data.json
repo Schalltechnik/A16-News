@@ -1,24 +1,30 @@
 {
-  "generated": "08. October 2026, 09:32 UTC",
+  "generated": "09. October 2026, 09:39 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Im Bezirk werden junge Fachkräfte für Straßeninfrastruktur gewonnen und begeistert, während an der A9 Wartungsarbeiten im Plabutschtunnel durchgeführt werden. Der Graz-Marathon am 11. Oktober führt zu verkehrlichen Auswirkungen im Grazer Straßennetz.",
+      "summary": "Die A9 ist nachts gesperrt und zwingt Autofahrer auf Ausweichrouten wie den Pyhrnpass aus, während die Polizei verstärkt gegen Raser auf steirischen Landstraßen vorgeht. Aktuelle Verkehrsinformationen und Großveranstaltungen wie der Graz-Marathon erfordern erhöhte Aufmerksamkeit im Straßenverkehr der Region.",
       "items": [
         {
-          "title": "Junge Fachkräfte im Bezirk wissen zu begeistern - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVi0zeDhOczNraGFkcWpMUW9rNHZNYUdMREdFZzFwUWMyX2p0ZWlKZXl3YXo2YzlIY0pQQjlMaHFZdGJZQ0hLQkJseFFudjRvVVZ4YWh5bUJ2cHAzLU1zdTRjbE10V1E2U2l1dEtsTlUxdmhCQ2NrVlBQSFY0WFpVcWZIMFJxZHBPazlIWE5yQmw3dUVrYXd1aDhR?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "1. Oct 2026"
+          "title": "Pkw beschlagnahmt - Junger Raser mit 196 km/h auf Landstraße erwischt - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8yd3lNSFpicGJmbnVUeU0xM3BEV2RjOU1QelRhWFEyS3lITjZscG45cEt2RE14WVZmQjVteTFJTTlSQQ?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "8. Oct 2026"
         },
         {
-          "title": "A9: Wartungsarbeiten im Plabutschtunnel - ÖAMTC",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUDFaVV93RTJpeXNEN0lPOVFhVDBpUG9Ra3JOZE9lZjRycnFzUERFa0Jzc1JPeTdVVFc1a0ZZbkl0UWw5V1hfRFlYWHJrcnY3bDFYVWdhQWdUdmpzNUYtaU1weDlwUW9JSVp4X2VTVzl1WXo3ZTJTQnFMOUtnd04tSjJ6QXoxLVEtOHQ3ZGRR?oc=5",
+          "title": "A9 gesperrt: Autofahrer müssen nachts über den Pyhrnpass - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ3o2bXZMaXNnS1lvQ3d5MXpWNUtwM0tnTENfT21uVE41X1JDYTdvYV9kMDV3cGV3NVctbVRYTy1WSkhKX0N2RElxOVpwc0xWWUJwcS1jQnpUN0ZmdnpscmNXdVJqUUJMb3BtMVFwVGxJT0xsVU5MZkJOTUNrTnIxMk56R2NsSUo4NjNRSzVJM1NZNEFpbV81WEhnNGJlUGh6dVIyNDRR?oc=5",
+          "source": "5 Minuten",
+          "date": "6. Oct 2026"
+        },
+        {
+          "title": "Aktuelle Verkehrsinfos für Österreich - ÖAMTC",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR0VHN0h1c0VObHU1c1cwaXJ1djNaS2RpN0Q3RjJWOVA4TGJqWDRqNGtYblM1TERDU0RXOXZlY1BwS0xGX3FUUWwzYkQ4TElnckdVT2szNmVpWjBQWEc1bkRrQW9pSFVtTVZFWEVSWlNFYTJ5UG90b0M1NlBhRjg4ag?oc=5",
           "source": "ÖAMTC",
-          "date": "2. Oct 2026"
+          "date": "7. Oct 2026"
         },
         {
           "title": "Graz-Marathon am 11. Oktober - ÖAMTC",
@@ -32,24 +38,24 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Bundesländer fordern eine einheitliche Ticketlösung für die Koralmbahn, um das bisherige Stückelungsverbot zu beenden und das Klimaticket für die gesamte Fahrstrecke gültig zu machen. Damit soll der „Ticket-Irrsinn\" auf dieser wichtigen Bahnverbindung endlich gelöst werden.",
+      "summary": "Das Sammeltaxi SAM wird in 35 steirischen Gemeinden für weitere vier Jahre fortgesetzt, während die Koralmbahn-Diskussion um einheitliche Ticketlösungen intensiviert wird, da Bundesländer ein Ende des „Ticket-Irrsinns\" fordern und das Klimaticket zukünftig für die gesamte Fahrt gelten soll.",
       "items": [
         {
-          "title": "Bundesländer fordern Ende des „Ticket-Irrsinns“ auf der Koralmbahn - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcmtpeGl6Y1ZZODRGOHBrb3VqckxtMW5wcElDVVdoQ2o4dzNFZE1XYW5LMkM2SEJjQVh5c2hxcGZZLXRHakwwbHNSVXM0a2Q5b1p2elJFWHpiRFpiODVrbTRzLVJJLTRiWHdTZ3ZJcGc4blJoNUl0UW5Ja1dUeWx4U2JyRWtVNTFaekZzRHNYZTMxbk93NzdwY3hwRGkwZ1dNQ2t1QUtwanprTDMwblBoTg?oc=5",
+          "title": "Vier weitere Jahre: Sammeltaxi SAM geht mit 35 Gemeinden weiter - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMDRUTXkzamczRER1RU52MGNtX2I4RW9MRURSNDZ1TlNwTWJMZllMNWdzU1A0QlVEaGFMTk9hdU5LU0JjbnUzTWhfUFQwMm55ZVdXS25KeEUzNUxhLTZwZFlWTXFFWkUyQjIxcENlb0ZzNE5QRXZXR21BazZJZWpKZlh1d01vMkc5NExvMFRENlhLb3RvXy1NSlJOT25IaHlMbEl5VjhCMUZRRXZP?oc=5",
           "source": "Kleine Zeitung",
-          "date": "2. Oct 2026"
-        },
-        {
-          "title": "Zwist um Koralmbahn-Ticket: Bundesländer fordern geeint Ende des Stückelungsverbotes - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN0MzYzNqdHZVUXk5WklwOUxWN3lYRTJQR01NajdrUmRqb3Fyck9wSW9hZlM5bjZXUENWM3lqaHgyYnRjSVNhamxCMHBQOTNqY0ZDNVhmS2JjTnllRWJtS0hpMGhaWVY1azFJZ015R1JvM0hLZUxiRFpsb3Jkd1VUY1JOTW5EOWFCT0xZOXhrQXd5N3pXN2dyLUlYeW1GanY3MVExWkpvTTc0ZW9zejQ5ejRtZmNkc2RER19LSnZfVVlORWM?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "5. Oct 2026"
+          "date": "6. Oct 2026"
         },
         {
           "title": "Koralmbahn: Klimatickets sollen künftig für die ganze Fahrt reichen - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWXhXdlVVemp2Q1pYUlNaTFFNSE5NdUg1SndXb3AzdXVyTE42NFg0NHdoWDdwY1I2LWUxemtVUjNTcWduM3lSLUwtcktaRkprTEM0OGg2V1Z5TDl0WVRQdFd0dm9NX2xzLTRPSDljZXYwZ1N5TnlPWTJPSHdkLVRxOUtrMUFnRFJPR1RPSThiQlNkQlVTeWFoMVBwZER5REFQRjlmTWdfZlBNTWNnajB3SWc2c3U?oc=5",
           "source": "5 Minuten",
+          "date": "2. Oct 2026"
+        },
+        {
+          "title": "Bundesländer fordern Ende des „Ticket-Irrsinns“ auf der Koralmbahn - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcmtpeGl6Y1ZZODRGOHBrb3VqckxtMW5wcElDVVdoQ2o4dzNFZE1XYW5LMkM2SEJjQVh5c2hxcGZZLXRHakwwbHNSVXM0a2Q5b1p2elJFWHpiRFpiODVrbTRzLVJJLTRiWHdTZ3ZJcGc4blJoNUl0UW5Ja1dUeWx4U2JyRWtVNTFaekZzRHNYZTMxbk93NzdwY3hwRGkwZ1dNQ2t1QUtwanprTDMwblBoTg?oc=5",
+          "source": "Kleine Zeitung",
           "date": "2. Oct 2026"
         }
       ]
@@ -58,7 +64,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark investiert in nachhaltige Mobilität durch den Ausbau von Geh- und Radinfrastruktur wie der neuen Unterführung in Pörtschach, während gleichzeitig Maßnahmen zur Erhöhung der Verkehrssicherheit wie Wildwarngeräte gegen Unfälle und die Überprüfung kritischer Straßenabschnitte umgesetzt werden. Diese Kombination aus Infrastrukturverbesserungen und Sicherheitsmaßnahmen zeigt einen ganzheitlichen Ansatz zur Förderung sicherer und umweltfreundlicher Mobilität in der Region.",
+      "summary": "Die Steiermark investiert in die Verkehrssicherheit durch innovative Maßnahmen wie neue Geh- und Radweginfrastruktur bei der ÖBB sowie durch den Einsatz von 5.000 Wildwarngeräten und verstärkte Jagdmaßnahmen zur Reduktion von Wildunfällen. Diese Initiativen zeigen ein umfassendes Sicherheitskonzept, das sowohl nachhaltige Mobilität für Fußgänger und Radfahrer als auch den Schutz vor Wildunfällen im Straßenverkehr priorisiert.",
       "items": [
         {
           "title": "ÖBB: Baustart für neue Geh- und Radunterführung in Pörtschach am Wörthersee - ÖBB",
@@ -73,10 +79,10 @@
           "date": "2. Oct 2026"
         },
         {
-          "title": "Mehr Verkehrssicherheit: Breitenauer Straße unter die Lupe genommen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZDZucWoxUko1Q3VCNjhwWUtaMm9mb19Nc3JReDJGWlU0YmYxdlF5Wlo0U0tMTXMtN1RpWTlLQ29tZkR4MTJiQ2p5U193RFowOVN1aDMyblJlYUcxTENNTHBCQ096TGJHTFhGczhrU2R3NnZZUlc2X3dlbWhMOE5sVUhoVGpqSzVHeHJfZHExOHFzUnBkZ0RMOGluRlhybFVOT1ByRXVzanlUdENhRS05Ym1BNA?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "4. Oct 2026"
+          "title": "Heute beim Wetter-Pauli: Deutschlandsberger Jägerschaft im Einsatz gegen Wildunfälle - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ01BaU1hc3ZfSzNGN1pxYzRMWmhmbWpybTdKOUlfWlk2elpJNkZKdTB5cU5DZm1QQmpWbDVsajhPWFU0VldsdTNBTnNpQnpZcjJzc2hoQmZVVGRGcWhTWGU2c2VhWGxEcXVTb3IwYWdOdEhZY3dtd0pIQmNLZVZBTTVITGxwUW4zNkIwUzVQRWZ6V2RIOGtOdDh2Z1pac2NXb0VCUUVkR3A3Wm1meGxXTzFXM2lZV2ZYZE52anJWamg?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "7. Oct 2026"
         }
       ]
     },
@@ -84,7 +90,7 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Elisabethinen in Graz erweitern ihr Krankenhaus mit innovativen Holzbaumaßnahmen und schaffen damit eine moderne Spitalanlage im Stadtteil Eggenberg. Dieses Projekt zeigt die zeitgemäße Weiterentwicklung der medizinischen Infrastruktur in der Steiermark unter Verwendung nachhaltiger Baumaterialien.",
+      "summary": "Die Elisabethinen in Graz erweitern ihr Krankenhaus mit einer innovativen Holzbauweise, die moderne Nachhaltigkeit mit medizinischer Infrastruktur verbindet. Dieses Projekt dokumentiert die Transformation des Eggenberg-Standorts zu einem bedeutenden Gesundheitszentrum in der steirischen Landeshauptstadt.",
       "items": [
         {
           "title": "Auszug aus Eggenberg - Elisabethinen: In Graz siedelt ein ganzes Spital - Kronen Zeitung",
@@ -104,15 +110,8 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Die Steiermark kritisiert die zu kurze Übergangsfrist für die Regelung von E-Mopeds, was Fragen zur praktischen Umsetzbarkeit der neuen Verkehrsvorschriften aufwirft. Die Kritik deutet auf Defizite bei der Abstimmung zwischen Verkehrsbehörden und betroffenen Stakeholdern hin, die bei der Festlegung angemessener Implementierungsfristen berücksichtigt werden sollten.",
-      "items": [
-        {
-          "title": "E-Mopeds: Kritik an kurzer Übergangsfrist - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53TU5oLWRSRDN5R08yU2E0cElfZ1BRb3VvRDZoQ294QlR1VnRUWmcwV2E5TlpZVF9yaXZUWDJ6QmdQMDlzeDZ2OEVKd3pzQjRrUHFTdA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "1. Oct 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     }
   }
 }
