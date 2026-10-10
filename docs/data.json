@@ -1,18 +1,24 @@
 {
-  "generated": "09. October 2026, 09:39 UTC",
+  "generated": "10. October 2026, 09:05 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die A9 ist nachts gesperrt und zwingt Autofahrer auf Ausweichrouten wie den Pyhrnpass aus, während die Polizei verstärkt gegen Raser auf steirischen Landstraßen vorgeht. Aktuelle Verkehrsinformationen und Großveranstaltungen wie der Graz-Marathon erfordern erhöhte Aufmerksamkeit im Straßenverkehr der Region.",
+      "summary": "Die steirische Straßeninfrastruktur steht vor Herausforderungen bei der Verkehrssicherheit und Notfallbewältigung, wie Geschwindigkeitsverstöße und Gefahrenguttransporte in Tunneln zeigen. Temporäre Sperrungen wie bei der A9 zum Pyhrnpass und bei Großveranstaltungen wie dem Graz Marathon erfordern regelmäßige Verkehrsumleitungen und aktuelle Informationen für Autofahrer.",
       "items": [
         {
           "title": "Pkw beschlagnahmt - Junger Raser mit 196 km/h auf Landstraße erwischt - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8yd3lNSFpicGJmbnVUeU0xM3BEV2RjOU1QelRhWFEyS3lITjZscG45cEt2RE14WVZmQjVteTFJTTlSQQ?oc=5",
           "source": "Kronen Zeitung",
           "date": "8. Oct 2026"
+        },
+        {
+          "title": "Gefahrengut in Tunnels: Notfallpläne am Prüfstand - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KLUhmdEZ2MTlfZTliVVFEOV8yWksyX19DcXZUdWpFajlkd0Q3UmhRa1ZDWjNaTG1XQTZpZk9pdTk5X2xkdzFHWGFja0wxX1VTbDVKeA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "9. Oct 2026"
         },
         {
           "title": "A9 gesperrt: Autofahrer müssen nachts über den Pyhrnpass - 5 Minuten",
@@ -27,10 +33,10 @@
           "date": "7. Oct 2026"
         },
         {
-          "title": "Graz-Marathon am 11. Oktober - ÖAMTC",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZSnRJLWdqZ0ljZ3RrM0tzaWNLVzdUS1dVZzBJelVVRUtOOVliVjVDTW5lNlNkcVhMVkdXQm50eWNkRFVuUUVUT1ByY0JhX21jeEZiOF9PTjV6RTNRbnc2QVdpU0FQYlE0UkttOE02Y2REQkdJcDRONVYzZUl2VGM?oc=5",
-          "source": "ÖAMTC",
-          "date": "2. Oct 2026"
+          "title": "Graz Marathon 2026: Straßensperren in Graz - Antenne Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbFY0VFRqekROTW02aEIzMEQxNEJlRWhUUG1DS0dBY3V4ZWlGd25PakNkdVB5eWFTME5yczlPX2ZPNDJ1S0xZeVY3RTJHcTV4dGVzLVJybkJmSS1DUXlzeEJNV3pOWkxyTDhfYzVuRmRUcW1SZ3dVQ0Z6RkJCLW12d0Vnc1M0RGxXNEhv?oc=5",
+          "source": "Antenne Steiermark",
+          "date": "5. Oct 2026"
         }
       ]
     },
@@ -38,7 +44,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Das Sammeltaxi SAM wird in 35 steirischen Gemeinden für weitere vier Jahre fortgesetzt, während die Koralmbahn-Diskussion um einheitliche Ticketlösungen intensiviert wird, da Bundesländer ein Ende des „Ticket-Irrsinns\" fordern und das Klimaticket zukünftig für die gesamte Fahrt gelten soll.",
+      "summary": "Das Sammeltaxi SAM wird in 35 Gemeinden für weitere vier Jahre fortgesetzt, während die Gleichenberger Bahn trotz Unsicherheiten auch 2027 noch fahren wird. Bei der Koralmbahn fordern die Bundesländer einheitlich die Abschaffung des Stückelungsverbotes für Fahrkarten.",
       "items": [
         {
           "title": "Vier weitere Jahre: Sammeltaxi SAM geht mit 35 Gemeinden weiter - Kleine Zeitung",
@@ -47,16 +53,16 @@
           "date": "6. Oct 2026"
         },
         {
-          "title": "Koralmbahn: Klimatickets sollen künftig für die ganze Fahrt reichen - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWXhXdlVVemp2Q1pYUlNaTFFNSE5NdUg1SndXb3AzdXVyTE42NFg0NHdoWDdwY1I2LWUxemtVUjNTcWduM3lSLUwtcktaRkprTEM0OGg2V1Z5TDl0WVRQdFd0dm9NX2xzLTRPSDljZXYwZ1N5TnlPWTJPSHdkLVRxOUtrMUFnRFJPR1RPSThiQlNkQlVTeWFoMVBwZER5REFQRjlmTWdfZlBNTWNnajB3SWc2c3U?oc=5",
-          "source": "5 Minuten",
-          "date": "2. Oct 2026"
+          "title": "Gleichenberger Bahn fährt auch 2027, aber das Zittern geht weiter - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeklfSHVCbk1TcmZfS250LWRBZkh1QmdMdFlwNTNMV0pYTTFxUS1hT2RaVE9oWFptYUZTRVl4TWZpN2dtUjdObi0tVUNCelJCcTdVQUtRQ21PT2hSWGpVdlB6SFVFb2gweF9QaDgybFdoUzFXc0JaTDNTamxVSjNxb2VTajZyWGtfWjBtaV9BNmZPV0dLQ2J5b1hBeG9XeFU0eVZoeDQydVZadXRMd1ljSA?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "9. Oct 2026"
         },
         {
-          "title": "Bundesländer fordern Ende des „Ticket-Irrsinns“ auf der Koralmbahn - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcmtpeGl6Y1ZZODRGOHBrb3VqckxtMW5wcElDVVdoQ2o4dzNFZE1XYW5LMkM2SEJjQVh5c2hxcGZZLXRHakwwbHNSVXM0a2Q5b1p2elJFWHpiRFpiODVrbTRzLVJJLTRiWHdTZ3ZJcGc4blJoNUl0UW5Ja1dUeWx4U2JyRWtVNTFaekZzRHNYZTMxbk93NzdwY3hwRGkwZ1dNQ2t1QUtwanprTDMwblBoTg?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "2. Oct 2026"
+          "title": "Zwist um Koralmbahn-Ticket: Bundesländer fordern geeint Ende des Stückelungsverbotes - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGRFOFNsaFFWRHFlUGtFWll1NFVsSzM0aHJTZUEzUzhEV0NQdWphaHNQUFFUSi1GQkZnX1dXbHlRUFViOVhkWUkzNDdVdUlqVk82akRadDVlbDRHZjZWUS1Jb29nQmJwV3g2ZFRBYTlTUkdWMWc3N3gzcTB0ZXh6ejNKLUx2dVc0bWR5cFZMTUNtM1otZzFCZnVfVVBsdjREUjBkRmxCVHRLdXFnLU12bW5DTk8?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "5. Oct 2026"
         }
       ]
     },
@@ -64,24 +70,12 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark investiert in die Verkehrssicherheit durch innovative Maßnahmen wie neue Geh- und Radweginfrastruktur bei der ÖBB sowie durch den Einsatz von 5.000 Wildwarngeräten und verstärkte Jagdmaßnahmen zur Reduktion von Wildunfällen. Diese Initiativen zeigen ein umfassendes Sicherheitskonzept, das sowohl nachhaltige Mobilität für Fußgänger und Radfahrer als auch den Schutz vor Wildunfällen im Straßenverkehr priorisiert.",
+      "summary": "Die ÖBB beginnt mit dem Bau einer neuen Geh- und Radunterführung in Pörtschach am Wörthersee, um die Infrastruktur für Fußgänger und Radfahrer zu verbessern. Dieses Projekt trägt zur Förderung nachhaltiger Mobilität und erhöhten Verkehrssicherheit in der Region bei.",
       "items": [
         {
           "title": "ÖBB: Baustart für neue Geh- und Radunterführung in Pörtschach am Wörthersee - ÖBB",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSUNDUjk1ZlRlbVBFdkRLTmRRd2RXUWlKaEZVRkdIMHVSNWUtejl5N1dfclNnbzZVaUxUOVdtbXA1LTZTVFpKQW13RmdYa0pmR1JvY2tyNjJ0Q2M3bmxhUWxxVVBZUUNMUnhoV3AtUEN4d3I1Q3d5V0NvWEZIVzZtS2R3eHRRM2phSF9xbGlveGFQaUVBRkNwaWl1eUJoY0tLRUpwSnNmeG85cHBldHBWZXQ3bG9zZGtjRkFUTjJrbkJYek5SX2daSk5KaW5LamJDWktiUHBraw?oc=5",
           "source": "ÖBB",
-          "date": "7. Oct 2026"
-        },
-        {
-          "title": "Steiermark: 5.000 Wildwarngeräte gegen Wildunfälle - austria.com",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeHhfQWI5amYxZ1JFcEJ2V290ejBnWnVMeUZzampudy1pWU9DVjdIZWZFelFKWnF2Q3VybTROem9Ta1pXM3V4Y0xPQWNWNHlMZlc1YzY5V1IwNEI5bEpZYVNsTjJ1cDdDLTlLcm85RFpHeWFmeUR3dlduYnczM1lWZEY3a09EN0NfM2JGU1h0dVlFbWJuM1MxTEVYVms?oc=5",
-          "source": "austria.com",
-          "date": "2. Oct 2026"
-        },
-        {
-          "title": "Heute beim Wetter-Pauli: Deutschlandsberger Jägerschaft im Einsatz gegen Wildunfälle - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ01BaU1hc3ZfSzNGN1pxYzRMWmhmbWpybTdKOUlfWlk2elpJNkZKdTB5cU5DZm1QQmpWbDVsajhPWFU0VldsdTNBTnNpQnpZcjJzc2hoQmZVVGRGcWhTWGU2c2VhWGxEcXVTb3IwYWdOdEhZY3dtd0pIQmNLZVZBTTVITGxwUW4zNkIwUzVQRWZ6V2RIOGtOdDh2Z1pac2NXb0VCUUVkR3A3Wm1meGxXTzFXM2lZV2ZYZE52anJWamg?oc=5",
-          "source": "MeinBezirk.at",
           "date": "7. Oct 2026"
         }
       ]
@@ -90,19 +84,13 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Elisabethinen in Graz erweitern ihr Krankenhaus mit einer innovativen Holzbauweise, die moderne Nachhaltigkeit mit medizinischer Infrastruktur verbindet. Dieses Projekt dokumentiert die Transformation des Eggenberg-Standorts zu einem bedeutenden Gesundheitszentrum in der steirischen Landeshauptstadt.",
+      "summary": "Die Elisabethinen-Klinik verlegt ihren Standort von Eggenberg in Graz, was eine bedeutende Umstrukturierung der medizinischen Infrastruktur in der steirischen Landeshauptstadt darstellt. Dieses Hochbauprojekt zeigt die dynamischen Veränderungen in der Gesundheitsversorgung und der städtebaulichen Entwicklung Gratz in den letzten Jahren.",
       "items": [
         {
           "title": "Auszug aus Eggenberg - Elisabethinen: In Graz siedelt ein ganzes Spital - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE43UjlFaElRTTVvVWVxLWMwSWJ4czVqZ1VlZUJoZ1JZQy1LTUYtemNoRkY0VlExQkxlMzlPRlo1cktCUQ?oc=5",
           "source": "Kronen Zeitung",
           "date": "6. Oct 2026"
-        },
-        {
-          "title": "Krankenhaus der Elisabethinen mit Holzbau erweitert - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMkZVMWtxZWlWYlU1ZkwtS3ZKRldQR216UThDMms1bEYzMHdfWkZucnNCbTVIZlBqWlVhZVJDUXRZeThydU1FM2tyRVM2enZseHVBVVNfeEZwRE5tb1plQkd2WmtwcGZobllwRmJiY19Yal96bmZwbGQ0aGhqSEd5SFRObWFleEZma1Z1V0dVWWFZUmt6WmZuYkR5Z1hpMnFYeU0tbm9MU29DV2pFNVVJTXllTW9MbjQwXy1TM3RDaWE?oc=5",
-          "source": "ORF ON",
-          "date": "2. Oct 2026"
         }
       ]
     },
