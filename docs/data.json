@@ -1,12 +1,12 @@
 {
-  "generated": "11. October 2026, 09:19 UTC",
+  "generated": "12. October 2026, 09:48 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die Nachrichtenmeldungen behandeln primär Verkehrssicherheit und temporäre Verkehrsbehinderungen durch Veranstaltungen wie den Graz-Marathon, während ein separater Bericht sich mit der Überprüfung von Notfallplänen für den Gefahrguttransport in steirischen Tunneln befasst. Infrastrukturelle Maßnahmen zur Straßenerhaltung, zum Straßenbau oder zu Sanierungen sind in den vorliegenden Titeln nicht vertreten.",
+      "summary": "Die steirische Straßeninfrastruktur wird durch Sicherheitsmaßnahmen wie verstärkte Geschwindigkeitskontrollen auf Landstraßen und die Überprüfung von Notfallplänen für Gefahrguttransporte in Tunneln geschützt. Aktuelle Sperrungen wie jene der A9, die Ausweichrouten über den Pyhrnpass erforderlich machen, zeigen die Bedeutung einer funktionierenden Infrastruktur für den Verkehrsfluss in der Region.",
       "items": [
         {
           "title": "Pkw beschlagnahmt - Junger Raser mit 196 km/h auf Landstraße erwischt - Kronen Zeitung",
@@ -21,16 +21,10 @@
           "date": "9. Oct 2026"
         },
         {
-          "title": "Graz-Marathon sorgt für Straßensperren - ORF",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JaWlnbExNNnpGRTMzdnE0UW1La1ZyU05mUGc2VHh3Smt4aXNUTW5ZQ3BUdTZtdkRMb01mTWZCUzJVU202eTdUczR4cnV3OExMajZrWg?oc=5",
-          "source": "ORF",
-          "date": "11. Oct 2026"
-        },
-        {
-          "title": "Graz Marathon 2026: Straßensperren in Graz - Antenne Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbFY0VFRqekROTW02aEIzMEQxNEJlRWhUUG1DS0dBY3V4ZWlGd25PakNkdVB5eWFTME5yczlPX2ZPNDJ1S0xZeVY3RTJHcTV4dGVzLVJybkJmSS1DUXlzeEJNV3pOWkxyTDhfYzVuRmRUcW1SZ3dVQ0Z6RkJCLW12d0Vnc1M0RGxXNEhv?oc=5",
-          "source": "Antenne Steiermark",
-          "date": "5. Oct 2026"
+          "title": "A9 gesperrt: Autofahrer müssen nachts über den Pyhrnpass - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ3o2bXZMaXNnS1lvQ3d5MXpWNUtwM0tnTENfT21uVE41X1JDYTdvYV9kMDV3cGV3NVctbVRYTy1WSkhKX0N2RElxOVpwc0xWWUJwcS1jQnpUN0ZmdnpscmNXdVJqUUJMb3BtMVFwVGxJT0xsVU5MZkJOTUNrTnIxMk56R2NsSUo4NjNRSzVJM1NZNEFpbV81WEhnNGJlUGh6dVIyNDRR?oc=5",
+          "source": "5 Minuten",
+          "date": "6. Oct 2026"
         }
       ]
     },
@@ -38,12 +32,12 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Steiermark setzt auf die Fortsetzung und den Ausbau ihrer Mobilitätsangebote, wobei die S-Bahn nach Köflach wieder in Betrieb geht und das Sammeltaxi SAM mit 35 Gemeinden für weitere vier Jahre fortgesetzt wird. Gleichzeitig bleiben wichtige Infrastrukturprojekte wie die Gleichenberger Bahn und die Koralmbahn umstritten, da offene Finanzierungsfragen und Ticketprobleme zwischen den Bundesländern geklärt werden müssen.",
+      "summary": "Die S-Bahn von Graz nach Köflach nimmt ihren Betrieb wieder auf, während das Sammeltaxi SAM mit 35 Gemeinden für weitere vier Jahre fortgesetzt wird und damit das regionale Verkehrsangebot in der Steiermark gestärkt wird. Allerdings bleiben Herausforderungen bestehen, da die Gleichenberger Bahn trotz Weiterbetrieb bis 2027 unter Unsicherheit leidet und die Südstrecke durch ganztägige Unterbrechungen zu erheblichen Störungen im Bahnverkehr führt.",
       "items": [
         {
-          "title": "S-Bahn von Graz nach Köflach startet wieder - ORF",
+          "title": "S-Bahn von Graz nach Köflach startet wieder - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yWC0td3dJOHdJR1Q0WF9sR1pkQ2RkbHFnOF95Ny1IZ0VPWUNobVNJaTFpT3RNZjNOV3ZacGt2d3pJazVzaV80WF9mZmZrSmIxV0V3TA?oc=5",
-          "source": "ORF",
+          "source": "steiermark.ORF.at",
           "date": "10. Oct 2026"
         },
         {
@@ -59,10 +53,10 @@
           "date": "9. Oct 2026"
         },
         {
-          "title": "Zwist um Koralmbahn-Ticket: Bundesländer fordern geeint Ende des Stückelungsverbotes - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGRFOFNsaFFWRHFlUGtFWll1NFVsSzM0aHJTZUEzUzhEV0NQdWphaHNQUFFUSi1GQkZnX1dXbHlRUFViOVhkWUkzNDdVdUlqVk82akRadDVlbDRHZjZWUS1Jb29nQmJwV3g2ZFRBYTlTUkdWMWc3N3gzcTB0ZXh6ejNKLUx2dVc0bWR5cFZMTUNtM1otZzFCZnVfVVBsdjREUjBkRmxCVHRLdXFnLU12bW5DTk8?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "5. Oct 2026"
+          "title": "Südstrecke ganztägig unterbrochen: Chaos im Bahnverkehr - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVi1VYUNHQzNnT08xTHNaTDh1UUUwRDNtZ0MtOXV5eml5dVZKRlA3YXNsMXJMUHpJYkg5WTdtT2JqRk9WRDFSSnpyY0p6STBvSE9jVjFZNDhqUnZCRFNnRzhzckZlT05kVUhZU1VycUF2S1lsM1M0WDk4NGpwbHpya2VsZGtrb19GYVY1b2xQNy1BQ2JPNkZRQXhmNXp0eFRJemhXdXZWUUZJWU9yY3c?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "12. Oct 2026"
         }
       ]
     },
@@ -70,7 +64,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die ÖBB investieren in Pörtschach in eine neue Geh- und Radunterführung, um die Infrastruktur für Fußgänger und Radfahrer zu verbessern. Das Land Steiermark wird entgegen früheren Aussagen keine Motorrad-Trainings finanzieren, wie eine Korrektur des Verkehrsressorts klarstellt.",
+      "summary": "Die ÖBB investieren in die Verbesserung der aktiven Mobilität durch den Bau einer neuen Geh- und Radunterführung in Pörtschach am Wörthersee, während das Land Steiermark klarstellt, dass es keine Förderung für Motorrad-Trainings bereitstellt.",
       "items": [
         {
           "title": "ÖBB: Baustart für neue Geh- und Radunterführung in Pörtschach am Wörthersee - ÖBB",
@@ -90,15 +84,8 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Elisabethinen-Klinik verlegt ihren Standort von Eggenberg in Graz und zieht damit ein großes Spitalsprojekt in der Stadt um. Dieser Umzug stellt eine bedeutende Veränderung in der Gesundheitsinfrastruktur und Stadtentwicklung Grazer Stadtteile dar.",
-      "items": [
-        {
-          "title": "Auszug aus Eggenberg - Elisabethinen: In Graz siedelt ein ganzes Spital - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE43UjlFaElRTTVvVWVxLWMwSWJ4czVqZ1VlZUJoZ1JZQy1LTUYtemNoRkY0VlExQkxlMzlPRlo1cktCUQ?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "6. Oct 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "behoerde_uvp": {
       "label": "Verkehrsbehörde & UVP",
