@@ -1,18 +1,24 @@
 {
-  "generated": "12. October 2026, 09:48 UTC",
+  "generated": "13. October 2026, 09:45 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die steirische Straßeninfrastruktur wird durch Sicherheitsmaßnahmen wie verstärkte Geschwindigkeitskontrollen auf Landstraßen und die Überprüfung von Notfallplänen für Gefahrguttransporte in Tunneln geschützt. Aktuelle Sperrungen wie jene der A9, die Ausweichrouten über den Pyhrnpass erforderlich machen, zeigen die Bedeutung einer funktionierenden Infrastruktur für den Verkehrsfluss in der Region.",
+      "summary": "In der Steiermark finden derzeit nächtliche Tunnelsperrungen statt, die Autofahrer beachten müssen, während gleichzeitig Notfallpläne für Gefahrenguttransporte überprüft werden. Die A9-Autobahn ist nachts gesperrt, wodurch Verkehr über alternative Routen wie den Pyhrnpass umgeleitet wird.",
       "items": [
         {
           "title": "Pkw beschlagnahmt - Junger Raser mit 196 km/h auf Landstraße erwischt - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8yd3lNSFpicGJmbnVUeU0xM3BEV2RjOU1QelRhWFEyS3lITjZscG45cEt2RE14WVZmQjVteTFJTTlSQQ?oc=5",
           "source": "Kronen Zeitung",
           "date": "8. Oct 2026"
+        },
+        {
+          "title": "Nächtliche Tunnelsperren in der Steiermark: Das müssen Autofahrer wissen - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPczJnUFZCWmJNV1NSdFpIaG9VVWxpQ2FqRl9kRWZuRVBkY284SGYtNDVtSF9heXF1MXJzN25za1R2aFMwbXdmMzBKWHlPNUViWXBwSmtPaUFDdG0xLS1PVC00MUYtdWpfMEwzLUkwajZVQXpVbm1jU01fN0k0dWZPQkhnb0prWjZiSGhXUzM3VFVPcVp1V0FEcWdYMWthQ3NtYjdJR2Z0MGEyTGlqcGh6aTh5ck1GM2FOOUJr?oc=5",
+          "source": "5 Minuten",
+          "date": "12. Oct 2026"
         },
         {
           "title": "Gefahrengut in Tunnels: Notfallpläne am Prüfstand - steiermark.ORF.at",
@@ -32,7 +38,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die S-Bahn von Graz nach Köflach nimmt ihren Betrieb wieder auf, während das Sammeltaxi SAM mit 35 Gemeinden für weitere vier Jahre fortgesetzt wird und damit das regionale Verkehrsangebot in der Steiermark gestärkt wird. Allerdings bleiben Herausforderungen bestehen, da die Gleichenberger Bahn trotz Weiterbetrieb bis 2027 unter Unsicherheit leidet und die Südstrecke durch ganztägige Unterbrechungen zu erheblichen Störungen im Bahnverkehr führt.",
+      "summary": "Die Grazer S-Bahn nach Köflach nimmt ihren Betrieb wieder auf, während das Sammeltaxi SAM mit 35 Gemeinden für weitere vier Jahre fortgesetzt wird. Die Gleichenberger Bahn bleibt 2027 in Betrieb und die Züge auf der Südstrecke sollen nach einem Totalausfall wieder fahren.",
       "items": [
         {
           "title": "S-Bahn von Graz nach Köflach startet wieder - steiermark.ORF.at",
@@ -53,7 +59,7 @@
           "date": "9. Oct 2026"
         },
         {
-          "title": "Südstrecke ganztägig unterbrochen: Chaos im Bahnverkehr - Kleine Zeitung",
+          "title": "Züge auf Südstrecke sollen nach Totalausfall wieder fahren - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVi1VYUNHQzNnT08xTHNaTDh1UUUwRDNtZ0MtOXV5eml5dVZKRlA3YXNsMXJMUHpJYkg5WTdtT2JqRk9WRDFSSnpyY0p6STBvSE9jVjFZNDhqUnZCRFNnRzhzckZlT05kVUhZU1VycUF2S1lsM1M0WDk4NGpwbHpya2VsZGtrb19GYVY1b2xQNy1BQ2JPNkZRQXhmNXp0eFRJemhXdXZWUUZJWU9yY3c?oc=5",
           "source": "Kleine Zeitung",
           "date": "12. Oct 2026"
@@ -64,13 +70,19 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die ÖBB investieren in die Verbesserung der aktiven Mobilität durch den Bau einer neuen Geh- und Radunterführung in Pörtschach am Wörthersee, während das Land Steiermark klarstellt, dass es keine Förderung für Motorrad-Trainings bereitstellt.",
+      "summary": "Die Steiermark investiert in die Infrastruktur für aktive Mobilität, wie der Baustart einer neuen Geh- und Radunterführung der ÖBB zeigt, während gleichzeitig Maßnahmen zur Unfallprävention wie Wildwarngeräte und eine Klarstellung zu Motorrad-Trainingsförderungen die Verkehrssicherheit verbessern sollen. Diese Maßnahmen verdeutlichen das Engagement für nachhaltige Verkehrslösungen und die Reduktion von Unfallrisiken im Bundesland.",
       "items": [
         {
           "title": "ÖBB: Baustart für neue Geh- und Radunterführung in Pörtschach am Wörthersee - ÖBB",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSUNDUjk1ZlRlbVBFdkRLTmRRd2RXUWlKaEZVRkdIMHVSNWUtejl5N1dfclNnbzZVaUxUOVdtbXA1LTZTVFpKQW13RmdYa0pmR1JvY2tyNjJ0Q2M3bmxhUWxxVVBZUUNMUnhoV3AtUEN4d3I1Q3d5V0NvWEZIVzZtS2R3eHRRM2phSF9xbGlveGFQaUVBRkNwaWl1eUJoY0tLRUpwSnNmeG85cHBldHBWZXQ3bG9zZGtjRkFUTjJrbkJYek5SX2daSk5KaW5LamJDWktiUHBraw?oc=5",
           "source": "ÖBB",
           "date": "7. Oct 2026"
+        },
+        {
+          "title": "Stainz: Warngeräte und Reflektoren sollen Wildunfälle reduzieren - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY2RDTEtpMmUtVUpiZlZxQXZtWVpQclQ2YmtDbGNYNkQ3eTBtM0s3XzI0Ync1UTRZZnQ2cDY5MFJjYl90SWpfdmFmMkVxWlBRa2JJeDZ3aTRGZHhhUURkOXFPY2ZJSkc0U0prWFVoZ1NITjY5cTRCbFBOaC1WWkNoZGpkYVR2czV2WVVlQTBxRFZoeWxmUmxkMzRqQ3BNSXY5SjRoZ0psWWplLXE2VkRNdQ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "8. Oct 2026"
         },
         {
           "title": "Holzer korrigiert Ehrenhöfer: Land zahlt keine Motorrad-Trainings - Kleine Zeitung",
@@ -84,8 +96,15 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Das Land Steiermark fördert mit einem neuen Programm die Sanierung und Revitalisierung von Ortskernen, um dem Flächenverbrauch entgegenzuwirken und bestehende Bausubstanz zu erhalten. Der Fördercall setzt damit einen Schwerpunkt auf nachhaltige Baukultur und die Stärkung historisch gewachsener Ortszentren statt auf Neuversiegelung.",
+      "items": [
+        {
+          "title": "Sanieren statt versiegeln: Land Steiermark startet Fördercall zur Ortskernstärkung - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUXFGejNSS1R0U0lnVHhUX2tUQ1YyZ3I2WmtJc3N3bFdqSUNTN2hQN2FNdTJuMGhnRElZNm9LRzRxbU5zUXNrWkJzQUEzVldxODhfWElONGQ1bnc2YzRwS1FxdUlNd05UN0ljc01rUkN6ZUFiM25sbE9IRUFuemg1UER4MlZqV3ZERkRHdWd4TVhvQ3B1czNnRmRhclJySU1QZ3ZNRGdxZTQ2VDBFa1RmLW53VQ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "12. Oct 2026"
+        }
+      ]
     },
     "behoerde_uvp": {
       "label": "Verkehrsbehörde & UVP",
