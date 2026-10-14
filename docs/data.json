@@ -1,19 +1,13 @@
 {
-  "generated": "13. October 2026, 09:45 UTC",
+  "generated": "14. October 2026, 08:02 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "In der Steiermark finden derzeit nächtliche Tunnelsperrungen statt, die Autofahrer beachten müssen, während gleichzeitig Notfallpläne für Gefahrenguttransporte überprüft werden. Die A9-Autobahn ist nachts gesperrt, wodurch Verkehr über alternative Routen wie den Pyhrnpass umgeleitet wird.",
+      "summary": "In der Steiermark finden regelmäßig nächtliche Tunnelsperrungen statt, über die sich Autofahrer informieren sollten. Gleichzeitig werden die Notfallpläne für den Transport von Gefahrengut in Tunneln überprüft und optimiert.",
       "items": [
-        {
-          "title": "Pkw beschlagnahmt - Junger Raser mit 196 km/h auf Landstraße erwischt - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8yd3lNSFpicGJmbnVUeU0xM3BEV2RjOU1QelRhWFEyS3lITjZscG45cEt2RE14WVZmQjVteTFJTTlSQQ?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "8. Oct 2026"
-        },
         {
           "title": "Nächtliche Tunnelsperren in der Steiermark: Das müssen Autofahrer wissen - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPczJnUFZCWmJNV1NSdFpIaG9VVWxpQ2FqRl9kRWZuRVBkY284SGYtNDVtSF9heXF1MXJzN25za1R2aFMwbXdmMzBKWHlPNUViWXBwSmtPaUFDdG0xLS1PVC00MUYtdWpfMEwzLUkwajZVQXpVbm1jU01fN0k0dWZPQkhnb0prWjZiSGhXUzM3VFVPcVp1V0FEcWdYMWthQ3NtYjdJR2Z0MGEyTGlqcGh6aTh5ck1GM2FOOUJr?oc=5",
@@ -25,12 +19,6 @@
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KLUhmdEZ2MTlfZTliVVFEOV8yWksyX19DcXZUdWpFajlkd0Q3UmhRa1ZDWjNaTG1XQTZpZk9pdTk5X2xkdzFHWGFja0wxX1VTbDVKeA?oc=5",
           "source": "steiermark.ORF.at",
           "date": "9. Oct 2026"
-        },
-        {
-          "title": "A9 gesperrt: Autofahrer müssen nachts über den Pyhrnpass - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ3o2bXZMaXNnS1lvQ3d5MXpWNUtwM0tnTENfT21uVE41X1JDYTdvYV9kMDV3cGV3NVctbVRYTy1WSkhKX0N2RElxOVpwc0xWWUJwcS1jQnpUN0ZmdnpscmNXdVJqUUJMb3BtMVFwVGxJT0xsVU5MZkJOTUNrTnIxMk56R2NsSUo4NjNRSzVJM1NZNEFpbV81WEhnNGJlUGh6dVIyNDRR?oc=5",
-          "source": "5 Minuten",
-          "date": "6. Oct 2026"
         }
       ]
     },
@@ -38,19 +26,13 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Grazer S-Bahn nach Köflach nimmt ihren Betrieb wieder auf, während das Sammeltaxi SAM mit 35 Gemeinden für weitere vier Jahre fortgesetzt wird. Die Gleichenberger Bahn bleibt 2027 in Betrieb und die Züge auf der Südstrecke sollen nach einem Totalausfall wieder fahren.",
+      "summary": "Die Grazer S-Bahn nach Köflach nimmt ihren Betrieb wieder auf, während die Gleichenberger Bahn trotz Unsicherheiten bis 2027 weiterfährt und die Südstrecke nach einem Totalausfall schrittweise wieder in Betrieb gehen soll. Allerdings bleibt die Finanzierung des Klimatickets für Kärnten und die Steiermark ungeklärt, was Verkehrsministerin Gewessler kritisiert, die der Steiermark eine unausgewogene Prioritätensetzung zwischen Straßenausbau und öffentlichem Verkehr vorwirft.",
       "items": [
         {
           "title": "S-Bahn von Graz nach Köflach startet wieder - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yWC0td3dJOHdJR1Q0WF9sR1pkQ2RkbHFnOF95Ny1IZ0VPWUNobVNJaTFpT3RNZjNOV3ZacGt2d3pJazVzaV80WF9mZmZrSmIxV0V3TA?oc=5",
           "source": "steiermark.ORF.at",
           "date": "10. Oct 2026"
-        },
-        {
-          "title": "Vier weitere Jahre: Sammeltaxi SAM geht mit 35 Gemeinden weiter - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMDRUTXkzamczRER1RU52MGNtX2I4RW9MRURSNDZ1TlNwTWJMZllMNWdzU1A0QlVEaGFMTk9hdU5LU0JjbnUzTWhfUFQwMm55ZVdXS25KeEUzNUxhLTZwZFlWTXFFWkUyQjIxcENlb0ZzNE5QRXZXR21BazZJZWpKZlh1d01vMkc5NExvMFRENlhLb3RvXy1NSlJOT25IaHlMbEl5VjhCMUZRRXZP?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "6. Oct 2026"
         },
         {
           "title": "Gleichenberger Bahn fährt auch 2027, aber das Zittern geht weiter - Kleine Zeitung",
@@ -63,6 +45,18 @@
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVi1VYUNHQzNnT08xTHNaTDh1UUUwRDNtZ0MtOXV5eml5dVZKRlA3YXNsMXJMUHpJYkg5WTdtT2JqRk9WRDFSSnpyY0p6STBvSE9jVjFZNDhqUnZCRFNnRzhzckZlT05kVUhZU1VycUF2S1lsM1M0WDk4NGpwbHpya2VsZGtrb19GYVY1b2xQNy1BQ2JPNkZRQXhmNXp0eFRJemhXdXZWUUZJWU9yY3c?oc=5",
           "source": "Kleine Zeitung",
           "date": "12. Oct 2026"
+        },
+        {
+          "title": "Wer zahlt das Klimaticket für Kärnten und die Steiermark? Niemand - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeWtNNk1jYlo4blFhakdDQTJzXzVNQ0ItZTE5dDQyRllDZUh6b2NLYXo4RGhYNDhoc05JWmo4cHRfeTA0WGVpWXFIaUdfQmd5YXl5QUoxZ05JOS1HMnJfd09IeUZuTm1ReGJkeG1MUkFGVHBjMkhSWHNxNlVydjl4S1YzNUVKalNKQkFiczFfc1FXcE9IbndPU2N6Vkc5anktUjkyM3J3?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "13. Oct 2026"
+        },
+        {
+          "title": "Zwischen A9-Ausbau und Klimaticket: Gewessler kritisiert steirische Prioritätensetzung - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM3g3TjMwUUp1ZW81bW83enNnMUdNSHg4NUp3SVpEZ1BmR09MVWVBYXo5ZnZvTUwxVTZ2amFlRXBtMXVBSWxFcm04a0pTc29rdXduN0tCc2lBYVh3NS13Sm1DQVpkMEljTklQME1Pdml1dV84UjRJYXdoc0xJOUV6ZHZQdDFBbjZpQjlyYnNsMEd3Tk53ODZRNXdIYXpidEZTc0J0R1BTZXJCa28?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "14. Oct 2026"
         }
       ]
     },
@@ -70,25 +64,19 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark investiert in die Infrastruktur für aktive Mobilität, wie der Baustart einer neuen Geh- und Radunterführung der ÖBB zeigt, während gleichzeitig Maßnahmen zur Unfallprävention wie Wildwarngeräte und eine Klarstellung zu Motorrad-Trainingsförderungen die Verkehrssicherheit verbessern sollen. Diese Maßnahmen verdeutlichen das Engagement für nachhaltige Verkehrslösungen und die Reduktion von Unfallrisiken im Bundesland.",
+      "summary": "Das Land Steiermark zahlt entgegen früheren Aussagen keine Motorrad-Trainings zur Verkehrssicherheit, wie Landesrat Holzer klarstellte. In Stainz werden hingegen Warngeräte und Reflektoren an Straßen installiert, um die Anzahl der Wildunfälle zu senken.",
       "items": [
         {
-          "title": "ÖBB: Baustart für neue Geh- und Radunterführung in Pörtschach am Wörthersee - ÖBB",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSUNDUjk1ZlRlbVBFdkRLTmRRd2RXUWlKaEZVRkdIMHVSNWUtejl5N1dfclNnbzZVaUxUOVdtbXA1LTZTVFpKQW13RmdYa0pmR1JvY2tyNjJ0Q2M3bmxhUWxxVVBZUUNMUnhoV3AtUEN4d3I1Q3d5V0NvWEZIVzZtS2R3eHRRM2phSF9xbGlveGFQaUVBRkNwaWl1eUJoY0tLRUpwSnNmeG85cHBldHBWZXQ3bG9zZGtjRkFUTjJrbkJYek5SX2daSk5KaW5LamJDWktiUHBraw?oc=5",
-          "source": "ÖBB",
-          "date": "7. Oct 2026"
+          "title": "Holzer korrigiert Ehrenhöfer: Land zahlt keine Motorrad-Trainings - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV3BOWlJOeGthR01sbVVCazVSLUFleEFzWHRBcFUzRjhMZW5BU082bFYzOVNtSlQ1dkVpSmxTeGdEdTY3bXVWN05adllzdGtnREJWTjNfeTZTN0FQV0Y1NnE0VjlKTEdkTEdpcFN4SFBOTFRmYXF6Z0pSNFBlU0p6aXZCeF8zdmxmb0tWcHA0Q3RhRGpOOGZuQlpqM2RTYzA5VFFoVFM4UVYzYk53U3RVcA?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "10. Oct 2026"
         },
         {
           "title": "Stainz: Warngeräte und Reflektoren sollen Wildunfälle reduzieren - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY2RDTEtpMmUtVUpiZlZxQXZtWVpQclQ2YmtDbGNYNkQ3eTBtM0s3XzI0Ync1UTRZZnQ2cDY5MFJjYl90SWpfdmFmMkVxWlBRa2JJeDZ3aTRGZHhhUURkOXFPY2ZJSkc0U0prWFVoZ1NITjY5cTRCbFBOaC1WWkNoZGpkYVR2czV2WVVlQTBxRFZoeWxmUmxkMzRqQ3BNSXY5SjRoZ0psWWplLXE2VkRNdQ?oc=5",
           "source": "Kleine Zeitung",
           "date": "8. Oct 2026"
-        },
-        {
-          "title": "Holzer korrigiert Ehrenhöfer: Land zahlt keine Motorrad-Trainings - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV3BOWlJOeGthR01sbVVCazVSLUFleEFzWHRBcFUzRjhMZW5BU082bFYzOVNtSlQ1dkVpSmxTeGdEdTY3bXVWN05adllzdGtnREJWTjNfeTZTN0FQV0Y1NnE0VjlKTEdkTEdpcFN4SFBOTFRmYXF6Z0pSNFBlU0p6aXZCeF8zdmxmb0tWcHA0Q3RhRGpOOGZuQlpqM2RTYzA5VFFoVFM4UVYzYk53U3RVcA?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "10. Oct 2026"
         }
       ]
     },
@@ -96,13 +84,31 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Das Land Steiermark fördert mit einem neuen Programm die Sanierung und Revitalisierung von Ortskernen, um dem Flächenverbrauch entgegenzuwirken und bestehende Bausubstanz zu erhalten. Der Fördercall setzt damit einen Schwerpunkt auf nachhaltige Baukultur und die Stärkung historisch gewachsener Ortszentren statt auf Neuversiegelung.",
+      "summary": "Das Land Steiermark fördert die nachhaltige Revitalisierung von Ortskernen durch gezielten Sanierungsförderungen statt weiterer Flächenversiegelung. Die Energie Steiermark eröffnet gleichzeitig ihren größten E-Mobilitätshub in St. Michael mit zehn hochleistungs-Ladepunkten und trägt damit zur Modernisierung der regionalen Infrastruktur bei.",
       "items": [
         {
           "title": "Sanieren statt versiegeln: Land Steiermark startet Fördercall zur Ortskernstärkung - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUXFGejNSS1R0U0lnVHhUX2tUQ1YyZ3I2WmtJc3N3bFdqSUNTN2hQN2FNdTJuMGhnRElZNm9LRzRxbU5zUXNrWkJzQUEzVldxODhfWElONGQ1bnc2YzRwS1FxdUlNd05UN0ljc01rUkN6ZUFiM25sbE9IRUFuemg1UER4MlZqV3ZERkRHdWd4TVhvQ3B1czNnRmRhclJySU1QZ3ZNRGdxZTQ2VDBFa1RmLW53VQ?oc=5",
           "source": "MeinBezirk.at",
           "date": "12. Oct 2026"
+        },
+        {
+          "title": "E-Mobilität in St. Michael: Energie Steiermark eröffnet ihren größten Ladehub - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRVNtUTVmdDNrdHRUdEdMTXlsSGxiMENkY0toRVd0VHdSbXpvTExnMlZ3TFNvdk1qWEw1ZkxNcUZreFF5NEVsQUdhNVZmamxhYnZhRV9wclRfdTZXVlJsLU54WlpTOVp1bnNOX3U3MVRraUZMQUZoc0kxT1ZsdWR3cUFETDFaNDBMQkotQXZjM1pMS1k5MWFjZ2Y0Vm5oTmhpWUhpVGtGcw?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "14. Oct 2026"
+        },
+        {
+          "title": "Energie Steiermark eröffnet Ladehub mit zehn 400-kW-Ladepunkten - Guten Tag Österreich",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYldtWnk0VnhnckVZVklZcjVsXy1zemlWR3VwUmdWQWRQMmJmb3RCSi01VENRdUdEVmxkdUFjNGFYWk5yS1RaMm1JeHBkMFVSYVZOaDZlaWpUTkRWaEZ0YVlWNU5mQ3pSUHlpaE9CQ2tzZmtxMkNhOTdTMExxT25RUWFaeDQ0Tm5Hem9URE5rYVZvUWx6UlE?oc=5",
+          "source": "Guten Tag Österreich",
+          "date": "13. Oct 2026"
+        },
+        {
+          "title": "Größter E-Ladepark der Energie Steiermark startet in St. Michael - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOHBWS1BKOFlDRDhRLUdFZm1vdHVfQmFEdGRubFFia2c2aDF6MGR4NnlLakJ2dUZQVG1FTmlsYmxXOUZSRVBEaFhBbVJXUGJPaUNkdEctNTg3bEQ2THE4bllVNVJZQkUzNnptX19OaHpvN0pLbDBvWUs4Ml9XLTdTc2hKQU51ZEc3SkthZGxybExLcHpDSldFMmlmNUpBQ3Z1d1lRd3didnp5VGNfZjJINA?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "13. Oct 2026"
         }
       ]
     },
