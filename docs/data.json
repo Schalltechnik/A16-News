@@ -1,12 +1,12 @@
 {
-  "generated": "14. October 2026, 08:02 UTC",
+  "generated": "15. October 2026, 07:44 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "In der Steiermark finden regelmäßig nächtliche Tunnelsperrungen statt, über die sich Autofahrer informieren sollten. Gleichzeitig werden die Notfallpläne für den Transport von Gefahrengut in Tunneln überprüft und optimiert.",
+      "summary": "In der Steiermark finden derzeit nächtliche Tunnelsperrungen statt, über die sich Autofahrer informieren sollten. Gleichzeitig werden die Notfallpläne für den Transport von Gefahrengut in Tunneln überprüft und optimiert.",
       "items": [
         {
           "title": "Nächtliche Tunnelsperren in der Steiermark: Das müssen Autofahrer wissen - 5 Minuten",
@@ -26,7 +26,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Grazer S-Bahn nach Köflach nimmt ihren Betrieb wieder auf, während die Gleichenberger Bahn trotz Unsicherheiten bis 2027 weiterfährt und die Südstrecke nach einem Totalausfall schrittweise wieder in Betrieb gehen soll. Allerdings bleibt die Finanzierung des Klimatickets für Kärnten und die Steiermark ungeklärt, was Verkehrsministerin Gewessler kritisiert, die der Steiermark eine unausgewogene Prioritätensetzung zwischen Straßenausbau und öffentlichem Verkehr vorwirft.",
+      "summary": "Die Steiermark verzeichnet gemischte Entwicklungen im öffentlichen Verkehr mit der Wiederaufnahme der S-Bahn nach Köflach und Fortbestand der Gleichenberger Bahn, während gleichzeitig Herausforderungen wie die Finanzierung des Klimatickets und Ausfälle auf der Südstrecke bestehen bleiben. Der neue ÖBB-Fahrplan bringt sowohl Verbesserungen als auch Rückschritte mit sich, wobei Kritik an der Prioritätensetzung zwischen Straßenausbau und öffentlichem Verkehr laut wird.",
       "items": [
         {
           "title": "S-Bahn von Graz nach Köflach startet wieder - steiermark.ORF.at",
@@ -39,6 +39,12 @@
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeklfSHVCbk1TcmZfS250LWRBZkh1QmdMdFlwNTNMV0pYTTFxUS1hT2RaVE9oWFptYUZTRVl4TWZpN2dtUjdObi0tVUNCelJCcTdVQUtRQ21PT2hSWGpVdlB6SFVFb2gweF9QaDgybFdoUzFXc0JaTDNTamxVSjNxb2VTajZyWGtfWjBtaV9BNmZPV0dLQ2J5b1hBeG9XeFU0eVZoeDQydVZadXRMd1ljSA?oc=5",
           "source": "Kleine Zeitung",
           "date": "9. Oct 2026"
+        },
+        {
+          "title": "Neuer ÖBB-Fahrplan mit Licht und Schatten - ORF",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90VXdMRUdyTnIzNkQyOEhLdm9SczM2ekZ0dWd5RFlBN0dZYUxsWjNqOWplMlZ3Y1pEYkhlSTFFdFktSHFkaFljZkxqOUxKQU4xb3Y4SA?oc=5",
+          "source": "ORF",
+          "date": "14. Oct 2026"
         },
         {
           "title": "Züge auf Südstrecke sollen nach Totalausfall wieder fahren - Kleine Zeitung",
@@ -64,13 +70,13 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Das Land Steiermark zahlt entgegen früheren Aussagen keine Motorrad-Trainings zur Verkehrssicherheit, wie Landesrat Holzer klarstellte. In Stainz werden hingegen Warngeräte und Reflektoren an Straßen installiert, um die Anzahl der Wildunfälle zu senken.",
+      "summary": "Die Gemeinde Gleinstätten muss ihre Verkehrsplanung überdenken, da das hohe Verkehrsaufkommen die Shared-Space-Konzepte an ihre Grenzen treibt. In Stainz werden unterdessen Warngeräte und Reflektoren eingesetzt, um durch bessere Sichtbarkeit und Prävention Wildunfälle zu reduzieren.",
       "items": [
         {
-          "title": "Holzer korrigiert Ehrenhöfer: Land zahlt keine Motorrad-Trainings - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV3BOWlJOeGthR01sbVVCazVSLUFleEFzWHRBcFUzRjhMZW5BU082bFYzOVNtSlQ1dkVpSmxTeGdEdTY3bXVWN05adllzdGtnREJWTjNfeTZTN0FQV0Y1NnE0VjlKTEdkTEdpcFN4SFBOTFRmYXF6Z0pSNFBlU0p6aXZCeF8zdmxmb0tWcHA0Q3RhRGpOOGZuQlpqM2RTYzA5VFFoVFM4UVYzYk53U3RVcA?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "10. Oct 2026"
+          "title": "Shared Space Problem: Hohes Verkehrsaufkommen zwingt Gleinstätten zum Umdenken - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXJzZ2E5S0dfb0U0MURqazJiTkJRckJFTG5vMnY5RXpNM3BrUXRlajNmeDRkb3NnZXNiSFp1dzI3T0RuUkRvd1VmeU13UmZQeFNlTGhCb3VkVTBoMktoYW5GUlNqTmpxY1AtcnFOQ3U5Ym1RYWxGLW9HQVYzOGVpUU4zLXNiNDV3MUxiRGM2WkluOHBtajlMR3NWcERZcFAxYVlZcjZUN2s1SHFPX0Y1ZQ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "14. Oct 2026"
         },
         {
           "title": "Stainz: Warngeräte und Reflektoren sollen Wildunfälle reduzieren - Kleine Zeitung",
@@ -84,7 +90,7 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Das Land Steiermark fördert die nachhaltige Revitalisierung von Ortskernen durch gezielten Sanierungsförderungen statt weiterer Flächenversiegelung. Die Energie Steiermark eröffnet gleichzeitig ihren größten E-Mobilitätshub in St. Michael mit zehn hochleistungs-Ladepunkten und trägt damit zur Modernisierung der regionalen Infrastruktur bei.",
+      "summary": "Das Land Steiermark fördert mit einem neuen Fördercall die Sanierung und Revitalisierung von Ortskernen, um dem Flächenverbrauch entgegenzuwirken. Die Energie Steiermark hat in St. Michael ihren größten E-Ladepark mit zehn hochleistungs-Ladepunkten à 400 kW eröffnet und trägt damit zur Infrastrukturentwicklung für die Elektromobilität bei.",
       "items": [
         {
           "title": "Sanieren statt versiegeln: Land Steiermark startet Fördercall zur Ortskernstärkung - MeinBezirk.at",
@@ -99,15 +105,15 @@
           "date": "14. Oct 2026"
         },
         {
-          "title": "Energie Steiermark eröffnet Ladehub mit zehn 400-kW-Ladepunkten - Guten Tag Österreich",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYldtWnk0VnhnckVZVklZcjVsXy1zemlWR3VwUmdWQWRQMmJmb3RCSi01VENRdUdEVmxkdUFjNGFYWk5yS1RaMm1JeHBkMFVSYVZOaDZlaWpUTkRWaEZ0YVlWNU5mQ3pSUHlpaE9CQ2tzZmtxMkNhOTdTMExxT25RUWFaeDQ0Tm5Hem9URE5rYVZvUWx6UlE?oc=5",
-          "source": "Guten Tag Österreich",
-          "date": "13. Oct 2026"
-        },
-        {
           "title": "Größter E-Ladepark der Energie Steiermark startet in St. Michael - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOHBWS1BKOFlDRDhRLUdFZm1vdHVfQmFEdGRubFFia2c2aDF6MGR4NnlLakJ2dUZQVG1FTmlsYmxXOUZSRVBEaFhBbVJXUGJPaUNkdEctNTg3bEQ2THE4bllVNVJZQkUzNnptX19OaHpvN0pLbDBvWUs4Ml9XLTdTc2hKQU51ZEc3SkthZGxybExLcHpDSldFMmlmNUpBQ3Z1d1lRd3didnp5VGNfZjJINA?oc=5",
           "source": "Kleine Zeitung",
+          "date": "13. Oct 2026"
+        },
+        {
+          "title": "Energie Steiermark eröffnet Ladehub mit zehn 400-kW-Ladepunkten - Guten Tag Österreich",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYldtWnk0VnhnckVZVklZcjVsXy1zemlWR3VwUmdWQWRQMmJmb3RCSi01VENRdUdEVmxkdUFjNGFYWk5yS1RaMm1JeHBkMFVSYVZOaDZlaWpUTkRWaEZ0YVlWNU5mQ3pSUHlpaE9CQ2tzZmtxMkNhOTdTMExxT25RUWFaeDQ0Tm5Hem9URE5rYVZvUWx6UlE?oc=5",
+          "source": "Guten Tag Österreich",
           "date": "13. Oct 2026"
         }
       ]
