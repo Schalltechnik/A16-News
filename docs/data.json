@@ -1,12 +1,12 @@
 {
-  "generated": "15. October 2026, 07:44 UTC",
+  "generated": "16. October 2026, 07:32 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "In der Steiermark finden derzeit nächtliche Tunnelsperrungen statt, über die sich Autofahrer informieren sollten. Gleichzeitig werden die Notfallpläne für den Transport von Gefahrengut in Tunneln überprüft und optimiert.",
+      "summary": "In der Steiermark finden derzeit nächtliche Tunnelsperrungen statt, während gleichzeitig Notfallpläne für den Gefahrenguttransport in Tunneln überprüft werden. Der Graz-Marathon führt zusätzlich zu temporären Straßensperrungen im Stadtgebiet.",
       "items": [
         {
           "title": "Nächtliche Tunnelsperren in der Steiermark: Das müssen Autofahrer wissen - 5 Minuten",
@@ -19,6 +19,12 @@
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KLUhmdEZ2MTlfZTliVVFEOV8yWksyX19DcXZUdWpFajlkd0Q3UmhRa1ZDWjNaTG1XQTZpZk9pdTk5X2xkdzFHWGFja0wxX1VTbDVKeA?oc=5",
           "source": "steiermark.ORF.at",
           "date": "9. Oct 2026"
+        },
+        {
+          "title": "Graz-Marathon sorgt für Straßensperren - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JaWlnbExNNnpGRTMzdnE0UW1La1ZyU05mUGc2VHh3Smt4aXNUTW5ZQ3BUdTZtdkRMb01mTWZCUzJVU202eTdUczR4cnV3OExMajZrWg?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "11. Oct 2026"
         }
       ]
     },
@@ -26,7 +32,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Steiermark verzeichnet gemischte Entwicklungen im öffentlichen Verkehr mit der Wiederaufnahme der S-Bahn nach Köflach und Fortbestand der Gleichenberger Bahn, während gleichzeitig Herausforderungen wie die Finanzierung des Klimatickets und Ausfälle auf der Südstrecke bestehen bleiben. Der neue ÖBB-Fahrplan bringt sowohl Verbesserungen als auch Rückschritte mit sich, wobei Kritik an der Prioritätensetzung zwischen Straßenausbau und öffentlichem Verkehr laut wird.",
+      "summary": "Die Grazer S-Bahn nach Köflach nimmt wieder ihren Betrieb auf und die Südstrecke soll nach einem Totalausfall reaktiviert werden, während der neue ÖBB-Fahrplan gemischte Ergebnisse bringt. Allerdings bleiben die Finanzierung des Klimatickets ungeklärt und die Gleichenberger Bahn weiterhin in ihrer Existenz gefährdet, was Fragen zur Prioritätensetzung zwischen Straßen- und Bahnausbau aufwirft.",
       "items": [
         {
           "title": "S-Bahn von Graz nach Köflach startet wieder - steiermark.ORF.at",
@@ -41,9 +47,9 @@
           "date": "9. Oct 2026"
         },
         {
-          "title": "Neuer ÖBB-Fahrplan mit Licht und Schatten - ORF",
+          "title": "Neuer ÖBB-Fahrplan mit Licht und Schatten - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90VXdMRUdyTnIzNkQyOEhLdm9SczM2ekZ0dWd5RFlBN0dZYUxsWjNqOWplMlZ3Y1pEYkhlSTFFdFktSHFkaFljZkxqOUxKQU4xb3Y4SA?oc=5",
-          "source": "ORF",
+          "source": "steiermark.ORF.at",
           "date": "14. Oct 2026"
         },
         {
@@ -70,7 +76,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Gemeinde Gleinstätten muss ihre Verkehrsplanung überdenken, da das hohe Verkehrsaufkommen die Shared-Space-Konzepte an ihre Grenzen treibt. In Stainz werden unterdessen Warngeräte und Reflektoren eingesetzt, um durch bessere Sichtbarkeit und Prävention Wildunfälle zu reduzieren.",
+      "summary": "Die Gemeinde Gleinstätten sieht sich durch hohes Verkehrsaufkommen gezwungen, ihr Shared-Space-Konzept in der Ortsmitte grundlegend umzugestalten. Die Pielachtaler Gemeinden entwickeln parallel ein neues Mobilitätskonzept, um die Verkehrssituation nachhaltig zu verbessern.",
       "items": [
         {
           "title": "Shared Space Problem: Hohes Verkehrsaufkommen zwingt Gleinstätten zum Umdenken - MeinBezirk.at",
@@ -79,10 +85,16 @@
           "date": "14. Oct 2026"
         },
         {
-          "title": "Stainz: Warngeräte und Reflektoren sollen Wildunfälle reduzieren - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY2RDTEtpMmUtVUpiZlZxQXZtWVpQclQ2YmtDbGNYNkQ3eTBtM0s3XzI0Ync1UTRZZnQ2cDY5MFJjYl90SWpfdmFmMkVxWlBRa2JJeDZ3aTRGZHhhUURkOXFPY2ZJSkc0U0prWFVoZ1NITjY5cTRCbFBOaC1WWkNoZGpkYVR2czV2WVVlQTBxRFZoeWxmUmxkMzRqQ3BNSXY5SjRoZ0psWWplLXE2VkRNdQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "8. Oct 2026"
+          "title": "Gleinstätten plant Umbau im Shared Space in der Ortsmitte - Welt Stimme",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdmFwNUZ6V1pHSlB2bDB5TGpoR3NoeHdVaEU1X2tNSE9wN3c4U3owdHpGbTBxeHRDeVgzZzhIdzU3UWxuYjJwV2wxdEhqYXFqdjVOWjRpRDl0Ym5iekdqZ0ZSdUlzM3hCNG9ERkJ1NllJbjhGNDE1WjJWMWlTaW5TMXU4Ylp5b3J1Mllhc3lXakFUdWVmd19yQV9MMGUzbXEyN0NPQw?oc=5",
+          "source": "Welt Stimme",
+          "date": "15. Oct 2026"
+        },
+        {
+          "title": "Pielachtaler Gemeinden arbeiten an neuem Mobilitätskonzept - Welt Stimme",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMlNicEVwc1hmblRqejhGU19PalZJX3FPanRQZWFYdzFMU0VRVzhwMHhld1VnZXJ1a1Y2YTdmRkEybE9nbVd2SUNuNnhCT3dUOE0ydWhlXzdmRmp2ZmM0dmMtOVBUZUJJUTFQLThwcmpQcDB4YlVEWk5iYVVLQ19OQW1WbHhuQ3ctMW1QdVpORUViTkhVdUw2ajZsZnZYbTdndFBzdjBDVFZDS2J1LXdn?oc=5",
+          "source": "Welt Stimme",
+          "date": "16. Oct 2026"
         }
       ]
     },
@@ -90,8 +102,20 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Das Land Steiermark fördert mit einem neuen Fördercall die Sanierung und Revitalisierung von Ortskernen, um dem Flächenverbrauch entgegenzuwirken. Die Energie Steiermark hat in St. Michael ihren größten E-Ladepark mit zehn hochleistungs-Ladepunkten à 400 kW eröffnet und trägt damit zur Infrastrukturentwicklung für die Elektromobilität bei.",
+      "summary": "Die Steiermark setzt mit Fördermaßnahmen zur Ortskernstärkung und Sanierung von Bestandsgebäuden Prioritäten auf nachhaltige Stadtentwicklung statt Flächenversiegelung, während gleichzeitig Infrastrukturprojekte wie der Ausbau von Park-and-Ride-Anlagen und die Errichtung moderner E-Mobilitätshubs die Mobilitätswende unterstützen. Angesichts angespannter Budgets erwägt das Land zudem die Veräußerung von Liegenschaften wie Schlössern und Palästen, um finanzielle Spielräume zu schaffen.",
       "items": [
+        {
+          "title": "Mehr Parkplätze am P+R Schäffernsteg – Ausbau für Pendler dringend erforderlich! - www.openpetition.eu",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdm9IVG45MlVKSUZDQzhiUVl2eHhydTJucUpiNUJVYVBlSWRzbGNoWDdZU2JNeWZiRG9UalhyQi1ZZ0VUZEp6bDB0VEl1ZC1RTDlzOHhLYy1oWE9yOWtNekF4QzhvS1FLQWtnVmgxV3VPR2gzSHJyZW1IVE83VzhIUkVhWTYxeXBCOXFwUWhzckVRa3NzRmtKaWVWTDgzT0dkaVZ2M1pTVGRUQml1bzVvY0l3OTg2SjhkbjB4NjFwdlpraFRsanc?oc=5",
+          "source": "www.openpetition.eu",
+          "date": "15. Oct 2026"
+        },
+        {
+          "title": "Steiermark: Förderung für Sanierung in Ortskernen - austria.com",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWVZ3V3g4TmNfLWJUdlZNS2NOVFRnTUNBbnQtMUhGRE9BTGVvZU02N3ZOSWZUWEx2Nzhhcl9NdFBEdzNocEVSSkxiR3JLc09OSlBKTVZTeVNjcC1PM1NWaHNTbXJIcVctclJkR2NGaDJ3dXUzYjN3aF82bVRkblc4bjZDU2hEREY0Q1ZZS19ZcmRPZWxJUFZOYg?oc=5",
+          "source": "austria.com",
+          "date": "15. Oct 2026"
+        },
         {
           "title": "Sanieren statt versiegeln: Land Steiermark startet Fördercall zur Ortskernstärkung - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUXFGejNSS1R0U0lnVHhUX2tUQ1YyZ3I2WmtJc3N3bFdqSUNTN2hQN2FNdTJuMGhnRElZNm9LRzRxbU5zUXNrWkJzQUEzVldxODhfWElONGQ1bnc2YzRwS1FxdUlNd05UN0ljc01rUkN6ZUFiM25sbE9IRUFuemg1UER4MlZqV3ZERkRHdWd4TVhvQ3B1czNnRmRhclJySU1QZ3ZNRGdxZTQ2VDBFa1RmLW53VQ?oc=5",
@@ -99,16 +123,28 @@
           "date": "12. Oct 2026"
         },
         {
+          "title": "Von etablierter Architektur bis baulichen Zukunft - BLO24",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTDVJbEpNNW9LMWtiblNvVk5qeXRJY0ZERDdrZTRrc0I3Q3B3VEdkQ1c3NlZSVXhQdlhycWwxM29vc29ZaUM2aklCelR1c2tSWG9TeDNOS1ZXMW5oc0VNd1JIYm9sSHctRThFaHJCOVM5eWZvYlpRVEppQUxIQmxlR0JJanBRNG1uWmc?oc=5",
+          "source": "BLO24",
+          "date": "13. Oct 2026"
+        },
+        {
+          "title": "Budgetnöte: Land Steiermark will Schloss, Palais und Co verkaufen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeHRtNFB1X3k1RUl0RkRZVkY1M3QxcFd2SkEzZzZ2MEV3QlFqSGZLMjZoUURMN0IzQ3RhUGprOEQtZlp3SnNxakJ5NTYtdkRxckFUXzFxNUF2QXdEcHBMd2VyWWVYdm9RaXJzTTVqX09OS2Z6S3FBbnFmS3ltamdVb0lZckxaN1o1S214MnVuMUFpbE9URld4X0VBMHEyM19NZDhDQ3E1OXktUk5MYnNF?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "15. Oct 2026"
+        },
+        {
+          "title": "Steirische Gemeinde will ihr Skigebiet um zwei Euro abgeben - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUN6YUFnbV9mbWxLbkVpbW9XdWwxT2JVNHR1T0pMaVVkdVFOdF9raEJERjhMVjZKYXBPaTZNLUFOaUM2cTZLYXpmWDl2dHNBcW1NaGwyck90ZXVUYlk1YVJKeWpmVy1pRXNEU3pGb050dzBzUXJFRDNIZ0FlRl9fbXBjN3dFVzVDalBzdkNhdnRlVHlEQnZWOGd1dWpvRm1NUWtGanRPZTA?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "15. Oct 2026"
+        },
+        {
           "title": "E-Mobilität in St. Michael: Energie Steiermark eröffnet ihren größten Ladehub - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRVNtUTVmdDNrdHRUdEdMTXlsSGxiMENkY0toRVd0VHdSbXpvTExnMlZ3TFNvdk1qWEw1ZkxNcUZreFF5NEVsQUdhNVZmamxhYnZhRV9wclRfdTZXVlJsLU54WlpTOVp1bnNOX3U3MVRraUZMQUZoc0kxT1ZsdWR3cUFETDFaNDBMQkotQXZjM1pMS1k5MWFjZ2Y0Vm5oTmhpWUhpVGtGcw?oc=5",
           "source": "MeinBezirk.at",
           "date": "14. Oct 2026"
-        },
-        {
-          "title": "Größter E-Ladepark der Energie Steiermark startet in St. Michael - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOHBWS1BKOFlDRDhRLUdFZm1vdHVfQmFEdGRubFFia2c2aDF6MGR4NnlLakJ2dUZQVG1FTmlsYmxXOUZSRVBEaFhBbVJXUGJPaUNkdEctNTg3bEQ2THE4bllVNVJZQkUzNnptX19OaHpvN0pLbDBvWUs4Ml9XLTdTc2hKQU51ZEc3SkthZGxybExLcHpDSldFMmlmNUpBQ3Z1d1lRd3didnp5VGNfZjJINA?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "13. Oct 2026"
         },
         {
           "title": "Energie Steiermark eröffnet Ladehub mit zehn 400-kW-Ladepunkten - Guten Tag Österreich",
