@@ -1,24 +1,18 @@
 {
-  "generated": "16. October 2026, 07:32 UTC",
+  "generated": "17. October 2026, 07:12 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "In der Steiermark finden derzeit nächtliche Tunnelsperrungen statt, während gleichzeitig Notfallpläne für den Gefahrenguttransport in Tunneln überprüft werden. Der Graz-Marathon führt zusätzlich zu temporären Straßensperrungen im Stadtgebiet.",
+      "summary": "In der Steiermark kommt es zu nächtlichen Tunnelsperrungen, über die sich Autofahrer informieren sollten. Zusätzlich führt der Graz-Marathon zu temporären Straßensperrungen im Stadtgebiet.",
       "items": [
         {
           "title": "Nächtliche Tunnelsperren in der Steiermark: Das müssen Autofahrer wissen - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPczJnUFZCWmJNV1NSdFpIaG9VVWxpQ2FqRl9kRWZuRVBkY284SGYtNDVtSF9heXF1MXJzN25za1R2aFMwbXdmMzBKWHlPNUViWXBwSmtPaUFDdG0xLS1PVC00MUYtdWpfMEwzLUkwajZVQXpVbm1jU01fN0k0dWZPQkhnb0prWjZiSGhXUzM3VFVPcVp1V0FEcWdYMWthQ3NtYjdJR2Z0MGEyTGlqcGh6aTh5ck1GM2FOOUJr?oc=5",
           "source": "5 Minuten",
           "date": "12. Oct 2026"
-        },
-        {
-          "title": "Gefahrengut in Tunnels: Notfallpläne am Prüfstand - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KLUhmdEZ2MTlfZTliVVFEOV8yWksyX19DcXZUdWpFajlkd0Q3UmhRa1ZDWjNaTG1XQTZpZk9pdTk5X2xkdzFHWGFja0wxX1VTbDVKeA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "9. Oct 2026"
         },
         {
           "title": "Graz-Marathon sorgt für Straßensperren - steiermark.ORF.at",
@@ -32,19 +26,13 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Grazer S-Bahn nach Köflach nimmt wieder ihren Betrieb auf und die Südstrecke soll nach einem Totalausfall reaktiviert werden, während der neue ÖBB-Fahrplan gemischte Ergebnisse bringt. Allerdings bleiben die Finanzierung des Klimatickets ungeklärt und die Gleichenberger Bahn weiterhin in ihrer Existenz gefährdet, was Fragen zur Prioritätensetzung zwischen Straßen- und Bahnausbau aufwirft.",
+      "summary": "Die S-Bahn-Verbindung von Graz nach Köflach nimmt ihren Betrieb wieder auf und es werden zusätzliche Zugverbindungen wie die neue Route nach Leoben ab Dezember eingeführt, während die Südstrecke nach einem Totalausfall schrittweise wieder in Betrieb gehen soll. Allerdings zeigt sich bei der Finanzierung des Klimatickets und der Priorisierung von Infrastrukturmaßnahmen Uneinigkeit zwischen Bund und Land, wobei der neue ÖBB-Fahrplan sowohl positive als auch negative Auswirkungen mit sich bringt.",
       "items": [
         {
           "title": "S-Bahn von Graz nach Köflach startet wieder - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yWC0td3dJOHdJR1Q0WF9sR1pkQ2RkbHFnOF95Ny1IZ0VPWUNobVNJaTFpT3RNZjNOV3ZacGt2d3pJazVzaV80WF9mZmZrSmIxV0V3TA?oc=5",
           "source": "steiermark.ORF.at",
           "date": "10. Oct 2026"
-        },
-        {
-          "title": "Gleichenberger Bahn fährt auch 2027, aber das Zittern geht weiter - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeklfSHVCbk1TcmZfS250LWRBZkh1QmdMdFlwNTNMV0pYTTFxUS1hT2RaVE9oWFptYUZTRVl4TWZpN2dtUjdObi0tVUNCelJCcTdVQUtRQ21PT2hSWGpVdlB6SFVFb2gweF9QaDgybFdoUzFXc0JaTDNTamxVSjNxb2VTajZyWGtfWjBtaV9BNmZPV0dLQ2J5b1hBeG9XeFU0eVZoeDQydVZadXRMd1ljSA?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "9. Oct 2026"
         },
         {
           "title": "Neuer ÖBB-Fahrplan mit Licht und Schatten - steiermark.ORF.at",
@@ -57,6 +45,12 @@
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVi1VYUNHQzNnT08xTHNaTDh1UUUwRDNtZ0MtOXV5eml5dVZKRlA3YXNsMXJMUHpJYkg5WTdtT2JqRk9WRDFSSnpyY0p6STBvSE9jVjFZNDhqUnZCRFNnRzhzckZlT05kVUhZU1VycUF2S1lsM1M0WDk4NGpwbHpya2VsZGtrb19GYVY1b2xQNy1BQ2JPNkZRQXhmNXp0eFRJemhXdXZWUUZJWU9yY3c?oc=5",
           "source": "Kleine Zeitung",
           "date": "12. Oct 2026"
+        },
+        {
+          "title": "Nach massiver Kritik: Zusätzliche Zugverbindung von Graz nach Leoben ab Dezember - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS3otT2JLUUVqNW5KSTNHU19Tby1XOW1QOXhmX1JjaDNnemJmZFhnaUVuT0FzSFdTNkxYRHpISlBSSDlBbTI2Rm9QcFZRX3daN2ZxS1BRQ24tQUx1bDdYMVNpbTY2STdoa0ZMWlY4cGt2RUVIUTBad0Zzb2EydTFoNjlrUkVmcUlwMHRUMzJlaUY5dkhZRENyeEFsRDE4MFNnQ01uckN0MV93X0M2XzFSNg?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "16. Oct 2026"
         },
         {
           "title": "Wer zahlt das Klimaticket für Kärnten und die Steiermark? Niemand - Kleine Zeitung",
@@ -102,7 +96,7 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark setzt mit Fördermaßnahmen zur Ortskernstärkung und Sanierung von Bestandsgebäuden Prioritäten auf nachhaltige Stadtentwicklung statt Flächenversiegelung, während gleichzeitig Infrastrukturprojekte wie der Ausbau von Park-and-Ride-Anlagen und die Errichtung moderner E-Mobilitätshubs die Mobilitätswende unterstützen. Angesichts angespannter Budgets erwägt das Land zudem die Veräußerung von Liegenschaften wie Schlössern und Palästen, um finanzielle Spielräume zu schaffen.",
+      "summary": "Die Steiermark investiert verstärkt in die Sanierung und Revitalisierung ihrer Ortskerne und öffentlichen Infrastrukturen, wobei Förderprogramme für Gemeinden und Liegenschaftssanierungen im Millionenbereich bereitgestellt werden. Gleichzeitig plant das Land aufgrund von Budgetengpässen den Verkauf von Schlössern und Palästen, während moderne Mobilitätslösungen wie E-Ladehubs ausgebaut werden.",
       "items": [
         {
           "title": "Mehr Parkplätze am P+R Schäffernsteg – Ausbau für Pendler dringend erforderlich! - www.openpetition.eu",
@@ -111,10 +105,22 @@
           "date": "15. Oct 2026"
         },
         {
+          "title": "1,95 Mio. Euro für die Sanierung und Revitalisierung - BLO24",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2tLS2UtQXNSQUtXQkltTW5rLUxINW1MRE5ZMDBiZ0szTFVqTW9wNWZwMVFUdk5xNGM5cGVqeDBxblpoYzRqU3JsVEptNjVDVTFuYXRoQnVoUVJRWldEVmNqaGljRjBYTnJ6ellSbGRZTWtSQV9FQzM2QlJ5T3k3Y1B5LTFFTnIzRnZGdDVxREdnMzF6QUFabmNSblU?oc=5",
+          "source": "BLO24",
+          "date": "17. Oct 2026"
+        },
+        {
           "title": "Steiermark: Förderung für Sanierung in Ortskernen - austria.com",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWVZ3V3g4TmNfLWJUdlZNS2NOVFRnTUNBbnQtMUhGRE9BTGVvZU02N3ZOSWZUWEx2Nzhhcl9NdFBEdzNocEVSSkxiR3JLc09OSlBKTVZTeVNjcC1PM1NWaHNTbXJIcVctclJkR2NGaDJ3dXUzYjN3aF82bVRkblc4bjZDU2hEREY0Q1ZZS19ZcmRPZWxJUFZOYg?oc=5",
           "source": "austria.com",
           "date": "15. Oct 2026"
+        },
+        {
+          "title": "Finanzspritze für Straßen: Land fördert Sanierung von Gemeindestraßen mit halber Million - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRmZIeVdpRFBrM0oxSlhJSEZmN28xQWVJTHhvY3phZmY3QWRjdUtCR1Y2OU51OFFWaVNXZ1JKQ0RfaXVjS1NDQWxIRzh2bHF4XzlZNWZvYXNBSFNnTlRPSnNZcEZDc0hGLUdFeC1oM00tZHlwMWRqdm41ZE5QZFpoN2VVT0ZaZ1dYVWstRFJlY0hoMW5rb0gxTmNSa2F4NjM1SERtSDJYMGhQTDlyeEs5V3M5WUpDc1p4SXV1SC1ZaFEwRU9POEl1N21R?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "16. Oct 2026"
         },
         {
           "title": "Sanieren statt versiegeln: Land Steiermark startet Fördercall zur Ortskernstärkung - MeinBezirk.at",
@@ -126,7 +132,7 @@
           "title": "Von etablierter Architektur bis baulichen Zukunft - BLO24",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTDVJbEpNNW9LMWtiblNvVk5qeXRJY0ZERDdrZTRrc0I3Q3B3VEdkQ1c3NlZSVXhQdlhycWwxM29vc29ZaUM2aklCelR1c2tSWG9TeDNOS1ZXMW5oc0VNd1JIYm9sSHctRThFaHJCOVM5eWZvYlpRVEppQUxIQmxlR0JJanBRNG1uWmc?oc=5",
           "source": "BLO24",
-          "date": "13. Oct 2026"
+          "date": "16. Oct 2026"
         },
         {
           "title": "Budgetnöte: Land Steiermark will Schloss, Palais und Co verkaufen - Kleine Zeitung",
@@ -135,22 +141,10 @@
           "date": "15. Oct 2026"
         },
         {
-          "title": "Steirische Gemeinde will ihr Skigebiet um zwei Euro abgeben - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUN6YUFnbV9mbWxLbkVpbW9XdWwxT2JVNHR1T0pMaVVkdVFOdF9raEJERjhMVjZKYXBPaTZNLUFOaUM2cTZLYXpmWDl2dHNBcW1NaGwyck90ZXVUYlk1YVJKeWpmVy1pRXNEU3pGb050dzBzUXJFRDNIZ0FlRl9fbXBjN3dFVzVDalBzdkNhdnRlVHlEQnZWOGd1dWpvRm1NUWtGanRPZTA?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "15. Oct 2026"
-        },
-        {
           "title": "E-Mobilität in St. Michael: Energie Steiermark eröffnet ihren größten Ladehub - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRVNtUTVmdDNrdHRUdEdMTXlsSGxiMENkY0toRVd0VHdSbXpvTExnMlZ3TFNvdk1qWEw1ZkxNcUZreFF5NEVsQUdhNVZmamxhYnZhRV9wclRfdTZXVlJsLU54WlpTOVp1bnNOX3U3MVRraUZMQUZoc0kxT1ZsdWR3cUFETDFaNDBMQkotQXZjM1pMS1k5MWFjZ2Y0Vm5oTmhpWUhpVGtGcw?oc=5",
           "source": "MeinBezirk.at",
           "date": "14. Oct 2026"
-        },
-        {
-          "title": "Energie Steiermark eröffnet Ladehub mit zehn 400-kW-Ladepunkten - Guten Tag Österreich",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYldtWnk0VnhnckVZVklZcjVsXy1zemlWR3VwUmdWQWRQMmJmb3RCSi01VENRdUdEVmxkdUFjNGFYWk5yS1RaMm1JeHBkMFVSYVZOaDZlaWpUTkRWaEZ0YVlWNU5mQ3pSUHlpaE9CQ2tzZmtxMkNhOTdTMExxT25RUWFaeDQ0Tm5Hem9URE5rYVZvUWx6UlE?oc=5",
-          "source": "Guten Tag Österreich",
-          "date": "13. Oct 2026"
         }
       ]
     },
@@ -158,8 +152,15 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Ich kann diese Aufgabe leider nicht erfüllen, da der angegebene Nachrichtentitel \"Windpark Thörl West: Großes Interesse bei Info-Veranstaltung in Etmißl\" nicht mit den genannten Themenbereichen (UVP-Verfahren, Genehmigungen, Verkehrsverordnungen, Einsprüche und verwaltungsrechtliche Themen im steirischen Verkehrsbereich) in Zusammenhang steht, sondern ein Windkraftprojekt betrifft. Eine sachgerechte Zusammenfassung im geforderten Kontext ist daher nicht möglich.",
+      "items": [
+        {
+          "title": "Windpark Thörl West: Großes Interesse bei Info-Veranstaltung in Etmißl - Welt Stimme",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM0libmpOR21tekU2Ym9qYnRtVHNYaVNXdGs1N3FjaFJLd2lhTllzVWlIWkFaVkdSQXRwWUo4T29aSDNSTzdkZ2RTQzQ4NjIyckJsaE4yajB5ZnhnUFB5TkUtNkd6Y3JIZXQwTWlGS3FmTUxvZDJ1ZHNoQUM1d1dYb2lJc1lwVDdPd3IwYUdKcEFQa2FhTC05R21TZjRpbk4zRHVzU3NWTTV1SnpBZHNuci1TTlBWZGJGeDFIcUlfM1VVek0?oc=5",
+          "source": "Welt Stimme",
+          "date": "17. Oct 2026"
+        }
+      ]
     }
   }
 }
