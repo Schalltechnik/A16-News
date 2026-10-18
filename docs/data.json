@@ -1,12 +1,12 @@
 {
-  "generated": "17. October 2026, 07:12 UTC",
+  "generated": "18. October 2026, 07:26 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "In der Steiermark kommt es zu nächtlichen Tunnelsperrungen, über die sich Autofahrer informieren sollten. Zusätzlich führt der Graz-Marathon zu temporären Straßensperrungen im Stadtgebiet.",
+      "summary": "In der Steiermark finden derzeit nächtliche Tunnelsperrungen statt, über die sich Autofahrer informieren sollten. Der Graz-Marathon führt zudem zu temporären Straßensperrungen im Stadtgebiet.",
       "items": [
         {
           "title": "Nächtliche Tunnelsperren in der Steiermark: Das müssen Autofahrer wissen - 5 Minuten",
@@ -26,14 +26,8 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die S-Bahn-Verbindung von Graz nach Köflach nimmt ihren Betrieb wieder auf und es werden zusätzliche Zugverbindungen wie die neue Route nach Leoben ab Dezember eingeführt, während die Südstrecke nach einem Totalausfall schrittweise wieder in Betrieb gehen soll. Allerdings zeigt sich bei der Finanzierung des Klimatickets und der Priorisierung von Infrastrukturmaßnahmen Uneinigkeit zwischen Bund und Land, wobei der neue ÖBB-Fahrplan sowohl positive als auch negative Auswirkungen mit sich bringt.",
+      "summary": "Die Österreichischen Bundesbahnen führen einen neuen Fahrplan mit gemischten Ergebnissen ein, wobei wichtige Zugverbindungen wie die Südstrecke nach Totalausfällen wiederhergestellt werden und zusätzliche Pendlerzüge zwischen Graz und Leoben ab Dezember verkehren. Allerdings bleiben Finanzierungsfragen zum Klimaticket ungeklärt, während die steirische Verkehrspolitik zwischen Straßenausbau und öffentlichen Verkehrsinvestitionen umstritten ist.",
       "items": [
-        {
-          "title": "S-Bahn von Graz nach Köflach startet wieder - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yWC0td3dJOHdJR1Q0WF9sR1pkQ2RkbHFnOF95Ny1IZ0VPWUNobVNJaTFpT3RNZjNOV3ZacGt2d3pJazVzaV80WF9mZmZrSmIxV0V3TA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "10. Oct 2026"
-        },
         {
           "title": "Neuer ÖBB-Fahrplan mit Licht und Schatten - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90VXdMRUdyTnIzNkQyOEhLdm9SczM2ekZ0dWd5RFlBN0dZYUxsWjNqOWplMlZ3Y1pEYkhlSTFFdFktSHFkaFljZkxqOUxKQU4xb3Y4SA?oc=5",
@@ -45,6 +39,12 @@
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVi1VYUNHQzNnT08xTHNaTDh1UUUwRDNtZ0MtOXV5eml5dVZKRlA3YXNsMXJMUHpJYkg5WTdtT2JqRk9WRDFSSnpyY0p6STBvSE9jVjFZNDhqUnZCRFNnRzhzckZlT05kVUhZU1VycUF2S1lsM1M0WDk4NGpwbHpya2VsZGtrb19GYVY1b2xQNy1BQ2JPNkZRQXhmNXp0eFRJemhXdXZWUUZJWU9yY3c?oc=5",
           "source": "Kleine Zeitung",
           "date": "12. Oct 2026"
+        },
+        {
+          "title": "Verbesserung für Pendler: Morgenzug von Graz nach Leoben kommt zurück - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaGZsQXlpdVpGRVBXbktCWFA3VlVBYk94bmM1S25xNUpYMlloZTRNcFZacUpvNExFTEFXdlZBVGpWbjlIWXhVeXhmNVFrdWZnNFkyVWtmVHdfNHZSMFV5czgyRy14ODNjcmZ2V05NVVlXSzAyOTUybV9URWEwN0pYbjdoTVBBLVJiOG00MUdXc2ZIRWI5elRzU3RBSGZYNFN1WDF0X0YwVUlMV3diMlhESElTaEVER2s?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "14. Oct 2026"
         },
         {
           "title": "Nach massiver Kritik: Zusätzliche Zugverbindung von Graz nach Leoben ab Dezember - MeinBezirk.at",
@@ -96,20 +96,8 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark investiert verstärkt in die Sanierung und Revitalisierung ihrer Ortskerne und öffentlichen Infrastrukturen, wobei Förderprogramme für Gemeinden und Liegenschaftssanierungen im Millionenbereich bereitgestellt werden. Gleichzeitig plant das Land aufgrund von Budgetengpässen den Verkauf von Schlössern und Palästen, während moderne Mobilitätslösungen wie E-Ladehubs ausgebaut werden.",
+      "summary": "Das Land Steiermark investiert gezielt in die Sanierung und Revitalisierung von Ortskernen, Gemeindestraßen und historischen Liegenschaften, um die Baukultur und Infrastruktur zu stärken. Gleichzeitig prüft die Landesregierung aufgrund von Budgetengpässen den Verkauf von Schlössern und Palästen, während parallel moderne Infrastrukturprojekte wie E-Mobilitätshubs realisiert werden.",
       "items": [
-        {
-          "title": "Mehr Parkplätze am P+R Schäffernsteg – Ausbau für Pendler dringend erforderlich! - www.openpetition.eu",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdm9IVG45MlVKSUZDQzhiUVl2eHhydTJucUpiNUJVYVBlSWRzbGNoWDdZU2JNeWZiRG9UalhyQi1ZZ0VUZEp6bDB0VEl1ZC1RTDlzOHhLYy1oWE9yOWtNekF4QzhvS1FLQWtnVmgxV3VPR2gzSHJyZW1IVE83VzhIUkVhWTYxeXBCOXFwUWhzckVRa3NzRmtKaWVWTDgzT0dkaVZ2M1pTVGRUQml1bzVvY0l3OTg2SjhkbjB4NjFwdlpraFRsanc?oc=5",
-          "source": "www.openpetition.eu",
-          "date": "15. Oct 2026"
-        },
-        {
-          "title": "1,95 Mio. Euro für die Sanierung und Revitalisierung - BLO24",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2tLS2UtQXNSQUtXQkltTW5rLUxINW1MRE5ZMDBiZ0szTFVqTW9wNWZwMVFUdk5xNGM5cGVqeDBxblpoYzRqU3JsVEptNjVDVTFuYXRoQnVoUVJRWldEVmNqaGljRjBYTnJ6ellSbGRZTWtSQV9FQzM2QlJ5T3k3Y1B5LTFFTnIzRnZGdDVxREdnMzF6QUFabmNSblU?oc=5",
-          "source": "BLO24",
-          "date": "17. Oct 2026"
-        },
         {
           "title": "Steiermark: Förderung für Sanierung in Ortskernen - austria.com",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWVZ3V3g4TmNfLWJUdlZNS2NOVFRnTUNBbnQtMUhGRE9BTGVvZU02N3ZOSWZUWEx2Nzhhcl9NdFBEdzNocEVSSkxiR3JLc09OSlBKTVZTeVNjcC1PM1NWaHNTbXJIcVctclJkR2NGaDJ3dXUzYjN3aF82bVRkblc4bjZDU2hEREY0Q1ZZS19ZcmRPZWxJUFZOYg?oc=5",
@@ -123,10 +111,10 @@
           "date": "16. Oct 2026"
         },
         {
-          "title": "Sanieren statt versiegeln: Land Steiermark startet Fördercall zur Ortskernstärkung - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUXFGejNSS1R0U0lnVHhUX2tUQ1YyZ3I2WmtJc3N3bFdqSUNTN2hQN2FNdTJuMGhnRElZNm9LRzRxbU5zUXNrWkJzQUEzVldxODhfWElONGQ1bnc2YzRwS1FxdUlNd05UN0ljc01rUkN6ZUFiM25sbE9IRUFuemg1UER4MlZqV3ZERkRHdWd4TVhvQ3B1czNnRmRhclJySU1QZ3ZNRGdxZTQ2VDBFa1RmLW53VQ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "12. Oct 2026"
+          "title": "1,95 Mio. Euro für die Sanierung und Revitalisierung - BLO24",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2tLS2UtQXNSQUtXQkltTW5rLUxINW1MRE5ZMDBiZ0szTFVqTW9wNWZwMVFUdk5xNGM5cGVqeDBxblpoYzRqU3JsVEptNjVDVTFuYXRoQnVoUVJRWldEVmNqaGljRjBYTnJ6ellSbGRZTWtSQV9FQzM2QlJ5T3k3Y1B5LTFFTnIzRnZGdDVxREdnMzF6QUFabmNSblU?oc=5",
+          "source": "BLO24",
+          "date": "17. Oct 2026"
         },
         {
           "title": "Von etablierter Architektur bis baulichen Zukunft - BLO24",
@@ -152,7 +140,7 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Ich kann diese Aufgabe leider nicht erfüllen, da der angegebene Nachrichtentitel \"Windpark Thörl West: Großes Interesse bei Info-Veranstaltung in Etmißl\" nicht mit den genannten Themenbereichen (UVP-Verfahren, Genehmigungen, Verkehrsverordnungen, Einsprüche und verwaltungsrechtliche Themen im steirischen Verkehrsbereich) in Zusammenhang steht, sondern ein Windkraftprojekt betrifft. Eine sachgerechte Zusammenfassung im geforderten Kontext ist daher nicht möglich.",
+      "summary": "Ich kann diese Aufgabe nicht erfüllen, da Sie nur einen Nachrichtentitel bereitgestellt haben, der sich zudem auf ein Windpark-Projekt bezieht und nicht auf die genannten verkehrsbehördlichen Themen wie UVP-Verfahren, Genehmigungen, Verkehrsverordnungen oder Einsprüche im steirischen Verkehrsbereich bezogen ist. Bitte stellen Sie mehrere relevante Nachrichtentitel zur Verfügung, damit ich diese sachgerecht zusammenfassen kann.",
       "items": [
         {
           "title": "Windpark Thörl West: Großes Interesse bei Info-Veranstaltung in Etmißl - Welt Stimme",
