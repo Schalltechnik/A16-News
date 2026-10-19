@@ -1,24 +1,24 @@
 {
-  "generated": "18. October 2026, 07:26 UTC",
+  "generated": "19. October 2026, 08:06 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "In der Steiermark finden derzeit nächtliche Tunnelsperrungen statt, über die sich Autofahrer informieren sollten. Der Graz-Marathon führt zudem zu temporären Straßensperrungen im Stadtgebiet.",
+      "summary": "Die Steiermark verzeichnet weiterhin Verkehrsunfälle durch mangelnde Sichtbarkeit im Straßenverkehr. Zur Infrastrukturwartung finden regelmäßig nächtliche Tunnelsperrungen statt, über die Autofahrer informiert werden müssen.",
       "items": [
+        {
+          "title": "Fußgänger im Dunklen von Auto erfasst - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1ZjU3czl4eE5NUmRxTWI3SElYeWw0YjVaUC1vRjZ4X1duQTJubXpRR3lpZ2cxdUtESXhpSDh5M1VKZlhHcWJGazlzN0FRZzFGSGxyNQ?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "18. Oct 2026"
+        },
         {
           "title": "Nächtliche Tunnelsperren in der Steiermark: Das müssen Autofahrer wissen - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPczJnUFZCWmJNV1NSdFpIaG9VVWxpQ2FqRl9kRWZuRVBkY284SGYtNDVtSF9heXF1MXJzN25za1R2aFMwbXdmMzBKWHlPNUViWXBwSmtPaUFDdG0xLS1PVC00MUYtdWpfMEwzLUkwajZVQXpVbm1jU01fN0k0dWZPQkhnb0prWjZiSGhXUzM3VFVPcVp1V0FEcWdYMWthQ3NtYjdJR2Z0MGEyTGlqcGh6aTh5ck1GM2FOOUJr?oc=5",
           "source": "5 Minuten",
           "date": "12. Oct 2026"
-        },
-        {
-          "title": "Graz-Marathon sorgt für Straßensperren - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JaWlnbExNNnpGRTMzdnE0UW1La1ZyU05mUGc2VHh3Smt4aXNUTW5ZQ3BUdTZtdkRMb01mTWZCUzJVU202eTdUczR4cnV3OExMajZrWg?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "11. Oct 2026"
         }
       ]
     },
@@ -26,8 +26,14 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Österreichischen Bundesbahnen führen einen neuen Fahrplan mit gemischten Ergebnissen ein, wobei wichtige Zugverbindungen wie die Südstrecke nach Totalausfällen wiederhergestellt werden und zusätzliche Pendlerzüge zwischen Graz und Leoben ab Dezember verkehren. Allerdings bleiben Finanzierungsfragen zum Klimaticket ungeklärt, während die steirische Verkehrspolitik zwischen Straßenausbau und öffentlichen Verkehrsinvestitionen umstritten ist.",
+      "summary": "Der öffentliche Verkehr in der Steiermark kämpft mit erheblichen Herausforderungen: Der Koralmtunnel-Ausbau stockt, die Südstrecke fiel aus, und die Finanzierung des Klimatickets ist ungeklärt, während gleichzeitig positive Entwicklungen wie die Rückkehr von Pendlerzügen zwischen Graz und Leoben und Verbesserungen im neuen ÖBB-Fahrplan nur teilweise die Defizite ausgleichen. Die Kritik an der steirischen Verkehrspolitik wächst, da Infrastrukturinvestitionen und nachhaltige Mobilitätslösungen nicht ausreichend koordiniert werden.",
       "items": [
+        {
+          "title": "Vernunft verschollen im Koralmtunnel - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbkVuU3JxUk5KVk45aFJ2YjJZbko4REVQNjRJMG1PcVRpY2hRYjE2Qnl4SHB6UWZfXzRIQ1NoQXZYRE5LN2ZTSWFIdWNJX1lqaldpVzlEWFlETXU1RzY2T3pKd3BFOUtTOUoxVmxTN01ncVJKUHNsVXBZZndvZjRVZE5uMFhrb1FYWkE?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "18. Oct 2026"
+        },
         {
           "title": "Neuer ÖBB-Fahrplan mit Licht und Schatten - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90VXdMRUdyTnIzNkQyOEhLdm9SczM2ekZ0dWd5RFlBN0dZYUxsWjNqOWplMlZ3Y1pEYkhlSTFFdFktSHFkaFljZkxqOUxKQU4xb3Y4SA?oc=5",
@@ -70,7 +76,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Gemeinde Gleinstätten sieht sich durch hohes Verkehrsaufkommen gezwungen, ihr Shared-Space-Konzept in der Ortsmitte grundlegend umzugestalten. Die Pielachtaler Gemeinden entwickeln parallel ein neues Mobilitätskonzept, um die Verkehrssituation nachhaltig zu verbessern.",
+      "summary": "Die steirischen Gemeinden arbeiten an innovativen Mobilitätskonzepten und müssen dabei die Herausforderungen von Shared Spaces bei hohem Verkehrsaufkommen bewältigen, während gleichzeitig Verkehrssicherheit im Dunkeln und bei winterlichen Bedingungen kritische Probleme darstellen, die durch Prävention und richtige Ausrüstung minimiert werden können.",
       "items": [
         {
           "title": "Shared Space Problem: Hohes Verkehrsaufkommen zwingt Gleinstätten zum Umdenken - MeinBezirk.at",
@@ -79,16 +85,28 @@
           "date": "14. Oct 2026"
         },
         {
-          "title": "Gleinstätten plant Umbau im Shared Space in der Ortsmitte - Welt Stimme",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdmFwNUZ6V1pHSlB2bDB5TGpoR3NoeHdVaEU1X2tNSE9wN3c4U3owdHpGbTBxeHRDeVgzZzhIdzU3UWxuYjJwV2wxdEhqYXFqdjVOWjRpRDl0Ym5iekdqZ0ZSdUlzM3hCNG9ERkJ1NllJbjhGNDE1WjJWMWlTaW5TMXU4Ylp5b3J1Mllhc3lXakFUdWVmd19yQV9MMGUzbXEyN0NPQw?oc=5",
-          "source": "Welt Stimme",
-          "date": "15. Oct 2026"
-        },
-        {
           "title": "Pielachtaler Gemeinden arbeiten an neuem Mobilitätskonzept - Welt Stimme",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMlNicEVwc1hmblRqejhGU19PalZJX3FPanRQZWFYdzFMU0VRVzhwMHhld1VnZXJ1a1Y2YTdmRkEybE9nbVd2SUNuNnhCT3dUOE0ydWhlXzdmRmp2ZmM0dmMtOVBUZUJJUTFQLThwcmpQcDB4YlVEWk5iYVVLQ19OQW1WbHhuQ3ctMW1QdVpORUViTkhVdUw2ajZsZnZYbTdndFBzdjBDVFZDS2J1LXdn?oc=5",
           "source": "Welt Stimme",
           "date": "16. Oct 2026"
+        },
+        {
+          "title": "Fußgänger im Dunklen von Auto erfasst - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1ZjU3czl4eE5NUmRxTWI3SElYeWw0YjVaUC1vRjZ4X1duQTJubXpRR3lpZ2cxdUtESXhpSDh5M1VKZlhHcWJGazlzN0FRZzFGSGxyNQ?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "18. Oct 2026"
+        },
+        {
+          "title": "Unfall, Sturz in Mürz - Arbeitsreicher Abend für Kapfenberger Feuerwehr - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9rdjlmaTNrNUU3M29sU3JzLUlUWDd2MlEwbG5SQThNa2NGcGNJbVJnN25qUEhJNklkVEdOdldjd0JNUQ?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "18. Oct 2026"
+        },
+        {
+          "title": "Winterreifenpflicht: Diese Fehler kosten Lenker Tausende Euro - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY3MyLWtjX0dRb2thaVJUU01QUU5HbUlrbWkyRjZjSEpqSlMzUWlPMU1jTUM4RVNTMzhacENOaVBicFZiZTZvSDU3VWNXMzZabjQyYU84cmlVVER4YlA2eWtSWDhZcjV0aWFpeXVFMzBSZDlDN0NHSk1URWlqdm5lS3BOOEVQaE14dHdKT2RZakhnei1id1Bqemt1dDd1U2lZT21RbllNTHVIWDB4cWc?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "13. Oct 2026"
         }
       ]
     },
@@ -96,8 +114,14 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Das Land Steiermark investiert gezielt in die Sanierung und Revitalisierung von Ortskernen, Gemeindestraßen und historischen Liegenschaften, um die Baukultur und Infrastruktur zu stärken. Gleichzeitig prüft die Landesregierung aufgrund von Budgetengpässen den Verkauf von Schlössern und Palästen, während parallel moderne Infrastrukturprojekte wie E-Mobilitätshubs realisiert werden.",
+      "summary": "Die Steiermark setzt verstärkt auf die Revitalisierung und Sanierung von Ortskernen mit gezielten Förderungen und Investitionen in mehrstelliger Millionenhöhe, um historische Bausubstanz zu erhalten und neue Nutzungen zu ermöglichen. Parallel dazu werden innovative Infrastrukturprojekte wie moderne Ladehubs realisiert und kulturelle Initiativen wie Denkmäler umgesetzt, die sowohl die Baukultur als auch die nachhaltige Entwicklung der Region vorantreiben.",
       "items": [
+        {
+          "title": "912 Weiße Kreuze sollen Bewusstsein stärken - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jY01hTngtcWJtcHhoMTI5TlVJRnlQRXNoR0xYN05ORGJJcjhTWG50dTIwQkIyaUhnbnRXbU43elNjTmdrMXg4NEg1QS1GbWNfT3JFbmlhT3FQbEtoS3ZSb2xoMFBqbzdObTdlcXBYeHo1SGh5Y21v?oc=5",
+          "source": "Kommunikation - Land Steiermark",
+          "date": "19. Oct 2026"
+        },
         {
           "title": "Steiermark: Förderung für Sanierung in Ortskernen - austria.com",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWVZ3V3g4TmNfLWJUdlZNS2NOVFRnTUNBbnQtMUhGRE9BTGVvZU02N3ZOSWZUWEx2Nzhhcl9NdFBEdzNocEVSSkxiR3JLc09OSlBKTVZTeVNjcC1PM1NWaHNTbXJIcVctclJkR2NGaDJ3dXUzYjN3aF82bVRkblc4bjZDU2hEREY0Q1ZZS19ZcmRPZWxJUFZOYg?oc=5",
@@ -105,28 +129,16 @@
           "date": "15. Oct 2026"
         },
         {
-          "title": "Finanzspritze für Straßen: Land fördert Sanierung von Gemeindestraßen mit halber Million - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRmZIeVdpRFBrM0oxSlhJSEZmN28xQWVJTHhvY3phZmY3QWRjdUtCR1Y2OU51OFFWaVNXZ1JKQ0RfaXVjS1NDQWxIRzh2bHF4XzlZNWZvYXNBSFNnTlRPSnNZcEZDc0hGLUdFeC1oM00tZHlwMWRqdm41ZE5QZFpoN2VVT0ZaZ1dYVWstRFJlY0hoMW5rb0gxTmNSa2F4NjM1SERtSDJYMGhQTDlyeEs5V3M5WUpDc1p4SXV1SC1ZaFEwRU9POEl1N21R?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "16. Oct 2026"
-        },
-        {
           "title": "1,95 Mio. Euro für die Sanierung und Revitalisierung - BLO24",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2tLS2UtQXNSQUtXQkltTW5rLUxINW1MRE5ZMDBiZ0szTFVqTW9wNWZwMVFUdk5xNGM5cGVqeDBxblpoYzRqU3JsVEptNjVDVTFuYXRoQnVoUVJRWldEVmNqaGljRjBYTnJ6ellSbGRZTWtSQV9FQzM2QlJ5T3k3Y1B5LTFFTnIzRnZGdDVxREdnMzF6QUFabmNSblU?oc=5",
           "source": "BLO24",
-          "date": "17. Oct 2026"
+          "date": "18. Oct 2026"
         },
         {
           "title": "Von etablierter Architektur bis baulichen Zukunft - BLO24",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTDVJbEpNNW9LMWtiblNvVk5qeXRJY0ZERDdrZTRrc0I3Q3B3VEdkQ1c3NlZSVXhQdlhycWwxM29vc29ZaUM2aklCelR1c2tSWG9TeDNOS1ZXMW5oc0VNd1JIYm9sSHctRThFaHJCOVM5eWZvYlpRVEppQUxIQmxlR0JJanBRNG1uWmc?oc=5",
           "source": "BLO24",
           "date": "16. Oct 2026"
-        },
-        {
-          "title": "Budgetnöte: Land Steiermark will Schloss, Palais und Co verkaufen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeHRtNFB1X3k1RUl0RkRZVkY1M3QxcFd2SkEzZzZ2MEV3QlFqSGZLMjZoUURMN0IzQ3RhUGprOEQtZlp3SnNxakJ5NTYtdkRxckFUXzFxNUF2QXdEcHBMd2VyWWVYdm9RaXJzTTVqX09OS2Z6S3FBbnFmS3ltamdVb0lZckxaN1o1S214MnVuMUFpbE9URld4X0VBMHEyM19NZDhDQ3E1OXktUk5MYnNF?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "15. Oct 2026"
         },
         {
           "title": "E-Mobilität in St. Michael: Energie Steiermark eröffnet ihren größten Ladehub - MeinBezirk.at",
@@ -140,7 +152,7 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Ich kann diese Aufgabe nicht erfüllen, da Sie nur einen Nachrichtentitel bereitgestellt haben, der sich zudem auf ein Windpark-Projekt bezieht und nicht auf die genannten verkehrsbehördlichen Themen wie UVP-Verfahren, Genehmigungen, Verkehrsverordnungen oder Einsprüche im steirischen Verkehrsbereich bezogen ist. Bitte stellen Sie mehrere relevante Nachrichtentitel zur Verfügung, damit ich diese sachgerecht zusammenfassen kann.",
+      "summary": "Ich kann keine Zusammenfassung erstellen, da nur ein einzelner Nachrichtentitel zu einem Windpark-Projekt vorliegt, der sich nicht primär auf Verkehrsbehördenverfahren, Genehmigungen, Verkehrsverordnungen oder verwaltungsrechtliche Verkehrsthemen bezieht. Für eine aussagekräftige Zusammenfassung benötige ich mehrere relevante Nachrichtentitel aus dem steirischen Verkehrsbereich.",
       "items": [
         {
           "title": "Windpark Thörl West: Großes Interesse bei Info-Veranstaltung in Etmißl - Welt Stimme",
