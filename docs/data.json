@@ -1,19 +1,13 @@
 {
-  "generated": "21. October 2026, 08:00 UTC",
+  "generated": "22. October 2026, 07:58 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die Nachrichtentitel behandeln primär Verkehrssicherheitsthemen wie Geschwindigkeitsüberschreitungen und Unfälle in der Steiermark, wobei besonders die hohe Zahl von Unfallopfern durch symbolische weiße Kreuze dokumentiert wird. Lediglich eine Meldung bezieht sich auf infrastrukturelle Maßnahmen mit Nachtsperrungen im Gleinalmtunnel der A9.",
+      "summary": "Die Straßeninfrastruktur der Steiermark steht vor erheblichen Herausforderungen, wie die alarmierende Zahl von 912 Unfallopfern und notwendige Nachtsperrungen im Gleinalmtunnel der A9 verdeutlichen. Gleichzeitig werden organisatorische Reformen wie die Bündelung von Landesimmobilien ab 2027 eingeleitet, um die Verwaltung der Infrastruktur effizienter zu gestalten.",
       "items": [
-        {
-          "title": "Kontrolle: 1.000 waren zu schnell unterwegs - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qVVNLN19vdlhsNUM3UUdTSWU2R3RUdlYxaThac0k0Q3ZycHFkWU1WcU9jdzZTNVZZWEx2Qi1saUdtVXY1M2kwbjVpa19SbGtuR0t1Rg?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "19. Oct 2026"
-        },
         {
           "title": "Stille Mahnmale: 912 weiße Kreuze erinnern an Unfallopfer in der Steiermark - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb2RjV0NJRnFNbEZQWV9GcnhRZ2JncFljN1dBVkRlcWM1c1B6eHg4Tm5PSkN0aVR2MlY1S1ZqMEJEcGhMeXRQaUpKTGhlRnFhX1MzX2kzQm4xR3Z5dHBOS3ZIZFE5c25TRFVzWDF2SHFxcHJTWWZsaGkxdXluUjRTajdWanB6ZUNXSHhjR3BTd0Z0Yjc4SV9jT3NjOGdSWnZMQWFoTDhaamtYRDlKT1ZON2dZcXowUQ?oc=5",
@@ -21,22 +15,16 @@
           "date": "19. Oct 2026"
         },
         {
-          "title": "Fußgänger im Dunklen von Auto erfasst - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1ZjU3czl4eE5NUmRxTWI3SElYeWw0YjVaUC1vRjZ4X1duQTJubXpRR3lpZ2cxdUtESXhpSDh5M1VKZlhHcWJGazlzN0FRZzFGSGxyNQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "18. Oct 2026"
-        },
-        {
-          "title": "Weiße Kreuze erinnern in der Steiermark an tödliche Unfälle - https://nachrichten.jetzt/",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNME1oZ0lKWUxHcm1iZmFvSGdnN2ZnYUVSUkNSYkhQWW9ScEVFTmtoQWpvV0FCY3NmQWh3aDF2S19UdXpEMUtPOGZuaEk0NDhmR0dzMTAyX2trYUpRWnBrbmFVSV9VRjhyNFNPckgwa0d0QVRzcE83S3Ewd0F6TWc2WW5vYVhZMmkxbm8tMVpsS3h3OUxxdzl6V2tuR2hTdw?oc=5",
-          "source": "https://nachrichten.jetzt/",
-          "date": "19. Oct 2026"
-        },
-        {
           "title": "A9: Nachtsperren im Gleinalmtunnel - ÖAMTC",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWmRZZnBIUS1YVUVWLTJwYk41ekk3OVBzcnhOX0NuRmwxclFUcVlZZzJ5WFlreGtCUm1TSVVrVlhiVmNjSU1LNV9SR09nTmFnTE5tWUxiQl8zenhlS3IxZ0tZdHo1VGk3aXN1aTNhRVlBQmtPTExsTDZEVl9RYkludFRPWmdyeVE?oc=5",
           "source": "ÖAMTC",
           "date": "20. Oct 2026"
+        },
+        {
+          "title": "Steiermark bündelt Landesimmobilien ab 2027 in Abteilung 2 - https://nachrichten.jetzt/",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUjZpZzhtd3VrSTJPckJxTFZFcC1CMS1rQzQ3ZjFTSVlOOHB6WmNLV1UwVGZYejBMN0JXc2tCWFA0SGZZUnZWb1ZmQ1IxTkxKX2ZXVnlocDB5bnJrNGROQmZ5WDBralNLYThabVVmMlg0Y2JyYnR5aEMzUkdtR0ZmTzlmWlJhVU44akNEZEdXeUZTZl91WkJ4VHpn?oc=5",
+          "source": "https://nachrichten.jetzt/",
+          "date": "21. Oct 2026"
         }
       ]
     },
@@ -44,8 +32,14 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Der steirische öffentliche Verkehr zeigt sich mit gemischten Entwicklungen: Während die ÖBB ab Dezember eine zusätzliche Zugverbindung zwischen Graz und Leoben anbietet und der neue Fahrplan Verbesserungen mit sich bringt, bleiben Großprojekte wie der Koralmtunnel umstritten und Verkehrssicherheit ein kritisches Thema.",
+      "summary": "Das Klimaticket bietet steirischen Pendlern erhebliche Kostenersparnisse und wird durch zusätzliche Zugverbindungen zwischen Graz und Leoben ab Dezember attraktiver, während der Koralmtunnel weiterhin Diskussionen auslöst und ein schwerer Busunfall auf der A2 die Verkehrssicherheit unterstreicht.",
       "items": [
+        {
+          "title": "Bis zu 2.400 Euro sparen: Für diese steirischen Pendler lohnt sich das Klimaticket - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbEs0Slk2NDk2XzFISFJjVnhsbGJVMG9OaHpIekRmdVQ1T01NR0FTUzlFQzBVdkFWczVZQk91dlF6Y3hJRVpVY2dZMy11MVp3OFZEbnF4MDgxR2JkXzlXa3Q0dHl0b2VtQ1pYQ0dDZE9KNHAtNGlLR3ZBMG5xWkdQS00zdU9OSFdHMnRZYlhTYUVjNDgxSGlfLXRyR3Nrd0JXOElQYkZfbUloc2EycEQyTFp1cW9sdkxPWDRDNUVWNjloMDlEdjJj?oc=5",
+          "source": "5 Minuten",
+          "date": "21. Oct 2026"
+        },
         {
           "title": "Vernunft verschollen im Koralmtunnel - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbkVuU3JxUk5KVk45aFJ2YjJZbko4REVQNjRJMG1PcVRpY2hRYjE2Qnl4SHB6UWZfXzRIQ1NoQXZYRE5LN2ZTSWFIdWNJX1lqaldpVzlEWFlETXU1RzY2T3pKd3BFOUtTOUoxVmxTN01ncVJKUHNsVXBZZndvZjRVZE5uMFhrb1FYWkE?oc=5",
@@ -59,12 +53,6 @@
           "date": "20. Oct 2026"
         },
         {
-          "title": "Neuer ÖBB-Fahrplan mit Licht und Schatten - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90VXdMRUdyTnIzNkQyOEhLdm9SczM2ekZ0dWd5RFlBN0dZYUxsWjNqOWplMlZ3Y1pEYkhlSTFFdFktSHFkaFljZkxqOUxKQU4xb3Y4SA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "14. Oct 2026"
-        },
-        {
           "title": "Nach massiver Kritik: Zusätzliche Zugverbindung von Graz nach Leoben ab Dezember - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS3otT2JLUUVqNW5KSTNHU19Tby1XOW1QOXhmX1JjaDNnemJmZFhnaUVuT0FzSFdTNkxYRHpISlBSSDlBbTI2Rm9QcFZRX3daN2ZxS1BRQ24tQUx1bDdYMVNpbTY2STdoa0ZMWlY4cGt2RUVIUTBad0Zzb2EydTFoNjlrUkVmcUlwMHRUMzJlaUY5dkhZRENyeEFsRDE4MFNnQ01uckN0MV93X0M2XzFSNg?oc=5",
           "source": "MeinBezirk.at",
@@ -76,13 +64,13 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Gleinstätten müssen ihre Verkehrsplanung überdenken, da das hohe Verkehrsaufkommen die Shared-Space-Konzepte an ihre Grenzen treibt. Eine Neugestaltung der Mobilitätsinfrastruktur ist notwendig, um Sicherheit und Verkehrsfluss für alle Verkehrsteilnehmer zu verbessern.",
+      "summary": "Die Steiermark setzt auf gegenseitige Rücksicht und bessere Signalisierung im Verkehr, um Stress zwischen allen Verkehrsteilnehmern zu reduzieren. Durch verbesserte Kommunikation und Verständnis zwischen Autofahrern, Radfahrern und Fußgängern wird die Verkehrssicherheit und Lebensqualität im Bundesland erhöht.",
       "items": [
         {
-          "title": "Shared Space Problem: Hohes Verkehrsaufkommen zwingt Gleinstätten zum Umdenken - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXJzZ2E5S0dfb0U0MURqazJiTkJRckJFTG5vMnY5RXpNM3BrUXRlajNmeDRkb3NnZXNiSFp1dzI3T0RuUkRvd1VmeU13UmZQeFNlTGhCb3VkVTBoMktoYW5GUlNqTmpxY1AtcnFOQ3U5Ym1RYWxGLW9HQVYzOGVpUU4zLXNiNDV3MUxiRGM2WkluOHBtajlMR3NWcERZcFAxYVlZcjZUN2s1SHFPX0Y1ZQ?oc=5",
+          "title": "Mehr Miteinander: Rücksicht im Verkehr – so sorgen Signale für weniger Stress - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa21Rbl9PcVpNOGJNbHBPYS0wU3JNQk1GdnNMbVVoYXdXLTk1MVpZOGEyOUhMTlQyV3VwcnMxaVVQelBYVHlCOGR2cW5EN1NNdjlkVm1xTUtIbXJsMk55MExQdDBVd2EtVEJxQ2VBVzIwTUZJSEFiRWhGSFdEOVNBS25wWlhxeTNSNzNONEhpUG8yU2RkdEFZSFZqS3EwOFZWV1hocGhLTlN6MWx6cnc?oc=5",
           "source": "MeinBezirk.at",
-          "date": "14. Oct 2026"
+          "date": "20. Oct 2026"
         }
       ]
     },
@@ -90,8 +78,14 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark setzt verstärkt auf Ortskernbelebung und Baukultur durch Sanierungsförderungen sowie auf eine zukunftsorientierte Architekturlandschaft, die von etablierten bis innovativen Projekten reicht. Gleichzeitig plant das Land eine umfassende Verwaltungsreform ab 2027 und erwägt zur Bewältigung von Budgetproblemen den Verkauf von Schlössern und Palästen als bedeutende Liegenschaften.",
+      "summary": "Die Steiermark reorganisiert ab 2027 ihre Verwaltungsstrukturen und bündelt die Landesimmobilien in einer neuen Abteilung, um eine effizientere Liegenschaftsverwaltung zu erreichen. Parallel werden Sanierungen in Ortskernen gefördert und Revitalisierungsprojekte mit erheblichen Mitteln unterstützt, während gleichzeitig baukulturelle Initiativen wie Denkmalprojekte das Bewusstsein für Architektur und bauliche Zukunftsthemen stärken.",
       "items": [
+        {
+          "title": "Ab 2027 ist alles anders: Steiermark stellt Verwaltung um - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ21YN0dpSURIUjVaT0Raa1V0RlV6bzQ5YWhMRW5yZU1SSE9JMXZXQlBmdFJjYmdzTHdZdnlYa2hIV1B0Vm5ULTFCSWdvdmtMQ1BlNURURzNKS0ZXZjl4VjEwYnZuZGhlWGY4YWJrZDRDN1dQSllvdVQ5TXRrX2ZpUjFrUFpseXdxQzNhTk9Pc09OOVVPYVEwZG5NejBzY0FabXpmMA?oc=5",
+          "source": "5 Minuten",
+          "date": "21. Oct 2026"
+        },
         {
           "title": "912 Weiße Kreuze sollen Bewusstsein stärken - Kommunikation - Land Steiermark",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jY01hTngtcWJtcHhoMTI5TlVJRnlQRXNoR0xYN05ORGJJcjhTWG50dTIwQkIyaUhnbnRXbU43elNjTmdrMXg4NEg1QS1GbWNfT3JFbmlhT3FQbEtoS3ZSb2xoMFBqbzdObTdlcXBYeHo1SGh5Y21v?oc=5",
@@ -99,9 +93,9 @@
           "date": "19. Oct 2026"
         },
         {
-          "title": "Ab 2027 ist alles anders: Steiermark stellt Verwaltung um - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ21YN0dpSURIUjVaT0Raa1V0RlV6bzQ5YWhMRW5yZU1SSE9JMXZXQlBmdFJjYmdzTHdZdnlYa2hIV1B0Vm5ULTFCSWdvdmtMQ1BlNURURzNKS0ZXZjl4VjEwYnZuZGhlWGY4YWJrZDRDN1dQSllvdVQ5TXRrX2ZpUjFrUFpseXdxQzNhTk9Pc09OOVVPYVEwZG5NejBzY0FabXpmMA?oc=5",
-          "source": "5 Minuten",
+          "title": "Steiermark bündelt Landesimmobilien ab 2027 in Abteilung 2 - https://nachrichten.jetzt/",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUjZpZzhtd3VrSTJPckJxTFZFcC1CMS1rQzQ3ZjFTSVlOOHB6WmNLV1UwVGZYejBMN0JXc2tCWFA0SGZZUnZWb1ZmQ1IxTkxKX2ZXVnlocDB5bnJrNGROQmZ5WDBralNLYThabVVmMlg0Y2JyYnR5aEMzUkdtR0ZmTzlmWlJhVU44akNEZEdXeUZTZl91WkJ4VHpn?oc=5",
+          "source": "https://nachrichten.jetzt/",
           "date": "21. Oct 2026"
         },
         {
@@ -121,12 +115,6 @@
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTDVJbEpNNW9LMWtiblNvVk5qeXRJY0ZERDdrZTRrc0I3Q3B3VEdkQ1c3NlZSVXhQdlhycWwxM29vc29ZaUM2aklCelR1c2tSWG9TeDNOS1ZXMW5oc0VNd1JIYm9sSHctRThFaHJCOVM5eWZvYlpRVEppQUxIQmxlR0JJanBRNG1uWmc?oc=5",
           "source": "BLO24",
           "date": "16. Oct 2026"
-        },
-        {
-          "title": "Budgetnöte: Land Steiermark will Schloss, Palais und Co verkaufen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeHRtNFB1X3k1RUl0RkRZVkY1M3QxcFd2SkEzZzZ2MEV3QlFqSGZLMjZoUURMN0IzQ3RhUGprOEQtZlp3SnNxakJ5NTYtdkRxckFUXzFxNUF2QXdEcHBMd2VyWWVYdm9RaXJzTTVqX09OS2Z6S3FBbnFmS3ltamdVb0lZckxaN1o1S214MnVuMUFpbE9URld4X0VBMHEyM19NZDhDQ3E1OXktUk5MYnNF?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "15. Oct 2026"
         }
       ]
     },
