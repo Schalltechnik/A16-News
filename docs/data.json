@@ -1,13 +1,25 @@
 {
-  "generated": "25. October 2026, 07:49 UTC",
+  "generated": "26. October 2026, 08:08 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "In der Steiermark werden derzeit wichtige Infrastrukturprojekte wie die neue Bauphase im Packabschnitt der A2 vorangetrieben, während gleichzeitig Maßnahmen zur Verkehrssicherheit durch Gedenkstätten für Unfallopfer die Aufmerksamkeit auf die Gefahren im Straßenverkehr lenken. Die Reorganisation der Landesimmobilien ab 2027 wird auch Auswirkungen auf die Verwaltung und Koordination von Straßeninfrastrukturprojekten in der Steiermark haben.",
+      "summary": "In der Steiermark werden 912 weiße Kreuze als Mahnmale für Verkehrsunfallopfer aufgestellt, um das Sicherheitsbewusstsein im Straßenverkehr zu schärfen. Die Nachrichtentitel behandeln primär Verkehrssicherheit und Unfallprävention, nicht jedoch konkrete Infrastrukturmaßnahmen wie Straßenbau, Sanierungen oder Brückenprojekte.",
       "items": [
+        {
+          "title": "Stille Mahnmale: 912 weiße Kreuze erinnern an Unfallopfer in der Steiermark - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb2RjV0NJRnFNbEZQWV9GcnhRZ2JncFljN1dBVkRlcWM1c1B6eHg4Tm5PSkN0aVR2MlY1S1ZqMEJEcGhMeXRQaUpKTGhlRnFhX1MzX2kzQm4xR3Z5dHBOS3ZIZFE5c25TRFVzWDF2SHFxcHJTWWZsaGkxdXluUjRTajdWanB6ZUNXSHhjR3BTd0Z0Yjc4SV9jT3NjOGdSWnZMQWFoTDhaamtYRDlKT1ZON2dZcXowUQ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "19. Oct 2026"
+        },
+        {
+          "title": "Im Dunkeln angefahren - Weil kein Bus mehr fuhr: Steirer starb am Heimweg - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1Pb0lscW5hZlU4RS13MTJ6Q21zUEdnOXBOeWFqZE5yR0EzMkJxRmV4UGVNTE1KQzlGLWVqTU8wMlRpZw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "21. Oct 2026"
+        },
         {
           "title": "Weiße Kreuze erinnern in der Steiermark an tödliche Unfälle - https://nachrichten.jetzt/",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNME1oZ0lKWUxHcm1iZmFvSGdnN2ZnYUVSUkNSYkhQWW9ScEVFTmtoQWpvV0FCY3NmQWh3aDF2S19UdXpEMUtPOGZuaEk0NDhmR0dzMTAyX2trYUpRWnBrbmFVSV9VRjhyNFNPckgwa0d0QVRzcE83S3Ewd0F6TWc2WW5vYVhZMmkxbm8tMVpsS3h3OUxxdzl6V2tuR2hTdw?oc=5",
@@ -15,16 +27,16 @@
           "date": "19. Oct 2026"
         },
         {
-          "title": "A2: Neue Bauphase Packabschnitt - ÖAMTC",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUHRMelVaeVlqdGtiZ28xOFlmZTFOVGJjWHpYUE9QX1FqVjd3NGZkWmxLVmtTWmRZUG9DNDMyMUtLYi1uc2V2bDgtZnVSZlhSS29jUGJ6bG4xTzh0ZDhHX1lKcmhYTXJrVzI2X2FUbnlSNDF4QWZlQUNpejBVeGxQNnBSQQ?oc=5",
-          "source": "ÖAMTC",
-          "date": "22. Oct 2026"
-        },
-        {
           "title": "Heutiger Sicherheitsbereich beim Spiel Sturm Graz gegen Olympique Marseille - Der Grazer",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORzNCOHN1dEp6N0hCSzJTZndrNUIxaTA4UjRpbjlBekVsOVJvVnpJMlVmZU5meDlycFlWR09QY01tVmN6TzFYR2VObnN0Ul9MdlFZck9hWjF1MHlBRUQ2YnIzV0VPbVhxc2ZleFp4a1h2cURsMWd2c283Vk1jRGhKZjF1SmU?oc=5",
           "source": "Der Grazer",
           "date": "22. Oct 2026"
+        },
+        {
+          "title": "912 Weiße Kreuze sollen Bewusstsein stärken - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwSGp6NGlTZFFKMW5JTzY5M2ZRREFRSU5xYk9tU1RLdk13ckJ3czR5ZkpnalE4RlV3YktJaDJnam1NckpsdDJZM3l6c1lhbVNJTzNiLWVSLUJTYkJjaXU5TzBaRmZwaThvOEx2UHg0SGs3YXRHeV9EYQ?oc=5",
+          "source": "Kommunikation - Land Steiermark",
+          "date": "19. Oct 2026"
         },
         {
           "title": "Steiermark bündelt Landesimmobilien ab 2027 in Abteilung 2 - https://nachrichten.jetzt/",
@@ -38,8 +50,20 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Das Klimaticket bietet steirischen Pendlern erhebliche finanzielle Einsparungen von bis zu 2.400 Euro pro Jahr und wird ab 2027 neu bepreist. Auf einzelnen steirischen Bahnstrecken verkehren derzeit Ersatzbusse, was Pendler bei ihrer Routenplanung berücksichtigen müssen.",
+      "summary": "Das Klimaticket erfreut sich in der Steiermark großer Beliebtheit und hat mit 28 Prozent der Haushalte einen neuen Höchststand erreicht, wobei Pendler durch die Nutzung bis zu 2.400 Euro jährlich sparen können. Allerdings kommt es im öffentlichen Verkehrsnetz immer wieder zu Beeinträchtigungen, wie beispielsweise Ersatzbusse auf einzelnen Bahnstrecken, während die Ticketpreise ab 2027 angepasst werden.",
       "items": [
+        {
+          "title": "28 Prozent der Haushalte haben Klimaticket - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rZ2o3NmpPMnAwcHRBNVkwV29jWUxCelZtc0dfaG9CV0ZEUExZcDhiUUxfTWpTalY2UzhCUWRYYkZ1WE1aZVBKVTdBMzJtSW01RkRKbw?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "26. Oct 2026"
+        },
+        {
+          "title": "Fünf Jahre Klimaticket: Neuer Höchststand in der Steiermark - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUnR5T0Jsam5namIxOHJpNzJGd25IRUVLY29EV2MzeXA1Z1BUaDhaUWxIWkZydktiRUVJbVBvTUo2M2ZtV1JlY2NhMjVpMlJGYnk3dDRyMXRZOEhxTmkxdVRZeUE4dTVmWjZ4UXg3akUtN2pjZjkwVlJXaEw1VVZMdmhlY00yNzZuYXNjQ3FIMS1uYkVCaFlfNzlUTU1aeWx3ZEpiU2hiSFoxdw?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "25. Oct 2026"
+        },
         {
           "title": "Bis zu 2.400 Euro sparen: Für diese steirischen Pendler lohnt sich das Klimaticket - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbEs0Slk2NDk2XzFISFJjVnhsbGJVMG9OaHpIekRmdVQ1T01NR0FTUzlFQzBVdkFWczVZQk91dlF6Y3hJRVpVY2dZMy11MVp3OFZEbnF4MDgxR2JkXzlXa3Q0dHl0b2VtQ1pYQ0dDZE9KNHAtNGlLR3ZBMG5xWkdQS00zdU9OSFdHMnRZYlhTYUVjNDgxSGlfLXRyR3Nrd0JXOElQYkZfbUloc2EycEQyTFp1cW9sdkxPWDRDNUVWNjloMDlEdjJj?oc=5",
@@ -70,19 +94,19 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Nachrichtentitel verdeutlichen ein erhebliches Verkehrssicherheitsdefizit für vulnerable Verkehrsteilnehmer in der Region, da Fußgänger wiederholt in schwere Unfälle verwickelt werden und auch die Tierwelt unter dem Straßenverkehr massiv leidet. Dies unterstreicht die dringende Notwendigkeit von verbesserten Sicherheitsmaßnahmen wie besserer Beleuchtung, Geschwindigkeitsregelungen und Wildwechsel-Management im steirischen und kärntnerischen Verkehrssystem.",
+      "summary": "Die Steiermark setzt verstärkt auf Verkehrssicherheit und Rücksichtnahme im Straßenverkehr, wie die Initiative „Graz gibt Acht!\" und Diskussionen über Geschwindigkeitskontrollen in Seitenstraßen zeigen. Dabei wird auch die Notwendigkeit deutlich, den Verkehr insgesamt sicherer und nachhaltiger zu gestalten, um sowohl Menschen als auch Wildtiere vor Unfällen zu schützen.",
       "items": [
         {
-          "title": "Fußgänger im Dunklen von Auto erfasst - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1ZjU3czl4eE5NUmRxTWI3SElYeWw0YjVaUC1vRjZ4X1duQTJubXpRR3lpZ2cxdUtESXhpSDh5M1VKZlhHcWJGazlzN0FRZzFGSGxyNQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "18. Oct 2026"
+          "title": "„Graz gibt Acht!“ erhält viele Rückmeldungen zu mehr Rücksicht im Straßenverkehr - Welt Stimme",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQalRwcV9HUWNYdVl1ZWVRUGZJMjRGeGRIYlpqVHd1a0g0clRNTmYtT1lRWUlNVnBZUDVxTjlsXzlxRTZnZHRmYV92YXJEd0dwaTVpRUxYTTJ6WEVtODVHb01ndHBVN2R4Y3EtRk9HQWYyVnl3RmdNVlRFTmtmeE5aZUlWRl9xT0EzTXdoaXZKb1RwWjU5Tkg4SHdmSnI5Y3RzWko1UXhta3RGa3BBV0lDNEdjTHhkcFAxUG10R0ZCR0FIYkk?oc=5",
+          "source": "Welt Stimme",
+          "date": "26. Oct 2026"
         },
         {
-          "title": "Fußgänger schwer verletzt – Lenkerin hält nach Aufprall an – Mann liegt im Graben - Heute",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZXVsUGgtMXRBQl85VFBMYnk2ZlJBN0Y3aUJ4bERhYVFEVlIycVhfZ1c2RGdveHpHby1XSndUX2k2MmRjQnRDRXV3b1dCeGY0UG9sdk04TWJkNXN6b3Uyd1BvNVUtajlTVEJqQXNSaHhtLVVOSWVxZHRsZVp0dGdqcXFEQkhqa2VwZGoxNXZ3?oc=5",
-          "source": "Heute",
-          "date": "18. Oct 2026"
+          "title": "Mehr Verkehrssicherheit gefordert: Seitenstraßenraser werden zum Thema im Gemeinderat - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOUREYkFCOGEwQ1kzaHEwT0Z4eDV2T1c3OWFwZUdQOVBmMFJGMWtCOWtKSmpIVy0wR1cxSzFldDRVRmM1d0J3MDF0RkQ4Y3VlYVlScVg0NHBQU3RxSWZ3Tmd3Zi1Jb0lucGZYMzhZUk1jWGpSeDZ5UVR1NTlGTU4xbHdoTERrZ1JaaUtfVVM2QmQxbngweHY1ODk3VWhfNVVqVERF?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "25. Oct 2026"
         },
         {
           "title": "Bilanz zeigt: Alle zwei Stunden stirbt ein Wildtier auf Kärntens Straßen - 5 Minuten",
@@ -96,8 +120,14 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark reorganisiert ab 2027 ihre Landesimmobilienverwaltung durch eine zentrale Bündelung in Abteilung 2, um eine effizientere Verwaltungsstruktur zu schaffen. Parallel dazu setzt das Land mit einer Kampagne von 912 weißen Kreuzen ein Zeichen zur Bewusstseinsstärkung in der Bevölkerung.",
+      "summary": "Das Land Steiermark reorganisiert ab 2027 seine Immobilienverwaltung durch eine zentrale Bündelung in Abteilung 2, um eine effizientere Verwaltung der Landesimmobilien zu erreichen. Parallel dazu setzt das Land mit einer Kampagne von 912 weißen Kreuzen ein Zeichen zur Bewusstseinsstärkung in der Öffentlichkeit.",
       "items": [
+        {
+          "title": "Neue Strukturen ab 2027: Land Steiermark bündelt Immobilienverwaltung zentral - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZmhqUWxDNjlUWmtYZ3VlaGVFTVczNGstNkx3WEJvX0JyNWl6V2poeV9PTFBVeTF6MURCR3hNTUdsa2VIMDZOb0Fvam55akdqd3NkTnZLeWp3a1Q3S2Y1SmliMGhmMnNtSS1jS2xuR2xUMlpPZFhHWW1pVzkyYjktRjA4amprTFVxb184Yk1tSEo1am1BYVY1cHdqWUJSS3B0R0lqdzVEbnczM0RNY2c?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "25. Oct 2026"
+        },
         {
           "title": "Steiermark: Landesimmobilien werden ab 2027 zentral gemanagt - Regionews.at",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUGRvWTFIaVhIY2FYaXczWXg3aTB1ZURKajRKdy15bHZHQlBkTzNZb1VhMkNQb01VRmh5MWNhZERzdzRNUEN2N1dvOGxac1J3d195R2lsUzJpVGVqYk1MYnZnWmx2a0FSYmtxWXdTazFZRzU0WGdyaktsTE41Y3V1OXk0aE9RdnJvclBsOG9vdTRMNnptUFdRSXhn0gGaAUFVX3lxTE1QZG9ZMUhpWEhjYVhpdzNZeDdpMHVlREpqNEp3LXlsdkdCUGRPM1lvVWEyQ1BvTVVGaHkxY2FkRHN3NE1QQ3Y3V284bFpzUnd3X3lHaWxTMmlUZWpiTUxidmdabHZrQVJia3FZd1NrMVlHNTRYZ3JqS2xMTjVjdXU5eTRoT1F2cm9yUGw4b291NEw2em1QV1FJeGc?oc=5",
@@ -128,7 +158,7 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Ich kann diese Aufgabe nicht vollständig erfüllen, da nur ein unvollständiger Nachrichtentitel vorhanden ist. Der Titel bricht nach \"Verkehr & ...\" ab und enthält keine ausreichenden Informationen zu UVP-Verfahren, Genehmigungen, Verkehrsverordnungen oder Einsprüchen, um eine aussagekräftige Zusammenfassung zu erstellen. Bitte stellen Sie die vollständigen Nachrichtentitel zur Verfügung, damit ich eine prägnante Zusammenfassung in zwei Sätzen liefern kann.",
+      "summary": "Ich kann diese Aufgabe nicht erfüllen, da Sie nur einen unvollständigen Nachrichtentitel bereitgestellt haben, der mit \"...\" endet und keine weiteren Titel zum Zusammenfassen enthält. Um eine aussagekräftige Zusammenfassung zu 2 prägnanten Sätzen zu verfassen, benötige ich die vollständigen Titel aller Nachrichten, die Sie zusammengefasst haben möchten.",
       "items": [
         {
           "title": "Österreich: Standortdialog mit Umweltminister Totschnig und „Zukunftsoffensive Verkehr & ... - Regionews.at",
