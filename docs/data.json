@@ -1,12 +1,12 @@
 {
-  "generated": "28. October 2026, 09:00 UTC",
+  "generated": "29. October 2026, 08:57 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Ich kann diese Aufgabe nicht wie angefordert erfüllen, da der erste Nachrichtentitel sich auf politische Themen bezieht und nicht auf Straßeninfrastruktur, während der zweite Titel zu vage ist, um konkrete Informationen zum A2-Packabschnitt zu extrahieren. Ohne aussagekräftige Inhalte zu Straßenbau, Sanierungen oder Infrastrukturprojekten kann ich keine sachliche Zusammenfassung erstellen.",
+      "summary": "Ich kann diese Aufgabe nicht wie angefordert erfüllen, da der erste Nachrichtentitel sich auf politische Themen bezieht und nicht auf Straßeninfrastruktur. Der zweite Titel erwähnt zwar die A2 und den Packabschnitt, enthält aber keine konkreten Informationen zu Straßenbau oder Sanierungen, die ich zusammenfassen könnte.",
       "items": [
         {
           "title": "FPÖ-geführte Steiermark – eine Zwischenbilanz. Teil 2: Vorfahrt für Kunaseks Kulturkampf - Stoppt die Rechten",
@@ -26,19 +26,19 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Das Klimaticket erfreut sich in der Steiermark großer Beliebtheit und hat mit 28 Prozent der Haushalte einen neuen Höchststand erreicht, wobei es für viele Pendler erhebliche Einsparungen ermöglicht. Allerdings gibt es bei einzelnen Bahnstrecken wie dem Koralmtunnel Probleme mit Zusatzgebühren und Ersatzbusse, die die Attraktivität des öffentlichen Verkehrs teilweise beeinträchtigen.",
+      "summary": "Das Klimaticket erfreut sich in der Steiermark großer Beliebtheit und hat mit 28 Prozent der Haushalte einen neuen Höchststand erreicht, wobei es sich als günstige Alternative für Pendler etabliert hat. Allerdings gibt es weiterhin Herausforderungen wie Ersatzbusse auf einzelnen Bahnstrecken und zusätzliche Gebühren im Koralmtunnel trotz Ticketbesitz.",
       "items": [
-        {
-          "title": "Trotz Herbstferien: Wer in der Steiermark dennoch zur Schule muss - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbUlHM2s0ay0xNUg5YTFGSXhQT3UxT3V3U2tMZU1rem5RUDVRT3BCQ3N0UTNiRW9lXzMwVDhhVWs5dDc4NEFSb0Q0U3hEVkNCQ1pzR1lIM3hvbzlDOUlzRjhPdWF4S1FkZ1NYX04yYTJic3AxUVZYWmxRTUk1aDdKNkFjSVp2a0F4RHJHbEQ1eGFONkozWDlTWk9ST3pRcmxQUzM4UURKSG92QmFVNmtj?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "27. Oct 2026"
-        },
         {
           "title": "Fünf Jahre Klimaticket: Neuer Höchststand in der Steiermark - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUnR5T0Jsam5namIxOHJpNzJGd25IRUVLY29EV2MzeXA1Z1BUaDhaUWxIWkZydktiRUVJbVBvTUo2M2ZtV1JlY2NhMjVpMlJGYnk3dDRyMXRZOEhxTmkxdVRZeUE4dTVmWjZ4UXg3akUtN2pjZjkwVlJXaEw1VVZMdmhlY00yNzZuYXNjQ3FIMS1uYkVCaFlfNzlUTU1aeWx3ZEpiU2hiSFoxdw?oc=5",
           "source": "Kleine Zeitung",
           "date": "25. Oct 2026"
+        },
+        {
+          "title": "28 Prozent der Haushalte haben Klimaticket - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rZ2o3NmpPMnAwcHRBNVkwV29jWUxCelZtc0dfaG9CV0ZEUExZcDhiUUxfTWpTalY2UzhCUWRYYkZ1WE1aZVBKVTdBMzJtSW01RkRKbw?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "26. Oct 2026"
         },
         {
           "title": "Achtung, Pendler: Auf dieser steirischen Bahnstrecke fahren Ersatzbusse - 5 Minuten",
@@ -47,21 +47,9 @@
           "date": "22. Oct 2026"
         },
         {
-          "title": "Bis zu 2.400 Euro sparen: Für diese steirischen Pendler lohnt sich das Klimaticket - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbEs0Slk2NDk2XzFISFJjVnhsbGJVMG9OaHpIekRmdVQ1T01NR0FTUzlFQzBVdkFWczVZQk91dlF6Y3hJRVpVY2dZMy11MVp3OFZEbnF4MDgxR2JkXzlXa3Q0dHl0b2VtQ1pYQ0dDZE9KNHAtNGlLR3ZBMG5xWkdQS00zdU9OSFdHMnRZYlhTYUVjNDgxSGlfLXRyR3Nrd0JXOElQYkZfbUloc2EycEQyTFp1cW9sdkxPWDRDNUVWNjloMDlEdjJj?oc=5",
-          "source": "5 Minuten",
-          "date": "21. Oct 2026"
-        },
-        {
           "title": "Ärger im Koralmtunnel: Pendler müssen trotz Klimaticket draufzahlen - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaXpRUDJoeW95ZjBwa2xCcU9VekVVRVZuM1JtTDA2ZnVQN2NyV08zcFlMY2NaYWk5eFloalB5eEdad2llZ3JadWp3RE1ESFRZSFhRdzgxbEpScFE3Y3lwMEpuQ1l1djVBbnNZWFNnZVk3b0ROc2h1MFVCU3JMWTVfM2tGNUNENUFuLUNyVnlTM2o3cFBVaThwWElBMEplNWZJV0lHUE11bUg3NmZEbUNVYzZB?oc=5",
           "source": "5 Minuten",
-          "date": "26. Oct 2026"
-        },
-        {
-          "title": "28 Prozent der Haushalte haben Klimaticket - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rZ2o3NmpPMnAwcHRBNVkwV29jWUxCelZtc0dfaG9CV0ZEUExZcDhiUUxfTWpTalY2UzhCUWRYYkZ1WE1aZVBKVTdBMzJtSW01RkRKbw?oc=5",
-          "source": "steiermark.ORF.at",
           "date": "26. Oct 2026"
         },
         {
@@ -82,7 +70,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Verkehrssicherheit in der Steiermark und Kärnten ist weiterhin kritisch, da es regelmäßig zu Unfällen zwischen Verkehrsteilnehmern und zwischen Fahrzeugen und Wildtieren kommt. Besondere Aufmerksamkeit erfordern dabei Konflikte auf Radwegen und bei Fußgängerüberquerungen, die durch mangelnde Aufmerksamkeit aller Beteiligten zu schweren Verletzungen führen.",
+      "summary": "Die Verkehrssicherheit in der Steiermark und Kärnten ist weiterhin kritisch, da es regelmäßig zu Unfällen zwischen verschiedenen Verkehrsteilnehmern kommt, wie Kollisionen zwischen Fußgängern und Autos sowie E-Bike-Unfälle auf Radwegen. Parallel dazu zeigt sich ein massives Problem mit Wildtierunfällen, was auf die Notwendigkeit besserer Verkehrsplanung und Infrastruktur hinweist, um alle Verkehrsteilnehmer – Menschen wie Tiere – zu schützen.",
       "items": [
         {
           "title": "Hund läuft auf Radweg: Steirer bei E-Bike-Unfall verletzt - 5 Minuten",
@@ -114,7 +102,7 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Das Land Steiermark reorganisiert seine Immobilienverwaltung ab 2027 durch eine zentrale Bündelung der Liegenschaftsverwaltung nach dem Scheitern der bisherigen LIG-Struktur. Das Palais Attems in Graz bleibt dabei im Besitz des Landes und wird nicht verkauft.",
+      "summary": "Das Land Steiermark zentralisiert ab 2027 seine Immobilienverwaltung in neuen Strukturen und sichert damit eine effizientere Bewirtschaftung seiner Liegenschaften, während gleichzeitig das Palais Attems in Graz nicht verkauft wird und damit im öffentlichen Besitz verbleibt. Parallel dazu werden in der Südweststeiermark Millionen in die Glasfaserinfrastruktur investiert und der P+R Schäffernsteg ausgebaut, um die Verkehrsinfrastruktur für Pendler zu verbessern.",
       "items": [
         {
           "title": "Neue Strukturen ab 2027: Land Steiermark bündelt Immobilienverwaltung zentral - MeinBezirk.at",
@@ -123,16 +111,22 @@
           "date": "25. Oct 2026"
         },
         {
-          "title": "Land Steiermark startet nach dem Aus für LIG eine Immo-Reform - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX09QTDh0NTJURXQ5MUN4NGNKbV9nZGxSZlQ2UG1BYWlTQkJsTlMwLVJ5TUpJWDEwZHRrOGw2VlRrS19najdkSU9CS05KTmtjQWc1N2hiMlJwVDhWVGduV1BDQXNrUjl3LWlQOXF0QTFPUXNwV0lucWtfZVJycnpscXVwREViUjlPdU1heFB6Y1dCZ1dIWTQtX01XbDZIaDJ3RmpEUS1lRGM2d2ZT?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "21. Oct 2026"
+          "title": "Mehr Parkplätze am P+R Schäffernsteg – Ausbau für Pendler dringend erforderlich! - www.openpetition.eu",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdm9IVG45MlVKSUZDQzhiUVl2eHhydTJucUpiNUJVYVBlSWRzbGNoWDdZU2JNeWZiRG9UalhyQi1ZZ0VUZEp6bDB0VEl1ZC1RTDlzOHhLYy1oWE9yOWtNekF4QzhvS1FLQWtnVmgxV3VPR2gzSHJyZW1IVE83VzhIUkVhWTYxeXBCOXFwUWhzckVRa3NzRmtKaWVWTDgzT0dkaVZ2M1pTVGRUQml1bzVvY0l3OTg2SjhkbjB4NjFwdlpraFRsanc?oc=5",
+          "source": "www.openpetition.eu",
+          "date": "27. Oct 2026"
         },
         {
           "title": "Palais Attems in Graz: Verkauf wieder vom Tisch - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMVJHbkI4dnJiMTlGTjA0NGZ4ZnMzalZlOEh6dC1kSmxJWkNRS2w2VGRfM2IxeG9WTU1KNnpjR21UbkxGMm8zOG5lWkMxMjVhODVrc1htMnNDZHFDUjNqcENCVzV0TkExak54ZXZ1TXcwNUtFeG9EazZTR21yWlZNZzdfX21jM3VsTDBYZ2k4TTBsN0d0NFl3?oc=5",
           "source": "Kleine Zeitung",
           "date": "23. Oct 2026"
+        },
+        {
+          "title": "Glasfaserausbau gestartet: Millionen-Investition in Südweststeiermark - 6.000 Haushalte erhalten Glasfaser - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa0FGUGd6azBWVjdsTWxQdVlEYmRxb3diX0FxV0JNSkRQa3A5cFAxanRSZHpPRi14VTF1cjVNZHhIT1RuUFEtbDc0MU8xRmFXcDJRYl94X19Gel9wS3J2ZTZZZ1VKTzBCNktGUm9DWHU1NUNteS14azR4MUNDWDF5YVBlVjJIVmNicllFLTZncWFxWDYya3pHVWVHanU4bVNmZjRjXzY5R2RXNlA0SEx5MUFTWHlCcnNyblQ3TzNmdG9va1RpZzJJTlFlVQ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "28. Oct 2026"
         }
       ]
     },
