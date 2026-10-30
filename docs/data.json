@@ -1,24 +1,18 @@
 {
-  "generated": "29. October 2026, 08:57 UTC",
+  "generated": "30. October 2026, 09:02 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Ich kann diese Aufgabe nicht wie angefordert erfüllen, da der erste Nachrichtentitel sich auf politische Themen bezieht und nicht auf Straßeninfrastruktur. Der zweite Titel erwähnt zwar die A2 und den Packabschnitt, enthält aber keine konkreten Informationen zu Straßenbau oder Sanierungen, die ich zusammenfassen könnte.",
+      "summary": "Ich kann diese Aufgabe nicht wie angefordert erfüllen, da der bereitgestellte Nachrichtentitel sich nicht auf Straßeninfrastruktur, Straßenbau, Straßenerhaltung, Sanierungen, Tunnel, Brücken oder Umfahrungen bezieht. Der Titel behandelt ein politisches Thema und enthält keine Informationen zu Infrastrukturprojekten in der Steiermark.",
       "items": [
         {
           "title": "FPÖ-geführte Steiermark – eine Zwischenbilanz. Teil 2: Vorfahrt für Kunaseks Kulturkampf - Stoppt die Rechten",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORzk0YkFubXJDNVFyU0JXN1VCMDRJMnJpOHFkTHhjOEh1TnhnT2NVV1gyeVd3RFVwX2lCMFYyQzlIVlF5U01iNTgwbUllZ1JmZ2l4QWpkTERYeW1ZS25QM09oR3g4T05mMWVUREttS3dQdXhOTWxhOTBURnc5SEdLN1gxWkRpQ0ZHaXhsbnM5ZDVIOHdQeTVRQ3ZrNGc5dE5RUHhnZ1ZJZTNfNXpQOUtCWU9PMUwtd3JJRnkwTE9PS2taLTh2WGZUSFJkYw?oc=5",
           "source": "Stoppt die Rechten",
           "date": "27. Oct 2026"
-        },
-        {
-          "title": "A2: Neue Bauphase Packabschnitt - ÖAMTC",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUHRMelVaeVlqdGtiZ28xOFlmZTFOVGJjWHpYUE9QX1FqVjd3NGZkWmxLVmtTWmRZUG9DNDMyMUtLYi1uc2V2bDgtZnVSZlhSS29jUGJ6bG4xTzh0ZDhHX1lKcmhYTXJrVzI2X2FUbnlSNDF4QWZlQUNpejBVeGxQNnBSQQ?oc=5",
-          "source": "ÖAMTC",
-          "date": "23. Oct 2026"
         }
       ]
     },
@@ -26,25 +20,19 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Das Klimaticket erfreut sich in der Steiermark großer Beliebtheit und hat mit 28 Prozent der Haushalte einen neuen Höchststand erreicht, wobei es sich als günstige Alternative für Pendler etabliert hat. Allerdings gibt es weiterhin Herausforderungen wie Ersatzbusse auf einzelnen Bahnstrecken und zusätzliche Gebühren im Koralmtunnel trotz Ticketbesitz.",
+      "summary": "Das Klimaticket erfreut sich in der Steiermark großer Beliebtheit und hat mit 28 Prozent der Haushalte einen neuen Höchststand erreicht, wobei es fünf Jahre nach seiner Einführung zum Standard-Verkehrsticket geworden ist. Allerdings entstehen Pendlern im Koralmtunnel trotz Klimaticket zusätzliche Kosten, was auf Unzulänglichkeiten bei der Umsetzung des Verkehrsangebots hinweist.",
       "items": [
+        {
+          "title": "Trotz Herbstferien: Wer in der Steiermark dennoch zur Schule muss - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbUlHM2s0ay0xNUg5YTFGSXhQT3UxT3V3U2tMZU1rem5RUDVRT3BCQ3N0UTNiRW9lXzMwVDhhVWs5dDc4NEFSb0Q0U3hEVkNCQ1pzR1lIM3hvbzlDOUlzRjhPdWF4S1FkZ1NYX04yYTJic3AxUVZYWmxRTUk1aDdKNkFjSVp2a0F4RHJHbEQ1eGFONkozWDlTWk9ST3pRcmxQUzM4UURKSG92QmFVNmtj?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "27. Oct 2026"
+        },
         {
           "title": "Fünf Jahre Klimaticket: Neuer Höchststand in der Steiermark - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUnR5T0Jsam5namIxOHJpNzJGd25IRUVLY29EV2MzeXA1Z1BUaDhaUWxIWkZydktiRUVJbVBvTUo2M2ZtV1JlY2NhMjVpMlJGYnk3dDRyMXRZOEhxTmkxdVRZeUE4dTVmWjZ4UXg3akUtN2pjZjkwVlJXaEw1VVZMdmhlY00yNzZuYXNjQ3FIMS1uYkVCaFlfNzlUTU1aeWx3ZEpiU2hiSFoxdw?oc=5",
           "source": "Kleine Zeitung",
           "date": "25. Oct 2026"
-        },
-        {
-          "title": "28 Prozent der Haushalte haben Klimaticket - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rZ2o3NmpPMnAwcHRBNVkwV29jWUxCelZtc0dfaG9CV0ZEUExZcDhiUUxfTWpTalY2UzhCUWRYYkZ1WE1aZVBKVTdBMzJtSW01RkRKbw?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "26. Oct 2026"
-        },
-        {
-          "title": "Achtung, Pendler: Auf dieser steirischen Bahnstrecke fahren Ersatzbusse - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaXBFSVQ2eU5OWjJ4U0xNZU9vYlh5Nm1EOFNmN0ZpZFhLa1NRMjRzdFNOTFlMQW9Jckc1cG9HaWlraWlUWDZQNHF4Rk52eVNSekRtSW5WWmszTzlqTlJNaWdycVBodEhkQ1RaYm9TcG0wZW1feXhuNDVoNmxJdDBIVzh0TWlPcVo4WV80OW1SS2pXQzE5SFI1U041cEhydzJMZmxsSFNUOFNYWFVqbnNFSEs2T3JhUQ?oc=5",
-          "source": "5 Minuten",
-          "date": "22. Oct 2026"
         },
         {
           "title": "Ärger im Koralmtunnel: Pendler müssen trotz Klimaticket draufzahlen - 5 Minuten",
@@ -53,16 +41,16 @@
           "date": "26. Oct 2026"
         },
         {
-          "title": "Klimaticket Steiermark als günstigere Alternative - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQanFrZkdzTmRCc0ZNZ1U0T0xZZFlKTHAtTVptRmpSbUtHdERtMGoxbHUyR1NCaWpma0ZHcGlHdXEzVF9lLWZCZl94eHk5MEc5eVBpV2dRSzA3a1VZZ1ZOdFVfMzdXblh1dTIyb3FPUlY3Z0VJemVRSGpadUM2aGtFenNuTGVxaDEtTlBfQWRxRWhLX29rSzhv?oc=5",
-          "source": "ORF ON",
+          "title": "28 Prozent der Haushalte haben Klimaticket - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rZ2o3NmpPMnAwcHRBNVkwV29jWUxCelZtc0dfaG9CV0ZEUExZcDhiUUxfTWpTalY2UzhCUWRYYkZ1WE1aZVBKVTdBMzJtSW01RkRKbw?oc=5",
+          "source": "steiermark.ORF.at",
           "date": "26. Oct 2026"
         },
         {
-          "title": "Neuer Klimaticket-Preis: So viel kostet es ab 1. Jänner 2027 in Österreich - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZUpwYXN1Wk1iVE5kb3dsSFRJMElVa2ZoeUFvbk1YX3g3UE9NcEZaRG5feEpCZmxnSGZkRG91S09RRXdfRlM3WWNXYXIyWE9ua181QjFCTWhEWGtzdFJrQmJEeFJjMmdxSVZPX3kwTmFOT2EtWnd5VU1hMEY2MjRYdDM0MURXVXkwdGtyall0NUhwb2tYdndXRTI5YmZPdEp4UGJSS24weHpSaXIxMnl4OWx5WU5vMHJZV2haUFR3?oc=5",
-          "source": "5 Minuten",
-          "date": "22. Oct 2026"
+          "title": "Steiermark heute vom 26.10.2026 - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51OEpEYTRNNGxpMElUUy1OekdVYms5cVlrMjdtcVI0bjJTOEpVQm90NFk4QWswdGZFeTg3SFRXMExOV2J5MG9ZOVBLZ3U4a2NyMXVMTG1Dc3hnOHpJUXgzWkNPc3RaNnJFZGVpNTYxSQ?oc=5",
+          "source": "ORF ON",
+          "date": "26. Oct 2026"
         }
       ]
     },
@@ -70,7 +58,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Verkehrssicherheit in der Steiermark und Kärnten ist weiterhin kritisch, da es regelmäßig zu Unfällen zwischen verschiedenen Verkehrsteilnehmern kommt, wie Kollisionen zwischen Fußgängern und Autos sowie E-Bike-Unfälle auf Radwegen. Parallel dazu zeigt sich ein massives Problem mit Wildtierunfällen, was auf die Notwendigkeit besserer Verkehrsplanung und Infrastruktur hinweist, um alle Verkehrsteilnehmer – Menschen wie Tiere – zu schützen.",
+      "summary": "Die Steiermark setzt verstärkt auf Verkehrssicherheit und Prävention, wie eine neue Kampagne zur gegenseitigen Rücksicht im Straßenverkehr und kreative Schulprojekte zeigen, während gleichzeitig alltägliche Gefahren wie Hindernisse auf Radwegen zu ernsthaften Unfällen führen. Nachhaltige Mobilität wird durch Initiativen wie die grüne Ausrichtung des ORF Steiermark gefördert, um das Bewusstsein für umweltfreundliche Verkehrslösungen zu schärfen.",
       "items": [
         {
           "title": "Hund läuft auf Radweg: Steirer bei E-Bike-Unfall verletzt - 5 Minuten",
@@ -79,22 +67,22 @@
           "date": "26. Oct 2026"
         },
         {
-          "title": "Fußgänger will Straße überqueren und kollidiert mit Auto - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZmF2UXVINWJRZUEzUGl0WjljN0ZtMURwUEdiQ0NZNFUwX0lneF9kbGZfdlFXd2hQSUZuWlRaNkx6V094b0UyaU01X0xxWV9RMkU1MHpzS2JjUjFBUHNKdDhDWFZDZFVobG9La1lOa0x4M1ZJWTRtQTBibHI5bUFQaXA5RFdVcHZBOHg5QUhITHVEemtUWG0xaUdpRFFlOTdjdC1PMG9B?oc=5",
-          "source": "5 Minuten",
-          "date": "22. Oct 2026"
+          "title": "Verkehrssicherheit in der Steiermark: Ein Fehler genügt: Neue Kampagne wirbt für mehr Rücksicht - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXM3VkZjdXhZWlYzZUFiQ05kQTJ4V1JiR3R3eE0zTlpBTWt4dGU2SU9BRUNQbVlLWFVpYXZYV3cxS2hVZnFQMmhCR3cta3hEa1J0RDVyZ2JFUHBnS1pyanNoZWJTdDAzOG1yWS15NHRjbjdFd2g2TnZuVUY2WEJ3bFVHcklscFFDNlZxdVBId3NMTFNsTjhxYmpZU29xNzZITVpDeU8wRVZGLUhfR2JEZ1MxeXg5QQ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "29. Oct 2026"
         },
         {
-          "title": "Fußgänger wurde in Villach von Auto erfasst - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWU42SEhSbGdZdFozOGM5N3AxblNyaXkySTVjalFjT2t5TWRLdHY5aEZYMTJ0RExLRGhsOXlubGFwT0FjZW1GSGdOT0tmOEdtWVJ6UTM0cjhBc0lneWpobDd4SUZDZk5sWWZQSEpkWXFtM0RFeGdfdHZ6d3UyZlVwTzBTamFVR25YWHNMSGMtWE5UcU9OOWc?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "22. Oct 2026"
+          "title": "Kreativer Einsatz in Paldau: Schüler gestalten buntes Kunstwerk für mehr Verkehrssicherheit - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV3kyMkJWQXVMbVhtOUQyRGYyTXhYN0k3Qk9DWFA3dmE4WFdJVjQxT1R0ejNQVWhVVVpmRVhXeDdIOWlpY09VOEpJQXZPNEJESGR2M2ozNWMzemxpeHJzWTYwQ0xqUl8xcXFmWFhCbnZhVjJkekdwX1ZaMHZ0SkMxSnU3aXI2cG1nbk9GVUE2eVVfSXk1ZmdKUHdCZmlGejctQ25ZZHBBNnJCODdVSmdRM2o1ODVkNG9sdE1PcEstNkNOblAzMmc?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "29. Oct 2026"
         },
         {
-          "title": "Bilanz zeigt: Alle zwei Stunden stirbt ein Wildtier auf Kärntens Straßen - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ0R0czYzN2hoUlVmSkRRYTVlRkd4NlRlSGVYeHhzemtrMjdjWU5nX0xYWUpBOW9Gc2lvZ2d4Z2xoMnJPdjJlVnhuTm4xUXVhT045Ny1DR1FBdUVRYU9rWVU1TkxYQVJjZTRsUnNLQ3V3WFpyNWpRSDdsR0dSb2k2WmNCTTBZWUZKNlVFWlVySXVXLURhQjA1MmE3YUFlUXRvbkNlWnVxa0tXYnFlVE9RSi1JTXpLdU1E?oc=5",
-          "source": "5 Minuten",
-          "date": "22. Oct 2026"
+          "title": "Der ORF Steiermark denkt grün - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QbVI5VjJib1pKc29TTGlkVHlxYXNkZ19vTXdkT0pQVzVUbGtHZk1vVjFCWUI3VW5RWGhCLUdkcFVXOFNUUTVFeENQX0tNQjhKTlhKZkJSS09feS1uS2c?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "29. Oct 2026"
         }
       ]
     },
@@ -102,13 +90,13 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Das Land Steiermark zentralisiert ab 2027 seine Immobilienverwaltung in neuen Strukturen und sichert damit eine effizientere Bewirtschaftung seiner Liegenschaften, während gleichzeitig das Palais Attems in Graz nicht verkauft wird und damit im öffentlichen Besitz verbleibt. Parallel dazu werden in der Südweststeiermark Millionen in die Glasfaserinfrastruktur investiert und der P+R Schäffernsteg ausgebaut, um die Verkehrsinfrastruktur für Pendler zu verbessern.",
+      "summary": "Die Steiermark zeichnet mit dem GerambRose-Preis 2026 sieben herausragende Bauprojekte aus und modernisiert gleichzeitig ihre Infrastruktur durch den Ausbau von Park-and-Ride-Anlagen sowie eine zentrale Immobilienverwaltung ab 2027. Parallel dazu investiert das Land Millionen in den Glasfaserausbau der Südweststeiermark, um 6.000 Haushalte mit moderner digitaler Infrastruktur zu versorgen.",
       "items": [
         {
-          "title": "Neue Strukturen ab 2027: Land Steiermark bündelt Immobilienverwaltung zentral - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZmhqUWxDNjlUWmtYZ3VlaGVFTVczNGstNkx3WEJvX0JyNWl6V2poeV9PTFBVeTF6MURCR3hNTUdsa2VIMDZOb0Fvam55akdqd3NkTnZLeWp3a1Q3S2Y1SmliMGhmMnNtSS1jS2xuR2xUMlpPZFhHWW1pVzkyYjktRjA4amprTFVxb184Yk1tSEo1am1BYVY1cHdqWUJSS3B0R0lqdzVEbnczM0RNY2c?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "25. Oct 2026"
+          "title": "GerambRose 2026: Sieben herausragende Bauprojekte ausgezeichnet - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tODRFaHlzNUxhV0VubGt0SGtBWmtXQnBqYUgxbVhPVmtFSS1MZ1QzaFAzaC00T0dlTDlEN0UybllPM2VZTXVvdDJ2SklvQTFkOGNDeE9RTHRxdWZ2LS1QUlBlMnZjWDZNcW1ya1ZGNTZhNEg2S2w3bw?oc=5",
+          "source": "Kommunikation - Land Steiermark",
+          "date": "29. Oct 2026"
         },
         {
           "title": "Mehr Parkplätze am P+R Schäffernsteg – Ausbau für Pendler dringend erforderlich! - www.openpetition.eu",
@@ -117,10 +105,10 @@
           "date": "27. Oct 2026"
         },
         {
-          "title": "Palais Attems in Graz: Verkauf wieder vom Tisch - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMVJHbkI4dnJiMTlGTjA0NGZ4ZnMzalZlOEh6dC1kSmxJWkNRS2w2VGRfM2IxeG9WTU1KNnpjR21UbkxGMm8zOG5lWkMxMjVhODVrc1htMnNDZHFDUjNqcENCVzV0TkExak54ZXZ1TXcwNUtFeG9EazZTR21yWlZNZzdfX21jM3VsTDBYZ2k4TTBsN0d0NFl3?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "23. Oct 2026"
+          "title": "Neue Strukturen ab 2027: Land Steiermark bündelt Immobilienverwaltung zentral - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZmhqUWxDNjlUWmtYZ3VlaGVFTVczNGstNkx3WEJvX0JyNWl6V2poeV9PTFBVeTF6MURCR3hNTUdsa2VIMDZOb0Fvam55akdqd3NkTnZLeWp3a1Q3S2Y1SmliMGhmMnNtSS1jS2xuR2xUMlpPZFhHWW1pVzkyYjktRjA4amprTFVxb184Yk1tSEo1am1BYVY1cHdqWUJSS3B0R0lqdzVEbnczM0RNY2c?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "25. Oct 2026"
         },
         {
           "title": "Glasfaserausbau gestartet: Millionen-Investition in Südweststeiermark - 6.000 Haushalte erhalten Glasfaser - MeinBezirk.at",
