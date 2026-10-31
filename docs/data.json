@@ -1,32 +1,25 @@
 {
-  "generated": "30. October 2026, 09:02 UTC",
+  "generated": "31. October 2026, 08:56 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Ich kann diese Aufgabe nicht wie angefordert erfüllen, da der bereitgestellte Nachrichtentitel sich nicht auf Straßeninfrastruktur, Straßenbau, Straßenerhaltung, Sanierungen, Tunnel, Brücken oder Umfahrungen bezieht. Der Titel behandelt ein politisches Thema und enthält keine Informationen zu Infrastrukturprojekten in der Steiermark.",
-      "items": [
-        {
-          "title": "FPÖ-geführte Steiermark – eine Zwischenbilanz. Teil 2: Vorfahrt für Kunaseks Kulturkampf - Stoppt die Rechten",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORzk0YkFubXJDNVFyU0JXN1VCMDRJMnJpOHFkTHhjOEh1TnhnT2NVV1gyeVd3RFVwX2lCMFYyQzlIVlF5U01iNTgwbUllZ1JmZ2l4QWpkTERYeW1ZS25QM09oR3g4T05mMWVUREttS3dQdXhOTWxhOTBURnc5SEdLN1gxWkRpQ0ZHaXhsbnM5ZDVIOHdQeTVRQ3ZrNGc5dE5RUHhnZ1ZJZTNfNXpQOUtCWU9PMUwtd3JJRnkwTE9PS2taLTh2WGZUSFJkYw?oc=5",
-          "source": "Stoppt die Rechten",
-          "date": "27. Oct 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "oeffentlicher_verkehr": {
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Das Klimaticket erfreut sich in der Steiermark großer Beliebtheit und hat mit 28 Prozent der Haushalte einen neuen Höchststand erreicht, wobei es fünf Jahre nach seiner Einführung zum Standard-Verkehrsticket geworden ist. Allerdings entstehen Pendlern im Koralmtunnel trotz Klimaticket zusätzliche Kosten, was auf Unzulänglichkeiten bei der Umsetzung des Verkehrsangebots hinweist.",
+      "summary": "Die Steiermark verzeichnet mit dem Klimaticket einen großen Erfolg im öffentlichen Verkehr, wobei bereits 28 Prozent der Haushalte dieses Angebot nutzen und neue Höchststände erreicht werden. Allerdings kürzt die Stadt Graz ihre Förderung für das Klimaticket deutlich, wodurch dieses für Nutzer teurer wird, während die Öffi-Taktung und Fahrpläne vorerst bestehen bleiben.",
       "items": [
         {
-          "title": "Trotz Herbstferien: Wer in der Steiermark dennoch zur Schule muss - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbUlHM2s0ay0xNUg5YTFGSXhQT3UxT3V3U2tMZU1rem5RUDVRT3BCQ3N0UTNiRW9lXzMwVDhhVWs5dDc4NEFSb0Q0U3hEVkNCQ1pzR1lIM3hvbzlDOUlzRjhPdWF4S1FkZ1NYX04yYTJic3AxUVZYWmxRTUk1aDdKNkFjSVp2a0F4RHJHbEQ1eGFONkozWDlTWk9ST3pRcmxQUzM4UURKSG92QmFVNmtj?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "27. Oct 2026"
+          "title": "Graz sichert leistbaren öffentlichen Verkehr - KPÖ Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdDRlXzdlcldIQWs0cEVPeEFuZGFQVHdUbElKX3liM0NLSHM5OC14UUREaGJQaG11emZHQ1pPakhpVFhyU05Fa2hYVms1dFpzV0k2dndtbE0xa1loVXdrZ3AzTExNUzlYdklHTS1xQ2hreDl5b2JzTjJZX3hRTm5CRmUxRXQwMHV4R3c?oc=5",
+          "source": "KPÖ Steiermark",
+          "date": "30. Oct 2026"
         },
         {
           "title": "Fünf Jahre Klimaticket: Neuer Höchststand in der Steiermark - Kleine Zeitung",
@@ -35,10 +28,10 @@
           "date": "25. Oct 2026"
         },
         {
-          "title": "Ärger im Koralmtunnel: Pendler müssen trotz Klimaticket draufzahlen - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaXpRUDJoeW95ZjBwa2xCcU9VekVVRVZuM1JtTDA2ZnVQN2NyV08zcFlMY2NaYWk5eFloalB5eEdad2llZ3JadWp3RE1ESFRZSFhRdzgxbEpScFE3Y3lwMEpuQ1l1djVBbnNZWFNnZVk3b0ROc2h1MFVCU3JMWTVfM2tGNUNENUFuLUNyVnlTM2o3cFBVaThwWElBMEplNWZJV0lHUE11bUg3NmZEbUNVYzZB?oc=5",
-          "source": "5 Minuten",
-          "date": "26. Oct 2026"
+          "title": "Graz senkt Zuschuss zum Klimaticket Steiermark auf 60 Euro - https://nachrichten.jetzt/",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU1pETjd1YWZlMWR4RkFONnBVcFN4Z0VJLVUxVVBTWl9PMnJmSENQbFVyam1ndGtVdVdoQXJ1NnR2NU9YcUpFbGVlWmVsWVlGVkZnbXBMSW95VGVOa1l4NXlJQkg4cDZBajh0SnljUEpqc0xLbUd3NEVHMmpYc1dZX1BxRjJ3Rkc1aDBTVkU1clZ0NGJfWFBQVA?oc=5",
+          "source": "https://nachrichten.jetzt/",
+          "date": "30. Oct 2026"
         },
         {
           "title": "28 Prozent der Haushalte haben Klimaticket - steiermark.ORF.at",
@@ -47,10 +40,28 @@
           "date": "26. Oct 2026"
         },
         {
-          "title": "Steiermark heute vom 26.10.2026 - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51OEpEYTRNNGxpMElUUy1OekdVYms5cVlrMjdtcVI0bjJTOEpVQm90NFk4QWswdGZFeTg3SFRXMExOV2J5MG9ZOVBLZ3U4a2NyMXVMTG1Dc3hnOHpJUXgzWkNPc3RaNnJFZGVpNTYxSQ?oc=5",
-          "source": "ORF ON",
-          "date": "26. Oct 2026"
+          "title": "Sparkurs in Graz - Kein Öffi-Kahlschlag, aber Klimaticket wird teurer - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9oUEpLMmJ5NnJ5MV9BQWpWTEdsTE9wQkFDb0lDemJPeGR6anVfMU1aYVg0cTNNSi1fa0x4aVFSY0hhdw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "30. Oct 2026"
+        },
+        {
+          "title": "Graz kürzt Klimaticket-Zuschuss: Das ändert sich jetzt - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc18tQnB6My1IT0FzamFTMlhMYU9uV3NBSEJ3YWRBbFp1RXFLWGxla0pLazQtNjFZcGJtRE5TQXpwRk56WnpudkxmRk9YZTRQemVjNXprS3JSUk82bjFpUVU4R1BOeEJjN0hTV2l3UHhLOVpPazhxelJOeFJXYnA3UjRJMk10clh1R3R4TXFfek80cTdYeHdGLUxxaw?oc=5",
+          "source": "5 Minuten",
+          "date": "30. Oct 2026"
+        },
+        {
+          "title": "Sparmaßnahmen: Stadt Graz kürzt Förderung des Klimatickets, Öffi-Taktung bleibt - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM19EdlhtZVJ2aldIWFRJV2x0ZVBHMm51T2RZYjNiajJlRExVR0t5Mkl1aDlQekdHbnFjS2ZGZHdBYVRzTXAzdkNXdlgxQkxCNjhlYTQtUWFsU3N5TGE4MGpEa25hZzJUdUdoOWNiS21oZXM0NXBJblQ3eWd2a2ZBRzlmNGtUSG1DQ3ZNX3IwaFlLWUpUSXRGeWctaWVIUXlsWWtjRTVXci0xNk5wNl95b25OcllvSG8?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "30. Oct 2026"
+        },
+        {
+          "title": "Grazer Öffis: Klimaticket-Förderung um 40 Prozent gekürzt – Fahrpläne bleiben - Graz News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUlhWdTB2TUFleFdwS0dOTElydm1hUmZpUXAxTHk0bGg4cWRnb0tQOHpWYktxTnBUNzZRS001NWc0WW0xRTJZUTRrYTVFazFIejVVX295YlVMVTR1LWdIOE10TVowR0N4ZEsxRDRvdVoyeU8xdUJ5WXdoWUFZZ3QwQWs0UmhPcWNKTW9j?oc=5",
+          "source": "Graz News",
+          "date": "30. Oct 2026"
         }
       ]
     },
@@ -58,7 +69,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark setzt verstärkt auf Verkehrssicherheit und Prävention, wie eine neue Kampagne zur gegenseitigen Rücksicht im Straßenverkehr und kreative Schulprojekte zeigen, während gleichzeitig alltägliche Gefahren wie Hindernisse auf Radwegen zu ernsthaften Unfällen führen. Nachhaltige Mobilität wird durch Initiativen wie die grüne Ausrichtung des ORF Steiermark gefördert, um das Bewusstsein für umweltfreundliche Verkehrslösungen zu schärfen.",
+      "summary": "Die Steiermark setzt verstärkt auf Verkehrssicherheit durch Kampagnen und kreative Projekte, um Rücksichtnahme im Straßenverkehr zu fördern und Unfälle zu vermeiden. Gleichzeitig zeigen sich Herausforderungen im alltäglichen Verkehr, etwa durch Hindernisse auf Radwegen, während nachhaltige Mobilität zunehmend an Bedeutung gewinnt.",
       "items": [
         {
           "title": "Hund läuft auf Radweg: Steirer bei E-Bike-Unfall verletzt - 5 Minuten",
@@ -90,13 +101,13 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark zeichnet mit dem GerambRose-Preis 2026 sieben herausragende Bauprojekte aus und modernisiert gleichzeitig ihre Infrastruktur durch den Ausbau von Park-and-Ride-Anlagen sowie eine zentrale Immobilienverwaltung ab 2027. Parallel dazu investiert das Land Millionen in den Glasfaserausbau der Südweststeiermark, um 6.000 Haushalte mit moderner digitaler Infrastruktur zu versorgen.",
+      "summary": "Die Steiermark modernisiert ihre Verwaltungsstrukturen durch eine zentrale Immobilienverwaltung ab 2027 und vereinfacht gleichzeitig das Baugesetz erheblich, um Verfahren zu beschleunigen und mehr Rechtssicherheit zu schaffen. Parallel dazu werden Infrastrukturprojekte wie der Ausbau von Park-and-Ride-Anlagen und der Glasfaserausbau in der Südweststeiermark vorangetrieben, während die GerambRose 2026 sieben herausragende Bauprojekte würdigt.",
       "items": [
         {
-          "title": "GerambRose 2026: Sieben herausragende Bauprojekte ausgezeichnet - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tODRFaHlzNUxhV0VubGt0SGtBWmtXQnBqYUgxbVhPVmtFSS1MZ1QzaFAzaC00T0dlTDlEN0UybllPM2VZTXVvdDJ2SklvQTFkOGNDeE9RTHRxdWZ2LS1QUlBlMnZjWDZNcW1ya1ZGNTZhNEg2S2w3bw?oc=5",
-          "source": "Kommunikation - Land Steiermark",
-          "date": "29. Oct 2026"
+          "title": "Neue Strukturen ab 2027: Land Steiermark bündelt Immobilienverwaltung zentral - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZmhqUWxDNjlUWmtYZ3VlaGVFTVczNGstNkx3WEJvX0JyNWl6V2poeV9PTFBVeTF6MURCR3hNTUdsa2VIMDZOb0Fvam55akdqd3NkTnZLeWp3a1Q3S2Y1SmliMGhmMnNtSS1jS2xuR2xUMlpPZFhHWW1pVzkyYjktRjA4amprTFVxb184Yk1tSEo1am1BYVY1cHdqWUJSS3B0R0lqdzVEbnczM0RNY2c?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "25. Oct 2026"
         },
         {
           "title": "Mehr Parkplätze am P+R Schäffernsteg – Ausbau für Pendler dringend erforderlich! - www.openpetition.eu",
@@ -105,10 +116,22 @@
           "date": "27. Oct 2026"
         },
         {
-          "title": "Neue Strukturen ab 2027: Land Steiermark bündelt Immobilienverwaltung zentral - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZmhqUWxDNjlUWmtYZ3VlaGVFTVczNGstNkx3WEJvX0JyNWl6V2poeV9PTFBVeTF6MURCR3hNTUdsa2VIMDZOb0Fvam55akdqd3NkTnZLeWp3a1Q3S2Y1SmliMGhmMnNtSS1jS2xuR2xUMlpPZFhHWW1pVzkyYjktRjA4amprTFVxb184Yk1tSEo1am1BYVY1cHdqWUJSS3B0R0lqdzVEbnczM0RNY2c?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "25. Oct 2026"
+          "title": "Steiermark entrümpelt Baugesetz: Weniger Bürokratie, schnellere Verfahren und mehr Rechtssicherheit - Land Steiermark - Politik",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aUTlmMTJCN1FCQlEwRHNCdVB3SXl3RlZBb0UzaFNjcWRKYmxnS091cm9CRk9MX3U1UzIwcFJGNzdCbWdUYlJNWDRrcUZsdU1wVmNNelRqR0d4QWFYMWpsTjBtX2htOGg5Smh2cWs5T0U4ck0?oc=5",
+          "source": "Land Steiermark - Politik",
+          "date": "30. Oct 2026"
+        },
+        {
+          "title": "GerambRose 2026: Sieben herausragende Bauprojekte ausgezeichnet - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96dkt5WXR1eGZfWTN2eHdpZVBqMWZNbUZYU1pyMXRZTmNiSFhSWjZLenBiRTRsYjNyeW1wcjlhVmc1RXZuWElOVjY4WTRJaTRKQkFLeXZvYWVIYmhoZXR6aTI2YmU1WmJhaTdGLV9qbw?oc=5",
+          "source": "Land Steiermark News Portal",
+          "date": "29. Oct 2026"
+        },
+        {
+          "title": "Steiermark will Bauverfahren verkürzen und freie Vorhaben schaffen - https://nachrichten.jetzt/",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMk8zS1VObEwtNjkzMzNZUWc3NDdUbmhLNXBfUGxxNTVqQy1TY0RCNDZ3c2dCeE9tbGNWRVZoOEQ0TkdwY1BBdmRkMlp3Y1VVUVNzb3hBR0Y4TWp1U281dTFlcnp3dmZfNTF1OWhDN2FrY3ZHM1pidGs4eGZiVXRXZzZGeXcyMW5mMXRLeUExRk9uTTRpT2xkd08wcG9ySWZzdUZwMQ?oc=5",
+          "source": "https://nachrichten.jetzt/",
+          "date": "30. Oct 2026"
         },
         {
           "title": "Glasfaserausbau gestartet: Millionen-Investition in Südweststeiermark - 6.000 Haushalte erhalten Glasfaser - MeinBezirk.at",
