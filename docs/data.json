@@ -1,5 +1,5 @@
 {
-  "generated": "01. November 2026, 09:47 UTC",
+  "generated": "02. November 2026, 10:03 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
@@ -13,26 +13,8 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Stadt Graz reduziert ihre Förderung für das Klimaticket, wodurch dieses für Nutzer teurer wird, während die Öffi-Taktung unverändert bleibt und bereits 28 Prozent der steirischen Haushalte das Ticket nutzen. Trotz Sparmaßnahmen sichert Graz damit weiterhin einen leistbaren öffentlichen Verkehr, wobei das Klimaticket nach fünf Jahren einen neuen Höchststand erreicht hat.",
+      "summary": "Die Stadt Graz reduziert ihre Zuschussförderung für das Klimaticket Steiermark um 40 Prozent auf 60 Euro, wodurch das Ticket für Nutzer teurer wird. Die Fahrpläne und Taktung des öffentlichen Verkehrs bleiben von dieser Sparmaßnahme unberührt.",
       "items": [
-        {
-          "title": "Graz sichert leistbaren öffentlichen Verkehr - KPÖ Graz",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYzZNdlJURFdaRGhWMHM3U3NTT1dOcHFaN1dSWUJ2SlVpeS1Ra2pISkhVQmJidE9WRjBoQkR1akU3MEhxWkVvQzd6c0ZsNkRJdVVKUGhBY0N6RjVtdHJ6bWRQTGZHV2c1amU3VFBUZUJMWjFFLTZJRHd2UW9OUm5aUVpB?oc=5",
-          "source": "KPÖ Graz",
-          "date": "30. Oct 2026"
-        },
-        {
-          "title": "Trotz Herbstferien: Wer in der Steiermark dennoch zur Schule muss - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbUlHM2s0ay0xNUg5YTFGSXhQT3UxT3V3U2tMZU1rem5RUDVRT3BCQ3N0UTNiRW9lXzMwVDhhVWs5dDc4NEFSb0Q0U3hEVkNCQ1pzR1lIM3hvbzlDOUlzRjhPdWF4S1FkZ1NYX04yYTJic3AxUVZYWmxRTUk1aDdKNkFjSVp2a0F4RHJHbEQ1eGFONkozWDlTWk9ST3pRcmxQUzM4UURKSG92QmFVNmtj?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "27. Oct 2026"
-        },
-        {
-          "title": "Sparmaßnahmen: Stadt Graz kürzt Förderung des Klimatickets, Öffi-Taktung bleibt - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM19EdlhtZVJ2aldIWFRJV2x0ZVBHMm51T2RZYjNiajJlRExVR0t5Mkl1aDlQekdHbnFjS2ZGZHdBYVRzTXAzdkNXdlgxQkxCNjhlYTQtUWFsU3N5TGE4MGpEa25hZzJUdUdoOWNiS21oZXM0NXBJblQ3eWd2a2ZBRzlmNGtUSG1DQ3ZNX3IwaFlLWUpUSXRGeWctaWVIUXlsWWtjRTVXci0xNk5wNl95b25OcllvSG8?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "30. Oct 2026"
-        },
         {
           "title": "Graz senkt Zuschuss zum Klimaticket Steiermark auf 60 Euro - https://nachrichten.jetzt/",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU1pETjd1YWZlMWR4RkFONnBVcFN4Z0VJLVUxVVBTWl9PMnJmSENQbFVyam1ndGtVdVdoQXJ1NnR2NU9YcUpFbGVlWmVsWVlGVkZnbXBMSW95VGVOa1l4NXlJQkg4cDZBajh0SnljUEpqc0xLbUd3NEVHMmpYc1dZX1BxRjJ3Rkc1aDBTVkU1clZ0NGJfWFBQVA?oc=5",
@@ -46,22 +28,22 @@
           "date": "30. Oct 2026"
         },
         {
-          "title": "28 Prozent der Haushalte haben Klimaticket - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rZ2o3NmpPMnAwcHRBNVkwV29jWUxCelZtc0dfaG9CV0ZEUExZcDhiUUxfTWpTalY2UzhCUWRYYkZ1WE1aZVBKVTdBMzJtSW01RkRKbw?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "26. Oct 2026"
-        },
-        {
           "title": "Sparkurs in Graz - Kein Öffi-Kahlschlag, aber Klimaticket wird teurer - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9oUEpLMmJ5NnJ5MV9BQWpWTEdsTE9wQkFDb0lDemJPeGR6anVfMU1aYVg0cTNNSi1fa0x4aVFSY0hhdw?oc=5",
           "source": "Kronen Zeitung",
           "date": "30. Oct 2026"
         },
         {
-          "title": "Fünf Jahre Klimaticket: Neuer Höchststand in der Steiermark - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUnR5T0Jsam5namIxOHJpNzJGd25IRUVLY29EV2MzeXA1Z1BUaDhaUWxIWkZydktiRUVJbVBvTUo2M2ZtV1JlY2NhMjVpMlJGYnk3dDRyMXRZOEhxTmkxdVRZeUE4dTVmWjZ4UXg3akUtN2pjZjkwVlJXaEw1VVZMdmhlY00yNzZuYXNjQ3FIMS1uYkVCaFlfNzlUTU1aeWx3ZEpiU2hiSFoxdw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "25. Oct 2026"
+          "title": "Sparmaßnahmen: Stadt Graz kürzt Förderung des Klimatickets, Öffi-Taktung bleibt - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM19EdlhtZVJ2aldIWFRJV2x0ZVBHMm51T2RZYjNiajJlRExVR0t5Mkl1aDlQekdHbnFjS2ZGZHdBYVRzTXAzdkNXdlgxQkxCNjhlYTQtUWFsU3N5TGE4MGpEa25hZzJUdUdoOWNiS21oZXM0NXBJblQ3eWd2a2ZBRzlmNGtUSG1DQ3ZNX3IwaFlLWUpUSXRGeWctaWVIUXlsWWtjRTVXci0xNk5wNl95b25OcllvSG8?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "30. Oct 2026"
+        },
+        {
+          "title": "Grazer Öffis: Klimaticket-Förderung um 40 Prozent gekürzt – Fahrpläne bleiben - Graz News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUlhWdTB2TUFleFdwS0dOTElydm1hUmZpUXAxTHk0bGg4cWRnb0tQOHpWYktxTnBUNzZRS001NWc0WW0xRTJZUTRrYTVFazFIejVVX295YlVMVTR1LWdIOE10TVowR0N4ZEsxRDRvdVoyeU8xdUJ5WXdoWUFZZ3QwQWs0UmhPcWNKTW9j?oc=5",
+          "source": "Graz News",
+          "date": "30. Oct 2026"
         }
       ]
     },
@@ -69,7 +51,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark setzt verstärkt auf Verkehrssicherheit durch eine neue Kampagne, die für mehr gegenseitige Rücksicht im Straßenverkehr wirbt und die Folgen von Fahlerfehlern thematisiert. Schüler in Paldau tragen durch kreative Kunstwerke aktiv zur Sensibilisierung für Verkehrssicherheit bei und zeigen, wie Bildung und künstlerischer Ausdruck zusammen zu mehr Sicherheit im Verkehr beitragen können.",
+      "summary": "Die Steiermark setzt mit einer neuen Kampagne auf mehr gegenseitige Rücksicht im Straßenverkehr, um die Sicherheit aller Verkehrsteilnehmer zu erhöhen, während Schüler in Paldau durch kreative Kunstwerke aktiv zum Bewusstsein für Verkehrssicherheit beitragen.",
       "items": [
         {
           "title": "Verkehrssicherheit in der Steiermark: Ein Fehler genügt: Neue Kampagne wirbt für mehr Rücksicht - MeinBezirk.at",
@@ -89,14 +71,8 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark modernisiert ihre Baugesetzgebung durch Deregulierung und Verfahrensvereinfachung, um Bürokratie abzubauen und Rechtssicherheit zu erhöhen, während gleichzeitig herausragende Bauprojekte wie die GerambRose 2026 ausgezeichnet werden. Parallel dazu werden Infrastrukturprojekte wie der P+R-Ausbau am Schäffernsteg und der Glasfaserausbau in der Südweststeiermark vorangetrieben, um die Mobilität und digitale Vernetzung der Region zu verbessern.",
+      "summary": "Die Steiermark modernisiert ihre Baugesetzgebung durch Entbürokratisierung und Verfahrensverschlankung, um schnellere und rechtssichere Genehmigungsprozesse zu ermöglichen. Der Baukulturpreis GerambRose 2026 würdigt sieben herausragende Bauprojekte, darunter innovative Bildungsbauten und Revitalisierungsmaßnahmen wie den prämierten Kindergarten Mühltal in Leoben.",
       "items": [
-        {
-          "title": "Mehr Parkplätze am P+R Schäffernsteg – Ausbau für Pendler dringend erforderlich! - www.openpetition.eu",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdm9IVG45MlVKSUZDQzhiUVl2eHhydTJucUpiNUJVYVBlSWRzbGNoWDdZU2JNeWZiRG9UalhyQi1ZZ0VUZEp6bDB0VEl1ZC1RTDlzOHhLYy1oWE9yOWtNekF4QzhvS1FLQWtnVmgxV3VPR2gzSHJyZW1IVE83VzhIUkVhWTYxeXBCOXFwUWhzckVRa3NzRmtKaWVWTDgzT0dkaVZ2M1pTVGRUQml1bzVvY0l3OTg2SjhkbjB4NjFwdlpraFRsanc?oc=5",
-          "source": "www.openpetition.eu",
-          "date": "27. Oct 2026"
-        },
         {
           "title": "Steiermark entrümpelt Baugesetz: Weniger Bürokratie, schnellere Verfahren und mehr Rechtssicherheit - Land Steiermark - Politik",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aUTlmMTJCN1FCQlEwRHNCdVB3SXl3RlZBb0UzaFNjcWRKYmxnS091cm9CRk9MX3U1UzIwcFJGNzdCbWdUYlJNWDRrcUZsdU1wVmNNelRqR0d4QWFYMWpsTjBtX2htOGg5Smh2cWs5T0U4ck0?oc=5",
@@ -116,10 +92,34 @@
           "date": "30. Oct 2026"
         },
         {
-          "title": "Glasfaserausbau gestartet: Millionen-Investition in Südweststeiermark - 6.000 Haushalte erhalten Glasfaser - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa0FGUGd6azBWVjdsTWxQdVlEYmRxb3diX0FxV0JNSkRQa3A5cFAxanRSZHpPRi14VTF1cjVNZHhIT1RuUFEtbDc0MU8xRmFXcDJRYl94X19Gel9wS3J2ZTZZZ1VKTzBCNktGUm9DWHU1NUNteS14azR4MUNDWDF5YVBlVjJIVmNicllFLTZncWFxWDYya3pHVWVHanU4bVNmZjRjXzY5R2RXNlA0SEx5MUFTWHlCcnNyblQ3TzNmdG9va1RpZzJJTlFlVQ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "28. Oct 2026"
+          "title": "Mehr Parkplätze am P+R Schäffernsteg – Ausbau für Pendler dringend erforderlich! - www.openpetition.eu",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdm9IVG45MlVKSUZDQzhiUVl2eHhydTJucUpiNUJVYVBlSWRzbGNoWDdZU2JNeWZiRG9UalhyQi1ZZ0VUZEp6bDB0VEl1ZC1RTDlzOHhLYy1oWE9yOWtNekF4QzhvS1FLQWtnVmgxV3VPR2gzSHJyZW1IVE83VzhIUkVhWTYxeXBCOXFwUWhzckVRa3NzRmtKaWVWTDgzT0dkaVZ2M1pTVGRUQml1bzVvY0l3OTg2SjhkbjB4NjFwdlpraFRsanc?oc=5",
+          "source": "www.openpetition.eu",
+          "date": "27. Oct 2026"
+        },
+        {
+          "title": "Diese sieben Bauwerke gehören zu den besten der Steiermark - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUnh5cUp2QlAtbjd1UTFJNWhRcFczWlZSazF5NEhfa1pxMElfWldxZlRoMzduTHNNMERjeWI2cS1Od0RqY3VfbWl4RFh0MWh5cTlySVBRc3F3NmJQZHdoOEduaXI4UUNSLUNpVVNPcGRMc3JLYjBBa3h6am9kZkVsbzJILWRUZDJEWTFoSC1CdE05dTRhTXp5d21Pd2lXM2NOcW00WW9GV3M?oc=5",
+          "source": "5 Minuten",
+          "date": "29. Oct 2026"
+        },
+        {
+          "title": "Baukulturpreis würdigt Bildungsbauten und Revitalisierung - KOMMUNAL",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLVVZdHFEaEFkTWozWnVScTFsR3pNX1JpcGptWEZ3Mk53TzJzTk9Da1ZZYnh1MmMwR3F2Ny1pRUctVXBCWm9kUXZDRVJvMkdaUmNrcEVyd056QlN2T3FfM09aYmpWZWNoLVgxRU1UWmJmQ1drWW1XaHFkOXNqTEcyZFhZbUo?oc=5",
+          "source": "KOMMUNAL",
+          "date": "30. Oct 2026"
+        },
+        {
+          "title": "Doppelte Auszeichnung: Diese zwei Grazer Gebäude wurden prämiert - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUlWZlhETmZxRmY0X3FNenhXeGkwTUpRc0Fkb2wwdUpGOFMyaDZ4UHVjd1UyNjhHNVZ1dWFTOGtxOHF6U2xkd2NJUlFKWi02WUdMUDN3VXVGcUJybEZ4dGRJY1BnQ1dpaHJ0aERZTy1wcmlrU0pTMFVVU3cxc2Y5M3JCc19tSjFSV3Nrd3dwX1pSX2YxUWswY284RGxjeDl3dkMwbTRFMTM?oc=5",
+          "source": "5 Minuten",
+          "date": "31. Oct 2026"
+        },
+        {
+          "title": "GerambRose: Architekturpreis für Kindergarten Mühltal in Leoben - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZGZFQ1ZkdTVYMUtsZVh6MmxmZUJKZGktTmozRTcxNGJoNHNpNmYybzdudHJsMTdLWHlVQXJhMmhxZVdEaTFRN09wOFpTZDNKWTBEazMzbHQwMFo1LW9mQ0RHQjItUmtXNl9uQzU2d2tSY1BMb0VGYUN6RVMteGVXTEtkM2dHSmFtRlNRYV9iblVsRkFtUEhLZTF4V21jZHY3X0JUbFFWdklqUmdXeURV?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "1. Nov 2026"
         }
       ]
     },
