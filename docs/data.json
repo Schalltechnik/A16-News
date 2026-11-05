@@ -1,24 +1,18 @@
 {
-  "generated": "03. November 2026, 10:07 UTC",
+  "generated": "05. November 2026, 09:54 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Ich kann diese Aufgabe nicht erfüllen, da die beiden Nachrichtentitel keine Informationen zu Straßeninfrastruktur-Themen wie Straßenbau, Straßenerhaltung, Sanierungen, Tunneln, Brücken oder Umfahrungen enthalten. Der erste Titel behandelt offenbar eine Persönlichkeitsgeschichte und der zweite berichtet von einem Verkehrsunfall, nicht von Infrastrukturmaßnahmen.",
+      "summary": "Auf der B64 in Weiz ereignete sich ein schwerer Frontalzusammenstoß mit zwei Verletzten, der durch ein riskantes Überholmanöver verursacht wurde. Der Unfall verdeutlicht die Gefahren auf dieser Bundesstraße und die Notwendigkeit verbesserter Verkehrssicherheitsmaßnahmen.",
       "items": [
         {
-          "title": "Kaindorf: Wo andere aufgeben, beginnt Wolfang Dunst zu tüfteln - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeVBoaUp0c1RnVEVWT3gtam5YUGRvZWRmN1FIMUdlZnNpV1FKOE1fd2J1SnFKRTlORkRmMHpIN1hqcmtQaXh1R3llTHRicE1nZi1fOUZTTDRJUk9VNHNrcTMyenh6Tmd3VmwzMEY4cDFRTE00cnEwZXkwZ2VEQW9BTk11LWVRM2dZLWh4RHd4SXRhc0JqWnc1RGF6Z0RpcFM1UzZUUW83WFlJeWs?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "2. Nov 2026"
-        },
-        {
-          "title": "Schwerer Verkehrsunfall: Frontalzusammenstoß zwischen Weißkirchen und Zeltweg - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVENJYVVPVzhybnY4VW5pRWJlNTM1WkROM1BacW5GQnphZktYRlAzbnBmNEF5dXBNMFVCNTdSd3hhaDVTZ3dEd0FGWEY0THJyVDlBRW9sXzJDbWxGLUt3b1BNeFB5bkNQYnhnSGhzbjFNcHhIU0hYTWIxYW1Ddzh5VnFIOWJodEtUZmRVWWpFU1JWbDFjWFp5SWhyTmdEOFBqMjVSMmlZNl9JQQ?oc=5",
+          "title": "Frontalzusammenstoß in Weiz: Schwerer Unfall auf der B64, zwei Verletzte nach Überholmanöver - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaTZyUURsX25CT3J3aVBCR3gtUUFtSC1EQnFscTRmN3VMTjJfek5UaHhyVFJkREtIandqVlp6OFh0LVljX0ZyWVM5MnZLekZ5R0lHVThkaW9fX0dKSW0zbGR0UzlCUkctWHlFMUc5S3dJZWdiREIyblpnMDdxMGxXZGhVUHo3OHJlbThBdlhDcG9JVVZUdEs0RXJsX05qMWFYT291bkR4d2M2MndHYW8tYVFlSGI?oc=5",
           "source": "MeinBezirk.at",
-          "date": "31. Oct 2026"
+          "date": "4. Nov 2026"
         }
       ]
     },
@@ -26,12 +20,12 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Stadt Graz reduziert ihre Förderung für das Klimaticket um 40 Prozent, wodurch das Ticket für Fahrgäste teurer wird, während die Fahrpläne und Taktung des öffentlichen Verkehrs unverändert bleiben. Trotz dieser Sparmaßnahme sichert die Stadt damit weiterhin einen leistbaren öffentlichen Nahverkehr ab.",
+      "summary": "Die Stadt Graz kürzt ihre Förderung für das Klimaticket um 40 Prozent und senkt den Zuschuss von bisher höheren Beträgen auf 60 Euro, während die Fahrpläne und Taktung des öffentlichen Verkehrs unverändert bleiben. Diese Sparmaßnahme ist Teil von Einsparungen im städtischen Budget.",
       "items": [
         {
-          "title": "Graz sichert leistbaren öffentlichen Verkehr - KPÖ Graz",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYzZNdlJURFdaRGhWMHM3U3NTT1dOcHFaN1dSWUJ2SlVpeS1Ra2pISkhVQmJidE9WRjBoQkR1akU3MEhxWkVvQzd6c0ZsNkRJdVVKUGhBY0N6RjVtdHJ6bWRQTGZHV2c1amU3VFBUZUJMWjFFLTZJRHd2UW9OUm5aUVpB?oc=5",
-          "source": "KPÖ Graz",
+          "title": "Graz kürzt Klimaticket-Zuschuss: Das ändert sich jetzt - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc18tQnB6My1IT0FzamFTMlhMYU9uV3NBSEJ3YWRBbFp1RXFLWGxla0pLazQtNjFZcGJtRE5TQXpwRk56WnpudkxmRk9YZTRQemVjNXprS3JSUk82bjFpUVU4R1BOeEJjN0hTV2l3UHhLOVpPazhxelJOeFJXYnA3UjRJMk10clh1R3R4TXFfek80cTdYeHdGLUxxaw?oc=5",
+          "source": "5 Minuten",
           "date": "30. Oct 2026"
         },
         {
@@ -41,27 +35,15 @@
           "date": "30. Oct 2026"
         },
         {
-          "title": "Graz senkt Zuschuss zum Klimaticket Steiermark auf 60 Euro - https://nachrichten.jetzt/",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU1pETjd1YWZlMWR4RkFONnBVcFN4Z0VJLVUxVVBTWl9PMnJmSENQbFVyam1ndGtVdVdoQXJ1NnR2NU9YcUpFbGVlWmVsWVlGVkZnbXBMSW95VGVOa1l4NXlJQkg4cDZBajh0SnljUEpqc0xLbUd3NEVHMmpYc1dZX1BxRjJ3Rkc1aDBTVkU1clZ0NGJfWFBQVA?oc=5",
-          "source": "https://nachrichten.jetzt/",
-          "date": "30. Oct 2026"
-        },
-        {
-          "title": "Graz kürzt Klimaticket-Zuschuss: Das ändert sich jetzt - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc18tQnB6My1IT0FzamFTMlhMYU9uV3NBSEJ3YWRBbFp1RXFLWGxla0pLazQtNjFZcGJtRE5TQXpwRk56WnpudkxmRk9YZTRQemVjNXprS3JSUk82bjFpUVU4R1BOeEJjN0hTV2l3UHhLOVpPazhxelJOeFJXYnA3UjRJMk10clh1R3R4TXFfek80cTdYeHdGLUxxaw?oc=5",
-          "source": "5 Minuten",
-          "date": "30. Oct 2026"
-        },
-        {
-          "title": "Sparkurs in Graz - Kein Öffi-Kahlschlag, aber Klimaticket wird teurer - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9oUEpLMmJ5NnJ5MV9BQWpWTEdsTE9wQkFDb0lDemJPeGR6anVfMU1aYVg0cTNNSi1fa0x4aVFSY0hhdw?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "30. Oct 2026"
-        },
-        {
           "title": "Grazer Öffis: Klimaticket-Förderung um 40 Prozent gekürzt – Fahrpläne bleiben - Graz News",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUlhWdTB2TUFleFdwS0dOTElydm1hUmZpUXAxTHk0bGg4cWRnb0tQOHpWYktxTnBUNzZRS001NWc0WW0xRTJZUTRrYTVFazFIejVVX295YlVMVTR1LWdIOE10TVowR0N4ZEsxRDRvdVoyeU8xdUJ5WXdoWUFZZ3QwQWs0UmhPcWNKTW9j?oc=5",
           "source": "Graz News",
+          "date": "30. Oct 2026"
+        },
+        {
+          "title": "Graz senkt Zuschuss zum Klimaticket Steiermark auf 60 Euro - https://nachrichten.jetzt/",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU1pETjd1YWZlMWR4RkFONnBVcFN4Z0VJLVUxVVBTWl9PMnJmSENQbFVyam1ndGtVdVdoQXJ1NnR2NU9YcUpFbGVlWmVsWVlGVkZnbXBMSW95VGVOa1l4NXlJQkg4cDZBajh0SnljUEpqc0xLbUd3NEVHMmpYc1dZX1BxRjJ3Rkc1aDBTVkU1clZ0NGJfWFBQVA?oc=5",
+          "source": "https://nachrichten.jetzt/",
           "date": "30. Oct 2026"
         }
       ]
@@ -70,14 +52,8 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Verkehrssicherheit in der Steiermark steht im Fokus neuer Kampagnen und Initiativen, die durch Sensibilisierung für Rücksichtnahme, bessere Sichtbarkeit von Fußgängern und kreative Schulprojekte das Bewusstsein für Gefahren im Straßenverkehr schärfen wollen. Dabei werden sowohl psychologische Faktoren wie Stress und rücksichtsloses Verhalten als auch praktische Maßnahmen wie helle Kleidung im Herbst adressiert, um die Sicherheit aller Verkehrsteilnehmer zu erhöhen.",
+      "summary": "Die Steiermark setzt verstärkt auf Verkehrssicherheit durch Aufklärungskampagnen, die sowohl Fußgänger zur besseren Sichtbarkeit in der dunklen Jahreszeit als auch Verkehrsteilnehmer zu mehr gegenseitiger Rücksicht auffordern. Dabei werden auch kreative Ansätze wie Kunstprojekte an Schulen genutzt, um das Bewusstsein für Verkehrssicherheit nachhaltig in der Bevölkerung zu verankern.",
       "items": [
-        {
-          "title": "Experten-Gespräch: Verkehrspsychologin im Interview über Stress, E-Scooter und rücksichtslose Lenker - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM190R1VudVVMQktjTlBQelpxancxb1Z1YThLaHg3TndCVnB2SzVzc3ZKeTRfQ2ozTk1ud0JuTVVPNFY1cEI5QW51akNkUkViUFFsVnNmNDYwajZXcWVIaVF3QXRUZXFuc0k3UUs0ekJTeVZWQzk4SV92SDh1MG5VM3JwVFhLbTlCVzM5VlkyLWl4b0tuTXV5Rk9mRk1mQm9EYVRObXhmTkJyNGZhcnYwMHRYaV9BdDVMRm1pYjdJMnFWRmRPbFpUQjNEYmo?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "3. Nov 2026"
-        },
         {
           "title": "Straßen sicherer machen: Dunkle Kleidung im Herbst wird für Fußgänger zur tödlichen Falle - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSTJ5QzlXMWp4SHR3bElJWW95dFdNdTZsSm1zMDcwUHZIYzdSOVpXVkRGOGJXMmZvcGNjM1ZzVmJCT1NCT0JjaWJXbUpzdlVBT0ZUVmdwdWhqR3lyUjVsOEdubzYxaU05VUl3M3M1S2EwZGd1REZxdzN6RXhfekxsYkt3MDI5M2dsVkdtYjRnNjV1ekI0NXRLN21tbDNxTXVNRXAyNUhQa2ZJS1A2c2pqSk5ReUpuZXBlOWlOZ3V4ZE5ZV2JsbWNOdWJ3?oc=5",
@@ -102,19 +78,13 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark modernisiert ihr Baugesetz durch Entbürokratisierung und Verfahrensvereinfachung, um schnellere und rechtssichere Bauabläufe zu ermöglichen. Der Baukulturpreis GerambRose 2026 würdigt sieben herausragende Bauprojekte, darunter innovative Bildungsbauten und Revitalisierungen wie den preisgekrönten Kindergarten Mühltal in Leoben.",
+      "summary": "Die Steiermark modernisiert ihr Baugesetz durch Entbürokratisierung und Verfahrensvereinfachung, um Rechtssicherheit zu erhöhen und Bauprojekte schneller umzusetzen. Parallel dazu investiert das Land über 125 Millionen Euro in den flächendeckenden Glasfaserausbau als digitale Infrastrukturmaßnahme für rund 21.000 Haushalte.",
       "items": [
         {
           "title": "Steiermark entrümpelt Baugesetz: Weniger Bürokratie, schnellere Verfahren und mehr Rechtssicherheit - Land Steiermark News Portal",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuZkVEYUhadVVRdUV3THJnM0QzbWplWkwxcEtXdmdPclNoMHlYRGpxTklEVmFubWZrN2lvVTdKaG40YW53TU1CQ3RFeDlQWWgya1pyaEY5eFNPZTE1U3R1aFFpaVotUzhzZjlmWWZyaw?oc=5",
           "source": "Land Steiermark News Portal",
           "date": "30. Oct 2026"
-        },
-        {
-          "title": "GerambRose 2026: Sieben herausragende Bauprojekte ausgezeichnet - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tODRFaHlzNUxhV0VubGt0SGtBWmtXQnBqYUgxbVhPVmtFSS1MZ1QzaFAzaC00T0dlTDlEN0UybllPM2VZTXVvdDJ2SklvQTFkOGNDeE9RTHRxdWZ2LS1QUlBlMnZjWDZNcW1ya1ZGNTZhNEg2S2w3bw?oc=5",
-          "source": "Kommunikation - Land Steiermark",
-          "date": "29. Oct 2026"
         },
         {
           "title": "Neues Baugesetz in der Steiermark: Was sich jetzt ändern soll - 5 Minuten",
@@ -129,28 +99,16 @@
           "date": "30. Oct 2026"
         },
         {
-          "title": "Diese sieben Bauwerke gehören zu den besten der Steiermark - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUnh5cUp2QlAtbjd1UTFJNWhRcFczWlZSazF5NEhfa1pxMElfWldxZlRoMzduTHNNMERjeWI2cS1Od0RqY3VfbWl4RFh0MWh5cTlySVBRc3F3NmJQZHdoOEduaXI4UUNSLUNpVVNPcGRMc3JLYjBBa3h6am9kZkVsbzJILWRUZDJEWTFoSC1CdE05dTRhTXp5d21Pd2lXM2NOcW00WW9GV3M?oc=5",
-          "source": "5 Minuten",
-          "date": "29. Oct 2026"
+          "title": "Glasfaser für die Steiermark: sbidi investiert 125,4 Millionen Euro in digitale Infrastruktur - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wXy03QWZMLXpxOHo1X1VHYjd6MUYyZERNaFl4ZWt1amlQakRNdDFtMFZhYzY5TEN5amZ5dUhrN040S0ZaUWZTVC1aTnRMTUNoWlFabDhDWTRvQXE5bmxlTHdtY2U4NEJSeC1WblFDRQ?oc=5",
+          "source": "Land Steiermark News Portal",
+          "date": "2. Nov 2026"
         },
         {
-          "title": "Baukulturpreis würdigt Bildungsbauten und Revitalisierung - KOMMUNAL",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLVVZdHFEaEFkTWozWnVScTFsR3pNX1JpcGptWEZ3Mk53TzJzTk9Da1ZZYnh1MmMwR3F2Ny1pRUctVXBCWm9kUXZDRVJvMkdaUmNrcEVyd056QlN2T3FfM09aYmpWZWNoLVgxRU1UWmJmQ1drWW1XaHFkOXNqTEcyZFhZbUo?oc=5",
-          "source": "KOMMUNAL",
-          "date": "30. Oct 2026"
-        },
-        {
-          "title": "Doppelte Auszeichnung: Diese zwei Grazer Gebäude wurden prämiert - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUlWZlhETmZxRmY0X3FNenhXeGkwTUpRc0Fkb2wwdUpGOFMyaDZ4UHVjd1UyNjhHNVZ1dWFTOGtxOHF6U2xkd2NJUlFKWi02WUdMUDN3VXVGcUJybEZ4dGRJY1BnQ1dpaHJ0aERZTy1wcmlrU0pTMFVVU3cxc2Y5M3JCc19tSjFSV3Nrd3dwX1pSX2YxUWswY284RGxjeDl3dkMwbTRFMTM?oc=5",
-          "source": "5 Minuten",
-          "date": "31. Oct 2026"
-        },
-        {
-          "title": "GerambRose: Architekturpreis für Kindergarten Mühltal in Leoben - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZGZFQ1ZkdTVYMUtsZVh6MmxmZUJKZGktTmozRTcxNGJoNHNpNmYybzdudHJsMTdLWHlVQXJhMmhxZVdEaTFRN09wOFpTZDNKWTBEazMzbHQwMFo1LW9mQ0RHQjItUmtXNl9uQzU2d2tSY1BMb0VGYUN6RVMteGVXTEtkM2dHSmFtRlNRYV9iblVsRkFtUEhLZTF4V21jZHY3X0JUbFFWdklqUmdXeURV?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "1. Nov 2026"
+          "title": "Glasfaserausbau: Millionen-Investition für 21.000 Haushalte in der Steiermark - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMXVEcnVPNUJXSUpON09pVUdSMFBNemt1TjF2RjljVG1VZU5XRERBMGl3dEh0YVBndlhPT1pFaWhaUWVROWFHRHEtTGJ2ZGMySEFydlE0Ul94VGsyUWdJU1pVdkYzM3M4TVZNNUhtLUZFT296c25xcDh1ZjhRUG9PR1V2NFRFZTB3XzdKbnhTS3V1bDV5UjBfNEl2Nk16UnJkLU5Ga1pJUE9mRVVrR0dXbXBialMtdnlHRmYw?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "2. Nov 2026"
         }
       ]
     },
