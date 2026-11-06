@@ -1,5 +1,5 @@
 {
-  "generated": "05. November 2026, 09:54 UTC",
+  "generated": "06. November 2026, 09:55 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
@@ -20,24 +20,18 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Stadt Graz kürzt ihre Förderung für das Klimaticket um 40 Prozent und senkt den Zuschuss von bisher höheren Beträgen auf 60 Euro, während die Fahrpläne und Taktung des öffentlichen Verkehrs unverändert bleiben. Diese Sparmaßnahme ist Teil von Einsparungen im städtischen Budget.",
+      "summary": "Die Steiermark erweitert ihre Pendlerbeihilfe für mehr Arbeitnehmer, während die Stadt Graz gleichzeitig ihre Förderung des Klimatickets reduziert und den Zuschuss von ursprünglich höheren Beträgen auf 60 Euro senkt. Trotz dieser Sparmaßnahmen bleibt die Taktung des öffentlichen Verkehrs in Graz unverändert.",
       "items": [
         {
-          "title": "Graz kürzt Klimaticket-Zuschuss: Das ändert sich jetzt - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc18tQnB6My1IT0FzamFTMlhMYU9uV3NBSEJ3YWRBbFp1RXFLWGxla0pLazQtNjFZcGJtRE5TQXpwRk56WnpudkxmRk9YZTRQemVjNXprS3JSUk82bjFpUVU4R1BOeEJjN0hTV2l3UHhLOVpPazhxelJOeFJXYnA3UjRJMk10clh1R3R4TXFfek80cTdYeHdGLUxxaw?oc=5",
-          "source": "5 Minuten",
-          "date": "30. Oct 2026"
+          "title": "Mehr Pendler können künftig steirische Pendlerbeihilfe beantragen - https://nachrichten.jetzt/",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT2NtOEEtTllkdkEwNXBJWEppcmREY0o4RUdWR3UtTER5QXRfQWRXMVg0SmltRDQ4U1UtNElqNWlNN3ZpdERIYVZsVXotbGI1bWthWXA3aW4xeGc5YVdkZlRTbnRDUFpzSVRlSEFVNWVvQUg2T3htcUh2YWxKWHltRzlJQk5aNjZDUlgxTkk5VTZEeXoyNmVQUDFvWnd1d3ZlSHFaVw?oc=5",
+          "source": "https://nachrichten.jetzt/",
+          "date": "5. Nov 2026"
         },
         {
           "title": "Sparmaßnahmen: Stadt Graz kürzt Förderung des Klimatickets, Öffi-Taktung bleibt - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM19EdlhtZVJ2aldIWFRJV2x0ZVBHMm51T2RZYjNiajJlRExVR0t5Mkl1aDlQekdHbnFjS2ZGZHdBYVRzTXAzdkNXdlgxQkxCNjhlYTQtUWFsU3N5TGE4MGpEa25hZzJUdUdoOWNiS21oZXM0NXBJblQ3eWd2a2ZBRzlmNGtUSG1DQ3ZNX3IwaFlLWUpUSXRGeWctaWVIUXlsWWtjRTVXci0xNk5wNl95b25OcllvSG8?oc=5",
           "source": "MeinBezirk.at",
-          "date": "30. Oct 2026"
-        },
-        {
-          "title": "Grazer Öffis: Klimaticket-Förderung um 40 Prozent gekürzt – Fahrpläne bleiben - Graz News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUlhWdTB2TUFleFdwS0dOTElydm1hUmZpUXAxTHk0bGg4cWRnb0tQOHpWYktxTnBUNzZRS001NWc0WW0xRTJZUTRrYTVFazFIejVVX295YlVMVTR1LWdIOE10TVowR0N4ZEsxRDRvdVoyeU8xdUJ5WXdoWUFZZ3QwQWs0UmhPcWNKTW9j?oc=5",
-          "source": "Graz News",
           "date": "30. Oct 2026"
         },
         {
@@ -52,7 +46,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark setzt verstärkt auf Verkehrssicherheit durch Aufklärungskampagnen, die sowohl Fußgänger zur besseren Sichtbarkeit in der dunklen Jahreszeit als auch Verkehrsteilnehmer zu mehr gegenseitiger Rücksicht auffordern. Dabei werden auch kreative Ansätze wie Kunstprojekte an Schulen genutzt, um das Bewusstsein für Verkehrssicherheit nachhaltig in der Bevölkerung zu verankern.",
+      "summary": "In der Steiermark zeigen sich erhebliche Verkehrssicherheitsdefizite, insbesondere bei der Sichtbarkeit von Fußgängern im Herbst und bei der Verkehrsdisziplin, die zu 57 Todesfällen führten und nun verstärkte Tempolimits fordern. Experten betonen die Notwendigkeit, Verkehrsstress und rücksichtsloses Verhalten durch psychologische Ansätze und präventive Maßnahmen wie bessere Sichtbarkeit und Geschwindigkeitsbegrenzungen zu bekämpfen.",
       "items": [
         {
           "title": "Straßen sicherer machen: Dunkle Kleidung im Herbst wird für Fußgänger zur tödlichen Falle - MeinBezirk.at",
@@ -61,16 +55,16 @@
           "date": "2. Nov 2026"
         },
         {
-          "title": "Verkehrssicherheit in der Steiermark: Ein Fehler genügt: Neue Kampagne wirbt für mehr Rücksicht - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXM3VkZjdXhZWlYzZUFiQ05kQTJ4V1JiR3R3eE0zTlpBTWt4dGU2SU9BRUNQbVlLWFVpYXZYV3cxS2hVZnFQMmhCR3cta3hEa1J0RDVyZ2JFUHBnS1pyanNoZWJTdDAzOG1yWS15NHRjbjdFd2g2TnZuVUY2WEJ3bFVHcklscFFDNlZxdVBId3NMTFNsTjhxYmpZU29xNzZITVpDeU8wRVZGLUhfR2JEZ1MxeXg5QQ?oc=5",
+          "title": "Experten-Gespräch: Verkehrspsychologin im Interview über Stress, E-Scooter und rücksichtslose Lenker - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM190R1VudVVMQktjTlBQelpxancxb1Z1YThLaHg3TndCVnB2SzVzc3ZKeTRfQ2ozTk1ud0JuTVVPNFY1cEI5QW51akNkUkViUFFsVnNmNDYwajZXcWVIaVF3QXRUZXFuc0k3UUs0ekJTeVZWQzk4SV92SDh1MG5VM3JwVFhLbTlCVzM5VlkyLWl4b0tuTXV5Rk9mRk1mQm9EYVRObXhmTkJyNGZhcnYwMHRYaV9BdDVMRm1pYjdJMnFWRmRPbFpUQjNEYmo?oc=5",
           "source": "MeinBezirk.at",
-          "date": "29. Oct 2026"
+          "date": "3. Nov 2026"
         },
         {
-          "title": "Kreativer Einsatz in Paldau: Schüler gestalten buntes Kunstwerk für mehr Verkehrssicherheit - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV3kyMkJWQXVMbVhtOUQyRGYyTXhYN0k3Qk9DWFA3dmE4WFdJVjQxT1R0ejNQVWhVVVpmRVhXeDdIOWlpY09VOEpJQXZPNEJESGR2M2ozNWMzemxpeHJzWTYwQ0xqUl8xcXFmWFhCbnZhVjJkekdwX1ZaMHZ0SkMxSnU3aXI2cG1nbk9GVUE2eVVfSXk1ZmdKUHdCZmlGejctQ25ZZHBBNnJCODdVSmdRM2o1ODVkNG9sdE1PcEstNkNOblAzMmc?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "29. Oct 2026"
+          "title": "57 tote Steirer: Verkehrsclub will mehr Tempolimits - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbzJvT20yM3dmTnJnb2VoMk9wcUFZR2ZlTGxhUFYwYVZ0dVE0TXFwRUxuOEpxeUdHUkEzSmhXeFBINmRfV0ZwQ1hPRVE2WEhNRlJyQmVWWENLUXBtekNTc3VIUlRLVENQUWNtTXUxeGkyOERaa25VM1hucDNLb0VzSS11ZVRrYmE1cEoyQTJaZ2hpR3VSTmZMM0lfNDM?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "2. Nov 2026"
         }
       ]
     },
@@ -78,24 +72,12 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark modernisiert ihr Baugesetz durch Entbürokratisierung und Verfahrensvereinfachung, um Rechtssicherheit zu erhöhen und Bauprojekte schneller umzusetzen. Parallel dazu investiert das Land über 125 Millionen Euro in den flächendeckenden Glasfaserausbau als digitale Infrastrukturmaßnahme für rund 21.000 Haushalte.",
+      "summary": "Die Steiermark modernisiert ihr Baugesetz durch Deregulierung, um Genehmigungsverfahren zu beschleunigen und die Rechtssicherheit zu erhöhen. Parallel dazu investiert das Land über 125 Millionen Euro in den Glasfaserausbau, um die digitale Infrastruktur für rund 21.000 Haushalte zu verbessern.",
       "items": [
         {
           "title": "Steiermark entrümpelt Baugesetz: Weniger Bürokratie, schnellere Verfahren und mehr Rechtssicherheit - Land Steiermark News Portal",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuZkVEYUhadVVRdUV3THJnM0QzbWplWkwxcEtXdmdPclNoMHlYRGpxTklEVmFubWZrN2lvVTdKaG40YW53TU1CQ3RFeDlQWWgya1pyaEY5eFNPZTE1U3R1aFFpaVotUzhzZjlmWWZyaw?oc=5",
           "source": "Land Steiermark News Portal",
-          "date": "30. Oct 2026"
-        },
-        {
-          "title": "Neues Baugesetz in der Steiermark: Was sich jetzt ändern soll - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd01NdFF4X3MwSWxjelJNcUlDbU5sbmxOckJYZWlkeEFyUnY3aXQ2UGdDdWdjaHJPaWlxYWNZblk0bXU1MjFkbUlsNGxzUG1uSWpmczRfYkNDYy1YYjIxMXBuYnhudWZQOVdpUXNQMWk2SVJRSGhpWFJ5YWxqM3BZSUJjZE82Y1ViNFhVZkYzWFU2TjFWaDMxbU1QUzJqelZPMlR0UnlYZTBQRlE?oc=5",
-          "source": "5 Minuten",
-          "date": "30. Oct 2026"
-        },
-        {
-          "title": "Steiermark will Bauverfahren verkürzen und freie Vorhaben schaffen - https://nachrichten.jetzt/",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMk8zS1VObEwtNjkzMzNZUWc3NDdUbmhLNXBfUGxxNTVqQy1TY0RCNDZ3c2dCeE9tbGNWRVZoOEQ0TkdwY1BBdmRkMlp3Y1VVUVNzb3hBR0Y4TWp1U281dTFlcnp3dmZfNTF1OWhDN2FrY3ZHM1pidGs4eGZiVXRXZzZGeXcyMW5mMXRLeUExRk9uTTRpT2xkd08wcG9ySWZzdUZwMQ?oc=5",
-          "source": "https://nachrichten.jetzt/",
           "date": "30. Oct 2026"
         },
         {
