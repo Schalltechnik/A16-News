@@ -1,18 +1,18 @@
 {
-  "generated": "06. November 2026, 09:55 UTC",
+  "generated": "07. November 2026, 09:17 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Auf der B64 in Weiz ereignete sich ein schwerer Frontalzusammenstoß mit zwei Verletzten, der durch ein riskantes Überholmanöver verursacht wurde. Der Unfall verdeutlicht die Gefahren auf dieser Bundesstraße und die Notwendigkeit verbesserter Verkehrssicherheitsmaßnahmen.",
+      "summary": "Ich bin bereit, die Nachrichtentitel zusammenzufassen, aber ich sehe nur einen einzigen Titel in deiner Liste. Bitte stelle mir alle Nachrichtentitel zur Verfügung, die ich zusammenfassen soll, damit ich dir eine aussagekräftige Zusammenfassung in zwei prägnanten Sätzen geben kann.",
       "items": [
         {
-          "title": "Frontalzusammenstoß in Weiz: Schwerer Unfall auf der B64, zwei Verletzte nach Überholmanöver - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaTZyUURsX25CT3J3aVBCR3gtUUFtSC1EQnFscTRmN3VMTjJfek5UaHhyVFJkREtIandqVlp6OFh0LVljX0ZyWVM5MnZLekZ5R0lHVThkaW9fX0dKSW0zbGR0UzlCUkctWHlFMUc5S3dJZWdiREIyblpnMDdxMGxXZGhVUHo3OHJlbThBdlhDcG9JVVZUdEs0RXJsX05qMWFYT291bkR4d2M2MndHYW8tYVFlSGI?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "4. Nov 2026"
+          "title": "S35: Wochenendsperren im November - ÖAMTC",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVkNIZ1VHUnE0c1FxT3JPUHpOdUQ1cnJnQTgwZkEwd3dTLWJiRkM2VGRELTgxYl9XT2k5di1waXdOeGFRa1N3a2lJcEwzWGt1ZkR1bjdVTE9OVTFobE1VX2tyZGdaYk5RWUEyaU9ZaWUtWUU1NWdrbnBtaTBoV0o1ZXdKOTZlUQ?oc=5",
+          "source": "ÖAMTC",
+          "date": "2. Nov 2026"
         }
       ]
     },
@@ -20,25 +20,19 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Steiermark erweitert ihre Pendlerbeihilfe für mehr Arbeitnehmer, während die Stadt Graz gleichzeitig ihre Förderung des Klimatickets reduziert und den Zuschuss von ursprünglich höheren Beträgen auf 60 Euro senkt. Trotz dieser Sparmaßnahmen bleibt die Taktung des öffentlichen Verkehrs in Graz unverändert.",
+      "summary": "Die Straßenbahn-Linien in Graz werden umstrukturiert, wobei die Linien 6 und 16 sowie 7 und 17 Änderungen erfahren. Der Kreis der anspruchsberechtigten Pendler für die steirische Pendlerbeihilfe wird erweitert, sodass künftig mehr Menschen diese finanzielle Unterstützung in Anspruch nehmen können.",
       "items": [
+        {
+          "title": "Das ändert sich bei den Straßenbahn-Linien 6 und 16 bzw. 7 und 17 - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWjVKdWRfTkFKSFJNcXc0MGhFdjAzUlRRN2htb0NRNDByLU1iWWJ5RzdLdFZqZE81NUJ3Rl9lYzBNVl9XdUQzTjFuYWxQcWNrSmJzenVvTmJubEZqUUROMk81X29uTHBRZTlhQlNzclF4OVpYUjBsM3lNZ294bWNUS1NUWV9oejNhMFVYU0xDUEdGZjVoNVpLUk9tQVA0T1BoWC1XalRQNmRKaVdw?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "6. Nov 2026"
+        },
         {
           "title": "Mehr Pendler können künftig steirische Pendlerbeihilfe beantragen - https://nachrichten.jetzt/",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT2NtOEEtTllkdkEwNXBJWEppcmREY0o4RUdWR3UtTER5QXRfQWRXMVg0SmltRDQ4U1UtNElqNWlNN3ZpdERIYVZsVXotbGI1bWthWXA3aW4xeGc5YVdkZlRTbnRDUFpzSVRlSEFVNWVvQUg2T3htcUh2YWxKWHltRzlJQk5aNjZDUlgxTkk5VTZEeXoyNmVQUDFvWnd1d3ZlSHFaVw?oc=5",
           "source": "https://nachrichten.jetzt/",
           "date": "5. Nov 2026"
-        },
-        {
-          "title": "Sparmaßnahmen: Stadt Graz kürzt Förderung des Klimatickets, Öffi-Taktung bleibt - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM19EdlhtZVJ2aldIWFRJV2x0ZVBHMm51T2RZYjNiajJlRExVR0t5Mkl1aDlQekdHbnFjS2ZGZHdBYVRzTXAzdkNXdlgxQkxCNjhlYTQtUWFsU3N5TGE4MGpEa25hZzJUdUdoOWNiS21oZXM0NXBJblQ3eWd2a2ZBRzlmNGtUSG1DQ3ZNX3IwaFlLWUpUSXRGeWctaWVIUXlsWWtjRTVXci0xNk5wNl95b25OcllvSG8?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "30. Oct 2026"
-        },
-        {
-          "title": "Graz senkt Zuschuss zum Klimaticket Steiermark auf 60 Euro - https://nachrichten.jetzt/",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU1pETjd1YWZlMWR4RkFONnBVcFN4Z0VJLVUxVVBTWl9PMnJmSENQbFVyam1ndGtVdVdoQXJ1NnR2NU9YcUpFbGVlWmVsWVlGVkZnbXBMSW95VGVOa1l4NXlJQkg4cDZBajh0SnljUEpqc0xLbUd3NEVHMmpYc1dZX1BxRjJ3Rkc1aDBTVkU1clZ0NGJfWFBQVA?oc=5",
-          "source": "https://nachrichten.jetzt/",
-          "date": "30. Oct 2026"
         }
       ]
     },
@@ -46,7 +40,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "In der Steiermark zeigen sich erhebliche Verkehrssicherheitsdefizite, insbesondere bei der Sichtbarkeit von Fußgängern im Herbst und bei der Verkehrsdisziplin, die zu 57 Todesfällen führten und nun verstärkte Tempolimits fordern. Experten betonen die Notwendigkeit, Verkehrsstress und rücksichtsloses Verhalten durch psychologische Ansätze und präventive Maßnahmen wie bessere Sichtbarkeit und Geschwindigkeitsbegrenzungen zu bekämpfen.",
+      "summary": "Die beiden Vorfälle verdeutlichen ein kritisches Sicherheitsrisiko im Herbst und Winter, wenn dunkle Kleidung von Fußgängern in Kombination mit schlechteren Lichtverhältnissen zu gefährlichen Situationen führt, besonders wenn Fahrzeuglenker zusätzlich durch Alkoholkonsum beeinträchtigt sind. Um Verkehrsunfälle zu vermeiden, sind bessere Sichtbarkeit durch reflektierende Kleidung, verstärkte Verkehrserziehung und konsequente Kontrollen von Fahrtüchtigkeit essentiell.",
       "items": [
         {
           "title": "Straßen sicherer machen: Dunkle Kleidung im Herbst wird für Fußgänger zur tödlichen Falle - MeinBezirk.at",
@@ -55,16 +49,10 @@
           "date": "2. Nov 2026"
         },
         {
-          "title": "Experten-Gespräch: Verkehrspsychologin im Interview über Stress, E-Scooter und rücksichtslose Lenker - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM190R1VudVVMQktjTlBQelpxancxb1Z1YThLaHg3TndCVnB2SzVzc3ZKeTRfQ2ozTk1ud0JuTVVPNFY1cEI5QW51akNkUkViUFFsVnNmNDYwajZXcWVIaVF3QXRUZXFuc0k3UUs0ekJTeVZWQzk4SV92SDh1MG5VM3JwVFhLbTlCVzM5VlkyLWl4b0tuTXV5Rk9mRk1mQm9EYVRObXhmTkJyNGZhcnYwMHRYaV9BdDVMRm1pYjdJMnFWRmRPbFpUQjNEYmo?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "3. Nov 2026"
-        },
-        {
-          "title": "57 tote Steirer: Verkehrsclub will mehr Tempolimits - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbzJvT20yM3dmTnJnb2VoMk9wcUFZR2ZlTGxhUFYwYVZ0dVE0TXFwRUxuOEpxeUdHUkEzSmhXeFBINmRfV0ZwQ1hPRVE2WEhNRlJyQmVWWENLUXBtekNTc3VIUlRLVENQUWNtTXUxeGkyOERaa25VM1hucDNLb0VzSS11ZVRrYmE1cEoyQTJaZ2hpR3VSTmZMM0lfNDM?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "2. Nov 2026"
+          "title": "Schwerer Unfall: Alkolenker (21) übersieht dunkel gekleideten Fußgänger (75) - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaEtMOFJOeTA1UXZtZHdRNGZwQW9QZ1h5XzV1SHFYZXNpenY1OHlOSW04SVI5NlZZaDRKcF9rWW40RkItNW5wVWxHVkZVZV9CTW9OMzBLeGN2UG1QQjVaUWt0TGpVSGhrTENZREJnOWswdG83TFVNME5IZnRuc3JfaDlmOUN0azZRRmRiM2N1cExRaHpiUDRZVUphdXNpUlZ5ZnZuSDZobWMyZE5NQThTVWpMMEJsWGF1dnVlSDN6SUc5ZXFTTFE?oc=5",
+          "source": "5 Minuten",
+          "date": "6. Nov 2026"
         }
       ]
     },
@@ -72,14 +60,8 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark modernisiert ihr Baugesetz durch Deregulierung, um Genehmigungsverfahren zu beschleunigen und die Rechtssicherheit zu erhöhen. Parallel dazu investiert das Land über 125 Millionen Euro in den Glasfaserausbau, um die digitale Infrastruktur für rund 21.000 Haushalte zu verbessern.",
+      "summary": "Die Steiermark investiert über 125 Millionen Euro in den flächendeckenden Glasfaserausbau, um die digitale Infrastruktur zu modernisieren und etwa 21.000 Haushalte mit schnellem Breitbandinternet zu versorgen. Dieses Großprojekt der sbidi stellt eine bedeutende Investition in die zukunftsorientierte Infrastrukturentwicklung des Landes dar.",
       "items": [
-        {
-          "title": "Steiermark entrümpelt Baugesetz: Weniger Bürokratie, schnellere Verfahren und mehr Rechtssicherheit - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuZkVEYUhadVVRdUV3THJnM0QzbWplWkwxcEtXdmdPclNoMHlYRGpxTklEVmFubWZrN2lvVTdKaG40YW53TU1CQ3RFeDlQWWgya1pyaEY5eFNPZTE1U3R1aFFpaVotUzhzZjlmWWZyaw?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "30. Oct 2026"
-        },
         {
           "title": "Glasfaser für die Steiermark: sbidi investiert 125,4 Millionen Euro in digitale Infrastruktur - Land Steiermark News Portal",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wXy03QWZMLXpxOHo1X1VHYjd6MUYyZERNaFl4ZWt1amlQakRNdDFtMFZhYzY5TEN5amZ5dUhrN040S0ZaUWZTVC1aTnRMTUNoWlFabDhDWTRvQXE5bmxlTHdtY2U4NEJSeC1WblFDRQ?oc=5",
