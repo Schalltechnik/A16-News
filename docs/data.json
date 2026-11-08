@@ -1,33 +1,20 @@
 {
-  "generated": "07. November 2026, 09:17 UTC",
+  "generated": "08. November 2026, 09:33 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Ich bin bereit, die Nachrichtentitel zusammenzufassen, aber ich sehe nur einen einzigen Titel in deiner Liste. Bitte stelle mir alle Nachrichtentitel zur Verfügung, die ich zusammenfassen soll, damit ich dir eine aussagekräftige Zusammenfassung in zwei prägnanten Sätzen geben kann.",
-      "items": [
-        {
-          "title": "S35: Wochenendsperren im November - ÖAMTC",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVkNIZ1VHUnE0c1FxT3JPUHpOdUQ1cnJnQTgwZkEwd3dTLWJiRkM2VGRELTgxYl9XT2k5di1waXdOeGFRa1N3a2lJcEwzWGt1ZkR1bjdVTE9OVTFobE1VX2tyZGdaYk5RWUEyaU9ZaWUtWUU1NWdrbnBtaTBoV0o1ZXdKOTZlUQ?oc=5",
-          "source": "ÖAMTC",
-          "date": "2. Nov 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "oeffentlicher_verkehr": {
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Straßenbahn-Linien in Graz werden umstrukturiert, wobei die Linien 6 und 16 sowie 7 und 17 Änderungen erfahren. Der Kreis der anspruchsberechtigten Pendler für die steirische Pendlerbeihilfe wird erweitert, sodass künftig mehr Menschen diese finanzielle Unterstützung in Anspruch nehmen können.",
+      "summary": "Die Steiermark erweitert die Zugänglichkeit zur Pendlerbeihilfe, sodass mehr Arbeitnehmer von dieser Unterstützung profitieren können. Diese Maßnahme soll den öffentlichen Verkehr attraktiver machen und mehr Menschen zum Umstieg vom Auto bewegen.",
       "items": [
-        {
-          "title": "Das ändert sich bei den Straßenbahn-Linien 6 und 16 bzw. 7 und 17 - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWjVKdWRfTkFKSFJNcXc0MGhFdjAzUlRRN2htb0NRNDByLU1iWWJ5RzdLdFZqZE81NUJ3Rl9lYzBNVl9XdUQzTjFuYWxQcWNrSmJzenVvTmJubEZqUUROMk81X29uTHBRZTlhQlNzclF4OVpYUjBsM3lNZ294bWNUS1NUWV9oejNhMFVYU0xDUEdGZjVoNVpLUk9tQVA0T1BoWC1XalRQNmRKaVdw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "6. Nov 2026"
-        },
         {
           "title": "Mehr Pendler können künftig steirische Pendlerbeihilfe beantragen - https://nachrichten.jetzt/",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT2NtOEEtTllkdkEwNXBJWEppcmREY0o4RUdWR3UtTER5QXRfQWRXMVg0SmltRDQ4U1UtNElqNWlNN3ZpdERIYVZsVXotbGI1bWthWXA3aW4xeGc5YVdkZlRTbnRDUFpzSVRlSEFVNWVvQUg2T3htcUh2YWxKWHltRzlJQk5aNjZDUlgxTkk5VTZEeXoyNmVQUDFvWnd1d3ZlSHFaVw?oc=5",
@@ -40,7 +27,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die beiden Vorfälle verdeutlichen ein kritisches Sicherheitsrisiko im Herbst und Winter, wenn dunkle Kleidung von Fußgängern in Kombination mit schlechteren Lichtverhältnissen zu gefährlichen Situationen führt, besonders wenn Fahrzeuglenker zusätzlich durch Alkoholkonsum beeinträchtigt sind. Um Verkehrsunfälle zu vermeiden, sind bessere Sichtbarkeit durch reflektierende Kleidung, verstärkte Verkehrserziehung und konsequente Kontrollen von Fahrtüchtigkeit essentiell.",
+      "summary": "Die Verkehrssicherheit in der Steiermark wird durch mehrere kritische Faktoren gefährdet: Dunkel gekleidete Fußgänger sind im Herbst besonders gefährdet, wie schwere Unfälle zeigen, während gleichzeitig aggressive Fahrweisen und mangelnde Geschwindigkeitsbegrenzungen zu einer hohen Zahl von Verkehrstoten führen. Zur Verbesserung der Sicherheit braucht es daher sowohl bessere Sichtbarkeit von Fußgängern als auch strengere Verkehrsregeln und eine Reduktion von Stress im Straßenverkehr.",
       "items": [
         {
           "title": "Straßen sicherer machen: Dunkle Kleidung im Herbst wird für Fußgänger zur tödlichen Falle - MeinBezirk.at",
@@ -53,6 +40,18 @@
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaEtMOFJOeTA1UXZtZHdRNGZwQW9QZ1h5XzV1SHFYZXNpenY1OHlOSW04SVI5NlZZaDRKcF9rWW40RkItNW5wVWxHVkZVZV9CTW9OMzBLeGN2UG1QQjVaUWt0TGpVSGhrTENZREJnOWswdG83TFVNME5IZnRuc3JfaDlmOUN0azZRRmRiM2N1cExRaHpiUDRZVUphdXNpUlZ5ZnZuSDZobWMyZE5NQThTVWpMMEJsWGF1dnVlSDN6SUc5ZXFTTFE?oc=5",
           "source": "5 Minuten",
           "date": "6. Nov 2026"
+        },
+        {
+          "title": "Experten-Gespräch: Verkehrspsychologin im Interview über Stress, E-Scooter und rücksichtslose Lenker - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM190R1VudVVMQktjTlBQelpxancxb1Z1YThLaHg3TndCVnB2SzVzc3ZKeTRfQ2ozTk1ud0JuTVVPNFY1cEI5QW51akNkUkViUFFsVnNmNDYwajZXcWVIaVF3QXRUZXFuc0k3UUs0ekJTeVZWQzk4SV92SDh1MG5VM3JwVFhLbTlCVzM5VlkyLWl4b0tuTXV5Rk9mRk1mQm9EYVRObXhmTkJyNGZhcnYwMHRYaV9BdDVMRm1pYjdJMnFWRmRPbFpUQjNEYmo?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "3. Nov 2026"
+        },
+        {
+          "title": "57 tote Steirer: Verkehrsclub will mehr Tempolimits - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbzJvT20yM3dmTnJnb2VoMk9wcUFZR2ZlTGxhUFYwYVZ0dVE0TXFwRUxuOEpxeUdHUkEzSmhXeFBINmRfV0ZwQ1hPRVE2WEhNRlJyQmVWWENLUXBtekNTc3VIUlRLVENQUWNtTXUxeGkyOERaa25VM1hucDNLb0VzSS11ZVRrYmE1cEoyQTJaZ2hpR3VSTmZMM0lfNDM?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "2. Nov 2026"
         }
       ]
     },
@@ -60,14 +59,8 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark investiert über 125 Millionen Euro in den flächendeckenden Glasfaserausbau, um die digitale Infrastruktur zu modernisieren und etwa 21.000 Haushalte mit schnellem Breitbandinternet zu versorgen. Dieses Großprojekt der sbidi stellt eine bedeutende Investition in die zukunftsorientierte Infrastrukturentwicklung des Landes dar.",
+      "summary": "Der Glasfaserausbau in der Steiermark stellt eine bedeutende Infrastrukturinvestition dar, die 21.000 Haushalte mit modernen Breitbandverbindungen versorgt. Dieses Projekt trägt zur digitalen Infrastruktur und damit zur Zukunftsfähigkeit von Wohn- und Gewerbestandorten in der Region bei.",
       "items": [
-        {
-          "title": "Glasfaser für die Steiermark: sbidi investiert 125,4 Millionen Euro in digitale Infrastruktur - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wXy03QWZMLXpxOHo1X1VHYjd6MUYyZERNaFl4ZWt1amlQakRNdDFtMFZhYzY5TEN5amZ5dUhrN040S0ZaUWZTVC1aTnRMTUNoWlFabDhDWTRvQXE5bmxlTHdtY2U4NEJSeC1WblFDRQ?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "2. Nov 2026"
-        },
         {
           "title": "Glasfaserausbau: Millionen-Investition für 21.000 Haushalte in der Steiermark - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMXVEcnVPNUJXSUpON09pVUdSMFBNemt1TjF2RjljVG1VZU5XRERBMGl3dEh0YVBndlhPT1pFaWhaUWVROWFHRHEtTGJ2ZGMySEFydlE0Ul94VGsyUWdJU1pVdkYzM3M4TVZNNUhtLUZFT296c25xcDh1ZjhRUG9PR1V2NFRFZTB3XzdKbnhTS3V1bDV5UjBfNEl2Nk16UnJkLU5Ga1pJUE9mRVVrR0dXbXBialMtdnlHRmYw?oc=5",
