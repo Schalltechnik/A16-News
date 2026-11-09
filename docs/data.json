@@ -1,19 +1,38 @@
 {
-  "generated": "08. November 2026, 09:33 UTC",
+  "generated": "09. November 2026, 10:24 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Die Sanierungsarbeiten an der S6 bei Leoben sind abgeschlossen, während die S35 im November mit Wochenendsperrungen rechnen muss. Ein schwerer Frontalzusammenstoß auf der B64 in Weiz zeigt die Risiken von Überholmanövern und forderte zwei Verletzte.",
+      "items": [
+        {
+          "title": "S6: Sanierung bei Leoben abgeschlossen - ÖAMTC",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWWlUbWRUcnphZ0N1aFZoN0c4cjM4UElrSTdnbFRlak1vZ2E4UjlUbVJaclNGa0lEVmRmS3lJbWxQYkJjUkU3X0JsRlVVSlhsQVV3V3kzMTFBOEE3RWQ3bEMwYUV5QnZSVWNtVm5OcDZVWFNnTFk0SktNTUJkMXdRWE5tbktfYVdFeVNxcw?oc=5",
+          "source": "ÖAMTC",
+          "date": "5. Nov 2026"
+        },
+        {
+          "title": "S35: Wochenendsperren im November - ÖAMTC",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVkNIZ1VHUnE0c1FxT3JPUHpOdUQ1cnJnQTgwZkEwd3dTLWJiRkM2VGRELTgxYl9XT2k5di1waXdOeGFRa1N3a2lJcEwzWGt1ZkR1bjdVTE9OVTFobE1VX2tyZGdaYk5RWUEyaU9ZaWUtWUU1NWdrbnBtaTBoV0o1ZXdKOTZlUQ?oc=5",
+          "source": "ÖAMTC",
+          "date": "2. Nov 2026"
+        },
+        {
+          "title": "Frontalzusammenstoß in Weiz: Schwerer Unfall auf der B64, zwei Verletzte nach Überholmanöver - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaTZyUURsX25CT3J3aVBCR3gtUUFtSC1EQnFscTRmN3VMTjJfek5UaHhyVFJkREtIandqVlp6OFh0LVljX0ZyWVM5MnZLekZ5R0lHVThkaW9fX0dKSW0zbGR0UzlCUkctWHlFMUc5S3dJZWdiREIyblpnMDdxMGxXZGhVUHo3OHJlbThBdlhDcG9JVVZUdEs0RXJsX05qMWFYT291bkR4d2M2MndHYW8tYVFlSGI?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "4. Nov 2026"
+        }
+      ]
     },
     "oeffentlicher_verkehr": {
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Steiermark erweitert die Zugänglichkeit zur Pendlerbeihilfe, sodass mehr Arbeitnehmer von dieser Unterstützung profitieren können. Diese Maßnahme soll den öffentlichen Verkehr attraktiver machen und mehr Menschen zum Umstieg vom Auto bewegen.",
+      "summary": "Die Steiermark erweitert die Zugänglichkeit zur Pendlerbeihilfe, sodass mehr Arbeitnehmer von dieser Unterstützung profitieren können. Diese Maßnahme soll Pendler entlasten und die Nutzung des öffentlichen Verkehrs fördern.",
       "items": [
         {
           "title": "Mehr Pendler können künftig steirische Pendlerbeihilfe beantragen - https://nachrichten.jetzt/",
@@ -27,7 +46,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Verkehrssicherheit in der Steiermark wird durch mehrere kritische Faktoren gefährdet: Dunkel gekleidete Fußgänger sind im Herbst besonders gefährdet, wie schwere Unfälle zeigen, während gleichzeitig aggressive Fahrweisen und mangelnde Geschwindigkeitsbegrenzungen zu einer hohen Zahl von Verkehrstoten führen. Zur Verbesserung der Sicherheit braucht es daher sowohl bessere Sichtbarkeit von Fußgängern als auch strengere Verkehrsregeln und eine Reduktion von Stress im Straßenverkehr.",
+      "summary": "Die Verkehrssicherheit in der Steiermark wird durch die Kombination aus schlechten Lichtverhältnissen im Herbst und dunkler Kleidung erheblich gefährdet, was besonders für ältere Fußgänger zu einer tödlichen Falle wird. Neben der Sichtbarkeit spielen auch Fahrerverhalten wie Alkoholkonsum eine kritische Rolle bei schweren Unfällen mit Fußgängern, weshalb umfassende Prävention und Aufklärung notwendig sind.",
       "items": [
         {
           "title": "Straßen sicherer machen: Dunkle Kleidung im Herbst wird für Fußgänger zur tödlichen Falle - MeinBezirk.at",
@@ -40,18 +59,6 @@
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaEtMOFJOeTA1UXZtZHdRNGZwQW9QZ1h5XzV1SHFYZXNpenY1OHlOSW04SVI5NlZZaDRKcF9rWW40RkItNW5wVWxHVkZVZV9CTW9OMzBLeGN2UG1QQjVaUWt0TGpVSGhrTENZREJnOWswdG83TFVNME5IZnRuc3JfaDlmOUN0azZRRmRiM2N1cExRaHpiUDRZVUphdXNpUlZ5ZnZuSDZobWMyZE5NQThTVWpMMEJsWGF1dnVlSDN6SUc5ZXFTTFE?oc=5",
           "source": "5 Minuten",
           "date": "6. Nov 2026"
-        },
-        {
-          "title": "Experten-Gespräch: Verkehrspsychologin im Interview über Stress, E-Scooter und rücksichtslose Lenker - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM190R1VudVVMQktjTlBQelpxancxb1Z1YThLaHg3TndCVnB2SzVzc3ZKeTRfQ2ozTk1ud0JuTVVPNFY1cEI5QW51akNkUkViUFFsVnNmNDYwajZXcWVIaVF3QXRUZXFuc0k3UUs0ekJTeVZWQzk4SV92SDh1MG5VM3JwVFhLbTlCVzM5VlkyLWl4b0tuTXV5Rk9mRk1mQm9EYVRObXhmTkJyNGZhcnYwMHRYaV9BdDVMRm1pYjdJMnFWRmRPbFpUQjNEYmo?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "3. Nov 2026"
-        },
-        {
-          "title": "57 tote Steirer: Verkehrsclub will mehr Tempolimits - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbzJvT20yM3dmTnJnb2VoMk9wcUFZR2ZlTGxhUFYwYVZ0dVE0TXFwRUxuOEpxeUdHUkEzSmhXeFBINmRfV0ZwQ1hPRVE2WEhNRlJyQmVWWENLUXBtekNTc3VIUlRLVENQUWNtTXUxeGkyOERaa25VM1hucDNLb0VzSS11ZVRrYmE1cEoyQTJaZ2hpR3VSTmZMM0lfNDM?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "2. Nov 2026"
         }
       ]
     },
@@ -59,7 +66,7 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Der Glasfaserausbau in der Steiermark stellt eine bedeutende Infrastrukturinvestition dar, die 21.000 Haushalte mit modernen Breitbandverbindungen versorgt. Dieses Projekt trägt zur digitalen Infrastruktur und damit zur Zukunftsfähigkeit von Wohn- und Gewerbestandorten in der Region bei.",
+      "summary": "Ich kann diese Aufgabe nicht erfüllen, da der angegebene Nachrichtentitel sich auf Glasfaserausbau bezieht und nicht auf Landeshochbau, Schulbauten, öffentliche Gebäude, Liegenschaften oder Baukultur in der Steiermark. Der Titel fällt daher außerhalb meines Fachbereichs als Experte für diese Themen.",
       "items": [
         {
           "title": "Glasfaserausbau: Millionen-Investition für 21.000 Haushalte in der Steiermark - MeinBezirk.at",
