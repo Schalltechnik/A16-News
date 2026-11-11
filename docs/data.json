@@ -1,19 +1,13 @@
 {
-  "generated": "10. November 2026, 10:29 UTC",
+  "generated": "11. November 2026, 09:53 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die Sanierungsarbeiten an der S6 bei Leoben sind erfolgreich abgeschlossen worden. Ein schwerer Frontalzusammenstoß auf der B64 in Weiz forderte zwei Verletzte, nachdem ein Fahrzeug beim Überholen mit einem entgegenkommenden Auto kollidierte.",
+      "summary": "Auf der B64 in Weiz ereignete sich ein schwerer Frontalzusammenstoß mit zwei Verletzten, der durch ein riskantes Überholmanöver verursacht wurde. Der Unfall verdeutlicht die Gefahren auf dieser Bundesstraße und die Notwendigkeit verbesserter Verkehrssicherheitsmaßnahmen.",
       "items": [
-        {
-          "title": "S6: Sanierung bei Leoben abgeschlossen - ÖAMTC",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWWlUbWRUcnphZ0N1aFZoN0c4cjM4UElrSTdnbFRlak1vZ2E4UjlUbVJaclNGa0lEVmRmS3lJbWxQYkJjUkU3X0JsRlVVSlhsQVV3V3kzMTFBOEE3RWQ3bEMwYUV5QnZSVWNtVm5OcDZVWFNnTFk0SktNTUJkMXdRWE5tbktfYVdFeVNxcw?oc=5",
-          "source": "ÖAMTC",
-          "date": "5. Nov 2026"
-        },
         {
           "title": "Frontalzusammenstoß in Weiz: Schwerer Unfall auf der B64, zwei Verletzte nach Überholmanöver - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaTZyUURsX25CT3J3aVBCR3gtUUFtSC1EQnFscTRmN3VMTjJfek5UaHhyVFJkREtIandqVlp6OFh0LVljX0ZyWVM5MnZLekZ5R0lHVThkaW9fX0dKSW0zbGR0UzlCUkctWHlFMUc5S3dJZWdiREIyblpnMDdxMGxXZGhVUHo3OHJlbThBdlhDcG9JVVZUdEs0RXJsX05qMWFYT291bkR4d2M2MndHYW8tYVFlSGI?oc=5",
@@ -26,7 +20,7 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Ich kann diese Aufgabe leider nicht erfüllen, da mir die konkreten Nachrichtentitel nicht vollständig vorliegen – Sie haben nur einen Titel mit einer generischen URL angegeben. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich die vollständigen Inhalte oder zumindest alle Nachrichtentitel, die Sie zusammengefasst haben möchten.",
+      "summary": "Ich kann diese Aufgabe leider nicht erfüllen, da Sie mir keine konkreten Nachrichtentitel zum Analysieren bereitgestellt haben – Sie haben nur einen Platzhalter-Link angegeben. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich die tatsächlichen Nachrichtentitel mit ihren Inhalten.",
       "items": [
         {
           "title": "Mehr Pendler können künftig steirische Pendlerbeihilfe beantragen - https://nachrichten.jetzt/",
@@ -40,7 +34,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "In der Steiermark zeigen aktuelle Unfallmeldungen die Risiken im Straßenverkehr, wie der schwere Unfall zwischen einem alkoholisierten Fahrer und einem dunkel gekleideten Fußgänger verdeutlicht. Parallel werden durch Workshopreihen zur Verkehrssicherheit präventive Maßnahmen vorangetrieben, um solche Vorfälle künftig zu vermeiden.",
+      "summary": "Ein 21-jähriger betrunkener Autofahrer übersah einen dunkel gekleideten 75-jährigen Fußgänger, was zu einem schweren Unfall führte, während die Steiermark gleichzeitig mit einer Workshopreihe zur Verkehrssicherheit gegensteuert. Die Vorfälle verdeutlichen die Notwendigkeit verstärkter Aufklärung und Prävention, um sowohl Fahrerverhalten als auch die Sichtbarkeit von Fußgängern im Straßenverkehr zu verbessern.",
       "items": [
         {
           "title": "Schwerer Unfall: Alkolenker (21) übersieht dunkel gekleideten Fußgänger (75) - 5 Minuten",
