@@ -1,40 +1,26 @@
 {
-  "generated": "11. November 2026, 09:53 UTC",
+  "generated": "12. November 2026, 10:21 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Auf der B64 in Weiz ereignete sich ein schwerer Frontalzusammenstoß mit zwei Verletzten, der durch ein riskantes Überholmanöver verursacht wurde. Der Unfall verdeutlicht die Gefahren auf dieser Bundesstraße und die Notwendigkeit verbesserter Verkehrssicherheitsmaßnahmen.",
-      "items": [
-        {
-          "title": "Frontalzusammenstoß in Weiz: Schwerer Unfall auf der B64, zwei Verletzte nach Überholmanöver - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaTZyUURsX25CT3J3aVBCR3gtUUFtSC1EQnFscTRmN3VMTjJfek5UaHhyVFJkREtIandqVlp6OFh0LVljX0ZyWVM5MnZLekZ5R0lHVThkaW9fX0dKSW0zbGR0UzlCUkctWHlFMUc5S3dJZWdiREIyblpnMDdxMGxXZGhVUHo3OHJlbThBdlhDcG9JVVZUdEs0RXJsX05qMWFYT291bkR4d2M2MndHYW8tYVFlSGI?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "4. Nov 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "oeffentlicher_verkehr": {
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Ich kann diese Aufgabe leider nicht erfüllen, da Sie mir keine konkreten Nachrichtentitel zum Analysieren bereitgestellt haben – Sie haben nur einen Platzhalter-Link angegeben. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich die tatsächlichen Nachrichtentitel mit ihren Inhalten.",
-      "items": [
-        {
-          "title": "Mehr Pendler können künftig steirische Pendlerbeihilfe beantragen - https://nachrichten.jetzt/",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT2NtOEEtTllkdkEwNXBJWEppcmREY0o4RUdWR3UtTER5QXRfQWRXMVg0SmltRDQ4U1UtNElqNWlNN3ZpdERIYVZsVXotbGI1bWthWXA3aW4xeGc5YVdkZlRTbnRDUFpzSVRlSEFVNWVvQUg2T3htcUh2YWxKWHltRzlJQk5aNjZDUlgxTkk5VTZEeXoyNmVQUDFvWnd1d3ZlSHFaVw?oc=5",
-          "source": "https://nachrichten.jetzt/",
-          "date": "5. Nov 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "mobilitaet": {
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Ein 21-jähriger betrunkener Autofahrer übersah einen dunkel gekleideten 75-jährigen Fußgänger, was zu einem schweren Unfall führte, während die Steiermark gleichzeitig mit einer Workshopreihe zur Verkehrssicherheit gegensteuert. Die Vorfälle verdeutlichen die Notwendigkeit verstärkter Aufklärung und Prävention, um sowohl Fahrerverhalten als auch die Sichtbarkeit von Fußgängern im Straßenverkehr zu verbessern.",
+      "summary": "Ein 21-jähriger betrunkener Autofahrer übersah einen dunkel gekleideten 75-jährigen Fußgänger und verursachte einen schweren Unfall, was die Risiken von Alkohol am Steuer und mangelnder Sichtbarkeit im Straßenverkehr unterstreicht. Die Steiermark reagiert mit einer Workshopreihe zur Verkehrssicherheit, um solche Unfälle durch Prävention und Aufklärung zu vermeiden.",
       "items": [
         {
           "title": "Schwerer Unfall: Alkolenker (21) übersieht dunkel gekleideten Fußgänger (75) - 5 Minuten",
