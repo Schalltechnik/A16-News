@@ -1,5 +1,5 @@
 {
-  "generated": "13. November 2026, 10:04 UTC",
+  "generated": "14. November 2026, 09:30 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
@@ -20,8 +20,20 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Ich bin bereit, die Nachrichtentitel zusammenzufassen, aber ich sehe in deiner Anfrage nur einen Titel. Bitte stelle mir alle Nachrichtentitel zur Verfügung, damit ich eine aussagekräftige Zusammenfassung in zwei prägnanten Sätzen erstellen kann.",
+      "summary": "In der Steiermark werden Maßnahmen zur Förderung nachhaltiger Mobilität vorangetrieben, wie der neue Radweg zwischen Tobelbad, Lieboch und Premstätten zeigt, der drei Gemeinden verbindet und den Radverkehr attraktiver macht. Parallel dazu werden Verkehrssicherheit durch Workshopreihen gestärkt und fußgängerfreundliche Räume wie die Welser Weihnachtswelt geschaffen, um eine sichere und lebenswerte Mobilität für alle zu gewährleisten.",
       "items": [
+        {
+          "title": "Tobelbad, Lieboch und Premstätten: Neuer gemeinsamer Radweg verbindet drei Gemeinden - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeVpDU2VIcG96Wm5qdXMzbTZ3MHNGaDd6SndJUEJHQlFDZGZNdTBMSGM3b2hfbnVNdHNMWXZWTmo5VFc4RHhhWjdGdE9scU1ITm5uRzBVcy1DRVVCdFpEa1ZxbXJzUkxtQ0QtcVl3a254QmFsSXBLRkpETEs3MzIxOFgwRFJTeDNYdGhHYjNJS1dJRDg0S056TG10UHV5SUdXTVdySmdkNy1fcENt?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "13. Nov 2026"
+        },
+        {
+          "title": "Fußgängerfreude: Welser Weihnachtswelt eröffnet - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWWc4YlJnWmQybXJBbEdXMXhDVXNqenhTRXNjMFFvYTBKdnRlOGZiTThlMlN2dzMtcDFPY3VaWDhmTElTclhoVV9fNVVRSkF1dWtHU3U3VTh1VzRGcXpxRV9zekN0ZGh2R1drSHpZLXNtdGFuVkt0SGd2S09EOHVoYnA3bF9yUXhkM25hSFlPejQxVHJMWUVsVElCRDdlY3dhejkxc2s2a3EtRWpUSDRkSHlGRlIwU0lhTW9iMS16QXVZVXdD?oc=5",
+          "source": "ORF ON",
+          "date": "13. Nov 2026"
+        },
         {
           "title": "Workshopreihe für Verkehrssicherheit - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15QW1pSy1nU0Y2ajVwTVRrdlE0ZjVyaXRoRTBZTjdLMWgyZ0hZTkg4NE10SkVJRkdWY0kyWi10OGpINHAxMURPMFJqYndmajFYcGx5bw?oc=5",
@@ -34,8 +46,15 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Ich bin bereit, die Nachrichtentitel zusammenzufassen, aber ich sehe in Ihrer Anfrage nur einen einzigen Titel. Um eine aussagekräftige Zusammenfassung in zwei prägnanten Sätzen zu erstellen, benötige ich mehrere Nachrichtentitel zu Hochbauprojekten, Schulbauten, öffentlichen Gebäuden, Liegenschaften oder Baukultur in der Steiermark. Bitte übermitteln Sie mir die vollständige Liste der Titel, die Sie zusammengefasst haben möchten.",
+      "items": [
+        {
+          "title": "Grüne fordern Antworten zu Baukartell - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnZ2NpOHBqcVNCZlFhU0xLZEp0c2NHeHFXaVNqRTIxdzNHVFBJUk5qcC1XVXhtdEx3VWYtQTc2aHRwcFhpU1cwZ2VvTExJaFhBeFRZcQ?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "14. Nov 2026"
+        }
+      ]
     },
     "behoerde_uvp": {
       "label": "Verkehrsbehörde & UVP",
