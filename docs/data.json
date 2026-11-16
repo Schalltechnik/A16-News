@@ -1,5 +1,5 @@
 {
-  "generated": "15. November 2026, 09:57 UTC",
+  "generated": "16. November 2026, 10:11 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
@@ -20,53 +20,15 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "In der Steiermark werden Maßnahmen zur Förderung nachhaltiger Mobilität vorangetrieben, wie der neue Radweg zwischen Tobelbad, Lieboch und Premstätten zeigt, während gleichzeitig Verkehrssicherheit durch Workshops und klare Regelungen für Fußgänger im Fokus steht. Die Infrastrukturentwicklung für Rad- und Fußverkehr trägt damit zu einer sichereren und umweltfreundlicheren Mobilität in der Region bei.",
-      "items": [
-        {
-          "title": "Tobelbad, Lieboch und Premstätten: Neuer gemeinsamer Radweg verbindet drei Gemeinden - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeVpDU2VIcG96Wm5qdXMzbTZ3MHNGaDd6SndJUEJHQlFDZGZNdTBMSGM3b2hfbnVNdHNMWXZWTmo5VFc4RHhhWjdGdE9scU1ITm5uRzBVcy1DRVVCdFpEa1ZxbXJzUkxtQ0QtcVl3a254QmFsSXBLRkpETEs3MzIxOFgwRFJTeDNYdGhHYjNJS1dJRDg0S056TG10UHV5SUdXTVdySmdkNy1fcENt?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "13. Nov 2026"
-        },
-        {
-          "title": "Fußgängerfreude: Welser Weihnachtswelt eröffnet - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWWc4YlJnWmQybXJBbEdXMXhDVXNqenhTRXNjMFFvYTBKdnRlOGZiTThlMlN2dzMtcDFPY3VaWDhmTElTclhoVV9fNVVRSkF1dWtHU3U3VTh1VzRGcXpxRV9zekN0ZGh2R1drSHpZLXNtdGFuVkt0SGd2S09EOHVoYnA3bF9yUXhkM25hSFlPejQxVHJMWUVsVElCRDdlY3dhejkxc2s2a3EtRWpUSDRkSHlGRlIwU0lhTW9iMS16QXVZVXdD?oc=5",
-          "source": "ORF ON",
-          "date": "13. Nov 2026"
-        },
-        {
-          "title": "Urteil: Fußgänger müssen Laub am Weg möglichst ausweichen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbzg5MVd6TEE2MFdOcWREcTl2dENBUW41VzFZMlJtRUNrVnhOUURaU1RfemhfSS1kUWw0eHBwYmx1YXNDU1VfRWlYNzRyR3VyNmI5S3BjQWZuMjhEeEFoYkhHX3JuaFF5MVNvNmQ4blpvN1FTU25PeXBWX0tEQkpWcUxPTVFsTnEyRHYzZGFySjRvcXdXSXRaQ010RmFmcjFP?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "11. Nov 2026"
-        },
-        {
-          "title": "Workshopreihe für Verkehrssicherheit - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15QW1pSy1nU0Y2ajVwTVRrdlE0ZjVyaXRoRTBZTjdLMWgyZ0hZTkg4NE10SkVJRkdWY0kyWi10OGpINHAxMURPMFJqYndmajFYcGx5bw?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "10. Nov 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "landeshochbau": {
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Grünen verlangen im steirischen Landtag vollständige Aufklärung über illegale Absprachen im Bausektor und fordern Transparenz bei den geheimen Kartelldeals. Die Aufarbeitung des Baukartells ist zentral für die Wiederherstellung von Vertrauen in die öffentliche Bauwirtschaft und faire Vergabeverfahren in der Steiermark.",
-      "items": [
-        {
-          "title": "Grüne fordern Antworten zu Baukartell - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnZ2NpOHBqcVNCZlFhU0xLZEp0c2NHeHFXaVNqRTIxdzNHVFBJUk5qcC1XVXhtdEx3VWYtQTc2aHRwcFhpU1cwZ2VvTExJaFhBeFRZcQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "14. Nov 2026"
-        },
-        {
-          "title": "Baukartell im Landtag: Grüne fordern Aufklärung zu geheimen Baukartell-Deals - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT1prclVYNkhXYkh1MkM1ZzZVdFQ1SzdXS2s0UFhvZmJ6Q1c2TzhRTjNtWGZxc25hdzdsLWVlcHZybmplbE5acmtnelZ6MVFvbnVZdlA4bElNZVJfRy0xeDRGY0VncGRkYktXc0Z2dWJQbGRWd080cUNvUnMtNWtTa1NtdzQ1eHdEcVFsUzVXZmJMeW9PVXZZOWh5a3M0eG1RQVA5RGlDcFZIY2JGOElqUg?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "15. Nov 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "behoerde_uvp": {
       "label": "Verkehrsbehörde & UVP",
