@@ -1,13 +1,26 @@
 {
-  "generated": "16. November 2026, 10:11 UTC",
+  "generated": "17. November 2026, 11:13 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Der Semmering-Basistunnel ist ein bedeutendes Infrastrukturprojekt für die Steiermark, das die Verkehrsanbindung verbessern soll. Auf der A2 in Richtung Wien kommt es derzeit zu Tunnelsperren, die sowohl Steirer als auch Kärntner in ihren Fahrtrouten beeinträchtigen.",
+      "items": [
+        {
+          "title": "Im Semmering-Basistunnel - weekend.at",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT2JKVS03Xy1YRTB5MC11bWtVeHc1YktqMTJ4S3pyQVpQaEVJYmlybm1iTVFvT3ZrZ1J0RXZpWUgxNW8xY1c4RXdsZGVxem5FYkxaYmkxM0RjZ0N4djRIZUk0ZHBiVFF1TEhNbFdpanhxYzBBRWhBcDRhdlNVeGRtWDh3?oc=5",
+          "source": "weekend.at",
+          "date": "16. Nov 2026"
+        },
+        {
+          "title": "Tunnelsperre auf der A2 Richtung Wien: Steirer und Kärntner betroffen - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYWNZMkExalRnMnA3YTdfaVU4UEJQTTJkcGMtUTUwX01oa0NNMXY4RkVOS2p5SjV5Z2d6dVR1WHdoVU5DNUVvMThjNFBOSUdzM1hxdEU5UFZySzU2VDdYUjhaWXBMUFNuSEIzeEVObU5fWlBab3c5TF9HcFNTUG8xUGw5TlJWMWhDNHg0b0ZOSEJkZ2NmRFdId3RCeDFSSkZocUtXNG5fOVhyN2Y5VDgwbHVWa0gxZw?oc=5",
+          "source": "5 Minuten",
+          "date": "15. Nov 2026"
+        }
+      ]
     },
     "oeffentlicher_verkehr": {
       "label": "Öffentlicher Verkehr",
@@ -20,15 +33,47 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Die Steiermark investiert verstärkt in nachhaltige Mobilität, wie die vorzeitige Fertigstellung des neuen Geh- und Radwegs an der L 376 sowie die innovative Premiere eines leuchtenden Radwegs zeigen. Diese Infrastrukturprojekte fördern den Fuß- und Radverkehr und tragen zu einer sichereren und umweltfreundlicheren Mobilität in der Region bei.",
+      "items": [
+        {
+          "title": "L 376: Neuer Geh- und Radweg zwischen drei Gemeinden früher als geplant fertiggestellt - Land Steiermark - Politik",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hb2VqUGlJbmRvZThwamxjQjFRSktGVWQtcS1fdGw2X3RzZUwyNEVkQzhybXRNaHhJbTY1SmxHTnV2enVmQzJCeVl0WXdWdGhXWG9YSnFuenh4eDFJRHpuTFN0U0taaVN5R3hjNFBfWjVEeHc?oc=5",
+          "source": "Land Steiermark - Politik",
+          "date": "16. Nov 2026"
+        },
+        {
+          "title": "Steiermark-Premiere: Dieser Radweg leuchtet mit Radlern mit - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDZWTzVHdGJILTBScXBLMDBDNWV5Nng3OThTVURhUXFEYjhNUFY0bm05OUNDd3Jwa01tM0tIR212bElvMDh6Tko2TnZHeW5VUU5tYzZmMnZQLWd6VUFoREhtd2ZUN3hJOVlzTTNXYkZnX3hWZEFSc21CY2k3bkVTcm04QmRXT0tOQ2xLeDhtS2MzU09OeDAzdTdiTkZOSUtxRGtfTW12TQ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "15. Nov 2026"
+        },
+        {
+          "title": "Fußgängerfreude: Welser Weihnachtswelt eröffnet - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWWc4YlJnWmQybXJBbEdXMXhDVXNqenhTRXNjMFFvYTBKdnRlOGZiTThlMlN2dzMtcDFPY3VaWDhmTElTclhoVV9fNVVRSkF1dWtHU3U3VTh1VzRGcXpxRV9zekN0ZGh2R1drSHpZLXNtdGFuVkt0SGd2S09EOHVoYnA3bF9yUXhkM25hSFlPejQxVHJMWUVsVElCRDdlY3dhejkxc2s2a3EtRWpUSDRkSHlGRlIwU0lhTW9iMS16QXVZVXdD?oc=5",
+          "source": "ORF ON",
+          "date": "13. Nov 2026"
+        }
+      ]
     },
     "landeshochbau": {
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Die Grünen im steirischen Landtag fordern eine lückenlose Aufklärung zu mutmaßlichen geheimen Absprachen in Baukartellen, während gleichzeitig das Schloss Hornegg bei Preding durch Rettungsmaßnahmen vor dem Verfall bewahrt wird. Diese beiden Fälle zeigen die Spannbreite zwischen Transparenzforderungen in der Baubranche und dem Engagement für die Erhaltung steirischen Kulturerbes.",
+      "items": [
+        {
+          "title": "Baukartell im Landtag: Grüne fordern Aufklärung zu geheimen Baukartell-Deals - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT1prclVYNkhXYkh1MkM1ZzZVdFQ1SzdXS2s0UFhvZmJ6Q1c2TzhRTjNtWGZxc25hdzdsLWVlcHZybmplbE5acmtnelZ6MVFvbnVZdlA4bElNZVJfRy0xeDRGY0VncGRkYktXc0Z2dWJQbGRWd080cUNvUnMtNWtTa1NtdzQ1eHdEcVFsUzVXZmJMeW9PVXZZOWh5a3M0eG1RQVA5RGlDcFZIY2JGOElqUg?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "15. Nov 2026"
+        },
+        {
+          "title": "Hornegg bei Preding: Rettung eines Schlosses in der Steiermark - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRExlMnJsZmFRTHhrZklwd1dLTUY1NlZNS3UwQ0otTEpKdWY3eHFodVhrZG01SnRfRUNGLS1pVWxkMWs0alZFeVhMd3hkOHdXLUFLQS1EWUNneUI2a1dkY25oc1hVWHlSS1NBY05jeThFYjl0YlJ1UUNZNU8yenM5MEhyTW9EblljaWh3QnJzZ3ExWFNaU0tSd0NhZllxbFZSZXVkY3doMVhZMms?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "17. Nov 2026"
+        }
+      ]
     },
     "behoerde_uvp": {
       "label": "Verkehrsbehörde & UVP",
