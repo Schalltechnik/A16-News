@@ -1,13 +1,19 @@
 {
-  "generated": "18. November 2026, 10:45 UTC",
+  "generated": "19. November 2026, 10:47 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Ich bin bereit, die Nachrichtentitel zusammenzufassen, aber ich sehe in deiner Nachricht nur einen Titel (\"Tunnelsperre auf der A2 Richtung Wien: Steirer und Kärntner betroffen\"). Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich mehrere Nachrichtentitel zu Straßeninfrastruktur in der Steiermark. Bitte stelle mir die vollständige Liste zur Verfügung.",
+      "summary": "Der Eisenbahntunnel Krems bei Voitsberg wird ab Jänner elektrifiziert, um die Bahninfrastruktur zu modernisieren. Gleichzeitig führt eine Tunnelsperre auf der A2 in Richtung Wien zu Beeinträchtigungen für Verkehrsteilnehmer aus der Steiermark und Kärnten.",
       "items": [
+        {
+          "title": "Ab Jänner wird der Eisenbahntunnel Krems bei Voitsberg elektrifiziert - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVjd5ZmZNV1FILTFiYUw5UlJKcEktamZqNDV2U3htaFppWWM3amI1b3ZMUHFBMHZPRFB5VElFVE5PRHZpYmtGMDlOdG8yTjFFV1pzQ0VqeXJKRHVCUHhkM0ZGb00zaXZzSHNYVWoyeXoyOXZ0ZjFsb0R4d2g3OWRhRVJLNHNXNTVhV1FOay1DRG1JOGZReEtVaXgyQ29wb0pUNnVfRWV3SjB3WGw1ZDVxdE9iRWg0VkU?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "18. Nov 2026"
+        },
         {
           "title": "Tunnelsperre auf der A2 Richtung Wien: Steirer und Kärntner betroffen - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYWNZMkExalRnMnA3YTdfaVU4UEJQTTJkcGMtUTUwX01oa0NNMXY4RkVOS2p5SjV5Z2d6dVR1WHdoVU5DNUVvMThjNFBOSUdzM1hxdEU5UFZySzU2VDdYUjhaWXBMUFNuSEIzeEVObU5fWlBab3c5TF9HcFNTUG8xUGw5TlJWMWhDNHg0b0ZOSEJkZ2NmRFdId3RCeDFSSkZocUtXNG5fOVhyN2Y5VDgwbHVWa0gxZw?oc=5",
@@ -20,12 +26,18 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Ich kann diese Aufgabe nicht erfüllen, da mir nur ein einzelner Nachrichtentitel vorliegt. Um zwei prägnante Sätze zu verfassen, die mehrere Nachrichten zusammenfassen, benötige ich mindestens zwei bis drei unterschiedliche Nachrichtentitel zum öffentlichen Verkehr in der Steiermark.",
+      "summary": "Die regionalen Klimatickets in der Steiermark werden ab 2027 nicht einheitlich teurer, sondern die Preiserhöhungen fallen je nach Region unterschiedlich aus. Während einige Verkehrsverbünde ihre Tarife erhöhen, bleiben die Preise in anderen Regionen unverändert.",
       "items": [
         {
           "title": "Nicht alle regionalen Klimatickets werden Anfang 2027 teurer - Joyn Österreich",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMVNUVkFCN3JFQ2R2NTYxWmNkcXp1M3RyUHYxeTVYUEFjbTY4Qlc0MUc5b3Y1bVBfN2Q3X0IyZTE3V0RYV241Y1A5S25mOE9JWEMtekF6VU1JUXA1NnVkek5EUVF4TngtSmU4OXBTSlk0MDlCUk5mY0VtVVAyUjJsZjItSmQxcS1kT1paLTNoR2RjR29zQlFhLUNXbHdza2tqZzFGcEJR?oc=5",
           "source": "Joyn Österreich",
+          "date": "18. Nov 2026"
+        },
+        {
+          "title": "Klimaticket 2027: Wo die Preise steigen und wo sie gleich bleiben - KOSMO | Eine starke Verbindung!",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNWdDcm45a1hLZUo5UmZtRzkwejRYc3d1NW05QlhJakZVc2dLSWZOTVl4VDdONGhhRHZqakVvYmRFM1FYcDJOZW5kMjJGSGY2UERpY3h6N2NMSmV2UThmVTN5ekx1STA1N0NicVRHZS11Ym1zTERBOTd5LVp2LVI0ZXV5cGg5dkFrdEF0M0pndw?oc=5",
+          "source": "KOSMO | Eine starke Verbindung!",
           "date": "18. Nov 2026"
         }
       ]
@@ -34,7 +46,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark investiert verstärkt in nachhaltige Mobilität, wie die vorzeitige Fertigstellung des neuen Geh- und Radwegs an der L 376 sowie innovative leuchtende Radwege zeigen. Gleichzeitig werden Fußgängerzonen wie die Welser Weihnachtswelt ausgebaut, um sichere und attraktive Räume für nicht-motorisierten Verkehr zu schaffen.",
+      "summary": "Die Steiermark investiert verstärkt in nachhaltige Mobilität, wie die vorzeitige Fertigstellung eines neuen Geh- und Radwegs zwischen drei Gemeinden sowie die innovative Premiere eines leuchtenden Radwegs zeigen. Diese Infrastrukturmaßnahmen fördern sichere und attraktive Alternativen zum motorisierten Verkehr und erhöhen die Lebensqualität in urbanen und ländlichen Räumen.",
       "items": [
         {
           "title": "L 376: Neuer Geh- und Radweg zwischen drei Gemeinden früher als geplant fertiggestellt - Land Steiermark - Politik",
@@ -60,19 +72,13 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Grünen verlangen Aufklärung über mögliche Absprachen im steirischen Baugewerbe, während parallel die Rettung des historischen Schlosses Hornegg bei Preding zeigt, wie wichtige Kulturdenkmäler in der Steiermark durch gezielte Maßnahmen bewahrt werden können. Diese beiden Themen verdeutlichen die Spannungsfelder zwischen Transparenz und Integrität in der Baubranche einerseits sowie dem Schutz und der Revitalisierung des architektonischen Erbes andererseits.",
+      "summary": "In Buch St. Magdalena wird mit dem Spatenstich ein neues Wohnbauprojekt gestartet, das bis 2028 geförderte Wohnungen für die Bevölkerung bereitstellen soll. Das Projekt trägt zur Schaffung von leistbarem Wohnraum in der Steiermark bei und unterstreicht die Bedeutung von öffentlich geförderten Wohnbaumaßnahmen für die regionale Entwicklung.",
       "items": [
         {
-          "title": "Grüne fordern Antworten zu Baukartell - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnZ2NpOHBqcVNCZlFhU0xLZEp0c2NHeHFXaVNqRTIxdzNHVFBJUk5qcC1XVXhtdEx3VWYtQTc2aHRwcFhpU1cwZ2VvTExJaFhBeFRZcQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "14. Nov 2026"
-        },
-        {
-          "title": "Hornegg bei Preding: Rettung eines Schlosses in der Steiermark - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRExlMnJsZmFRTHhrZklwd1dLTUY1NlZNS3UwQ0otTEpKdWY3eHFodVhrZG01SnRfRUNGLS1pVWxkMWs0alZFeVhMd3hkOHdXLUFLQS1EWUNneUI2a1dkY25oc1hVWHlSS1NBY05jeThFYjl0YlJ1UUNZNU8yenM5MEhyTW9EblljaWh3QnJzZ3ExWFNaU0tSd0NhZllxbFZSZXVkY3doMVhZMms?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "17. Nov 2026"
+          "title": "Neues Bauprojekt: Spatenstich in Buch St. Magdalena, geförderte Wohnungen entstehen bis 2028 - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM1NYaGdzdm5LSkxqa0M2aWlVUVdqQ1dzcWpHam5BM0ZFVzA3NWFBSmVhQll6TkJIZUg2WV9qcWdFMk1YQWdYUlp4Nm4taDRGSWYxTGxZeXZGd3B5enYxUEFid3F6ZGlqbU9VVEc3dzl5NTJlZmpSSlZBWEMwaGUtUzNZM2ZJOFh6SFpZOEMwdUdpZFZ2Y1pYRGM0WUllajhwejFLTkZXMmZLbloyX1Q0bDhRQ0tGX04zanFUSVB5UkZac1VYQnBsbHNUM19PX1NpQzc4RUhmcw?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "18. Nov 2026"
         }
       ]
     },
@@ -80,7 +86,7 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "In der Obersteiermark ist eine großflächige Reststoffdeponie für Industrieabfälle geplant, für die derzeit ein Umweltverträglichkeitsprüfungsverfahren läuft. Das Millionen-Investitionsprojekt im Murtal unterliegt damit den behördlichen Genehmigungsverfahren der steirischen Verkehrs- und Umweltbehörden.",
+      "summary": "In der Obersteiermark ist eine großflächige Reststoffdeponie für Industrieabfälle geplant, für die derzeit ein Umweltverträglichkeitsprüfungsverfahren (UVP) läuft. Das Millionen-Investment im Murtal unterliegt damit den behördlichen Genehmigungsanforderungen der steirischen Verkehrs- und Umweltbehörden.",
       "items": [
         {
           "title": "Millionen-Investment: Reststoffdeponie im Murtal geplant, UVP läuft - MeinBezirk.at",
