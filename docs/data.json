@@ -1,38 +1,37 @@
 {
-  "generated": "19. November 2026, 10:47 UTC",
+  "generated": "20. November 2026, 10:35 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Der Eisenbahntunnel Krems bei Voitsberg wird ab Jänner elektrifiziert, um die Bahninfrastruktur zu modernisieren. Gleichzeitig führt eine Tunnelsperre auf der A2 in Richtung Wien zu Beeinträchtigungen für Verkehrsteilnehmer aus der Steiermark und Kärnten.",
-      "items": [
-        {
-          "title": "Ab Jänner wird der Eisenbahntunnel Krems bei Voitsberg elektrifiziert - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVjd5ZmZNV1FILTFiYUw5UlJKcEktamZqNDV2U3htaFppWWM3amI1b3ZMUHFBMHZPRFB5VElFVE5PRHZpYmtGMDlOdG8yTjFFV1pzQ0VqeXJKRHVCUHhkM0ZGb00zaXZzSHNYVWoyeXoyOXZ0ZjFsb0R4d2g3OWRhRVJLNHNXNTVhV1FOay1DRG1JOGZReEtVaXgyQ29wb0pUNnVfRWV3SjB3WGw1ZDVxdE9iRWg0VkU?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "18. Nov 2026"
-        },
-        {
-          "title": "Tunnelsperre auf der A2 Richtung Wien: Steirer und Kärntner betroffen - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYWNZMkExalRnMnA3YTdfaVU4UEJQTTJkcGMtUTUwX01oa0NNMXY4RkVOS2p5SjV5Z2d6dVR1WHdoVU5DNUVvMThjNFBOSUdzM1hxdEU5UFZySzU2VDdYUjhaWXBMUFNuSEIzeEVObU5fWlBab3c5TF9HcFNTUG8xUGw5TlJWMWhDNHg0b0ZOSEJkZ2NmRFdId3RCeDFSSkZocUtXNG5fOVhyN2Y5VDgwbHVWa0gxZw?oc=5",
-          "source": "5 Minuten",
-          "date": "15. Nov 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "oeffentlicher_verkehr": {
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die regionalen Klimatickets in der Steiermark werden ab 2027 nicht einheitlich teurer, sondern die Preiserhöhungen fallen je nach Region unterschiedlich aus. Während einige Verkehrsverbünde ihre Tarife erhöhen, bleiben die Preise in anderen Regionen unverändert.",
+      "summary": "Die ÖBB investieren bis 2032 massiv mit 19,5 Milliarden Euro in den Bahnausbau, wobei für die Strecke Lieboch-Köflach 2027 ein Schienenersatzverkehr geplant ist. Bei den regionalen Klimatickets gibt es ab 2027 unterschiedliche Preisentwicklungen, da nicht alle Tickets teurer werden.",
       "items": [
+        {
+          "title": "Schienenersatzverkehr Lieboch-Köflach 2027 geplant - austria.com",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdWZBRGFRX2xUWWpRT2hFX29tN3VjMGR3OWlrZUVvcUxrWDFQME1vclRUVk9ONU5CREl4T2syTUdwZmsxYW5EZXBIY1Njc053SjN2aGlkbjJIQ2ZUYzNwcmdxOHhXZjV3c0tkQnlwX3BOelk0eDNQMkJoNzVSWWJraXNqUlh2WXhEOFhtSjJ0X2V3WGM5OW5aTnNCNlQ?oc=5",
+          "source": "austria.com",
+          "date": "17. Nov 2026"
+        },
+        {
+          "title": "ÖBB: 19,5 Milliarden Euro für Bahnausbau bis 2032 - austria.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNHNfTUstZnlZXzZsXy04THZ6LVBjSjJST054ZnBjeWF6TEFCaVZSWG5Vdkxib3VoS0RZYS1XRi1oLWFDTkd5MGRMYkd2NUEzZkxTQWYwMG84dHJmakdQdUY4Z2Zlc3JKMndHZHplMlpsZHl2V1ZOVzhleUdKWjV2U0hyeWpwR2lPQjZhZWtNM0I1VnhNbWc?oc=5",
+          "source": "austria.com",
+          "date": "20. Nov 2026"
+        },
         {
           "title": "Nicht alle regionalen Klimatickets werden Anfang 2027 teurer - Joyn Österreich",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMVNUVkFCN3JFQ2R2NTYxWmNkcXp1M3RyUHYxeTVYUEFjbTY4Qlc0MUc5b3Y1bVBfN2Q3X0IyZTE3V0RYV241Y1A5S25mOE9JWEMtekF6VU1JUXA1NnVkek5EUVF4TngtSmU4OXBTSlk0MDlCUk5mY0VtVVAyUjJsZjItSmQxcS1kT1paLTNoR2RjR29zQlFhLUNXbHdza2tqZzFGcEJR?oc=5",
           "source": "Joyn Österreich",
-          "date": "18. Nov 2026"
+          "date": "17. Nov 2026"
         },
         {
           "title": "Klimaticket 2027: Wo die Preise steigen und wo sie gleich bleiben - KOSMO | Eine starke Verbindung!",
@@ -46,7 +45,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark investiert verstärkt in nachhaltige Mobilität, wie die vorzeitige Fertigstellung eines neuen Geh- und Radwegs zwischen drei Gemeinden sowie die innovative Premiere eines leuchtenden Radwegs zeigen. Diese Infrastrukturmaßnahmen fördern sichere und attraktive Alternativen zum motorisierten Verkehr und erhöhen die Lebensqualität in urbanen und ländlichen Räumen.",
+      "summary": "Die Steiermark investiert verstärkt in nachhaltige Mobilität, wie die vorzeitige Fertigstellung des neuen Geh- und Radwegs an der L 376 sowie innovative leuchtende Radwege zeigen. Solche Infrastrukturprojekte fördern den Fuß- und Radverkehr und tragen zu einer sichereren und umweltfreundlicheren Mobilität bei.",
       "items": [
         {
           "title": "L 376: Neuer Geh- und Radweg zwischen drei Gemeinden früher als geplant fertiggestellt - Land Steiermark - Politik",
@@ -72,32 +71,19 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "In Buch St. Magdalena wird mit dem Spatenstich ein neues Wohnbauprojekt gestartet, das bis 2028 geförderte Wohnungen für die Bevölkerung bereitstellen soll. Das Projekt trägt zur Schaffung von leistbarem Wohnraum in der Steiermark bei und unterstreicht die Bedeutung von öffentlich geförderten Wohnbaumaßnahmen für die regionale Entwicklung.",
-      "items": [
-        {
-          "title": "Neues Bauprojekt: Spatenstich in Buch St. Magdalena, geförderte Wohnungen entstehen bis 2028 - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM1NYaGdzdm5LSkxqa0M2aWlVUVdqQ1dzcWpHam5BM0ZFVzA3NWFBSmVhQll6TkJIZUg2WV9qcWdFMk1YQWdYUlp4Nm4taDRGSWYxTGxZeXZGd3B5enYxUEFid3F6ZGlqbU9VVEc3dzl5NTJlZmpSSlZBWEMwaGUtUzNZM2ZJOFh6SFpZOEMwdUdpZFZ2Y1pYRGM0WUllajhwejFLTkZXMmZLbloyX1Q0bDhRQ0tGX04zanFUSVB5UkZac1VYQnBsbHNUM19PX1NpQzc4RUhmcw?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "18. Nov 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "behoerde_uvp": {
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "In der Obersteiermark ist eine großflächige Reststoffdeponie für Industrieabfälle geplant, für die derzeit ein Umweltverträglichkeitsprüfungsverfahren (UVP) läuft. Das Millionen-Investment im Murtal unterliegt damit den behördlichen Genehmigungsanforderungen der steirischen Verkehrs- und Umweltbehörden.",
+      "summary": "Im Murtal wird eine Reststoffdeponie mit erheblichem Investitionsvolumen geplant, für die derzeit ein Umweltverträglichkeitsprüfungsverfahren läuft. Das UVP-Verfahren soll die Umweltauswirkungen dieser Großanlage vor der behördlichen Genehmigung prüfen und bewerten.",
       "items": [
         {
           "title": "Millionen-Investment: Reststoffdeponie im Murtal geplant, UVP läuft - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRlE4WXU2VGVpNFM3Y0xlWHRucV9pOGF4MDFhMkpHQ2F6d3NsUldlRktsc01tWTR1UF9ZbmZzcG9DVlJESE5oQkpVZ3hCLVhRN2NIRC1ZUjFLUGlpWUhHajZyTGZaZHAwaUttYllVTm5rajdvVjJhUDRBd2lXTTdIN3VGZE1TcDlIYzhCakJCUHFLMWgyYVBBWFNjclU5Vm0zcFE?oc=5",
           "source": "MeinBezirk.at",
-          "date": "17. Nov 2026"
-        },
-        {
-          "title": "Riesige Deponie für Industrieabfälle in der Obersteiermark geplant - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOandDQ1RRcHlVeXpSUDNGWlVMM1U2SWY3S3dBNWpocjJpdEZKVEYxOFZQNjZ3alhzLWpjR3lrd25xUmFHNFBZYXVRQUpFc3dQVzZzSlRkeDhBUElTeXpDZk9XX05WcGVOenNCTVVpS3RNTG1JWklyc2lnbDFwUGxvVDFrSmlXVEw3N1gyOTQtazVjM05xN0dQNm9wVU5pc0ltS1lUMzFWREN1SW96RUk0UUwwb2g?oc=5",
-          "source": "Kleine Zeitung",
           "date": "17. Nov 2026"
         }
       ]
