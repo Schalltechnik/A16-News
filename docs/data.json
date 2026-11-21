@@ -1,32 +1,27 @@
 {
-  "generated": "20. November 2026, 10:35 UTC",
+  "generated": "21. November 2026, 10:16 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Ich bin bereit, die Nachrichtentitel zusammenzufassen, aber ich sehe nur einen Titel in deiner Liste. Bitte stelle mir alle Nachrichtentitel zur Verfügung, damit ich eine aussagekräftige Zusammenfassung in zwei prägnanten Sätzen erstellen kann.",
+      "items": [
+        {
+          "title": "S35: Wochenendsperren im November - ÖAMTC",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVkNIZ1VHUnE0c1FxT3JPUHpOdUQ1cnJnQTgwZkEwd3dTLWJiRkM2VGRELTgxYl9XT2k5di1waXdOeGFRa1N3a2lJcEwzWGt1ZkR1bjdVTE9OVTFobE1VX2tyZGdaYk5RWUEyaU9ZaWUtWUU1NWdrbnBtaTBoV0o1ZXdKOTZlUQ?oc=5",
+          "source": "ÖAMTC",
+          "date": "20. Nov 2026"
+        }
+      ]
     },
     "oeffentlicher_verkehr": {
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die ÖBB investieren bis 2032 massiv mit 19,5 Milliarden Euro in den Bahnausbau, wobei für die Strecke Lieboch-Köflach 2027 ein Schienenersatzverkehr geplant ist. Bei den regionalen Klimatickets gibt es ab 2027 unterschiedliche Preisentwicklungen, da nicht alle Tickets teurer werden.",
+      "summary": "Die regionalen Klimatickets in der Steiermark werden ab 2027 nicht einheitlich teurer, sondern die Preiserhöhungen fallen je nach Region unterschiedlich aus. Während einige Regionen mit stabilen Preisen rechnen können, müssen Fahrgäste in anderen Gebieten mit Kostensteigerungen rechnen.",
       "items": [
-        {
-          "title": "Schienenersatzverkehr Lieboch-Köflach 2027 geplant - austria.com",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdWZBRGFRX2xUWWpRT2hFX29tN3VjMGR3OWlrZUVvcUxrWDFQME1vclRUVk9ONU5CREl4T2syTUdwZmsxYW5EZXBIY1Njc053SjN2aGlkbjJIQ2ZUYzNwcmdxOHhXZjV3c0tkQnlwX3BOelk0eDNQMkJoNzVSWWJraXNqUlh2WXhEOFhtSjJ0X2V3WGM5OW5aTnNCNlQ?oc=5",
-          "source": "austria.com",
-          "date": "17. Nov 2026"
-        },
-        {
-          "title": "ÖBB: 19,5 Milliarden Euro für Bahnausbau bis 2032 - austria.com",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNHNfTUstZnlZXzZsXy04THZ6LVBjSjJST054ZnBjeWF6TEFCaVZSWG5Vdkxib3VoS0RZYS1XRi1oLWFDTkd5MGRMYkd2NUEzZkxTQWYwMG84dHJmakdQdUY4Z2Zlc3JKMndHZHplMlpsZHl2V1ZOVzhleUdKWjV2U0hyeWpwR2lPQjZhZWtNM0I1VnhNbWc?oc=5",
-          "source": "austria.com",
-          "date": "20. Nov 2026"
-        },
         {
           "title": "Nicht alle regionalen Klimatickets werden Anfang 2027 teurer - Joyn Österreich",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMVNUVkFCN3JFQ2R2NTYxWmNkcXp1M3RyUHYxeTVYUEFjbTY4Qlc0MUc5b3Y1bVBfN2Q3X0IyZTE3V0RYV241Y1A5S25mOE9JWEMtekF6VU1JUXA1NnVkek5EUVF4TngtSmU4OXBTSlk0MDlCUk5mY0VtVVAyUjJsZjItSmQxcS1kT1paLTNoR2RjR29zQlFhLUNXbHdza2tqZzFGcEJR?oc=5",
@@ -45,7 +40,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark investiert verstärkt in nachhaltige Mobilität, wie die vorzeitige Fertigstellung des neuen Geh- und Radwegs an der L 376 sowie innovative leuchtende Radwege zeigen. Solche Infrastrukturprojekte fördern den Fuß- und Radverkehr und tragen zu einer sichereren und umweltfreundlicheren Mobilität bei.",
+      "summary": "Die Steiermark macht Fortschritte bei der Förderung nachhaltiger Mobilität, wie die vorzeitige Fertigstellung eines neuen Geh- und Radwegs an der L 376 zwischen drei Gemeinden zeigt. Mit innovativen Lösungen wie leuchtenden Radwegen setzt das Bundesland neue Standards für die Verkehrssicherheit und Attraktivität des Radverkehrs.",
       "items": [
         {
           "title": "L 376: Neuer Geh- und Radweg zwischen drei Gemeinden früher als geplant fertiggestellt - Land Steiermark - Politik",
@@ -58,12 +53,6 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDZWTzVHdGJILTBScXBLMDBDNWV5Nng3OThTVURhUXFEYjhNUFY0bm05OUNDd3Jwa01tM0tIR212bElvMDh6Tko2TnZHeW5VUU5tYzZmMnZQLWd6VUFoREhtd2ZUN3hJOVlzTTNXYkZnX3hWZEFSc21CY2k3bkVTcm04QmRXT0tOQ2xLeDhtS2MzU09OeDAzdTdiTkZOSUtxRGtfTW12TQ?oc=5",
           "source": "Kleine Zeitung",
           "date": "15. Nov 2026"
-        },
-        {
-          "title": "Fußgängerfreude: Welser Weihnachtswelt eröffnet - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWWc4YlJnWmQybXJBbEdXMXhDVXNqenhTRXNjMFFvYTBKdnRlOGZiTThlMlN2dzMtcDFPY3VaWDhmTElTclhoVV9fNVVRSkF1dWtHU3U3VTh1VzRGcXpxRV9zekN0ZGh2R1drSHpZLXNtdGFuVkt0SGd2S09EOHVoYnA3bF9yUXhkM25hSFlPejQxVHJMWUVsVElCRDdlY3dhejkxc2s2a3EtRWpUSDRkSHlGRlIwU0lhTW9iMS16QXVZVXdD?oc=5",
-          "source": "ORF ON",
-          "date": "13. Nov 2026"
         }
       ]
     },
@@ -71,14 +60,33 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "In der Steiermark entstehen neue geförderte Wohnungen in Buch St. Magdalena, deren Fertigstellung bis 2028 geplant ist. Gleichzeitig zeigen sich erhebliche Defizite bei der Erreichbarkeit von Krankenhäusern in der Region, die zu Sicherheitsrisiken für Patienten führen.",
+      "items": [
+        {
+          "title": "Neues Bauprojekt: Spatenstich in Buch St. Magdalena, geförderte Wohnungen entstehen bis 2028 - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM1NYaGdzdm5LSkxqa0M2aWlVUVdqQ1dzcWpHam5BM0ZFVzA3NWFBSmVhQll6TkJIZUg2WV9qcWdFMk1YQWdYUlp4Nm4taDRGSWYxTGxZeXZGd3B5enYxUEFid3F6ZGlqbU9VVEc3dzl5NTJlZmpSSlZBWEMwaGUtUzNZM2ZJOFh6SFpZOEMwdUdpZFZ2Y1pYRGM0WUllajhwejFLTkZXMmZLbloyX1Q0bDhRQ0tGX04zanFUSVB5UkZac1VYQnBsbHNUM19PX1NpQzc4RUhmcw?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "18. Nov 2026"
+        },
+        {
+          "title": "Wege ins Krankenhaus oft lebensgefährlich lang - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5UHlHa0hXZVZPeUluYnZJdTdqcUNsRXg2dExSelBrVVZkbnozUDZpR3ExWFpmWWMybXEyU195UFZ2SEFIWml1LUpGWjlROUJ0aFJ2LQ?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "21. Nov 2026"
+        },
+        {
+          "title": "Unfall in Riegersburg: Auto erfasst Fußgängerin, Frau schwer verletzt im Krankenhaus - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbzBxZmtDV3dYWnRfX1VrNGlIcUVVX1NkLXIwUGstZ0Y5YUVMdDhwZ1ViNDZFM0ZpLW9sYTY1RWxBaWgxa002c3RuNGNwOUxEVFg5UGhvSU9Ub2Q0Wko0b0k0OE5TRWFESm5SQUMwTjNSWk5qbmhINHZlaVYtRjFGVmllN1VRdFIzbjZNc3Rqd0x6ZGE3RS1lTUdRR2dhX0o1SUh6TTB4T29HXzczNXBYeVJjb1JNX09oaXdiTXpUUmxvRHM?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "21. Nov 2026"
+        }
+      ]
     },
     "behoerde_uvp": {
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Im Murtal wird eine Reststoffdeponie mit erheblichem Investitionsvolumen geplant, für die derzeit ein Umweltverträglichkeitsprüfungsverfahren läuft. Das UVP-Verfahren soll die Umweltauswirkungen dieser Großanlage vor der behördlichen Genehmigung prüfen und bewerten.",
+      "summary": "Im Murtal ist eine Reststoffdeponie mit erheblichem Investitionsvolumen geplant, für die derzeit ein Umweltverträglichkeitsprüfungsverfahren läuft. Das UVP-Verfahren soll die Umweltauswirkungen dieses Großprojekts systematisch überprüfen und bewerten.",
       "items": [
         {
           "title": "Millionen-Investment: Reststoffdeponie im Murtal geplant, UVP läuft - MeinBezirk.at",
