@@ -1,12 +1,12 @@
 {
-  "generated": "22. November 2026, 10:22 UTC",
+  "generated": "23. November 2026, 11:20 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die S35 wird im November an Wochenenden gesperrt, während gleichzeitig auf der A2 in Richtung Wien Tunnelsperrungen anstehen, die sowohl Steirer als auch Kärntner in ihren Fahrtrouten beeinträchtigen.",
+      "summary": "Die S35 wird im November an Wochenenden gesperrt, was zu Verkehrsbeeinträchtigungen führt. Parallel dazu belasten zwei große Baustellen auch die steirischen Bahnkunden erheblich.",
       "items": [
         {
           "title": "S35: Wochenendsperren im November - ÖAMTC",
@@ -15,10 +15,10 @@
           "date": "20. Nov 2026"
         },
         {
-          "title": "Tunnelsperre auf der A2 Richtung Wien: Steirer und Kärntner betroffen - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYWNZMkExalRnMnA3YTdfaVU4UEJQTTJkcGMtUTUwX01oa0NNMXY4RkVOS2p5SjV5Z2d6dVR1WHdoVU5DNUVvMThjNFBOSUdzM1hxdEU5UFZySzU2VDdYUjhaWXBMUFNuSEIzeEVObU5fWlBab3c5TF9HcFNTUG8xUGw5TlJWMWhDNHg0b0ZOSEJkZ2NmRFdId3RCeDFSSkZocUtXNG5fOVhyN2Y5VDgwbHVWa0gxZw?oc=5",
-          "source": "5 Minuten",
-          "date": "15. Nov 2026"
+          "title": "Zwei Superbaustellen und die Folgen für steirische Bahnkunden - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMzNXWUhaQ3RZRUxBU3lQTlhHelh4RjVWTkxIZFJwQUJZcXM3dUhTYUVfRlJrYTRuRlZaSkhBMUpmc3VUN2o0YmFSMzFubHVQcVNIbmQxdDZiVWs4TWVBX1FQVm0zQ0VjMEhrZzJsVmhLYTFpN0tWZ1Z6TVQ2cVh0TEVCSzV3eFFTeTdMRy1tbWg1OGVuZDYyMGNmNFFHckl6LVdjMndWRHRoUUY0?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "22. Nov 2026"
         }
       ]
     },
@@ -26,8 +26,14 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die ÖBB investiert 19,5 Milliarden Euro in den Bahnausbau der Steiermark bis 2032, um die Infrastruktur massiv zu modernisieren. Gleichzeitig reduziert Graz ab Jänner 2027 die Förderung für das KlimaTicket, was die Nutzung des öffentlichen Verkehrs verteuern wird.",
+      "summary": "Die Steiermark investiert massiv mit 19,5 Milliarden Euro in den Bahnausbau bis 2032, während gleichzeitig große Baustellen wie die Sperrung der Steirischen Westbahn zwischen Lieboch und Köflach erhebliche Beeinträchtigungen für Bahnkunden mit sich bringen. Bei den Klimaticket-Preisen zeigt sich ein uneinheitliches Bild, da Graz die Förderung ab 2027 senkt, während andere Regionen ihre Tarife stabil halten oder erhöhen.",
       "items": [
+        {
+          "title": "Zwei Superbaustellen und die Folgen für steirische Bahnkunden - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMzNXWUhaQ3RZRUxBU3lQTlhHelh4RjVWTkxIZFJwQUJZcXM3dUhTYUVfRlJrYTRuRlZaSkhBMUpmc3VUN2o0YmFSMzFubHVQcVNIbmQxdDZiVWs4TWVBX1FQVm0zQ0VjMEhrZzJsVmhLYTFpN0tWZ1Z6TVQ2cVh0TEVCSzV3eFFTeTdMRy1tbWg1OGVuZDYyMGNmNFFHckl6LVdjMndWRHRoUUY0?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "22. Nov 2026"
+        },
         {
           "title": "ÖBB: 19,5 Milliarden für Bahnausbau in Steiermark - austria.com",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPazg1allZcU9rU1plbGduNnlESjVzMGN5VEYyQmNuY2lPUmpNY1B6ZDZsRlM0YkRpUUROd1Vxa0NyTWVkS0ZOblZfWXFGajMxV2I0SlNWNWJxTGpvS2NnNmkxbGxaM0h3ZU54OUZRQWJwU0d0RTRKUWRBVlhVbTZxUE5qdVN3OGlXSFdQczhkQWh5dm9reHc?oc=5",
@@ -41,10 +47,28 @@
           "date": "20. Nov 2026"
         },
         {
+          "title": "Lieboch – Köflach - Steirische Westbahn wird monatelang gesperrt - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ibFJmMS1tS3FERlBERHFYdjZ6cFc4QnduekY2cHZZWDYwNlhaa01CTU5GeDhUZGZqNkFEbzBlVFI0Zw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "18. Nov 2026"
+        },
+        {
           "title": "Graz senkt KlimaTicket-Förderung ab Jänner 2027 - austria.com",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYmdpOGNSRTNCWHpBdGREbi1MdDhBLUR6YzJTZFdOcXQzU0VnQ0hvbl94eG5Xc19SYnE3Nlk5RFZKY0tTVE5KX2ZUdWlrWlhVa3NRQnFIbFphOUNreWhXc19SaDExd09jWnRrUmxyRVRVajZVVXhvWDRlRV94eTY3LTQ1T2ZJNUN5ODVaRjBVUEhHNS05YUE?oc=5",
           "source": "austria.com",
           "date": "20. Nov 2026"
+        },
+        {
+          "title": "Nicht alle regionalen Klimatickets werden Anfang 2027 teurer - Joyn Österreich",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMVNUVkFCN3JFQ2R2NTYxWmNkcXp1M3RyUHYxeTVYUEFjbTY4Qlc0MUc5b3Y1bVBfN2Q3X0IyZTE3V0RYV241Y1A5S25mOE9JWEMtekF6VU1JUXA1NnVkek5EUVF4TngtSmU4OXBTSlk0MDlCUk5mY0VtVVAyUjJsZjItSmQxcS1kT1paLTNoR2RjR29zQlFhLUNXbHdza2tqZzFGcEJR?oc=5",
+          "source": "Joyn Österreich",
+          "date": "17. Nov 2026"
+        },
+        {
+          "title": "Klimaticket 2027: Wo die Preise steigen und wo sie gleich bleiben - KOSMO | Eine starke Verbindung!",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNWdDcm45a1hLZUo5UmZtRzkwejRYc3d1NW05QlhJakZVc2dLSWZOTVl4VDdONGhhRHZqakVvYmRFM1FYcDJOZW5kMjJGSGY2UERpY3h6N2NMSmV2UThmVTN5ekx1STA1N0NicVRHZS11Ym1zTERBOTd5LVp2LVI0ZXV5cGg5dkFrdEF0M0pndw?oc=5",
+          "source": "KOSMO | Eine starke Verbindung!",
+          "date": "18. Nov 2026"
         }
       ]
     },
@@ -52,31 +76,13 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark macht Fortschritte bei der Förderung nachhaltiger Mobilität mit innovativen Projekten wie einem früher fertiggestellten Geh- und Radweg zwischen drei Gemeinden und einem leuchtenden Radweg als Steiermark-Premiere, die generationenübergreifende Mobilität ermöglichen. Allerdings zeigen Unfallmeldungen wie die eines Fußgängers am Ring, dass trotz dieser Verbesserungen weiterhin erhebliche Verkehrssicherheitsrisiken im Straßenverkehr bestehen.",
+      "summary": "Ein Fußgänger wurde in Graz beim Überqueren des Ringes von einem Auto erfasst und erlitt dabei lebensgefährliche Verletzungen, was die mangelnde Verkehrssicherheit für Fußgänger in diesem Bereich unterstreicht. Der Vorfall verdeutlicht die dringende Notwendigkeit verbesserter Sicherheitsmaßnahmen und besserer Infrastruktur für den Fußverkehr an stark befahrenen Straßen in der Steiermark.",
       "items": [
-        {
-          "title": "L 376: Neuer Geh- und Radweg zwischen drei Gemeinden früher als geplant fertiggestellt - Land Steiermark - Politik",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hb2VqUGlJbmRvZThwamxjQjFRSktGVWQtcS1fdGw2X3RzZUwyNEVkQzhybXRNaHhJbTY1SmxHTnV2enVmQzJCeVl0WXdWdGhXWG9YSnFuenh4eDFJRHpuTFN0U0taaVN5R3hjNFBfWjVEeHc?oc=5",
-          "source": "Land Steiermark - Politik",
-          "date": "16. Nov 2026"
-        },
-        {
-          "title": "Steiermark-Premiere: Dieser Radweg leuchtet mit Radlern mit - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDZWTzVHdGJILTBScXBLMDBDNWV5Nng3OThTVURhUXFEYjhNUFY0bm05OUNDd3Jwa01tM0tIR212bElvMDh6Tko2TnZHeW5VUU5tYzZmMnZQLWd6VUFoREhtd2ZUN3hJOVlzTTNXYkZnX3hWZEFSc21CY2k3bkVTcm04QmRXT0tOQ2xLeDhtS2MzU09OeDAzdTdiTkZOSUtxRGtfTW12TQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "15. Nov 2026"
-        },
         {
           "title": "Lebensgefahr: Fußgänger will über den Ring, wird von Auto erwischt - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRG5Dd0w1ajY2TEFzRFpTZmtyNlBfdHlReTk2UEJFX2UtU0t2YUVYdmZlZFZBZUQ3aXc4aHFEanVsTFg3R0ZsaWxHOW8wNnlXZlFTR3BxeXlHdF84VzNNUUpWUS1XZUV3SkR6a19taGd0N0xTMDBncEllQkZPZDBqbU1FR0ZYMDE4clVCa0x5dkxkYXJuZ01JNGVHNHJXUXhFakZybzZBQTZ5dWc?oc=5",
           "source": "5 Minuten",
           "date": "21. Nov 2026"
-        },
-        {
-          "title": "Mobilität für alle Generationen: Steirische Vorzeigeprojekte der Europäischen Mobilitätswoche 2026 ausgezeichnet - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43amRNS0xsYkZkVGp5VzhKOGNULTBsZzlTMHZzM0t1a2ZlSDY4MWF1R3AwcEk0RU04MkgwVHM3MmJyakpQTEpGRmtTQW9BaFBBaGxmMlAtZmJDLWVDY04wUE9sWXZ5d1g4bmJfSEtMTQ?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "20. Nov 2026"
         }
       ]
     },
@@ -84,8 +90,14 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Ich kann diese Aufgabe nicht wie gewünscht erfüllen, da die beiden Nachrichtentitel keine Informationen zu Hochbauprojekten, Schulbauten, öffentlichen Gebäuden, Liegenschaften oder Baukultur in der Steiermark enthalten. Der erste Titel behandelt ein Infrastruktur- und Gesundheitsproblem, der zweite berichtet über einen Verkehrsunfall – beide sind nicht relevant für meine Expertise im Bereich Landeshochbau und Baukultur.",
+      "summary": "In der Steiermark entstehen neue geförderte Wohnungen in Buch St. Magdalena, die bis 2028 fertiggestellt werden sollen. Gleichzeitig zeigen sich erhebliche Defizite bei der Erreichbarkeit von Krankenhäusern in der Region, was für Notfallpatienten zu lebensbedrohlichen Verzögerungen führt.",
       "items": [
+        {
+          "title": "Neues Bauprojekt: Spatenstich in Buch St. Magdalena, geförderte Wohnungen entstehen bis 2028 - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM1NYaGdzdm5LSkxqa0M2aWlVUVdqQ1dzcWpHam5BM0ZFVzA3NWFBSmVhQll6TkJIZUg2WV9qcWdFMk1YQWdYUlp4Nm4taDRGSWYxTGxZeXZGd3B5enYxUEFid3F6ZGlqbU9VVEc3dzl5NTJlZmpSSlZBWEMwaGUtUzNZM2ZJOFh6SFpZOEMwdUdpZFZ2Y1pYRGM0WUllajhwejFLTkZXMmZLbloyX1Q0bDhRQ0tGX04zanFUSVB5UkZac1VYQnBsbHNUM19PX1NpQzc4RUhmcw?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "18. Nov 2026"
+        },
         {
           "title": "Wege ins Krankenhaus oft lebensgefährlich lang - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5UHlHa0hXZVZPeUluYnZJdTdqcUNsRXg2dExSelBrVVZkbnozUDZpR3ExWFpmWWMybXEyU195UFZ2SEFIWml1LUpGWjlROUJ0aFJ2LQ?oc=5",
@@ -104,7 +116,7 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Im Murtal ist eine Umweltverträglichkeitsprüfung für eine geplante Reststoffdeponie mit erheblichem Investitionsvolumen eingeleitet worden. Das Verfahren prüft die Auswirkungen dieser Abfallwirtschaftsanlage auf Umwelt und Bevölkerung in der Region.",
+      "summary": "Im Murtal ist eine Umweltverträglichkeitsprüfung für eine geplante Reststoffdeponie mit erheblichem Investitionsvolumen im Laufen. Das Verfahren prüft die Auswirkungen des Projekts auf Umwelt und Verkehr in der Region.",
       "items": [
         {
           "title": "Millionen-Investment: Reststoffdeponie im Murtal geplant, UVP läuft - MeinBezirk.at",
