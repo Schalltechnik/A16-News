@@ -1,12 +1,12 @@
 {
-  "generated": "25. November 2026, 11:46 UTC",
+  "generated": "26. November 2026, 11:32 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die Straßeninfrastruktur in der Steiermark ist durch mehrere Baustellen geprägt, darunter Wochenendsperrungen auf der S35 im November und Sanierungsarbeiten auf der A9, die nun wieder freigegeben wurde. Parallel dazu führen umfangreiche Bahnbaustellen zu Beeinträchtigungen im öffentlichen Verkehr, während es im Straßennetz zu schweren Unfällen kommt.",
+      "summary": "Die Steiermark verzeichnet derzeit erhebliche Verkehrsbeeinträchtigungen durch Wochenendsperrungen auf der S35, Baustellen im Bahn- und Straßenverkehr sowie winterliche Bedingungen, die zu zahlreichen Unfällen und Staus führen. Besonders die A2 und Grazer Straßen sind von Schneefall und daraus resultierenden Verkehrschaos betroffen, während gleichzeitig Sanierungsarbeiten die Mobilität in der Region zusätzlich belasten.",
       "items": [
         {
           "title": "S35: Wochenendsperren im November - ÖAMTC",
@@ -21,22 +21,22 @@
           "date": "22. Nov 2026"
         },
         {
-          "title": "A9 nach Sanierung wieder frei befahrbar - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92SUdjSUdiOFBxVlZwWEpPS2R6SW5TbllqSUY2cXFNdlJwZnBKODB0a1Z5THNYa09zSExhRlF5Z1dnS09ydTF1dDJjbTdpMzEtMUxHVg?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "18. Nov 2026"
-        },
-        {
           "title": "Ursache noch unklar - Unfall in der Steiermark: Frau verletzt ins Spital - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5XNGVNcVgzcjMwaDJheVdJc295Q3VSd0R6WFEzYWt2X1gtWEh2T2RaVmpFMHd5SUtiWHVIaTJicDJxZw?oc=5",
           "source": "Kronen Zeitung",
           "date": "24. Nov 2026"
         },
         {
-          "title": "Von Hofausfahrt auf Bundesstraße: Schwerer Unfall im Murtal - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWTBjNWhOR3pwMmg3ak1Xeno5TzF2aTdJWkZrMGJoZG9CRWQ5MFRqYy1ZTDRLM19QUzRsNDh0ZW1WLXpHRjBrbWNVc3VUSm9XSm1rTHRwaW8wVWtBLXpzVEJmLV91Y0dsUjdjRGdwOElPOUFFS05xTFB3WWV1ZGpONEdKT0o3VTBBV3JHNkVXWU9WZ3dUS3gxbmdVbjdCOTQzQlk4b1ZLSEM?oc=5",
+          "title": "Wintereinbruch: Zahlreiche Unfälle und Straßensperren in Österreich - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ01Zc1J1cTJGWk9sX2w5X1E1T3psSVFqeFVvelMtQURqQ0xqNzJLNHRnT2c3OGJaWEJ0SWtVOTk0UXVWWFZZc0NaWmNfWGVnRk5DZktEXzlhcEZvQ2xDdXRENWhMMDNDaHNERU1McUZEc0xROFNwemFwcWc1a1VGUlA3V1dTMUNCck9TdUNCLW0zZVFQSzNieW84VGhsT21jVVJlcUNsdEwzYkdrYXNyWS1sMmV6dw?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "26. Nov 2026"
+        },
+        {
+          "title": "Schnee in Graz: Verkehrschaos auf den Straßen, Stau auf der A2 - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOTJsbVNTeUJnVWV6V3VxRHRGMC1hQ256dUk5N0VucDYwbnQyYThCWVlWNjQxSzRPWE1TUGZNZUtpV1NZU2x4cUFZOWdMS2Zra0h4NW50Tk1wQUFwb1Vsd0RPWFE2MVNvRkxTSTZvZXEtaURaQUFab1dzWEo4ZjNMaW5DbXcwR0N0Y1dXTTJNS3NKYkx3TVdsWTRFUjVnY1E1X0wzb3F2VjF5d0k?oc=5",
           "source": "5 Minuten",
-          "date": "24. Nov 2026"
+          "date": "26. Nov 2026"
         }
       ]
     },
@@ -44,19 +44,13 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Steiermark investiert massiv in den Bahnausbau mit 19,5 Milliarden Euro bis 2032, während gleichzeitig große Baustellen den Bahnverkehr beeinträchtigen und in Graz die KlimaTicket-Förderung ab Januar 2027 sinkt. Der öffentliche Verkehr bleibt ein wichtiger Verkehrsmittel für die Erreichbarkeit von Zielen wie steirischen Thermen, muss aber mit Herausforderungen durch Infrastrukturarbeiten und gestiegene Fahrgastkosten umgehen.",
+      "summary": "Die Österreichischen Bundesbahnen investieren massiv mit 19,5 Milliarden Euro in den steirischen Bahnausbau bis 2032, während gleichzeitig zwei große Baustellen zu Beeinträchtigungen für Bahnkunden führen. In Graz wird die KlimaTicket-Förderung ab Jänner 2027 gekürzt, wodurch Fahrgäste höhere Ticketpreise zahlen müssen.",
       "items": [
         {
           "title": "Zwei Superbaustellen und die Folgen für steirische Bahnkunden - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMzNXWUhaQ3RZRUxBU3lQTlhHelh4RjVWTkxIZFJwQUJZcXM3dUhTYUVfRlJrYTRuRlZaSkhBMUpmc3VUN2o0YmFSMzFubHVQcVNIbmQxdDZiVWs4TWVBX1FQVm0zQ0VjMEhrZzJsVmhLYTFpN0tWZ1Z6TVQ2cVh0TEVCSzV3eFFTeTdMRy1tbWg1OGVuZDYyMGNmNFFHckl6LVdjMndWRHRoUUY0?oc=5",
           "source": "Kleine Zeitung",
           "date": "22. Nov 2026"
-        },
-        {
-          "title": "Steirische Thermen mit Öffis erreichen – alle Linien - austria.com",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTVU0eXlDQXljLXZ3MHRFN0h0bkR1M2tvbWxGV2NQdGpkaUZnN3JMcmh5TmNzcHY1MmVjcVVET0RyU2lvRG5LS0ZseF9GN3M3aWp3TmdkNlE5dVpSNW5kX1dTMmRGS0NKcUZyNW9DTi1qd0RLWktGNGJWOWZVdGVoZkZMSWxNdW1nS1Q4N2wySWFoZw?oc=5",
-          "source": "austria.com",
-          "date": "18. Nov 2026"
         },
         {
           "title": "ÖBB: 19,5 Milliarden für Bahnausbau in Steiermark - austria.com",
@@ -81,6 +75,12 @@
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYmdpOGNSRTNCWHpBdGREbi1MdDhBLUR6YzJTZFdOcXQzU0VnQ0hvbl94eG5Xc19SYnE3Nlk5RFZKY0tTVE5KX2ZUdWlrWlhVa3NRQnFIbFphOUNreWhXc19SaDExd09jWnRrUmxyRVRVajZVVXhvWDRlRV94eTY3LTQ1T2ZJNUN5ODVaRjBVUEhHNS05YUE?oc=5",
           "source": "austria.com",
           "date": "20. Nov 2026"
+        },
+        {
+          "title": "Grazer Schloßbergbahn: KlimaTicket-Besitzer zahlen ab Juli extra - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT0hzbGJKMm1Lczh1YUhwbm0zQUFyRW9lU2tiVVhPUzhkM0NHM29qbk5zLWJBajkyVThrSWJYQmk3MWF4eW83NXJYZG9GSWF0VEtTQ24wbjk3ZldrRHZndVo2U1dRenRYWUlpM0NRcXgyRWZoSzNDS0tSWFh5ZWJhRzRCN2lxNGdURVRxX0wzTTNnc0E0Rl9acVQwR0JlQ253ZV9DbVNYUQ?oc=5",
+          "source": "5 Minuten",
+          "date": "25. Nov 2026"
         }
       ]
     },
@@ -88,8 +88,14 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark hat mit ihren innovativen Mobilitätsprojekten zur Europäischen Mobilitätswoche 2026 Auszeichnungen erhalten und demonstriert damit vorbildliche Lösungen für generationenübergreifende Verkehrssicherheit und nachhaltige Mobilität. Diese Vorzeigeprojekte unterstreichen das steirische Engagement für zukunftsorientierte Verkehrsplanung, die Radwege, Fußverkehr und umweltfreundliche Mobilität für alle Altersgruppen gleichermaßen berücksichtigt.",
+      "summary": "Die Steiermark setzt mit ausgezeichneten Vorzeigeprojekten zur Europäischen Mobilitätswoche 2026 Maßstäbe für generationenübergreifende nachhaltige Mobilität. Dabei wird auch auf historische Erkenntnisse der Verkehrserziehung zurückgegriffen, um moderne Mobilitätslösungen mit bewährten Sicherheitskonzepten zu verbinden.",
       "items": [
+        {
+          "title": "Neues von Gestern: Verkehrserziehung in den 70ern - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTkY2RFpScHJzZHlYdW5GWWNXN0JRbUtiT3I5SFEta0hJMFRYUldGQUFMNncyS1ZVbkkwSHQ5Nm8zNXR5cTZPWjJpM1B3NWpFMXgxOTNpYXROYk5GbnlSbTZDaGFROEFVd1liM3RHSjNIZGdtVlBMemNTS0liX2dhVDhTVzFsRjNvOExsM09UcGpDOFJF?oc=5",
+          "source": "ORF ON",
+          "date": "24. Nov 2026"
+        },
         {
           "title": "Mobilität für alle Generationen: Steirische Vorzeigeprojekte der Europäischen Mobilitätswoche 2026 ausgezeichnet - Land Steiermark News Portal",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43amRNS0xsYkZkVGp5VzhKOGNULTBsZzlTMHZzM0t1a2ZlSDY4MWF1R3AwcEk0RU04MkgwVHM3MmJyakpQTEpGRmtTQW9BaFBBaGxmMlAtZmJDLWVDY04wUE9sWXZ5d1g4bmJfSEtMTQ?oc=5",
@@ -102,8 +108,27 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Die Nachrichtentitel behandeln primär Unfallgeschehnisse und Verletzungen, die nicht unmittelbar mit Hochbauprojekten oder Baukultur in der Steiermark verbunden sind. Lediglich der erste Titel deutet auf infrastrukturelle Probleme hin, wonach die Wege zu steirischen Krankenhäusern teilweise lebensbedrohlich lange Distanzen aufweisen.",
+      "items": [
+        {
+          "title": "Wege ins Krankenhaus oft lebensgefährlich lang - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5UHlHa0hXZVZPeUluYnZJdTdqcUNsRXg2dExSelBrVVZkbnozUDZpR3ExWFpmWWMybXEyU195UFZ2SEFIWml1LUpGWjlROUJ0aFJ2LQ?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "21. Nov 2026"
+        },
+        {
+          "title": "Ursache noch unklar - Unfall in der Steiermark: Frau verletzt ins Spital - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5XNGVNcVgzcjMwaDJheVdJc295Q3VSd0R6WFEzYWt2X1gtWEh2T2RaVmpFMHd5SUtiWHVIaTJicDJxZw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "24. Nov 2026"
+        },
+        {
+          "title": "Unfall in Riegersburg: Auto erfasst Fußgängerin, Frau schwer verletzt im Krankenhaus - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbzBxZmtDV3dYWnRfX1VrNGlIcUVVX1NkLXIwUGstZ0Y5YUVMdDhwZ1ViNDZFM0ZpLW9sYTY1RWxBaWgxa002c3RuNGNwOUxEVFg5UGhvSU9Ub2Q0Wko0b0k0OE5TRWFESm5SQUMwTjNSWk5qbmhINHZlaVYtRjFGVmllN1VRdFIzbjZNc3Rqd0x6ZGE3RS1lTUdRR2dhX0o1SUh6TTB4T29HXzczNXBYeVJjb1JNX09oaXdiTXpUUmxvRHM?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "21. Nov 2026"
+        }
+      ]
     },
     "behoerde_uvp": {
       "label": "Verkehrsbehörde & UVP",
