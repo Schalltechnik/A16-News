@@ -1,29 +1,17 @@
 {
-  "generated": "27. November 2026, 11:27 UTC",
+  "generated": "28. November 2026, 10:55 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die steirische Straßeninfrastruktur ist derzeit durch winterliche Bedingungen mit zahlreichen Unfällen, Straßensperren und Verkehrschaos belastet, besonders in Graz und im Murtal. Parallel dazu führen Baustellen zu zusätzlichen Beeinträchtigungen des Verkehrsflusses und der Mobilität in der Region.",
+      "summary": "Der Wintereinbruch hat in der Steiermark und Österreich zu zahlreichen Straßensperren, Unfällen und erheblichen Verkehrsbehinderungen geführt, wobei besonders Graz mit Schneechaos und Staus auf wichtigen Verkehrsachsen wie der A2 und der Riesstraße betroffen war. Die winterlichen Bedingungen haben die Straßeninfrastruktur erheblich belastet und erfordern intensive Räum- und Streueinsätze zur Wiederherstellung der Verkehrssicherheit.",
       "items": [
-        {
-          "title": "Zwei Superbaustellen und die Folgen für steirische Bahnkunden - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMzNXWUhaQ3RZRUxBU3lQTlhHelh4RjVWTkxIZFJwQUJZcXM3dUhTYUVfRlJrYTRuRlZaSkhBMUpmc3VUN2o0YmFSMzFubHVQcVNIbmQxdDZiVWs4TWVBX1FQVm0zQ0VjMEhrZzJsVmhLYTFpN0tWZ1Z6TVQ2cVh0TEVCSzV3eFFTeTdMRy1tbWg1OGVuZDYyMGNmNFFHckl6LVdjMndWRHRoUUY0?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "22. Nov 2026"
-        },
         {
           "title": "Ursache noch unklar - Unfall in der Steiermark: Frau verletzt ins Spital - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5XNGVNcVgzcjMwaDJheVdJc295Q3VSd0R6WFEzYWt2X1gtWEh2T2RaVmpFMHd5SUtiWHVIaTJicDJxZw?oc=5",
           "source": "Kronen Zeitung",
-          "date": "24. Nov 2026"
-        },
-        {
-          "title": "Von Hofausfahrt auf Bundesstraße: Schwerer Unfall im Murtal - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWTBjNWhOR3pwMmg3ak1Xeno5TzF2aTdJWkZrMGJoZG9CRWQ5MFRqYy1ZTDRLM19QUzRsNDh0ZW1WLXpHRjBrbWNVc3VUSm9XSm1rTHRwaW8wVWtBLXpzVEJmLV91Y0dsUjdjRGdwOElPOUFFS05xTFB3WWV1ZGpONEdKT0o3VTBBV3JHNkVXWU9WZ3dUS3gxbmdVbjdCOTQzQlk4b1ZLSEM?oc=5",
-          "source": "5 Minuten",
           "date": "24. Nov 2026"
         },
         {
@@ -56,25 +44,13 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Steiermark kämpft mit massiven Bahnbaustellen, die Fahrgäste beeinträchtigen, während gleichzeitig die Kosten für klimafreundliche Mobilität steigen, da Graz seine Förderung für das KlimaTicket ab Jänner 2027 senkt und Zusatzgebühren für einzelne Verkehrsmittel wie die Schloßbergbahn einführt. Diese Entwicklungen gefährden die Attraktivität des öffentlichen Verkehrs in der Region erheblich.",
+      "summary": "Das KlimaTicket in Graz wird teurer, da die Stadt ihre Zuschüsse ab Januar reduziert und auch die Schloßbergbahn ab Juli zusätzliche Gebühren für KlimaTicket-Besitzer einführt. Diese Maßnahmen belasten Fahrgäste, die bisher von vergünstigten Tarifen im öffentlichen Verkehr profitierten.",
       "items": [
-        {
-          "title": "Zwei Superbaustellen und die Folgen für steirische Bahnkunden - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMzNXWUhaQ3RZRUxBU3lQTlhHelh4RjVWTkxIZFJwQUJZcXM3dUhTYUVfRlJrYTRuRlZaSkhBMUpmc3VUN2o0YmFSMzFubHVQcVNIbmQxdDZiVWs4TWVBX1FQVm0zQ0VjMEhrZzJsVmhLYTFpN0tWZ1Z6TVQ2cVh0TEVCSzV3eFFTeTdMRy1tbWg1OGVuZDYyMGNmNFFHckl6LVdjMndWRHRoUUY0?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "22. Nov 2026"
-        },
         {
           "title": "KlimaTicket in Graz: Die Stadt kürzt den Zuschuss, Fahrgäste zahlen ab Jänner mehr - News.at",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZNEx4NmFLQmpDYlF4TjRSVUEtSGpaN0h2UE5NZ0FyZWhZd0VaOGw1dmtRNk04dFN6MG00SkZkeHVVZ1JtNUlvY1dkT0ZoZkpoNFg0YzVTOFA0Z1hYX3M3Q0lqSkk0Nnp5N2VkYzBDMXVVZjRFcnpB?oc=5",
           "source": "News.at",
           "date": "23. Nov 2026"
-        },
-        {
-          "title": "Graz senkt KlimaTicket-Förderung ab Jänner 2027 - austria.com",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYmdpOGNSRTNCWHpBdGREbi1MdDhBLUR6YzJTZFdOcXQzU0VnQ0hvbl94eG5Xc19SYnE3Nlk5RFZKY0tTVE5KX2ZUdWlrWlhVa3NRQnFIbFphOUNreWhXc19SaDExd09jWnRrUmxyRVRVajZVVXhvWDRlRV94eTY3LTQ1T2ZJNUN5ODVaRjBVUEhHNS05YUE?oc=5",
-          "source": "austria.com",
-          "date": "20. Nov 2026"
         },
         {
           "title": "Grazer Schloßbergbahn: KlimaTicket-Besitzer zahlen ab Juli extra - 5 Minuten",
@@ -88,13 +64,13 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark hat mit ihren innovativen Mobilitätsprojekten zur Europäischen Mobilitätswoche 2026 Auszeichnungen erhalten und demonstriert damit vorbildliche Lösungen für generationenübergreifende Mobilität. Diese Vorzeigeprojekte unterstreichen das Engagement des Landes für nachhaltige Verkehrsplanung und sichere Mobilität für alle Altersgruppen.",
+      "summary": "Ein betrunkener Autofahrer verursachte in St. Veit einen Unfall mit einem ebenfalls alkoholisierten Fußgänger, was die Risiken von Fahren und Gehen unter Alkoholeinfluss unterstreicht. Der Vorfall verdeutlicht die Notwendigkeit verstärkter Verkehrssicherheitsmaßnahmen und Prävention gegen Alkohol im Straßenverkehr in der Steiermark.",
       "items": [
         {
-          "title": "Mobilität für alle Generationen: Steirische Vorzeigeprojekte der Europäischen Mobilitätswoche 2026 ausgezeichnet - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43amRNS0xsYkZkVGp5VzhKOGNULTBsZzlTMHZzM0t1a2ZlSDY4MWF1R3AwcEk0RU04MkgwVHM3MmJyakpQTEpGRmtTQW9BaFBBaGxmMlAtZmJDLWVDY04wUE9sWXZ5d1g4bmJfSEtMTQ?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "20. Nov 2026"
+          "title": "Alkolenker erfasste in St. Veit betrunkenen Fußgänger - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLUpjb1M1M1VWNUVQVk9tZmhYdjEtUEJpRzdfNS1ycGxTbUE5dHo3a0c3TGZ0TE1ic3RBOGQzQ21oOXYwSTRUVVR6Ty1aeEtUQTNZSGJDSTJpZTVLa3ZpNXpDdENFYjlibWJrcnZWdXRXUlVnUTdYaFJMeDAxSW1PRlVUbjF2YWhfVWZuZW9NcVhBZlR3dnNWSXhfUi1tczRhMWc?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "27. Nov 2026"
         }
       ]
     },
@@ -102,14 +78,8 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark investiert rund zehn Millionen Euro in den Neubau einer modernen Feuerwehrstation in Leoben-Stadt mit geplantem Baustart 2028. Gleichzeitig zeigen sich in der Region erhebliche Herausforderungen bei der Erreichbarkeit von Krankenhäusern und der Verkehrssicherheit, die die Notwendigkeit einer besseren Infrastrukturplanung unterstreichen.",
+      "summary": "Die Sanierung des Bundesschulzentrums Hartberg erfährt weitere Verzögerungen, was die Herausforderungen bei der Modernisierung von Schulbauten in der Steiermark unterstreicht. Die übrigen Meldungen behandeln einen Verkehrsunfall und ein landwirtschaftliches Thema, die nicht zum Bereich des Landeshochbaus und der Baukultur gehören.",
       "items": [
-        {
-          "title": "Wege ins Krankenhaus oft lebensgefährlich lang - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5UHlHa0hXZVZPeUluYnZJdTdqcUNsRXg2dExSelBrVVZkbnozUDZpR3ExWFpmWWMybXEyU195UFZ2SEFIWml1LUpGWjlROUJ0aFJ2LQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "21. Nov 2026"
-        },
         {
           "title": "Ursache noch unklar - Unfall in der Steiermark: Frau verletzt ins Spital - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5XNGVNcVgzcjMwaDJheVdJc295Q3VSd0R6WFEzYWt2X1gtWEh2T2RaVmpFMHd5SUtiWHVIaTJicDJxZw?oc=5",
@@ -117,16 +87,16 @@
           "date": "24. Nov 2026"
         },
         {
-          "title": "Unfall in Riegersburg: Auto erfasst Fußgängerin, Frau schwer verletzt im Krankenhaus - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbzBxZmtDV3dYWnRfX1VrNGlIcUVVX1NkLXIwUGstZ0Y5YUVMdDhwZ1ViNDZFM0ZpLW9sYTY1RWxBaWgxa002c3RuNGNwOUxEVFg5UGhvSU9Ub2Q0Wko0b0k0OE5TRWFESm5SQUMwTjNSWk5qbmhINHZlaVYtRjFGVmllN1VRdFIzbjZNc3Rqd0x6ZGE3RS1lTUdRR2dhX0o1SUh6TTB4T29HXzczNXBYeVJjb1JNX09oaXdiTXpUUmxvRHM?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "21. Nov 2026"
+          "title": "Die Sanierung des Bundesschulzentrums Hartberg verzögert sich weiter - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY3lfU1BaalFpTGx1VVY4RExzVDVzbk0zZFpQZ01lcW94T0s0UVNza1ZvZ0FOSnNsT3lnWVRURGJPOEhraEZoWUh2RjZiZFlEQldiVU1GVTVHMXRnNTZHaVhoUVBVX08ybFJxamtDMnh3TzhsNXV1ajFNSDBySU55OHlMUEZhSC10eFZzNEtqOHRxMDh0QUVXeWNLSzUzMUZpWDIyRXlWcHZwd2lfX1BV?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "27. Nov 2026"
         },
         {
-          "title": "Rund zehn Millionen Euro Investition: Neubau für Feuerwehr Leoben-Stadt, Baustart für 2028 geplant - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWFZzMm5DZWQ3RjhIdjh4M2NKUGhiRlFTdVZnUy02MUs5Tk96VTZXR0V2ZGdHamQtcUo0bHZxMmc0UkowdldDNWJxWVJialNjUzVTTTVBd25xaFg0Q3ZsT0V1U3JqOHhzY2lSOHdwejlaYS1aMFVJSWdLMmpKenVEMU15b1Jub0NUcFdpcUlDMDFEN1VQMTBxeXQ3QlNXd3hfeENBcUR5V2hVeUNWMmlNV2pFTQ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "26. Nov 2026"
+          "title": "Landwirtschaft: Steiermark will beim Bio-Schwein zulegen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMjM3emp0UHIwTVlqX0dNUmFUcUJkZGNSWVhPcGFTc1VRQlZXTVMtaXY5ejdtSnctTU54N3k1eFpHUWNoUFpMLVJfZ29OeVNrUVE3UUdzdU5YVkxpbzVadnZVMDM0Y3QycXN3Z3VYbHM5LWtKVl8xTVlZWUtPT3ZrVkpEWWVxMHpGT0xlUFI3RTNBNnlpMldoRWpaZEZ6U0l1SjdV?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "27. Nov 2026"
         }
       ]
     },
